@@ -118,10 +118,6 @@
       background: rgba(255, 255, 255, 0.55);
       color: #a87836;
 
-      font-family: Arial, sans-serif;
-      font-size: 12px;
-      font-weight: 700;
-
       text-decoration: none;
 
       transition:
@@ -177,8 +173,6 @@
       line-height: 1.65;
     }
 
-    /* PROMPT GRID */
-
     .prompt-grid {
       display: grid;
 
@@ -186,6 +180,7 @@
         repeat(2, minmax(0, 1fr));
 
       gap: 18px;
+
       align-items: start;
     }
 
@@ -194,12 +189,12 @@
     }
 
     @media (max-width: 700px) {
+
       .prompt-grid {
         grid-template-columns: 1fr;
       }
-    }
 
-    /* PROMPT CARD */
+    }
 
     .prompt-card {
       display: block;
@@ -216,6 +211,7 @@
       border-radius: 26px;
 
       color: #5c463d;
+
       text-decoration: none;
 
       transition:
@@ -245,8 +241,7 @@
 
       transform: rotate(18deg);
 
-      transition:
-        left 2.4s ease-in-out;
+      transition: left 2.4s ease-in-out;
 
       pointer-events: none;
     }
@@ -262,8 +257,6 @@
         0 12px 30px rgba(100, 70, 50, 0.10);
     }
 
-    /* IMAGES */
-
     .prompt-image {
       width: 100%;
 
@@ -275,6 +268,7 @@
       display: block;
 
       border-radius: 18px;
+
       margin-bottom: 18px;
 
       box-shadow:
@@ -285,12 +279,6 @@
         filter 1.2s ease;
     }
 
-    /*
-      PROMPT #005:
-      показываем верх фотографии,
-      чтобы не обрезалась голова
-    */
-
     .prompt-image-005 {
       object-position: center top;
     }
@@ -299,8 +287,6 @@
       transform: scale(1.02);
       filter: brightness(1.03);
     }
-
-    /* TEXT */
 
     .prompt-number {
       color: #b08242;
@@ -341,8 +327,6 @@
       font-size: 12px;
     }
 
-    /* MOBILE */
-
     @media (max-width: 600px) {
 
       body {
@@ -368,8 +352,6 @@
     <section class="main-card">
 
 
-      <!-- BRAND -->
-
       <div class="brand">
         AI Queens ♛ Stayci &amp; Di
       </div>
@@ -380,11 +362,7 @@
       </div>
 
 
-      <!-- SOCIAL LINKS -->
-
       <div class="social-links">
-
-        <!-- INSTAGRAM -->
 
         <a
           href="https://www.instagram.com/_stayci_ai_/"
@@ -393,7 +371,6 @@
           rel="noopener noreferrer"
           aria-label="Instagram"
         >
-
           <svg
             viewBox="0 0 24 24"
             width="20"
@@ -402,35 +379,12 @@
             stroke="currentColor"
             stroke-width="2"
           >
-
-            <rect
-              x="3"
-              y="3"
-              width="18"
-              height="18"
-              rx="5"
-            ></rect>
-
-            <circle
-              cx="12"
-              cy="12"
-              r="4"
-            ></circle>
-
-            <circle
-              cx="17.5"
-              cy="6.5"
-              r="1"
-              fill="currentColor"
-              stroke="none"
-            ></circle>
-
+            <rect x="3" y="3" width="18" height="18" rx="5"></rect>
+            <circle cx="12" cy="12" r="4"></circle>
+            <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"></circle>
           </svg>
-
         </a>
 
-
-        <!-- TELEGRAM -->
 
         <a
           href="https://t.me/stayci_ai"
@@ -439,22 +393,16 @@
           rel="noopener noreferrer"
           aria-label="Telegram"
         >
-
           <svg
             viewBox="0 0 24 24"
             width="20"
             height="20"
             fill="currentColor"
           >
-
             <path d="M21.7 3.3 18.5 20c-.2 1.2-.9 1.5-1.8.9l-4.9-3.6-2.4 2.3c-.3.3-.5.5-1 .5l.4-5 9.1-8.2c.4-.4-.1-.6-.6-.2L6.1 13.8 1.3 12.3c-1-.3-1-1 .2-1.5L20.2 3.6c.9-.3 1.7.2 1.5-.3z"></path>
-
           </svg>
-
         </a>
 
-
-        <!-- PINTEREST -->
 
         <a
           href="https://www.pinterest.com/stayci_di/"
@@ -463,18 +411,14 @@
           rel="noopener noreferrer"
           aria-label="Pinterest"
         >
-
           <svg
             viewBox="0 0 24 24"
             width="20"
             height="20"
             fill="currentColor"
           >
-
             <path d="M12 2a10 10 0 0 0-3.6 19.3c-.1-1.6 0-3.5.4-5.2l1.3-5.4s-.3-.7-.3-1.8c0-1.7 1-3 2.2-3 1 0 1.5.8 1.5 1.8 0 1.1-.7 2.7-1 4.2-.6 1.8.9 3.3 2.6 3.3 3.1 0 5.2-4 5.2-8.7 0-3.6-2.9-6.4-7.2-6.4-5.2 0-8.4 3.9-8.4 8.2 0 1.5.4 3 1.3 3.8.1.2.2.3.1.6l-.4 1.5c-.1.5-.5.6-.9.4-2.4-1-3.5-3.7-3.5-6.7C1.3 3.6 5 0 12.4 0 18.4 0 22.3 4.4 22.3 9.2c0 6.3-3.5 11-8.6 11-1.7 0-3.3-.9-3.8-1.9l-1 4c-.4 1.5-1.2 3-1.9 4A10 10 0 1 0 12 2z"></path>
-
           </svg>
-
         </a>
 
       </div>
@@ -482,8 +426,6 @@
 
       <div class="divider"></div>
 
-
-      <!-- WELCOME -->
 
       <div class="welcome">
 
@@ -500,17 +442,12 @@
       </div>
 
 
-      <!-- PROMPT GRID -->
-
       <div class="prompt-grid">
 
 
-        <!-- PROMPT #001 -->
+        <!-- 001 -->
 
-        <a
-          class="prompt-card"
-          href="/p/001/"
-        >
+        <a class="prompt-card" href="/p/001/">
 
           <img
             class="prompt-image"
@@ -533,12 +470,9 @@
         </a>
 
 
-        <!-- PROMPT #002 -->
+        <!-- 002 -->
 
-        <a
-          class="prompt-card"
-          href="/p/002/"
-        >
+        <a class="prompt-card" href="/p/002/">
 
           <img
             class="prompt-image"
@@ -561,12 +495,9 @@
         </a>
 
 
-        <!-- PROMPT #003 -->
+        <!-- 003 -->
 
-        <a
-          class="prompt-card"
-          href="/p/003/"
-        >
+        <a class="prompt-card" href="/p/003/">
 
           <img
             class="prompt-image"
@@ -589,12 +520,9 @@
         </a>
 
 
-        <!-- PROMPT #004 -->
+        <!-- 004 -->
 
-        <a
-          class="prompt-card"
-          href="/p/004/"
-        >
+        <a class="prompt-card" href="/p/004/">
 
           <img
             class="prompt-image"
@@ -617,12 +545,9 @@
         </a>
 
 
-        <!-- PROMPT #005 -->
+        <!-- 005 -->
 
-        <a
-          class="prompt-card"
-          href="/p/005/"
-        >
+        <a class="prompt-card" href="/p/005/">
 
           <img
             class="prompt-image prompt-image-005"
@@ -645,10 +570,33 @@
         </a>
 
 
+        <!-- 006 -->
+
+        <a class="prompt-card" href="/p/006/">
+
+          <img
+            class="prompt-image"
+            src="prompt-006.png"
+            alt="Cozy Couple Mirror Selfie"
+          />
+
+          <div class="prompt-number">
+            PROMPT #006
+          </div>
+
+          <div class="prompt-title">
+            Cozy Couple Mirror Selfie
+          </div>
+
+          <div class="open">
+            VIEW PROMPT →
+          </div>
+
+        </a>
+
+
       </div>
 
-
-      <!-- FOOTER -->
 
       <div class="footer">
         © AI Queens — Stayci &amp; Di
