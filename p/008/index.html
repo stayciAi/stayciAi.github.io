@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>AI Queens — Prompt #008</title>
+
+  <style>
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+    }
+
+    body {
+      min-height: 100vh;
+      padding: 24px 12px 50px;
+
+      font-family: Arial, Helvetica, sans-serif;
+      color: #5c463d;
+
+      background: transparent;
+      position: relative;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: -10px;
+
+      background-image: url("../../background.png");
+      background-size: cover;
+      background-position: center center;
+      background-repeat: no-repeat;
+
+      filter: blur(1px);
+      transform: scale(1.01);
+
+      z-index: -1;
+    }
+
+    .page {
+      width: 100%;
+      max-width: 760px;
+      margin: 0 auto;
+    }
+
+    .main-card {
+      background: rgba(255, 250, 247, 0.88);
+
+      border: 1px solid rgba(183, 143, 93, 0.35);
+      border-radius: 38px;
+
+      padding: 42px 32px 34px;
+
+      box-shadow:
+        0 24px 70px rgba(100, 70, 50, 0.14),
+        0 0 35px rgba(191, 151, 94, 0.10);
+
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+    }
+
+    .brand {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+
+    .brand h1 {
+      margin: 0;
+
+      color: #a87836;
+
+      font-family: Georgia, "Times New Roman", serif;
+      font-style: italic;
+
+      font-size: clamp(24px, 4vw, 42px);
+      font-weight: 700;
+
+      line-height: 1.25;
+      white-space: nowrap;
+    }
+
+    .brand-subtitle {
+      margin-top: 20px;
+
+      color: #9b7b6c;
+
+      font-size: 13px;
+      letter-spacing: 4px;
+
+      text-transform: uppercase;
+    }
+
+    .divider {
+      width: 46%;
+      height: 1px;
+
+      margin: 30px auto 36px;
+
+      background: linear-gradient(
+        90deg,
+        transparent,
+        #c99c57,
+        transparent
+      );
+    }
+
+    .prompt-number {
+      text-align: center;
+
+      color: #b08242;
+
+      font-size: 13px;
+      font-weight: 800;
+
+      letter-spacing: 2px;
+
+      margin-bottom: 14px;
+    }
+
+    .prompt-title {
+      margin: 0 0 30px;
+
+      text-align: center;
+
+      color: #654d43;
+
+      font-family: Georgia, "Times New Roman", serif;
+
+      font-size: clamp(27px, 5vw, 36px);
+      font-weight: 700;
+
+      line-height: 1.2;
+    }
+
+    .prompt-box {
+      margin-top: 22px;
+
+      padding: 26px;
+
+      background: rgba(255, 255, 255, 0.62);
+
+      border: 1px solid rgba(191, 151, 94, 0.38);
+      border-radius: 24px;
+
+      box-shadow:
+        0 10px 28px rgba(92, 70, 61, 0.05);
+    }
+
+    .prompt-label {
+      margin-bottom: 18px;
+
+      color: #aa6c18;
+
+      font-size: 13px;
+      font-weight: 800;
+
+      letter-spacing: 2px;
+    }
+
+    .prompt-text {
+      color: #6a554c;
+
+      font-size: 16px;
+      line-height: 1.65;
+
+      white-space: pre-line;
+    }
+
+    .copy-btn {
+      width: 100%;
+
+      margin-top: 26px;
+
+      padding: 16px 24px;
+
+      border: none;
+      border-radius: 999px;
+
+      background: #b78135;
+      color: #ffffff;
+
+      font-family: Arial, Helvetica, sans-serif;
+
+      font-size: 12px;
+      font-weight: 800;
+
+      letter-spacing: 1px;
+
+      cursor: pointer;
+
+      transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background 0.2s ease;
+    }
+
+    .copy-btn:hover {
+      transform: translateY(-2px);
+
+      background: #a8732d;
+
+      box-shadow:
+        0 8px 22px rgba(168, 120, 54, 0.22);
+    }
+
+    .back-link {
+      display: block;
+
+      width: fit-content;
+
+      margin: 26px auto 0;
+
+      color: #a87836;
+
+      font-size: 12px;
+      font-weight: 700;
+
+      letter-spacing: 1px;
+
+      text-decoration: none;
+    }
+
+    .back-link:hover {
+      text-decoration: underline;
+    }
+
+    .footer {
+      margin-top: 30px;
+
+      text-align: center;
+
+      color: #a58c7e;
+
+      font-size: 12px;
+    }
+
+    @media (max-width: 600px) {
+
+      body {
+        padding: 12px 8px 35px;
+      }
+
+      .main-card {
+        padding: 34px 16px 28px;
+        border-radius: 30px;
+      }
+
+      .brand h1 {
+        font-size: clamp(23px, 7vw, 34px);
+      }
+
+      .prompt-title {
+        font-size: 28px;
+      }
+
+      .prompt-box {
+        padding: 22px 20px;
+      }
+
+      .prompt-text {
+        font-size: 15px;
+      }
+
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+  <div class="page">
+
+    <main class="main-card">
+
+
+      <header class="brand">
+
+        <h1>
+          AI Queens ♛ Stayci &amp; Di
+        </h1>
+
+        <div class="brand-subtitle">
+          Official Prompt Collection
+        </div>
+
+      </header>
+
+
+      <div class="divider"></div>
+
+
+      <div class="prompt-number">
+        PROMPT #008
+      </div>
+
+
+      <h2 class="prompt-title">
+        Emerald Motorcycle Luxury Editorial
+      </h2>
+
+
+      <!-- POSITIVE PROMPT -->
+
+      <section class="prompt-box">
+
+        <div class="prompt-label">
+          POSITIVE PROMPT
+        </div>
+
+        <div
+          class="prompt-text"
+          id="positivePrompt"
+        >Ultra-realistic editorial lifestyle photo of a muscular man standing confidently beside a metallic green naked sport motorcycle in the driveway of a modern luxury house.
+
+He wears an oversized light gray short-sleeve button-up shirt left completely unbuttoned, revealing a defined six-pack, loose black tailored trousers, layered thick gold chain necklaces with a pendant, and a luxury gold bracelet.
+
+One hand casually rests inside his waistband while the other hangs naturally. Short textured black hair with a fade, well-groomed beard, confident facial expression, looking into the distance.
+
+A black luxury SUV is parked behind him, with minimalist modern architecture, lush green hedges, and a clean stone driveway.
+
+Overcast daylight creates soft cinematic lighting with muted colors and realistic shadows.
+
+High-end men’s fashion editorial, luxury lifestyle aesthetic, shallow depth of field, photorealistic, ultra detailed, natural skin texture, HDR, 8K, professional full-frame photography, premium color grading.</div>
+
+      </section>
+
+
+      <!-- NEGATIVE PROMPT -->
+
+      <section class="prompt-box">
+
+        <div class="prompt-label">
+          NEGATIVE PROMPT
+        </div>
+
+        <div
+          class="prompt-text"
+          id="negativePrompt"
+        >low quality, blurry, CGI, cartoon, illustration, painting, unrealistic anatomy, extra fingers, deformed hands, duplicate limbs, bad proportions, plastic skin, oversaturated colors, watermark, logo, text, artifacts, motion blur, noise, cropped subject, low resolution, distorted motorcycle, unrealistic reflections</div>
+
+      </section>
+
+
+      <!-- ONE COPY BUTTON -->
+
+      <button
+        class="copy-btn"
+        onclick="copyAllPrompts(this)"
+      >
+        COPY FULL PROMPT
+      </button>
+
+
+      <a
+        class="back-link"
+        href="/"
+      >
+        ← BACK TO PROMPT LIBRARY
+      </a>
+
+
+      <div class="footer">
+        © AI Queens — Stayci &amp; Di
+      </div>
+
+
+    </main>
+
+  </div>
+
+
+  <script>
+
+    async function copyAllPrompts(button) {
+
+      const positive =
+        document.getElementById("positivePrompt").innerText.trim();
+
+      const negative =
+        document.getElementById("negativePrompt").innerText.trim();
+
+      const fullPrompt =
+        "POSITIVE PROMPT\n\n" +
+        positive +
+        "\n\nNEGATIVE PROMPT\n\n" +
+        negative;
+
+      const originalText =
+        "COPY FULL PROMPT";
+
+
+      try {
+
+        await navigator.clipboard.writeText(fullPrompt);
+
+        button.innerText = "COPIED ✓";
+
+        setTimeout(() => {
+          button.innerText = originalText;
+        }, 1800);
+
+      }
+
+      catch (error) {
+
+        const textarea =
+          document.createElement("textarea");
+
+        textarea.value = fullPrompt;
+
+        document.body.appendChild(textarea);
+
+        textarea.select();
+
+        document.execCommand("copy");
+
+        document.body.removeChild(textarea);
+
+        button.innerText = "COPIED ✓";
+
+        setTimeout(() => {
+          button.innerText = originalText;
+        }, 1800);
+
+      }
+
+    }
+
+  </script>
+
+</body>
+
+</html>
