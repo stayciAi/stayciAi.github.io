@@ -24,31 +24,22 @@
       font-family: Arial, Helvetica, sans-serif;
       color: #5c463d;
 
-      background-image:
-        linear-gradient(
-          rgba(255, 248, 244, 0.10),
-          rgba(255, 248, 244, 0.10)
-        ),
-        url("../../background.PNG");
-
-      background-size: cover;
-      background-position: center center;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
+      background: #f8eee8;
+position: relative;
     }
 
     body::before {
       content: "";
       position: fixed;
-      inset: -12px;
+      inset: -10px;
 
       background-image: url("../../background.PNG");
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
 
-      filter: blur(6px);
-      transform: scale(1.03);
+      filter: blur(1px);
+      transform: scale(1.01);
 
       z-index: -1;
     }
