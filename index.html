@@ -1,201 +1,277 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>AI Queens — Stayci & Di</title>
 
   <style>
+
     * {
       box-sizing: border-box;
     }
 
+    html,
     body {
-      body {
-  margin: 0;
-  min-height: 100vh;
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
-  padding: 18px 10px 40px;
+      margin: 0;
+      min-height: 100%;
+    }
 
-  background-image:
-    linear-gradient(rgba(0,0,0,0.18), rgba(0,0,0,0.18)),
-    url("../../background.png");
-
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
+    body {
+      min-height: 100vh;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #5c463d;
+      background: #f6eee8;
+      padding: 24px 12px 50px;
     }
 
     .page {
       width: 100%;
       max-width: 760px;
+      margin: 0 auto;
     }
 
     .main-card {
-      background: #111;
-      border: 3px solid #2e2e2e;
-      border-radius: 48px;
-      padding: 50px 34px 40px;
-      box-shadow: 0 20px 60px rgba(0,0,0,0.45);
+      background: rgba(255, 250, 247, 0.88);
+
+      border: 1px solid rgba(183, 143, 93, 0.35);
+      border-radius: 38px;
+
+      padding: 42px 22px 34px;
+
+      box-shadow:
+        0 20px 60px rgba(100, 70, 50, 0.12);
+
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
     }
 
     .brand {
       text-align: center;
-      font-size: clamp(28px, 6vw, 52px);
+
+      color: #a87836;
+
+      font-size: clamp(31px, 7vw, 52px);
       font-weight: 700;
-      line-height: 1.2;
-      margin-bottom: 18px;
+
+      line-height: 1.25;
     }
 
     .subtitle {
       text-align: center;
-      color: #a7a7a7;
-      font-size: clamp(14px, 2.8vw, 22px);
-      letter-spacing: 4px;
+
+      color: #9a7a69;
+
+      margin-top: 18px;
+
+      font-size: 13px;
+      letter-spacing: 3px;
+
       text-transform: uppercase;
       line-height: 1.7;
     }
 
     .divider {
-      width: 45%;
-      height: 3px;
-      background: #333;
-      border-radius: 20px;
-      margin: 32px auto 42px;
+      width: 42%;
+      height: 1px;
+
+      margin: 30px auto;
+
+      background: linear-gradient(
+        90deg,
+        transparent,
+        #c99c57,
+        transparent
+      );
+    }
+
+    .welcome {
+      text-align: center;
+      padding: 12px 8px 24px;
+    }
+
+    .welcome h1 {
+      margin: 0 0 14px;
+
+      color: #6b5145;
+
+      font-size: clamp(24px, 5vw, 34px);
+    }
+
+    .welcome p {
+      max-width: 520px;
+
+      margin: 0 auto;
+
+      color: #8a7165;
+
+      font-size: 16px;
+      line-height: 1.65;
     }
 
     .prompt-card {
-      background: #1a1a1a;
-      border: 3px solid #353535;
-      border-radius: 42px;
-      padding: 34px 28px;
+      display: block;
+
+      margin-top: 18px;
+      padding: 24px;
+
+      background: rgba(255, 255, 255, 0.70);
+
+      border: 1px solid rgba(191, 151, 94, 0.35);
+      border-radius: 26px;
+
+      color: #5c463d;
+      text-decoration: none;
+
+      transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+    }
+
+    .prompt-card:hover {
+      transform: translateY(-2px);
+
+      box-shadow:
+        0 12px 30px rgba(100, 70, 50, 0.10);
+    }
+
+    .prompt-number {
+      color: #b08242;
+
+      font-size: 12px;
+      font-weight: 800;
+
+      letter-spacing: 2px;
+
+      margin-bottom: 10px;
     }
 
     .prompt-title {
       font-size: 20px;
       font-weight: 700;
-      margin-bottom: 22px;
-      text-align: center;
+
+      line-height: 1.35;
     }
 
-    .prompt-text {
-      white-space: pre-wrap;
-      font-size: clamp(17px, 3.6vw, 28px);
-      line-height: 1.55;
-      color: #f4f4f4;
-      word-break: break-word;
-    }
+    .open {
+      margin-top: 15px;
 
-    .copy-btn {
-      width: 100%;
-      margin-top: 28px;
-      border: none;
-      border-radius: 22px;
-      padding: 18px 20px;
-      font-size: 17px;
+      color: #a87836;
+
+      font-size: 13px;
       font-weight: 700;
-      cursor: pointer;
-      background: white;
-      color: black;
-      transition: 0.2s ease;
-    }
 
-    .copy-btn:active {
-      transform: scale(0.98);
+      letter-spacing: 0.5px;
     }
 
     .footer {
       text-align: center;
-      color: #777;
-      margin-top: 28px;
-      font-size: 13px;
+
+      margin-top: 30px;
+
+      color: #a58c7e;
+
+      font-size: 12px;
     }
 
     @media (max-width: 600px) {
+
       body {
-        padding: 16px 10px;
+        padding: 12px 8px 35px;
       }
 
       .main-card {
-        border-radius: 34px;
-        padding: 36px 18px 26px;
-      }
-
-      .prompt-card {
         border-radius: 30px;
-        padding: 28px 20px;
+        padding: 34px 16px 28px;
       }
 
-      .subtitle {
-        letter-spacing: 2.5px;
-      }
     }
+
   </style>
+
 </head>
+
 
 <body>
 
-  <div class="page">
+  <main class="page">
 
-    <div class="main-card">
+    <section class="main-card">
 
       <div class="brand">
-        𝓐𝓘 𝓠𝓾𝓮𝓮𝓷𝓼 👑<br>
-        𝓢𝓽𝓪𝔂𝓬𝓲 & 𝓓𝓲
+
+        𝓐𝓘 𝓠𝓾𝓮𝓮𝓷𝓼 👑
+        <br>
+        𝓢𝓽𝓪𝔂𝓬𝓲 &amp; 𝓓𝓲
+
       </div>
 
+
       <div class="subtitle">
+
         Official Prompt Collection
+
       </div>
+
 
       <div class="divider"></div>
 
-      <div class="prompt-card">
 
-        <div class="prompt-title">
+      <div class="welcome">
+
+        <h1>
+          Prompt Library
+        </h1>
+
+        <p>
+          Our exclusive collection of AI prompts.
+          Choose a prompt, open it,
+          and copy it with one click.
+        </p>
+
+      </div>
+
+
+      <a
+        class="prompt-card"
+        href="/p/001/"
+      >
+
+        <div class="prompt-number">
+
           PROMPT #001
+
         </div>
 
-        <div class="prompt-text" id="promptText">ВСТАВЬ СЮДА СВОЙ ПЕРВЫЙ ПРОМПТ.
 
-Например:
+        <div class="prompt-title">
 
-Create an ultra-realistic cinematic portrait with premium editorial aesthetics, dramatic lighting, high detail, realistic textures and elegant composition.
+          Cinematic Automotive Fashion
 
-Replace this text with your real prompt.</div>
+        </div>
 
-        <button class="copy-btn" onclick="copyPrompt()">
-          COPY PROMPT
-        </button>
 
-      </div>
+        <div class="open">
+
+          VIEW PROMPT →
+
+        </div>
+
+      </a>
+
 
       <div class="footer">
-        © AI Queens — Stayci & Di
+
+        © AI Queens — Stayci &amp; Di
+
       </div>
 
-    </div>
+    </section>
 
-  </div>
-
-  <script>
-    function copyPrompt() {
-      const text = document.getElementById("promptText").innerText;
-      navigator.clipboard.writeText(text);
-
-      const button = document.querySelector(".copy-btn");
-      const oldText = button.innerText;
-
-      button.innerText = "СКОПИРОВАНО ✓";
-
-      setTimeout(() => {
-        button.innerText = oldText;
-      }, 1800);
-    }
-  </script>
+  </main>
 
 </body>
+
 </html>
