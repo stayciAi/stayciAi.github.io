@@ -95,10 +95,13 @@
       line-height: 1.7;
     }
 
+    /* SOCIAL BUTTONS */
+
     .social-links {
       display: flex;
       justify-content: center;
       align-items: center;
+
       gap: 12px;
       margin-top: 14px;
     }
@@ -120,6 +123,7 @@
       font-family: Arial, sans-serif;
       font-size: 12px;
       font-weight: 700;
+
       text-decoration: none;
 
       transition:
@@ -130,8 +134,11 @@
 
     .social-btn:hover {
       transform: translateY(-2px);
+
       background: rgba(255, 248, 235, 0.95);
-      box-shadow: 0 6px 18px rgba(168, 120, 54, 0.20);
+
+      box-shadow:
+        0 6px 18px rgba(168, 120, 54, 0.20);
     }
 
     .divider {
@@ -172,12 +179,17 @@
       line-height: 1.65;
     }
 
-    /* СЕТКА КАРТОЧЕК */
+
+    /* PROMPT GRID */
 
     .prompt-grid {
       display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+
+      grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+
       gap: 18px;
+
       align-items: start;
     }
 
@@ -186,25 +198,36 @@
     }
 
     @media (max-width: 700px) {
+
       .prompt-grid {
         grid-template-columns: 1fr;
       }
+
     }
+
+
+    /* PROMPT CARD */
 
     .prompt-card {
       display: block;
+
       position: relative;
       overflow: hidden;
 
       margin-top: 18px;
+
       padding: 24px;
 
-      background: rgba(255, 255, 255, 0.70);
+      background:
+        rgba(255, 255, 255, 0.70);
 
-      border: 1px solid rgba(191, 151, 94, 0.35);
+      border:
+        1px solid rgba(191, 151, 94, 0.35);
+
       border-radius: 26px;
 
       color: #5c463d;
+
       text-decoration: none;
 
       transition:
@@ -212,8 +235,12 @@
         box-shadow 0.2s ease;
     }
 
+
+    /* GOLD SHINE */
+
     .prompt-card::before {
       content: "";
+
       position: absolute;
 
       top: -50%;
@@ -232,7 +259,9 @@
       );
 
       transform: rotate(18deg);
-      transition: left 2.4s ease-in-out;
+
+      transition:
+        left 2.4s ease-in-out;
 
       pointer-events: none;
     }
@@ -245,21 +274,29 @@
       transform: translateY(-2px);
 
       box-shadow:
-        0 12px 30px rgba(100, 70, 50, 0.10);
+        0 12px 30px
+        rgba(100, 70, 50, 0.10);
     }
+
+
+    /* IMAGE */
 
     .prompt-image {
       width: 100%;
+
       aspect-ratio: 4 / 5;
 
       object-fit: cover;
+
       display: block;
 
       border-radius: 18px;
+
       margin-bottom: 18px;
 
       box-shadow:
-        0 10px 28px rgba(92, 70, 61, 0.12);
+        0 10px 28px
+        rgba(92, 70, 61, 0.12);
 
       transition:
         transform 1.2s ease,
@@ -270,6 +307,9 @@
       transform: scale(1.02);
       filter: brightness(1.03);
     }
+
+
+    /* TEXT */
 
     .prompt-number {
       color: #b08242;
@@ -309,6 +349,9 @@
 
       font-size: 12px;
     }
+
+
+    /* MOBILE */
 
     @media (max-width: 600px) {
 
@@ -351,6 +394,9 @@
 
       <div class="social-links">
 
+
+        <!-- INSTAGRAM -->
+
         <a
           href="https://www.instagram.com/_stayci_ai_/"
           class="social-btn"
@@ -358,6 +404,7 @@
           rel="noopener noreferrer"
           aria-label="Instagram"
         >
+
           <svg
             viewBox="0 0 24 24"
             width="20"
@@ -366,6 +413,7 @@
             stroke="currentColor"
             stroke-width="2"
           >
+
             <rect
               x="3"
               y="3"
@@ -387,9 +435,13 @@
               fill="currentColor"
               stroke="none"
             ></circle>
+
           </svg>
+
         </a>
 
+
+        <!-- TELEGRAM -->
 
         <a
           href="https://t.me/stayci_ai"
@@ -398,16 +450,22 @@
           rel="noopener noreferrer"
           aria-label="Telegram"
         >
+
           <svg
             viewBox="0 0 24 24"
             width="20"
             height="20"
             fill="currentColor"
           >
+
             <path d="M21.7 3.3 18.5 20c-.2 1.2-.9 1.5-1.8.9l-4.9-3.6-2.4 2.3c-.3.3-.5.5-1 .5l.4-5 9.1-8.2c.4-.4-.1-.6-.6-.2L6.1 13.8 1.3 12.3c-1-.3-1-1 .2-1.5L20.2 3.6c.9-.3 1.7.2 1.5-.3z"></path>
+
           </svg>
+
         </a>
 
+
+        <!-- PINTEREST -->
 
         <a
           href="https://www.pinterest.com/stayci_di/"
@@ -416,14 +474,18 @@
           rel="noopener noreferrer"
           aria-label="Pinterest"
         >
+
           <svg
             viewBox="0 0 24 24"
             width="20"
             height="20"
             fill="currentColor"
           >
+
             <path d="M12 2a10 10 0 0 0-3.6 19.3c-.1-1.6 0-3.5.4-5.2l1.3-5.4s-.3-.7-.3-1.8c0-1.7 1-3 2.2-3 1 0 1.5.8 1.5 1.8 0 1.1-.7 2.7-1 4.2-.6 1.8.9 3.3 2.6 3.3 3.1 0 5.2-4 5.2-8.7 0-3.6-2.9-6.4-7.2-6.4-5.2 0-8.4 3.9-8.4 8.2 0 1.5.4 3 1.3 3.8.1.2.2.3.1.6l-.4 1.5c-.1.5-.5.6-.9.4-2.4-1-3.5-3.7-3.5-6.7C1.3 3.6 5 0 12.4 0 18.4 0 22.3 4.4 22.3 9.2c0 6.3-3.5 11-8.6 11-1.7 0-3.3-.9-3.8-1.9l-1 4c-.4 1.5-1.2 3-1.9 4A10 10 0 1 0 12 2z"></path>
+
           </svg>
+
         </a>
 
       </div>
@@ -566,8 +628,38 @@
         </a>
 
 
+        <!-- PROMPT #005 -->
+
+        <a
+          class="prompt-card"
+          href="/p/005/"
+        >
+
+          <img
+            class="prompt-image"
+            src="prompt-005.PNG"
+            alt="Champagne Piano Haute Couture"
+          />
+
+          <div class="prompt-number">
+            PROMPT #005
+          </div>
+
+          <div class="prompt-title">
+            Champagne Piano Haute Couture
+          </div>
+
+          <div class="open">
+            VIEW PROMPT →
+          </div>
+
+        </a>
+
+
       </div>
 
+
+      <!-- FOOTER -->
 
       <div class="footer">
         © AI Queens — Stayci &amp; Di
