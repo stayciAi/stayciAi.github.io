@@ -2,451 +2,437 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>AI Queens – Prompt #005</title>
+  <title>AI Queens — Prompt #005</title>
 
-    <style>
+  <style>
 
-        * {
-            box-sizing: border-box;
-        }
+    * {
+      box-sizing: border-box;
+    }
 
-        html,
-        body {
-            margin: 0;
-            min-height: 100%;
-        }
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+    }
 
-        body {
-            min-height: 100vh;
-            padding: 24px 12px 50px;
+    body {
+      min-height: 100vh;
+      padding: 24px 12px 50px;
 
-            font-family: Arial, Helvetica, sans-serif;
-            color: #5c463d;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #5c463d;
 
-            background: transparent;
-            position: relative;
-        }
+      background: transparent;
+      position: relative;
+    }
 
-        body::before {
-            content: "";
-            position: fixed;
-            inset: -10px;
+    body::before {
+      content: "";
+      position: fixed;
+      inset: -10px;
 
-            background-image: url("../../background.png");
-            background-size: cover;
-            background-position: center center;
-            background-repeat: no-repeat;
+      background-image: url("../../background.png");
+      background-size: cover;
+      background-position: center center;
+      background-repeat: no-repeat;
 
-            filter: blur(1px);
-            transform: scale(1.01);
+      filter: blur(1px);
+      transform: scale(1.01);
 
-            z-index: -1;
-        }
+      z-index: -1;
+    }
 
-        .page {
-            width: 100%;
-            max-width: 760px;
-            margin: 0 auto;
-        }
+    .page {
+      width: 100%;
+      max-width: 760px;
+      margin: 0 auto;
+    }
 
-        .main-card {
-            background: rgba(255, 250, 247, 0.88);
+    .main-card {
+      background: rgba(255, 250, 247, 0.88);
 
-            border: 1px solid rgba(183, 143, 93, 0.35);
-            border-radius: 38px;
+      border: 1px solid rgba(183, 143, 93, 0.35);
+      border-radius: 38px;
 
-            padding: 42px 32px 34px;
+      padding: 42px 32px 34px;
 
-            box-shadow:
-                0 24px 70px rgba(100, 70, 50, 0.14),
-                0 0 35px rgba(191, 151, 94, 0.10);
+      box-shadow:
+        0 24px 70px rgba(100, 70, 50, 0.14),
+        0 0 35px rgba(191, 151, 94, 0.10);
 
-            backdrop-filter: blur(8px);
-            -webkit-backdrop-filter: blur(8px);
-        }
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+    }
 
+    /* BRAND */
 
-        /* BRAND */
+    .brand {
+      text-align: center;
+      margin-bottom: 28px;
+    }
 
-        .brand {
-            text-align: center;
-            margin-bottom: 28px;
-        }
+    .brand h1 {
+      margin: 0;
 
-        .brand h1 {
-            margin: 0;
+      color: #a87836;
 
-            color: #a87836;
+      font-family: Georgia, "Times New Roman", serif;
+      font-style: italic;
 
-            font-family: Georgia, "Times New Roman", serif;
-            font-style: italic;
+      font-size: clamp(24px, 4vw, 42px);
+      font-weight: 700;
 
-            font-size: clamp(24px, 4vw, 42px);
-            font-weight: 700;
-            line-height: 1.25;
+      line-height: 1.25;
+      white-space: nowrap;
+    }
 
-            white-space: nowrap;
-        }
+    .brand-subtitle {
+      margin-top: 20px;
 
-        .brand-subtitle {
-            margin-top: 20px;
+      color: #9b7b6c;
 
-            color: #9b7b6c;
+      font-size: 13px;
+      letter-spacing: 4px;
 
-            font-size: 13px;
-            letter-spacing: 4px;
-            text-transform: uppercase;
-        }
+      text-transform: uppercase;
+    }
 
+    .divider {
+      width: 46%;
+      height: 1px;
 
-        /* DIVIDER */
+      margin: 30px auto 36px;
 
-        .divider {
-            width: 46%;
-            height: 1px;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        #c99c57,
+        transparent
+      );
+    }
 
-            margin: 30px auto 36px;
+    /* PROMPT HEADER */
 
-            background: linear-gradient(
-                90deg,
-                transparent,
-                #c99c57,
-                transparent
-            );
-        }
+    .prompt-number {
+      text-align: center;
 
+      color: #b08242;
 
-        /* PROMPT TITLE */
+      font-size: 13px;
+      font-weight: 800;
 
-        .prompt-number {
-            text-align: center;
+      letter-spacing: 2px;
 
-            color: #a87836;
+      margin-bottom: 14px;
+    }
 
-            font-size: 13px;
-            font-weight: 700;
-            letter-spacing: 2px;
+    .prompt-title {
+      margin: 0 0 30px;
 
-            margin-bottom: 12px;
-        }
+      text-align: center;
 
-        .prompt-title {
-            margin: 0 0 14px;
+      color: #654d43;
 
-            text-align: center;
+      font-family: Georgia, "Times New Roman", serif;
 
-            font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(27px, 5vw, 36px);
+      font-weight: 700;
 
-            font-size: clamp(26px, 5vw, 36px);
-            line-height: 1.2;
+      line-height: 1.2;
+    }
 
-            color: #60493f;
-        }
+    /* PROMPT BOXES */
 
-        .format {
-            text-align: center;
+    .prompt-box {
+      margin-top: 22px;
 
-            margin: 0 0 30px;
+      padding: 26px;
 
-            color: #9b7b6c;
+      background: rgba(255, 255, 255, 0.62);
 
-            font-size: 12px;
-            font-weight: 700;
+      border: 1px solid rgba(191, 151, 94, 0.38);
+      border-radius: 24px;
 
-            letter-spacing: 2px;
-            text-transform: uppercase;
-        }
+      box-shadow:
+        0 10px 28px rgba(92, 70, 61, 0.05);
+    }
 
+    .prompt-label {
+      margin-bottom: 18px;
 
-        /* PROMPT BOX */
+      color: #aa6c18;
 
-        .prompt-box {
-            margin-top: 22px;
+      font-size: 13px;
+      font-weight: 800;
 
-            padding: 28px 26px;
+      letter-spacing: 2px;
+    }
 
-            border: 1px solid rgba(183, 143, 93, 0.35);
-            border-radius: 25px;
+    .prompt-text {
+      color: #6a554c;
 
-            background: rgba(255, 255, 255, 0.45);
+      font-size: 16px;
+      line-height: 1.65;
 
-            box-shadow:
-                0 12px 35px rgba(100, 70, 50, 0.06);
-        }
+      white-space: pre-line;
+    }
 
-        .prompt-label {
-            margin-bottom: 18px;
+    /* COPY BUTTON */
 
-            color: #a66e22;
+    .copy-btn {
+      width: 100%;
 
-            font-size: 13px;
-            font-weight: 700;
+      margin-top: 26px;
 
-            letter-spacing: 2px;
-        }
+      padding: 16px 24px;
 
-        .prompt-text {
-            color: #604f47;
+      border: none;
+      border-radius: 999px;
 
-            font-size: 16px;
-            line-height: 1.65;
+      background: #b78135;
+      color: #ffffff;
 
-            white-space: pre-wrap;
-        }
+      font-family: Arial, Helvetica, sans-serif;
 
+      font-size: 12px;
+      font-weight: 800;
 
-        /* ONE COPY BUTTON */
+      letter-spacing: 1px;
 
-        .copy-all {
-            width: 100%;
+      cursor: pointer;
 
-            margin-top: 26px;
-            padding: 15px 20px;
+      transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background 0.2s ease;
+    }
 
-            border: 1px solid rgba(168, 120, 54, 0.65);
-            border-radius: 999px;
+    .copy-btn:hover {
+      transform: translateY(-2px);
 
-            background: #b48135;
-            color: #ffffff;
+      background: #a8732d;
 
-            font-size: 12px;
-            font-weight: 700;
+      box-shadow:
+        0 8px 22px rgba(168, 120, 54, 0.22);
+    }
 
-            letter-spacing: 1px;
+    /* BACK LINK */
 
-            cursor: pointer;
+    .back-link {
+      display: block;
 
-            transition:
-                transform 0.2s ease,
-                background 0.2s ease,
-                box-shadow 0.2s ease;
-        }
+      width: fit-content;
 
-        .copy-all:hover {
-            transform: translateY(-2px);
+      margin: 26px auto 0;
 
-            background: #a87836;
+      color: #a87836;
 
-            box-shadow:
-                0 8px 22px rgba(168, 120, 54, 0.28);
-        }
+      font-size: 12px;
+      font-weight: 700;
 
+      letter-spacing: 1px;
 
-        /* BACK */
+      text-decoration: none;
+    }
 
-        .back-link {
-            display: block;
+    .back-link:hover {
+      text-decoration: underline;
+    }
 
-            margin: 28px auto 0;
+    /* FOOTER */
 
-            text-align: center;
-            text-decoration: none;
+    .footer {
+      margin-top: 30px;
 
-            color: #a87836;
+      text-align: center;
 
-            font-size: 12px;
-            font-weight: 700;
+      color: #a58c7e;
 
-            letter-spacing: 1px;
-        }
+      font-size: 12px;
+    }
 
+    /* MOBILE */
 
-        /* FOOTER */
+    @media (max-width: 600px) {
 
-        .footer {
-            margin-top: 32px;
+      body {
+        padding: 12px 8px 35px;
+      }
 
-            text-align: center;
+      .main-card {
+        padding: 34px 16px 28px;
+        border-radius: 30px;
+      }
 
-            color: #9b7b6c;
+      .brand h1 {
+        font-size: clamp(23px, 7vw, 34px);
+      }
 
-            font-size: 12px;
-        }
+      .prompt-title {
+        font-size: 28px;
+      }
 
+      .prompt-box {
+        padding: 22px 20px;
+      }
 
-        /* MOBILE */
+      .prompt-text {
+        font-size: 15px;
+      }
 
-        @media (max-width: 600px) {
+    }
 
-            body {
-                padding: 12px 8px 30px;
-            }
+  </style>
 
-            .main-card {
-                padding: 32px 18px 28px;
-                border-radius: 28px;
-            }
-
-            .brand h1 {
-                font-size: clamp(22px, 7vw, 32px);
-            }
-
-            .brand-subtitle {
-                font-size: 10px;
-                letter-spacing: 2.5px;
-            }
-
-            .prompt-box {
-                padding: 22px 18px;
-            }
-
-            .prompt-text {
-                font-size: 15px;
-            }
-        }
-
-    </style>
 </head>
 
 
 <body>
 
-<div class="page">
+  <div class="page">
 
     <main class="main-card">
 
 
-        <!-- BRAND -->
+      <!-- BRAND -->
 
-        <header class="brand">
+      <header class="brand">
 
-            <h1>
-                AI Queens ♛ Stayci &amp; Di
-            </h1>
+        <h1>
+          AI Queens ♛ Stayci &amp; Di
+        </h1>
 
-            <div class="brand-subtitle">
-                Official Prompt Collection
-            </div>
-
-        </header>
-
-
-        <div class="divider"></div>
-
-
-        <!-- PROMPT NUMBER -->
-
-        <div class="prompt-number">
-            PROMPT #005
+        <div class="brand-subtitle">
+          Official Prompt Collection
         </div>
 
-
-        <!-- TITLE -->
-
-        <h2 class="prompt-title">
-            Champagne Piano Haute Couture
-        </h2>
+      </header>
 
 
-        <!-- FORMAT -->
+      <div class="divider"></div>
 
-        <div class="format">
-            PHOTO FORMAT · 9:16
+
+      <!-- PROMPT NUMBER -->
+
+      <div class="prompt-number">
+        PROMPT #005
+      </div>
+
+
+      <!-- TITLE -->
+
+      <h2 class="prompt-title">
+        Champagne Piano Haute Couture
+      </h2>
+
+
+      <!-- POSITIVE PROMPT -->
+
+      <section class="prompt-box">
+
+        <div class="prompt-label">
+          POSITIVE PROMPT
         </div>
 
+        <div
+          class="prompt-text"
+          id="positivePrompt"
+        >Do not change the appearance or identity of the woman.
 
-        <!-- POSITIVE PROMPT -->
+Ultra-realistic haute couture editorial portrait of an elegant young woman posing beside a glossy black grand piano inside a luxurious classical mansion. She wears a breathtaking champagne-silver glitter gown completely covered in shimmering crystal sequins that sparkle like stars under warm ambient lighting. The dress features dramatic oversized structured puff sleeves, a sculpted fitted corset waist, sweetheart neckline, elegant draping, and a high thigh slit revealing one leg. Her blonde hair is styled in a sleek polished low bun, complemented by oversized diamond statement earrings. She gracefully leans against the piano with one hand while the other gently touches her face, eyes half-closed, creating an expressive, sophisticated pose. The background features ornate gold moldings, luxurious classical architecture, soft candle-like lighting, rich dark interiors, and a romantic evening atmosphere. Warm cinematic lighting mixed with subtle golden highlights creates sparkling reflections across the gown. Vogue haute couture editorial, old Hollywood glamour, timeless luxury, cinematic composition, photorealistic, ultra detailed, HDR, realistic skin texture, premium color grading, medium format photography, shallow depth of field, 8K.
 
-        <section class="prompt-box">
+PHOTO FORMAT: Vertical 9:16.</div>
 
-            <div class="prompt-label">
-                POSITIVE PROMPT
-            </div>
-
-            <div
-                class="prompt-text"
-                id="positivePrompt"
-            >Preserve the exact appearance and recognizable identity of the woman from the identity reference. Do not change her face, facial features, identity, or overall appearance.
-
-Ultra-realistic haute couture editorial portrait of an elegant young woman posing beside a glossy black grand piano inside a luxurious classical mansion. She wears a breathtaking champagne-silver glitter gown completely covered in shimmering crystal sequins that sparkle like stars under warm ambient lighting. The dress features dramatic oversized structured puff sleeves, a sculpted fitted corset waist, sweetheart neckline, elegant draping, and a high thigh slit revealing one leg. Her blonde hair is styled in a sleek polished low bun, complemented by oversized diamond statement earrings. She gracefully leans against the piano with one hand while the other gently touches her face, eyes half-closed, creating an expressive, sophisticated pose. The background features ornate gold moldings, luxurious classical architecture, soft candle-like lighting, rich dark interiors, and a romantic evening atmosphere. Warm cinematic lighting mixed with subtle golden highlights creates sparkling reflections across the gown. Vogue haute couture editorial, old Hollywood glamour, timeless luxury, cinematic composition, photorealistic, ultra detailed, HDR, realistic skin texture, premium color grading, medium format photography, shallow depth of field, 8K.</div>
-
-        </section>
+      </section>
 
 
-        <!-- NEGATIVE PROMPT -->
+      <!-- NEGATIVE PROMPT -->
 
-        <section class="prompt-box">
+      <section class="prompt-box">
 
-            <div class="prompt-label">
-                NEGATIVE PROMPT
-            </div>
-
-            <div
-                class="prompt-text"
-                id="negativePrompt"
-            >low quality, blurry, CGI, cartoon, illustration, painting, unrealistic anatomy, extra fingers, extra limbs, deformed hands, distorted face, bad proportions, plastic skin, oversaturated colors, flat lighting, watermark, logo, text, artifacts, noise, motion blur, low resolution, cluttered background</div>
-
-        </section>
-
-
-        <!-- ONLY ONE COPY BUTTON -->
-
-        <button
-            class="copy-all"
-            onclick="copyAllPrompts(this)"
-        >
-            COPY FULL PROMPT
-        </button>
-
-
-        <!-- BACK TO MAIN PAGE -->
-
-        <a
-            class="back-link"
-            href="/"
-        >
-            ← BACK TO PROMPT LIBRARY
-        </a>
-
-
-        <!-- FOOTER -->
-
-        <div class="footer">
-            © AI Queens – Stayci &amp; Di
+        <div class="prompt-label">
+          NEGATIVE PROMPT
         </div>
+
+        <div
+          class="prompt-text"
+          id="negativePrompt"
+        >low quality, blurry, CGI, cartoon, illustration, painting, unrealistic anatomy, extra fingers, extra limbs, deformed hands, distorted face, bad proportions, plastic skin, oversaturated colors, flat lighting, watermark, logo, text, artifacts, noise, motion blur, low resolution, cluttered background</div>
+
+      </section>
+
+
+      <!-- ONE COPY BUTTON -->
+
+      <button
+        class="copy-btn"
+        onclick="copyAllPrompts(this)"
+      >
+        COPY FULL PROMPT
+      </button>
+
+
+      <!-- BACK -->
+
+      <a
+        class="back-link"
+        href="/"
+      >
+        ← BACK TO PROMPT LIBRARY
+      </a>
+
+
+      <!-- FOOTER -->
+
+      <div class="footer">
+        © AI Queens — Stayci &amp; Di
+      </div>
 
 
     </main>
 
-</div>
+  </div>
 
 
-<script>
+  <script>
 
-async function copyAllPrompts(button) {
+    async function copyAllPrompts(button) {
 
-    const positive =
-        document.getElementById("positivePrompt").innerText;
+      const positive =
+        document.getElementById("positivePrompt").innerText.trim();
 
-    const negative =
-        document.getElementById("negativePrompt").innerText;
+      const negative =
+        document.getElementById("negativePrompt").innerText.trim();
 
-    const fullPrompt =
+      const fullPrompt =
         "POSITIVE PROMPT\n\n" +
         positive +
         "\n\nNEGATIVE PROMPT\n\n" +
         negative;
 
-    const originalText =
-        "COPY FULL PROMPT";
+      const originalText = "COPY FULL PROMPT";
 
-    try {
+
+      try {
 
         await navigator.clipboard.writeText(fullPrompt);
 
         button.innerText = "COPIED ✓";
 
         setTimeout(() => {
-            button.innerText = originalText;
+          button.innerText = originalText;
         }, 1800);
 
-    } catch (error) {
+      }
+
+      catch (error) {
 
         const textarea =
-            document.createElement("textarea");
+          document.createElement("textarea");
 
         textarea.value = fullPrompt;
 
@@ -461,13 +447,14 @@ async function copyAllPrompts(button) {
         button.innerText = "COPIED ✓";
 
         setTimeout(() => {
-            button.innerText = originalText;
+          button.innerText = originalText;
         }, 1800);
+
+      }
+
     }
-}
 
-</script>
-
+  </script>
 
 </body>
 
