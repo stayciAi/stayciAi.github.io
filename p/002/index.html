@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,31 +25,22 @@
       font-family: Arial, Helvetica, sans-serif;
       color: #5c463d;
 
-      background-image:
-        linear-gradient(
-          rgba(255, 248, 244, 0.10),
-          rgba(255, 248, 244, 0.10)
-        ),
-        url("../../background.PNG");
-
-      background-size: cover;
-      background-position: center center;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
+      background: transparent;
+      position: relative;
     }
 
     body::before {
       content: "";
       position: fixed;
-      inset: -12px;
+      inset: -10px;
 
-      background-image: url("../../background.PNG");
+      background-image: url("../../background.png");
       background-size: cover;
       background-position: center center;
       background-repeat: no-repeat;
 
-      filter: blur(6px);
-      transform: scale(1.03);
+      filter: blur(1px);
+      transform: scale(1.01);
 
       z-index: -1;
     }
@@ -60,76 +52,84 @@
     }
 
     .main-card {
-      background: rgba(255, 250, 247, 0.91);
-      border: 1px solid rgba(190, 145, 83, 0.30);
-      border-radius: 32px;
+      background: rgba(255, 250, 247, 0.88);
 
-      padding: 42px 34px 30px;
+      border: 1px solid rgba(183, 143, 93, 0.35);
+      border-radius: 38px;
+
+      padding: 42px 22px 34px;
 
       box-shadow:
-        0 18px 50px rgba(83, 57, 42, 0.14),
-        inset 0 1px 0 rgba(255,255,255,0.75);
+        0 24px 70px rgba(100, 70, 50, 0.14),
+        0 0 35px rgba(191, 151, 94, 0.10);
 
-      backdrop-filter: blur(10px);
-      -webkit-backdrop-filter: blur(10px);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
     }
 
     .brand {
       text-align: center;
-      margin-bottom: 28px;
+      margin-bottom: 20px;
     }
 
     .brand h1 {
       margin: 0;
+      color: #a87836;
 
       font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(38px, 8vw, 58px);
-      line-height: 1.05;
-
       font-style: italic;
-      color: #b07a2e;
+
+      font-size: clamp(24px, 4vw, 42px);
+      font-weight: 700;
+      line-height: 1.25;
+
+      white-space: nowrap;
     }
 
     .brand-subtitle {
-      margin-top: 20px;
+      margin-top: 18px;
+
+      text-align: center;
+      color: #9a7a69;
 
       font-size: 13px;
-      letter-spacing: 4px;
+      letter-spacing: 3px;
       text-transform: uppercase;
-
-      color: #9b7b6c;
+      line-height: 1.7;
     }
 
     .divider {
-      width: 46%;
+      width: 42%;
       height: 1px;
       margin: 30px auto 36px;
 
       background: linear-gradient(
-        to right,
+        90deg,
         transparent,
-        rgba(176, 122, 46, 0.55),
+        #c99c57,
         transparent
       );
     }
 
     .prompt-number {
       text-align: center;
-      margin-bottom: 8px;
 
-      font-size: 13px;
+      color: #b08242;
+
+      font-size: 12px;
       font-weight: 800;
       letter-spacing: 2px;
 
-      color: #b07a2e;
+      margin-bottom: 12px;
     }
 
     .prompt-title {
       margin: 0 0 30px;
 
       text-align: center;
+
       font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(26px, 5vw, 38px);
+      font-size: clamp(25px, 5vw, 36px);
 
       color: #5c463d;
     }
@@ -138,37 +138,41 @@
       margin-top: 20px;
       padding: 28px;
 
-      background: rgba(255,255,255,0.64);
+      background: rgba(255, 255, 255, 0.66);
 
-      border: 1px solid rgba(190, 145, 83, 0.30);
+      border: 1px solid rgba(191, 151, 94, 0.35);
       border-radius: 24px;
 
-      box-shadow: 0 10px 30px rgba(91, 61, 44, 0.06);
+      box-shadow:
+        0 10px 28px rgba(92, 70, 61, 0.07);
     }
 
     .prompt-label {
-      margin: 0 0 18px;
+      margin-bottom: 18px;
+
+      color: #a87029;
 
       font-size: 13px;
       font-weight: 900;
       letter-spacing: 2px;
-
-      color: #a66f26;
     }
 
     .prompt-text {
       white-space: pre-wrap;
 
+      color: #5c463d;
+
       font-size: 16px;
       line-height: 1.75;
-
-      color: #5c463d;
     }
 
     .copy-btn {
-      width: 100%;
-      margin-top: 24px;
-      padding: 16px 20px;
+      display: block;
+
+      width: min(360px, 100%);
+
+      margin: 30px auto 0;
+      padding: 17px 24px;
 
       border: 1px solid #b98745;
       border-radius: 999px;
@@ -179,7 +183,7 @@
         #a86f27
       );
 
-      color: white;
+      color: #ffffff;
 
       font-size: 13px;
       font-weight: 800;
@@ -188,22 +192,22 @@
       cursor: pointer;
 
       transition:
-        transform 0.2s ease,
-        box-shadow 0.2s ease;
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
     }
 
     .copy-btn:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 8px 22px rgba(168, 111, 39, 0.24);
-    }
+      transform: translateY(-2px);
 
-    .copy-btn:active {
-      transform: translateY(0);
+      box-shadow:
+        0 10px 26px rgba(168, 111, 39, 0.24);
     }
 
     .back-link {
       display: block;
+
       width: fit-content;
+
       margin: 34px auto 8px;
 
       color: #9d6b2d;
@@ -220,23 +224,32 @@
     }
 
     .footer {
-      margin-top: 30px;
+      margin-top: 28px;
 
       text-align: center;
-      font-size: 11px;
 
       color: #a78d80;
+
+      font-size: 11px;
     }
 
     @media (max-width: 600px) {
       body {
         padding: 12px 8px 30px;
-        background-attachment: scroll;
       }
 
       .main-card {
-        padding: 34px 16px 24px;
+        padding: 32px 16px 24px;
         border-radius: 26px;
+      }
+
+      .brand h1 {
+        font-size: clamp(18px, 6vw, 28px);
+      }
+
+      .brand-subtitle {
+        font-size: 10px;
+        letter-spacing: 2px;
       }
 
       .prompt-box {
@@ -247,11 +260,6 @@
       .prompt-text {
         font-size: 15px;
         line-height: 1.65;
-      }
-
-      .brand-subtitle {
-        font-size: 10px;
-        letter-spacing: 2.5px;
       }
     }
   </style>
@@ -264,14 +272,13 @@
     <main class="main-card">
 
       <header class="brand">
-        <h1>
-          AI Queens 👑<br>
-          Stayci &amp; Di
-        </h1>
+
+        <h1>AI Queens ♛ Stayci &amp; Di</h1>
 
         <div class="brand-subtitle">
           Official Prompt Collection
         </div>
+
       </header>
 
       <div class="divider"></div>
@@ -293,41 +300,31 @@
           POSITIVE PROMPT
         </div>
 
-        <div
-          class="prompt-text"
-          id="positivePrompt"
-        >Ultra-photorealistic luxury fashion editorial photograph of the exact same young adult woman from the identity reference, 23–27 years old, leaning elegantly against the wet hood of a deep ruby-red luxury performance sedan during light rain. Recreate the scene reference’s pose, elevated top-down angle, black blazer-dress, glasses, red car, huge white-tulip bouquet and rainy luxury atmosphere, while preserving ONLY the target woman’s identity.
+        <div class="prompt-text" id="positivePrompt">Ultra-photorealistic **luxury fashion editorial photograph of the exact same young adult woman from the identity reference, 23–27 years old**, leaning elegantly against the wet hood of a deep ruby-red luxury performance sedan during light rain. Recreate the scene reference’s **pose, elevated top-down angle, black blazer-dress, glasses, red car, huge white-tulip bouquet and rainy luxury atmosphere**, while preserving ONLY the target woman’s identity.
 
-IDENTITY — HIGHEST PRIORITY: preserve her exact recognizable face: facial outline, forehead, cheekbones, natural cheeks, eyebrows, eye shape/spacing, nose, lips, jawline and chin. Do not blend with the scene-reference woman, redesign her features or create a generic AI model.
+**IDENTITY — HIGHEST PRIORITY:** preserve her exact recognizable face: facial outline, forehead, cheekbones, natural cheeks, eyebrows, eye shape/spacing, nose, lips, jawline and chin. Do not blend with the scene-reference woman, redesign her features or create a generic AI model.
 
-Her eyes are deep dark chocolate/espresso brown with realistic irises and catchlights. Sophisticated makeup: defined lashes, neutral eyeshadow, subtle eyeliner, luminous complexion and glossy nude-pink lips. Calm, confident direct gaze.
+Her eyes are **deep dark chocolate/espresso brown** with realistic irises and catchlights. Sophisticated makeup: defined lashes, neutral eyeshadow, subtle eyeliner, luminous complexion and glossy nude-pink lips. Calm, confident direct gaze.
 
-Her complexion is warm light-to-medium golden beige with soft golden-peach undertones, perfectly consistent across face, neck, chest, arms, hands and legs. Real pores, peach fuzz and natural texture. No face/body color mismatch or pasted-face effect.
+Her complexion is **warm light-to-medium golden beige with soft golden-peach undertones**, perfectly consistent across face, neck, chest, arms, hands and legs. Real pores, peach fuzz and natural texture. No face/body color mismatch or pasted-face effect.
 
-HAIR MUST BE LIGHT BLONDE, approximately mid-back length, dimensional champagne/beige blonde with subtle deeper blonde roots. Style into a sleek polished low ponytail / pulled-back hairstyle, with realistic individual hairs and subtle flyaways. No brunette or black hair.
+**HAIR MUST BE LIGHT BLONDE**, approximately mid-back length, dimensional champagne/beige blonde with subtle deeper blonde roots. Style into a sleek polished **low ponytail / pulled-back hairstyle**, with realistic individual hairs and subtle flyaways. No brunette or black hair.
 
-She wears an oversized structured black luxury blazer mini-dress with strong shoulders, deep V neckline, long sleeves, sculpted waist and premium matte suiting texture. Bare golden-beige legs. Add thin transparent fashion eyeglasses, a refined metallic watch, delicate rings and nude almond manicure.
+She wears an oversized structured **black luxury blazer mini-dress** with strong shoulders, deep V neckline, long sleeves, sculpted waist and premium matte suiting texture. Bare golden-beige legs. Add thin transparent fashion eyeglasses, a refined metallic watch, delicate rings and nude almond manicure.
 
-POSE: closely match the reference. She leans/reclines confidently against the front hood of the car, body making realistic contact with the wet surface. One hand supports her naturally on the hood while the opposite arm rests elegantly near her body/headlight. One leg extends downward while the other crosses naturally in front, creating an elongated editorial silhouette. Preserve authentic body proportions and realistic anatomy—no tiny waist, oversized curves or artificially long legs.
+**POSE:** closely match the reference. She leans/reclines confidently against the front hood of the car, body making realistic contact with the wet surface. One hand supports her naturally on the hood while the opposite arm rests elegantly near her body/headlight. One leg extends downward while the other crosses naturally in front, creating an elongated editorial silhouette. Preserve authentic body proportions and realistic anatomy—no tiny waist, oversized curves or artificially long legs.
 
-Beside her on the hood is a spectacular oversized bouquet containing dozens of fresh WHITE TULIPS, with realistic white petals, long green stems and leaves, natural asymmetry and tiny raindrops. No roses or colored flowers.
+Beside her on the hood is a spectacular oversized bouquet containing **dozens of fresh WHITE TULIPS**, with realistic white petals, long green stems and leaves, natural asymmetry and tiny raindrops. No roses or colored flowers.
 
-The car is a deep metallic ruby-red European-style luxury performance sedan, with sculpted hood, dark grille and detailed LED headlights. No visible branding. Wet automotive paint is covered with hundreds of realistic tiny raindrops and reflects the cloudy sky, woman and surroundings.
+The car is a **deep metallic ruby-red European-style luxury performance sedan**, with sculpted hood, dark grille and detailed LED headlights. No visible branding. Wet automotive paint is covered with hundreds of realistic tiny raindrops and reflects the cloudy sky, woman and surroundings.
 
-ENVIRONMENT: elegant gray stone-paved luxury driveway during/after soft rain. Wet rectangular paving stones with subtle reflections. Minimal sophisticated surroundings, cool overcast atmosphere.
+**ENVIRONMENT:** elegant gray stone-paved luxury driveway during/after soft rain. Wet rectangular paving stones with subtle reflections. Minimal sophisticated surroundings, cool overcast atmosphere.
 
-CAMERA: striking elevated three-quarter top-down angle, looking diagonally across the hood. Approximately 35–50mm full-frame perspective with no fisheye. Woman remains the primary subject while her body, bouquet, red hood, grille and headlight create a strong diagonal editorial composition. Vertical 4:5 framing.
+**CAMERA:** striking elevated **three-quarter top-down angle**, looking diagonally across the hood. Approximately 35–50mm full-frame perspective with no fisheye. Woman remains the primary subject while her body, bouquet, red hood, grille and headlight create a strong diagonal editorial composition. **Vertical 4:5 framing.**
 
 Soft diffused overcast daylight, realistic wet reflections, warm skin against cool surroundings, saturated ruby-red paint, crisp white tulips and deep black tailoring. Ultra-detailed blonde hairs, espresso-brown eyes, skin pores, tailoring fibers, tulip petals, raindrops, watch reflections and headlight optics.
 
-8K-level ultra-photorealistic luxury European fashion campaign photography, authentic identity, natural anatomy, realistic rain, sophisticated color grading, subtle photographic grain, premium editorial quality, real professional photograph rather than CGI.</div>
-
-        <button
-          class="copy-btn"
-          onclick="copyPrompt('positivePrompt', this, 'COPY POSITIVE PROMPT')"
-        >
-          COPY POSITIVE PROMPT
-        </button>
+**8K-level ultra-photorealistic luxury European fashion campaign photography, authentic identity, natural anatomy, realistic rain, sophisticated color grading, subtle photographic grain, premium editorial quality, real professional photograph rather than CGI.**</div>
 
       </section>
 
@@ -340,25 +337,22 @@ Soft diffused overcast daylight, realistic wet reflections, warm skin against co
           NEGATIVE PROMPT
         </div>
 
-        <div
-          class="prompt-text"
-          id="negativePrompt"
-        >different woman, identity drift, scene-reference face, blended identity, generic influencer, altered face, changed nose, lips, eyes, jaw or chin, face swap, pasted face, blue eyes, green eyes, gray eyes, hazel eyes, brunette hair, black hair, brown hair, red hair, short hair, extremely long hair, wig, mismatched face/body complexion, pale face with tan body, orange skin, foundation-mask effect, plastic skin, waxy skin, poreless skin, excessive smoothing, exaggerated breasts, tiny waist, oversized hips, excessively long legs, broken anatomy, impossible pose, body intersecting car, extra limbs, malformed hands, extra/missing/fused fingers, wrong outfit, trousers, jeans, shirt, colorful blazer, transparent clothing, sunglasses, glasses hiding eyes, tattoos not present in identity reference, roses, colored tulips, fake flowers, duplicated flowers, tiny bouquet, missing bouquet, dry hood, fake rain, oversized droplets, distorted car, malformed headlights, duplicated headlights, visible logos, unreadable badges, fisheye, extreme wide angle, fake reflections, cluttered background, CGI, 3D render, illustration, anime, low resolution, blurry face, watermark, text, logo, AI artifacts.</div>
-
-        <button
-          class="copy-btn"
-          onclick="copyPrompt('negativePrompt', this, 'COPY NEGATIVE PROMPT')"
-        >
-          COPY NEGATIVE PROMPT
-        </button>
+        <div class="prompt-text" id="negativePrompt">different woman, identity drift, scene-reference face, blended identity, generic influencer, altered face, changed nose, lips, eyes, jaw or chin, face swap, pasted face, **blue eyes, green eyes, gray eyes, hazel eyes**, brunette hair, black hair, brown hair, red hair, short hair, extremely long hair, wig, mismatched face/body complexion, pale face with tan body, orange skin, foundation-mask effect, plastic skin, waxy skin, poreless skin, excessive smoothing, exaggerated breasts, tiny waist, oversized hips, excessively long legs, broken anatomy, impossible pose, body intersecting car, extra limbs, malformed hands, extra/missing/fused fingers, wrong outfit, trousers, jeans, shirt, colorful blazer, transparent clothing, sunglasses, glasses hiding eyes, tattoos not present in identity reference, roses, colored tulips, fake flowers, duplicated flowers, tiny bouquet, missing bouquet, dry hood, fake rain, oversized droplets, distorted car, malformed headlights, duplicated headlights, visible logos, unreadable badges, fisheye, extreme wide angle, fake reflections, cluttered background, CGI, 3D render, illustration, anime, low resolution, blurry face, watermark, text, logo, AI artifacts.</div>
 
       </section>
 
 
-      <a
-        class="back-link"
-        href="../../"
+      <!-- ONE BUTTON COPIES BOTH PROMPTS -->
+
+      <button
+        class="copy-btn"
+        onclick="copyAllPrompts(this)"
       >
+        COPY FULL PROMPT
+      </button>
+
+
+      <a class="back-link" href="../../">
         ← BACK TO PROMPT LIBRARY
       </a>
 
@@ -373,11 +367,26 @@ Soft diffused overcast daylight, realistic wet reflections, warm skin against co
 
 
   <script>
-    async function copyPrompt(id, button, originalText) {
-      const text = document.getElementById(id).innerText;
+
+    async function copyAllPrompts(button) {
+
+      const positive =
+        document.getElementById("positivePrompt").innerText;
+
+      const negative =
+        document.getElementById("negativePrompt").innerText;
+
+      const fullPrompt =
+        "POSITIVE PROMPT\n\n" +
+        positive +
+        "\n\nNEGATIVE PROMPT\n\n" +
+        negative;
+
+      const originalText = "COPY FULL PROMPT";
 
       try {
-        await navigator.clipboard.writeText(text);
+
+        await navigator.clipboard.writeText(fullPrompt);
 
         button.innerText = "COPIED ✓";
 
@@ -388,10 +397,13 @@ Soft diffused overcast daylight, realistic wet reflections, warm skin against co
       } catch (error) {
 
         const textarea = document.createElement("textarea");
-        textarea.value = text;
+
+        textarea.value = fullPrompt;
+
         document.body.appendChild(textarea);
 
         textarea.select();
+
         document.execCommand("copy");
 
         document.body.removeChild(textarea);
@@ -401,8 +413,11 @@ Soft diffused overcast daylight, realistic wet reflections, warm skin against co
         setTimeout(() => {
           button.innerText = originalText;
         }, 1800);
+
       }
+
     }
+
   </script>
 
 </body>
