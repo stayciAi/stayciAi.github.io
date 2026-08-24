@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Queens — Stayci & Di</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        linear-gradient(rgba(255,255,255,0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.04) 1px, transparent 1px),
+        #050505;
+      background-size: 34px 34px;
+
+      font-family: Arial, Helvetica, sans-serif;
+      color: white;
+
+      display: flex;
+      justify-content: center;
+      padding: 40px 18px;
+    }
+
+    .page {
+      width: 100%;
+      max-width: 760px;
+    }
+
+    .main-card {
+      background: #111;
+      border: 3px solid #2e2e2e;
+      border-radius: 48px;
+      padding: 50px 34px 40px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.45);
+    }
+
+    .brand {
+      text-align: center;
+      font-size: clamp(28px, 6vw, 52px);
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 18px;
+    }
+
+    .subtitle {
+      text-align: center;
+      color: #a7a7a7;
+      font-size: clamp(14px, 2.8vw, 22px);
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      line-height: 1.7;
+    }
+
+    .divider {
+      width: 45%;
+      height: 3px;
+      background: #333;
+      border-radius: 20px;
+      margin: 32px auto 42px;
+    }
+
+    .prompt-card {
+      background: #1a1a1a;
+      border: 3px solid #353535;
+      border-radius: 42px;
+      padding: 34px 28px;
+    }
+
+    .prompt-title {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 22px;
+      text-align: center;
+    }
+
+    .prompt-text {
+      white-space: pre-wrap;
+      font-size: clamp(17px, 3.6vw, 28px);
+      line-height: 1.55;
+      color: #f4f4f4;
+      word-break: break-word;
+    }
+
+    .copy-btn {
+      width: 100%;
+      margin-top: 28px;
+      border: none;
+      border-radius: 22px;
+      padding: 18px 20px;
+      font-size: 17px;
+      font-weight: 700;
+      cursor: pointer;
+      background: white;
+      color: black;
+      transition: 0.2s ease;
+    }
+
+    .copy-btn:active {
+      transform: scale(0.98);
+    }
+
+    .footer {
+      text-align: center;
+      color: #777;
+      margin-top: 28px;
+      font-size: 13px;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 16px 10px;
+      }
+
+      .main-card {
+        border-radius: 34px;
+        padding: 36px 18px 26px;
+      }
+
+      .prompt-card {
+        border-radius: 30px;
+        padding: 28px 20px;
+      }
+
+      .subtitle {
+        letter-spacing: 2.5px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="page">
+
+    <div class="main-card">
+
+      <div class="brand">
+        𝓐𝓘 𝓠𝓾𝓮𝓮𝓷𝓼 👑<br>
+        𝓢𝓽𝓪𝔂𝓬𝓲 & 𝓓𝓲
+      </div>
+
+      <div class="subtitle">
+        Official Prompt Collection
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="prompt-card">
+
+        <div class="prompt-title">
+          PROMPT #001
+        </div>
+
+        <div class="prompt-text" id="promptText">ВСТАВЬ СЮДА СВОЙ ПЕРВЫЙ ПРОМПТ.
+
+Например:
+
+Create an ultra-realistic cinematic portrait with premium editorial aesthetics, dramatic lighting, high detail, realistic textures and elegant composition.
+
+Replace this text with your real prompt.</div>
+
+        <button class="copy-btn" onclick="copyPrompt()">
+          СКОПИРОВАТЬ ПРОМПТ
+        </button>
+
+      </div>
+
+      <div class="footer">
+        © AI Queens — Stayci & Di
+      </div>
+
+    </div>
+
+  </div>
+
+  <script>
+    function copyPrompt() {
+      const text = document.getElementById("promptText").innerText;
+      navigator.clipboard.writeText(text);
+
+      const button = document.querySelector(".copy-btn");
+      const oldText = button.innerText;
+
+      button.innerText = "СКОПИРОВАНО ✓";
+
+      setTimeout(() => {
+        button.innerText = oldText;
+      }, 1800);
+    }
+  </script>
+
+</body>
+</html>
