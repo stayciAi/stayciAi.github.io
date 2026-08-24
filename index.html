@@ -128,6 +128,32 @@ transform: scale(1.01);
       font-size: 16px;
       line-height: 1.65;
     }
+.welcome p {
+    max-width: 520px;
+    margin: 0 auto;
+    color: #8a7165;
+    font-size: 16px;
+    line-height: 1.65;
+}
+
+/* СЕТКА КАРТОЧЕК */
+.prompt-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+    align-items: start;
+}
+
+.prompt-grid .prompt-card {
+    margin-top: 0;
+}
+
+@media (max-width: 700px) {
+    .prompt-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
 
     .prompt-card {
       display: block;
@@ -290,7 +316,7 @@ overflow: hidden;
 
       </div>
 
-
+<div class="prompt-grid">
       <a
         class="prompt-card"
         href="/p/001/"
@@ -343,7 +369,7 @@ overflow: hidden;
   </div>
 
 </a>
-
+</div>
       <div class="footer">
 
         © AI Queens — Stayci &amp; Di
