@@ -11,20 +11,22 @@
     }
 
     body {
-      margin: 0;
-      min-height: 100vh;
-      background:
-        linear-gradient(rgba(255,255,255,0.04) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(255,255,255,0.04) 1px, transparent 1px),
-        #050505;
-      background-size: 34px 34px;
+      body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  padding: 18px 10px 40px;
 
-      font-family: Arial, Helvetica, sans-serif;
-      color: white;
+  background-image:
+    linear-gradient(rgba(0,0,0,0.18), rgba(0,0,0,0.18)),
+    url("../../background.png");
 
-      display: flex;
-      justify-content: center;
-      padding: 40px 18px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
     }
 
     .page {
@@ -166,7 +168,7 @@ Create an ultra-realistic cinematic portrait with premium editorial aesthetics, 
 Replace this text with your real prompt.</div>
 
         <button class="copy-btn" onclick="copyPrompt()">
-          СКОПИРОВАТЬ ПРОМПТ
+          COPY PROMPT
         </button>
 
       </div>
