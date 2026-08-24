@@ -95,8 +95,6 @@
       line-height: 1.7;
     }
 
-    /* SOCIAL BUTTONS */
-
     .social-links {
       display: flex;
       justify-content: center;
@@ -179,7 +177,6 @@
       line-height: 1.65;
     }
 
-
     /* PROMPT GRID */
 
     .prompt-grid {
@@ -189,7 +186,6 @@
         repeat(2, minmax(0, 1fr));
 
       gap: 18px;
-
       align-items: start;
     }
 
@@ -198,13 +194,10 @@
     }
 
     @media (max-width: 700px) {
-
       .prompt-grid {
         grid-template-columns: 1fr;
       }
-
     }
-
 
     /* PROMPT CARD */
 
@@ -215,28 +208,20 @@
       overflow: hidden;
 
       margin-top: 18px;
-
       padding: 24px;
 
-      background:
-        rgba(255, 255, 255, 0.70);
+      background: rgba(255, 255, 255, 0.70);
 
-      border:
-        1px solid rgba(191, 151, 94, 0.35);
-
+      border: 1px solid rgba(191, 151, 94, 0.35);
       border-radius: 26px;
 
       color: #5c463d;
-
       text-decoration: none;
 
       transition:
         transform 0.2s ease,
         box-shadow 0.2s ease;
     }
-
-
-    /* GOLD SHINE */
 
     .prompt-card::before {
       content: "";
@@ -274,12 +259,10 @@
       transform: translateY(-2px);
 
       box-shadow:
-        0 12px 30px
-        rgba(100, 70, 50, 0.10);
+        0 12px 30px rgba(100, 70, 50, 0.10);
     }
 
-
-    /* IMAGE */
+    /* IMAGES */
 
     .prompt-image {
       width: 100%;
@@ -287,27 +270,35 @@
       aspect-ratio: 4 / 5;
 
       object-fit: cover;
+      object-position: center center;
 
       display: block;
 
       border-radius: 18px;
-
       margin-bottom: 18px;
 
       box-shadow:
-        0 10px 28px
-        rgba(92, 70, 61, 0.12);
+        0 10px 28px rgba(92, 70, 61, 0.12);
 
       transition:
         transform 1.2s ease,
         filter 1.2s ease;
     }
 
+    /*
+      PROMPT #005:
+      показываем верх фотографии,
+      чтобы не обрезалась голова
+    */
+
+    .prompt-image-005 {
+      object-position: center top;
+    }
+
     .prompt-card:hover .prompt-image {
       transform: scale(1.02);
       filter: brightness(1.03);
     }
-
 
     /* TEXT */
 
@@ -349,7 +340,6 @@
 
       font-size: 12px;
     }
-
 
     /* MOBILE */
 
@@ -393,7 +383,6 @@
       <!-- SOCIAL LINKS -->
 
       <div class="social-links">
-
 
         <!-- INSTAGRAM -->
 
@@ -636,7 +625,7 @@
         >
 
           <img
-            class="prompt-image"
+            class="prompt-image prompt-image-005"
             src="prompt-005.PNG"
             alt="Champagne Piano Haute Couture"
           />
