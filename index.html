@@ -138,7 +138,8 @@
 
     .prompt-card {
       display: block;
-
+position: relative;
+overflow: hidden;
       margin-top: 18px;
       padding: 24px;
 
@@ -154,7 +155,31 @@
         transform 0.2s ease,
         box-shadow 0.2s ease;
     }
+.prompt-card::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -80%;
+    width: 45%;
+    height: 200%;
 
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 215, 140, 0.28),
+        rgba(255, 255, 255, 0.55),
+        rgba(255, 215, 140, 0.28),
+        transparent
+    );
+
+    transform: rotate(18deg);
+    transition: left 0.8s ease;
+    pointer-events: none;
+}
+
+.prompt-card:hover::before {
+    left: 135%;
+}
     .prompt-card:hover {
       transform: translateY(-2px);
 
