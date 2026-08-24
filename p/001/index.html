@@ -71,15 +71,18 @@ position: relative;
     }
 
     .brand h1 {
-      margin: 0;
+    margin: 0;
+    color: #a87836;
 
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(38px, 8vw, 58px);
-      line-height: 1.05;
+    font-family: Georgia, "Times New Roman", serif;
+    font-style: italic;
 
-      font-style: italic;
-      color: #b07a2e;
-    }
+    font-size: clamp(24px, 4vw, 42px);
+    font-weight: 700;
+    line-height: 1.25;
+
+    white-space: nowrap;
+}
 
     .brand-subtitle {
       margin-top: 20px;
@@ -257,10 +260,7 @@ position: relative;
     <main class="main-card">
 
       <header class="brand">
-        <h1>
-          AI Queens 👑<br>
-          Stayci &amp; Di
-        </h1>
+        <h1>AI Queens ♛ Stayci &amp; Di</h1>
 
         <div class="brand-subtitle">
           Official Prompt Collection
@@ -319,12 +319,7 @@ CAMERA: strict vertical 9:16, very low camera approximately 30–50 cm above roa
 
 Ultra-photorealistic automotive × fashion editorial photography, sharp facial identity, individual blonde hairs, espresso-brown irises, realistic glasses, skin pores, knit fibers, pink fabric folds, sneaker details, wet asphalt, automotive reflections, headlight optics and volumetric smoke. Subtle grain, realistic dynamic range, 8K-level detail, expensive cinematic campaign aesthetic.</div>
 
-        <button
-          class="copy-btn"
-          onclick="copyPrompt('positivePrompt', this, 'COPY POSITIVE PROMPT')"
-        >
-          COPY POSITIVE PROMPT
-        </button>
+       
 
       </section>
 
@@ -342,15 +337,15 @@ Ultra-photorealistic automotive × fashion editorial photography, sharp facial i
           id="negativePrompt"
         >different woman, identity drift, scene-reference face, blended identity, generic influencer, altered face, changed nose, lips, eyes, jaw or chin, face-swap artifacts, blue eyes, green eyes, gray eyes, hazel eyes, light eyes, brunette hair, black hair, brown hair, red hair, dark ponytail, short hair, yellow/orange blonde, platinum-white wig, plastic hair, mismatched face/body skin, pale face with tan body, orange skin, plastic skin, waxy skin, poreless skin, excessive smoothing, exaggerated breasts, tiny waist, oversized hips, elongated legs, broken anatomy, impossible seated pose, malformed knees/ankles, extra limbs, malformed hands, extra/missing/fused fingers, giant feet, standing, kneeling, sitting on/in car, wrong outfit, black pants, pink sweater, skirt, dress, heels, boots, black sneakers, opaque sunglasses, glasses hiding eyes, white/red/blue car, SUV, distorted car, asymmetric or extra headlights, visible logos, readable license plate, dry road, city, buildings, pedestrians, missing smoke, colored smoke, fire, smoke covering face, full daylight, complete darkness, harsh flash, silhouetted face, excessive HDR, fisheye, ultra-wide distortion, gigantic foreground sneaker, cropped head/feet/car, horizontal or square format, CGI, 3D render, illustration, anime, low resolution, blurry face, watermark, text, logo, AI artifacts.</div>
 
-        <button
-          class="copy-btn"
-          onclick="copyPrompt('negativePrompt', this, 'COPY NEGATIVE PROMPT')"
-        >
-          COPY NEGATIVE PROMPT
-        </button>
+        
 
       </section>
-
+<button
+  class="copy-btn"
+  onclick="copyAllPrompts(this)"
+>
+  COPY FULL PROMPT
+</button>
 
       <a
         class="back-link"
@@ -400,6 +395,45 @@ Ultra-photorealistic automotive × fashion editorial photography, sharp facial i
         }, 1800);
       }
     }
+
+    async function copyAllPrompts(button) {
+    const positive = document.getElementById("positivePrompt").innerText;
+    const negative = document.getElementById("negativePrompt").innerText;
+
+    const fullPrompt =
+        "POSITIVE PROMPT\n\n" +
+        positive +
+        "\n\nNEGATIVE PROMPT\n\n" +
+        negative;
+
+    const originalText = "COPY FULL PROMPT";
+
+    try {
+        await navigator.clipboard.writeText(fullPrompt);
+
+        button.innerText = "COPIED ✓";
+
+        setTimeout(() => {
+            button.innerText = originalText;
+        }, 1800);
+
+    } catch (error) {
+        const textarea = document.createElement("textarea");
+        textarea.value = fullPrompt;
+        document.body.appendChild(textarea);
+
+        textarea.select();
+        document.execCommand("copy");
+
+        document.body.removeChild(textarea);
+
+        button.innerText = "COPIED ✓";
+
+        setTimeout(() => {
+            button.innerText = originalText;
+        }, 1800);
+    }
+}
   </script>
 
 </body>
