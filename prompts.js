@@ -148,5 +148,34 @@ Luxury tropical editorial photography, realistic skin, natural optical bokeh, pr
 Photo format: vertical 4:5.`,
 
   negative: `wrong identity, blended face, generic AI woman, altered features, face swap, blue/green/gray/hazel eyes, brunette/black/red hair, short hair, excessively long hair, wig, yellow/orange blonde, mismatched face/body skin tone, orange skin, plastic/waxy skin, excessive smoothing, wrong/missing/duplicated flowers, roses, missing guava, whole guava, multiple fruit, wrong fruit, malformed guava, extra/missing/fused fingers, malformed hand, hand covering face, bad anatomy, exaggerated chest, wrong pose, extreme head tilt, wrong outfit, bikini, transparent clothing, busy background, additional people, fisheye, distorted face, CGI, anime, illustration, blurry, low resolution, watermark, text, AI artifacts.`
+{
+  id: "014",
+  title: "Stormy Sky Rebel Editorial",
+  image: "prompt-014.PNG",
+
+  positive: `Ultra-photorealistic vertical 4:5 low-angle outdoor fashion photograph of the exact woman from the identity reference, 23–27 years old. Use the composition reference ONLY for pose, camera angle, outfit, expression and stormy-sky setting.
+
+Preserve her exact recognizable identity: face shape, cheekbones, jawline, eyes, eyebrows, nose, lips and natural proportions. Preserve her exact natural eye color, skin tone and hair color. Never blend her with the reference model.
+
+Extreme low-angle perspective, camera near waist/hip level pointing upward. Frame from hips upward. Woman centered in the lower frame while a dramatic dark blue-gray cloudy sky fills about two-thirds of the image.
+
+She raises BOTH arms high, elbows bent outward, making a middle-finger gesture with BOTH hands. Five anatomically correct fingers per hand. Head slightly tilted back, looking toward camera with a playful rebellious tongue-out expression.
+
+NO HAT OR HEADWEAR. Hair loose and naturally windswept, preserving her exact identity-reference hair color.
+
+Outfit: oversized cropped light-heather-gray sweatshirt with long loose sleeves, lifted naturally by her raised arms. Underneath is a fitted PLAIN WHITE sports bra/crop top with absolutely NO TEXT, LOGO OR PRINT, exposing a natural section of midriff. Matching relaxed gray sweatpants.
+
+Natural feminine proportions; no exaggerated chest, hips, waist or abs.
+
+Background almost entirely filled with huge realistic stormy blue-gray clouds. No distracting buildings, crowds or objects.
+
+Soft directional cloudy daylight. Face, hands and body remain clearly exposed and sharply detailed.
+
+Maximum photorealism, 8K detail, realistic pores, hair strands, eyelashes, hands, fingers, tongue, sweatshirt fibers and cloud texture. Authentic spontaneous smartphone/editorial photograph, natural 24–28mm perspective, subtle HDR, no CGI appearance.
+
+Photo format: vertical 4:5.`,
+
+  negative: `different identity, reference-model face, blended face, generic AI woman, wrong eye/hair/skin color, hat, cap, bucket hat, sunglasses, text, logo, lettering on white top, arms lowered, one arm raised, wrong gesture, peace sign, cropped hands, extra fingers, missing fingers, fused fingers, malformed hands, extra arms, missing tongue, distorted tongue, closed mouth, wrong outfit, hoodie, patterned sports bra, exaggerated breasts, tiny waist, oversized hips, distorted anatomy, clear sky, sunset, indoor setting, crowds, fisheye, warped face, giant head, blurry face, blurry hands, low resolution, CGI, 3D render, illustration, anime, watermark, additional people, duplicate woman, AI artifacts.`
 }
+
 ];
