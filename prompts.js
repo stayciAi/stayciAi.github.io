@@ -271,5 +271,253 @@ Frame from hat to upper/mid-thigh, woman centered with enough coastline visible.
 Luxury Mediterranean resort campaign, sophisticated vacation editorial, realistic skin and anatomy, detailed blonde strands, woven hat fibers, crochet threads, jewelry and rock/water textures, natural depth, refined color grading, 8K photorealistic quality.`,
 
   negative: `wrong identity, blended face, generic AI model, altered facial features, face swap, brunette/black/red hair, short hair, excessively long hair, wig, blue/green/gray/hazel eyes, changed body proportions, exaggerated breasts/hips, tiny waist, elongated legs, face/body skin mismatch, excessive tan, orange skin, plastic/waxy skin, excessive smoothing, fake abs, malformed hands, extra/missing/fused fingers, bad anatomy, wrong hat, baseball cap, cowboy hat, floating hat, wrong outfit, swimsuit replacing crochet, dress, black clothing, malformed crochet, giant shells/starfish, floating jewelry, wrong pose, extreme hip thrust, artificial cliffs, fake ocean, pool, city, studio, nighttime, sunset, harsh flash, blown highlights, fisheye, distorted body, cropped hat/head, CGI, 3D render, anime, illustration, blurry, low resolution, watermark, logo, text, AI artifacts.`
+},
+  {
+  id: "018",
+  title: "Upside-Down Subway Fashion",
+  image: "prompt-018.png",
+
+  positive: `Ultra-realistic candid fashion photograph of a glamorous adult woman, approximately 24–28 years old, posing dramatically across the seats inside a modern subway / metro train. Recreate the supplied reference as closely as possible, preserving the unusual upside-down pose, body placement, camera angle, perspective distortion, train interior, blue seats, outfit styling, lighting and spontaneous editorial mood, while keeping long light-blonde hair and deep dark espresso-brown eyes.
+
+The woman has a slim feminine figure with natural realistic proportions, long proportional legs and anatomically correct posture. Her skin is light-to-medium warm beige with authentic pores, fine skin texture, subtle natural imperfections and realistic highlights from the bright train lighting.
+
+Her face has refined oval-to-heart-shaped feminine proportions, softly defined cheekbones, an elegant jawline, straight balanced nose and naturally full nude-pink lips. Her makeup is fresh and understated: softly defined brows, long natural lashes, subtle neutral eyeshadow, delicate blush and lightly glossy nude-pink lips.
+
+EYES MUST ALWAYS BE DEEP DARK ESPRESSO BROWN: rich dark chocolate-brown irises with realistic pupils and natural reflections, never blue, gray, green, hazel or amber. Her eyes are closed in this particular pose exactly as shown in the reference, but her underlying eye color remains dark espresso brown.
+
+HAIR MUST BE VERY LONG AND LIGHT BLONDE: luxurious light champagne-blonde hair extending well below the chest/waist when standing, with silky realistic texture and subtle dimensional blonde highlights. Because she is hanging upside down from the seat, her long hair falls naturally toward the train floor under gravity, spreading dramatically across the dark floor in the foreground. Individual strands and loose sections fan outward naturally, creating the same visual effect as the reference but with distinctly light-blonde coloring. No brunette hair and no visible dark roots.
+
+She wears the same casual Y2K-inspired outfit as the reference: a soft dusty-pink sleeveless/cropped top with distressed or raw-edge detailing, layered over a small white top visible underneath, paired with short black bottoms. White wired earphones run naturally from her ears across the pink top. She wears white crew socks with narrow black stripes and chunky white sneakers. Preserve realistic cotton fibers, seams, wrinkles, folds and natural fabric tension.
+
+POSE — RECREATE THE REFERENCE VERY CLOSELY: she lies unconventionally across two blue metro seats with her torso upside down. Her upper back and hips remain supported by the seats while her head hangs completely backward over the front edge toward the floor. Her extremely long blonde hair reaches and spreads across the floor beneath her head.
+
+One arm extends diagonally outward and downward toward the camera along the floor, with the relaxed hand lightly holding several strands of her hair. Her other arm remains closer to her body/seat. Her legs extend upward and backward along the seat area, with one leg raised almost vertically toward the ceiling and the other bent naturally beside it. Preserve believable balance, gravity, joint articulation and natural anatomy.
+
+Her head is inverted, eyes gently closed and lips relaxed, giving the photograph a carefree, spontaneous editorial feeling rather than a formal posed portrait.
+
+ENVIRONMENT — MATCH THE REFERENCE: interior of a clean modern subway/metro carriage with white and pale-gray wall panels, dark gray flooring, vivid blue upholstered seats with white molded bases, stainless-steel vertical and curved grab poles, a blue overhead rail and hanging triangular yellow/orange hand straps. Dark train windows and small black information/display screens line the wall behind her. Long rectangular fluorescent/LED ceiling panels illuminate the carriage.
+
+The carriage appears mostly empty, with additional rows of blue seats and metal poles receding into the distant left background. Preserve the strong architectural lines and depth of the original photograph.
+
+LIGHTING: bright cool-white overhead metro lighting mixed with a subtle direct-camera flash / high-exposure photographic effect. Her face and skin receive stronger illumination than the distant carriage while shadows remain visible beneath the seats and across the floor. Preserve slight highlight bloom, realistic reflections on metal poles and the somewhat raw point-and-shoot fashion-photography aesthetic of the reference.
+
+CAMERA & COMPOSITION: vertical 2:3 photograph taken from an extremely low position close to floor level, approximately 20–28 mm full-frame equivalent wide-angle lens. Camera points slightly upward and diagonally along the subway carriage. Her upside-down head and long blonde hair dominate the lower foreground, while her torso occupies the center and her raised legs lead upward toward the top of the frame. Strong wide-angle perspective and deep architectural lines emphasize the unusual pose.
+
+Authentic high-resolution candid fashion photography, realistic anatomy, natural gravity, individual blonde hairs, accurate skin microtexture, realistic fabric fibers, subtle photographic grain, slight point-and-shoot flash character and natural imperfections.
+
+Overall aesthetic: experimental Y2K subway fashion editorial, upside-down pose across blue metro seats, extremely long light-blonde hair cascading onto the floor, dusty-pink top, white sneakers, wired earphones, dramatic low-angle perspective and spontaneous analog-inspired urban photography.`,
+
+  negative: `short hair, medium-length hair, brunette hair, brown hair, black hair, red hair, auburn hair, dark roots, black roots, brown roots, blue eyes, gray eyes, green eyes, hazel eyes, amber eyes, hair floating upward against gravity, hair not touching floor, ponytail, bun, braids, different pose, sitting normally, standing, walking, upright portrait, head above seat, both feet on floor, both arms raised, looking directly at camera, smiling broadly, different outfit, dress, skirt, jeans, formal clothing, high heels, boots, barefoot, different colored seats, bus interior, airplane interior, car interior, train station platform, outdoor environment, crowded carriage, excessive passengers, warm sunset lighting, nightclub lighting, neon environment, extreme HDR, oversaturated colors, plastic skin, waxy skin, poreless skin, unrealistic body proportions, malformed anatomy, broken neck, impossible spine, extra arms, extra legs, duplicated limbs, extra fingers, fused fingers, malformed hands, malformed feet, duplicated shoes, floating body, incorrect gravity, CGI, 3D render, illustration, anime, doll-like face, excessive blur, watermark, random text, logo.`
+},
+  {
+  id: "019",
+  title: "Dark Boxing Gym",
+  image: "prompt-019.png",
+
+  positive: `Ultra-photorealistic vertical masculine boxing/fitness editorial photograph of an exceptionally muscular adult man, 28–30 years old, inside a dark professional boxing gym. Recreate the reference’s shirtless athletic physique, black boxing gloves, loose light-gray/off-white sweatpants, white sneakers, boxing ring/heavy bag, industrial atmosphere, overhead strip lights, sweat and dramatic sports lighting.
+
+The man is unmistakably adult, with a powerful but anatomically realistic physique: very broad shoulders, rounded deltoids, thick traps, large defined arms, muscular forearms, broad sculpted chest, narrow strong waist and sharply visible abs. No cartoonish or artificially inflated muscles.
+
+Strong masculine face with broad forehead, pronounced brow, defined cheekbones, straight substantial nose, angular jaw and chin. Focused, intense, confident expression, closed lips and serious gaze.
+
+EYES: always deep dark espresso/chocolate brown, with realistic dark irises, pupils and subtle catchlights. Never blue, green, gray, hazel or light.
+
+HAIR: short dense deep espresso-brown/near-black hair, approximately 2–4 cm on top with closely tapered sides. Masculine athletic haircut, natural individual strands.
+
+FACIAL HAIR — CRITICAL: neat short 2–5 mm dark beard across sideburns, lower cheeks, jaw and chin, but ABSOLUTELY NO MUSTACHE. Upper lip completely clean-shaven: no hair, stubble, shadow or beard connection beneath the nose.
+
+Skin is light-to-medium warm beige with golden/olive undertones. Real pores, subtle body hair, veins, pigmentation and natural perspiration. Sweat creates controlled highlights across shoulders, chest, arms and abs without oily/plastic skin.
+
+Completely shirtless. Large professional black leather boxing gloves with realistic padding, stitching, creases and slightly worn matte/semi-gloss leather. Minimal white wrist detailing, no readable logos.
+
+Loose light-gray/off-white sweatpants with gathered waistband and realistic soft folds. In full-body framing, clean chunky white athletic sneakers.
+
+PRIMARY POSE
+
+Frame approximately mid-thigh/waist upward beside or inside a boxing ring. Torso slightly angled while his head turns toward the camera. Both gloves raised in a compact fighting guard near chest/face, one slightly closer to the lens. Natural bent elbows, engaged shoulders and contracted abdomen.
+
+Horizontal boxing-ring ropes behind him. Dark industrial gym with indistinct equipment and boxing imagery fading into shadow.
+
+OPTIONAL FULL-BODY VARIATION
+
+Position him beside ONE large red-and-black cylindrical heavy punching bag suspended naturally from chains. He stands relaxed after training, one gloved arm near the bag and the other near his hip, ankles casually crossed. White sneakers fully visible.
+
+ENVIRONMENT & LIGHTING
+
+Authentic used professional boxing gym: dark rubber floor, ring ropes, heavy bags, steel structures, dark ceiling and subtle brick/industrial surfaces. Long narrow white LED/fluorescent strip lights create strong geometric lines overhead.
+
+Dramatic high-contrast directional sports lighting with controlled frontal/side key light. Bright highlights sculpt forehead, cheekbones, shoulders, chest, biceps, forearms and abs while deep shadows retain skin detail. Subtle rim separation allowed.
+
+Restrained palette: deep blacks, charcoal, muted brick red, punching-bag red, warm natural skin and off-white clothing. No orange bodybuilding tan or neon grading.
+
+Use 50–85mm full-frame lens for close portrait or 35–50mm for full body, natural perspective, subject tack-sharp with realistic gym depth. Authentic pores, beard hairs, sweat droplets, body hair, glove leather, fabric fibers and gym wear, subtle sensor grain, natural highlight roll-off, 8K-level professional sports-editorial detail.`,
+
+  negative: `underage, teenager, elderly, feminine, androgynous, skinny, obese, superhero anatomy, synthol, balloon muscles, cartoon muscles, malformed abs, distorted torso, extra/missing limbs, malformed hands, extra/missing/fused fingers, blue/green/gray/hazel/amber/light eyes, blonde/light-brown/red/gray/white hair, long hair, ponytail, man bun, bald, mustache, upper-lip hair, upper-lip stubble, mustache shadow, beard connected beneath nose, no beard, huge beard, shirt, tank top, hoodie, jeans, tight leggings, bare feet in full-body shot, tiny/red/deformed gloves, extra gloves, gloves fused with hands, duplicated/floating punching bag, opponent, active violence, blood, injuries, weapon, futuristic gym, living room, outdoor setting, neon/cyberpunk lighting, orange fake tan, excessive oil, plastic/waxy skin, fake sweat, fisheye, giant hands, tiny head, warped boxing ropes, blurry face/eyes, excessive HDR, crushed blacks, blown highlights, readable logos/text, watermark, CGI, 3D render, anime, illustration, synthetic AI fitness render.`
+},
+  {
+  id: "020",
+  title: "Sculpted Shadow Physique",
+  image: "prompt-020.png",
+
+  positive: `Ultra-photorealistic vertical dramatic masculine fitness editorial of an extremely muscular adult man, 30–36 years old, kneeling barefoot in a minimalist dark studio. Recreate the reference’s wide-knee kneeling pose, hands on thighs, side-turned head, low-rise dark denim and dramatic geometric sunlight/shadows.
+
+Extremely muscular but anatomically believable classic bodybuilding physique: very broad shoulders, massive rounded deltoids, thick traps and neck, powerful chest, large biceps/triceps, muscular forearms, compact waist and defined natural abs. Realistic muscle transitions, asymmetry and compression; never inflated or superhero-like.
+
+Strong masculine angular face, pronounced brow, cheekbones, substantial straight nose, powerful jaw and chin. Serious, controlled, introspective expression. Head turned approximately 50–70° toward the left, gaze following sideways rather than toward camera.
+
+EYES: always deep dark espresso/chocolate brown, realistic dark irises and subtle catchlights. Never blue, green, gray, hazel or light.
+
+HAIR: short dense deep espresso-brown/near-black hair, tapered sides, naturally textured 2–4 cm top. Never blonde/light/gray/red or long.
+
+FACIAL HAIR — CRITICAL: neat 2–5 mm dark beard across sideburns, lower cheeks, jaw and chin, but ABSOLUTELY NO MUSTACHE. Upper lip completely clean-shaven: no hair, stubble, shadow or connection beneath the nose.
+
+Skin is light-to-medium warm beige with subtle olive-bronze undertones. Real pores, pigmentation, body hair, veins and restrained perspiration. Slight natural sheen on shoulders, chest and arms without oily/plastic skin.
+
+Completely shirtless. Dark deep-indigo/blue-green denim jeans worn low on the waist, with a narrow dark underwear waistband subtly visible. Authentic denim weave, seams, pockets, stitching and realistic compression folds. No readable branding.
+
+POSE: kneeling directly on the floor with both knees spread widely apart, lower legs naturally folded behind. Pelvis slightly elevated above heels. Torso upright and powerful, shoulders slightly pulled back. Both hands rest firmly on the upper thighs, fingers naturally separated and pointing downward. Bare feet, realistic gravity and contact shadows.
+
+Vertical framing from approximately knees to head, with generous negative wall space. Camera around abdomen/lower-chest height, subtle low perspective, 50–70mm full-frame lens, minimal distortion.
+
+Minimal studio with smooth muted charcoal-teal/dark desaturated green-gray wall and matching matte floor, subtle plaster texture, absolutely no furniture or gym equipment.
+
+LIGHTING: hard directional natural sunlight entering through an unseen architectural opening, creating dramatic rectangular and diagonal shafts of light and shadow across the wall, floor and body. One bright shaft crosses portions of his face, neck, chest, shoulder and arm. Strong chiaroscuro with deep shadows while preserving anatomical detail. Sculptural highlights across clavicles, pectorals, shoulders and arms.
+
+Restrained palette of charcoal teal, desaturated green-gray, indigo denim, warm bronze-beige skin and near-black hair. Rich blacks, controlled highlights, subtle film grain and moderate depth of field.
+
+Authentic fine-art male physique photography, cinematic bodybuilding editorial, realistic skin pores, beard hairs, body hair, perspiration, vascularity, denim fibers, hands and feet, natural optical imperfections, professional full-frame photography, 8K-level editorial detail, completely photographic, not CGI.`,
+
+  negative: `underage, teenager, elderly, feminine, androgynous, skinny, obese, untrained physique, narrow shoulders, cartoon muscles, synthol, balloon muscles, superhero anatomy, impossible shoulders, malformed abs, tiny waist, distorted torso, extra/missing limbs, malformed hands/feet, extra/missing/fused fingers or toes, blue/green/gray/hazel/amber/light eyes, blonde/light-brown/red/gray/white hair, long hair, ponytail, man bun, bald, mustache, upper-lip hair, upper-lip stubble, mustache shadow, beard connected beneath nose, no beard, huge beard, shirt, tank top, jacket, sweatpants, shorts, shoes, socks, standing, chair, lying down, arms raised, looking at camera, smiling/laughing, aggressive expression, gym equipment, furniture, outdoor setting, neon lighting, ring light, flat lighting, missing geometric shadows, crushed-black body, blown highlights, orange fake tan, excessive oil, plastic/waxy skin, poreless skin, distorted denim, readable logos/text, fisheye, wide-angle distortion, tiny head, giant hands, blurry face, low resolution, watermark, CGI, 3D render, illustration, anime, synthetic AI fitness render.`
+},
+  {
+  id: "021",
+  title: "Industrial Bat Fitness",
+  image: "prompt-021.png",
+
+  positive: `Ultra-photorealistic vertical masculine fitness editorial portrait of an exceptionally muscular adult man, 25–30 years old, standing shirtless against a rough matte charcoal-black brick wall in a dark industrial training space. Recreate the reference aesthetic: powerful defined physique, backward charcoal cap, dark sweatpants, metallic baseball bat, dramatic directional lighting and stripped-down masculine fitness-campaign mood.
+
+He has a realistic aesthetic V-shaped physique: broad shoulders, rounded deltoids, developed biceps/triceps, vascular forearms, sculpted chest, narrow waist, defined obliques and sharp six-pack abs. Muscular and heavily trained but anatomically realistic, never cartoonishly oversized.
+
+Masculine angular face, strong brow, prominent cheekbones, straight nose, defined jaw and chin. Calm, serious, self-assured expression with direct eye contact.
+
+EYES: always deep dark espresso/chocolate brown, realistic dark irises, pupils and subtle catchlights. Never blue, green, gray, hazel or light.
+
+HAIR: short, dense deep espresso-brown/near-black hair, approximately 2–4 cm on top with shorter sides, partially visible beneath a backward dark charcoal-gray baseball cap. Never blonde or light-haired.
+
+FACIAL HAIR — CRITICAL: neat short dark beard, approximately 2–5 mm, covering sideburns, lower cheeks, jaw and chin, but ABSOLUTELY NO MUSTACHE. The entire upper lip is completely clean-shaven: no hair, stubble, shadow or beard connection beneath the nose.
+
+Warm medium golden-tan/bronze-beige skin with realistic pores, body hair, subtle imperfections, veins and restrained post-workout perspiration. Natural sheen across forehead, shoulders, chest, abs and arms without excessive oil.
+
+Completely shirtless. Dark charcoal-gray athletic sweatpants worn low on the hips, exposing the full abdomen. Realistic cotton texture and folds. Thin white drawstring tied loosely at the center.
+
+He holds ONE metallic aluminum baseball bat with both hands diagonally/horizontally across the lower torso. Left arm extends slightly outward/downward gripping the thicker barrel; right hand grips the handle near his right hip. Five anatomically correct fingers on each hand naturally wrapping around the bat. Realistic silver metal reflections; no readable branding.
+
+Standing almost front-facing with subtle shoulder asymmetry and slightly angled hips. Relaxed athletic posture, engaged abdomen without exaggerated bodybuilding flexing.
+
+Frame vertically from approximately mid-thigh upward. Camera near lower-chest height, 70–100mm full-frame portrait lens, minimal distortion.
+
+Background: rough charcoal-black painted brick/concrete-block wall, visible masonry texture, seams and imperfections, no distracting gym equipment.
+
+Dramatic directional key light from above/front camera-left, emphasizing forehead, cheekbones, shoulders, chest, arms and abs. Deep controlled shadows on the opposite side with enough fill to preserve facial and eye detail. Faint natural body shadow on wall.
+
+Restrained masculine palette: warm bronze skin, near-black hair, charcoal clothing, silver bat and black masonry. Moderate depth of field; face, eyes, torso, hands and bat sharply detailed.
+
+Authentic professional fitness photography, realistic anatomy, pores, perspiration, body hair, muscle striations, fabric fibers and metal reflections, subtle sensor grain, rich blacks, natural highlight roll-off, 8K-level editorial detail, late-2000s/early-2010s commercial fitness campaign aesthetic, completely photographic, not CGI.`,
+
+  negative: `underage, teenager, elderly, feminine, androgynous, skinny, obese, mass-monster physique, synthol, balloon muscles, cartoon muscles, impossible anatomy, tiny waist, malformed abs, extra limbs, malformed hands, extra/missing/fused fingers, blue/green/gray/hazel/amber/light eyes, blonde/light-brown/red/gray/white hair, long hair, ponytail, man bun, mustache, upper-lip hair, upper-lip stubble, mustache shadow, beard connected beneath nose, no beard, huge beard, shirt, tank top, jacket, shorts, jeans, forward cap, helmet, gym equipment, stadium, multiple bats, wooden bat, bent/floating bat, bat fused with hands/body, violent swinging pose, blood, injury, aggressive grimace, excessive body oil, orange fake tan, plastic/waxy skin, painted muscles, neon lighting, ring light, flat lighting, fisheye, distorted proportions, tiny head, giant hands, blurry face, low resolution, readable logos, watermark, text, CGI, 3D render, illustration, anime, synthetic AI appearance.`
+},
+  {
+  id: "022",
+  title: "Black Horse Monochrome",
+  image: "prompt-022.png",
+
+  positive: `Ultra-photorealistic square 1:1 black-and-white luxury equestrian fashion portrait of a handsome adult man, 27–32 years old, standing shirtless and closely embracing a magnificent large black horse. Recreate the reference composition: horse broadside filling most of the frame, head extending left, man pressed against its shoulder/neck near center-right, one hand flat on the horse’s shoulder and the opposite arm reaching over its back/withers.
+
+The man has a naturally athletic masculine physique: broad shoulders, defined arms and chest, strong forearms, narrow waist, realistic proportions and subtle natural chest/body hair. No exaggerated bodybuilding anatomy.
+
+Strong masculine face with defined brow, cheekbones, straight nose, angular jaw and projected chin. Serious, calm, introspective expression, lips closed. Head turned toward camera-right in a strong three-quarter/side profile, gaze slightly downward into the distance.
+
+EYES: always deep dark espresso/chocolate brown, appearing naturally very dark in monochrome with subtle catchlights.
+
+HAIR: dense deep espresso-brown/near-black short hair, 3–5 cm textured top with shorter tapered sides, slightly tousled and swept naturally backward.
+
+FACIAL HAIR — CRITICAL: short rugged dark 2–5 mm beard across sideburns, lower cheeks, jawline and chin, but ABSOLUTELY NO MUSTACHE. Upper lip completely clean-shaven: no hair, stubble, shadow or beard connection beneath the nose.
+
+Realistic light-to-medium warm beige/olive skin translated naturally into monochrome. Preserve pores, follicles, body hair, tiny imperfections, veins and authentic skin texture.
+
+POSE & HORSE
+
+His bare torso gently presses against the horse’s shoulder/lower neck. One open palm rests naturally against the horse’s shoulder, five anatomically correct fingers following its curvature. His opposite arm reaches over the horse’s neck/back, hand resting gently across the withers. Interaction feels calm, trusting and intimate, never aggressive.
+
+Large anatomically accurate black warmblood/thoroughbred-type horse, muscular and elegant. Horse head faces left in calm profile, ears forward, dark relaxed eye, realistic muzzle, nostrils and whiskers. Deep glossy black coat with detailed charcoal/silver highlights revealing neck, shoulder and body musculature. Natural dark mane with individual hairs.
+
+Minimal dark leather bridle with anatomically correct straps, subtle buckles, rings and metallic bit. No saddle.
+
+STUDIO & LIGHTING
+
+Minimal seamless pale gray/off-white studio background, no scenery or props.
+
+Classic large soft directional key light from upper-left/front-left. Sculptural highlights across the horse’s face and coat and the man's forehead, cheekbone, shoulder, arms and hands. Deep charcoal shadows retain texture and detail.
+
+Entire image in sophisticated neutral black and white: velvety blacks, charcoal midtones, luminous silver-gray highlights and soft off-white background. Horse remains darker than the man for clear tonal separation. Subtle analog monochrome film grain and gentle highlight roll-off.
+
+COMPOSITION & QUALITY
+
+Square 1:1 framing. Horse fills almost the entire composition: head in left third, neck crossing behind the man, torso dominating right side. Man occupies central third, cropped around lower waist/hips. His bright bare shoulder contrasts elegantly against the black horse.
+
+Use 85–105mm full-frame portrait lens, natural compression, no distortion. Man’s face and horse’s head/visible eye sharply resolved with slightly softer rear body.
+
+Extreme photographic detail: individual beard and hair strands, pores, body hair, hand tendons, horse coat hairs, mane, whiskers, leather grain, metal hardware and subtle film grain.
+
+Timeless luxury fragrance campaign × fine-art equestrian editorial, restrained masculine elegance, authentic monochrome film photography, high-resolution realism.`,
+
+  negative: `underage, teenager, elderly, feminine, androgynous, huge bodybuilder, steroid physique, exaggerated muscles, distorted anatomy, extra/missing limbs, malformed hands, extra/missing/fused fingers, man fused with horse, hands fused into horse, blue/green/gray/hazel/amber/light eyes, blonde/light/red/gray/white hair, long hair, ponytail, man bun, bald, mustache, upper-lip hair, upper-lip stubble, mustache shadow, beard connected beneath nose, no beard, huge/long beard, excessive body hair, completely hairless body, shirt, jacket, suit, hat, sunglasses, smiling, laughing, looking directly at camera, white/brown/gray/spotted horse, pony, foal, multiple horses, fantasy horse, unicorn, malformed horse, extra horse limbs/head, aggressive/rearing horse, saddle, decorative tack, floating bridle, plastic horse coat, outdoor setting, stable, field, forest, beach, fence, black background, colored/neon lighting, color photo, sepia, crushed horse detail, blown background, excessive HDR, plastic/waxy skin, excessive smoothing, fisheye, warped proportions, motion blur, blurry face/horse eye, low resolution, text, watermark, logo, CGI, 3D render, illustration, anime, painting, synthetic AI render.`
+},
+  {
+  id: "023",
+  title: "Melancholic Coastal Portrait",
+  image: "prompt-023.png",
+
+  positive: `Ultra-photorealistic vertical 9:16 cinematic analog coastal portrait of an adult man, 24–28 years old, lying curled on his side among rough wet shoreline stones beside a quiet gray-green sea. Recreate the reference’s intimate melancholic composition: body diagonal across the lower-right frame, head resting naturally on one bent forearm, opposite tattooed forearm crossing close to the camera, oversized washed-black clothing, rocky shoreline and muted seawater behind him.
+
+Naturally masculine lean-athletic physique, realistic proportions and anatomy. Quiet, tired, introspective expression; lips relaxed, gaze subdued toward the camera. Natural cheek compression where his face rests against his arm.
+
+EYES: always deep dark espresso/chocolate brown, nearly black-brown around the limbal ring, realistic pupils and tiny overcast-sky catchlights.
+
+HAIR: short deep espresso-brown/near-black hair, 2–4 cm textured top with shorter tapered sides, naturally tousled and slightly flattened by humidity and his lying position.
+
+FACIAL HAIR — CRITICAL: short dark 2–5 mm beard across sideburns, lower cheeks, jaw and chin, but ABSOLUTELY NO MUSTACHE. Upper lip completely clean-shaven: no hair, stubble, shadow or beard connection beneath the nose.
+
+Light-to-medium warm beige skin with subtle neutral-olive undertones. Preserve pores, follicles, under-eye texture, tiny imperfections and realistic masculine skin—no beauty filtering.
+
+POSE & TATTOOS
+
+He lies very low in an almost fetal-like curled posture. One forearm acts as a pillow beneath his head. The opposite arm crosses toward the lens, making the tattooed forearm, wrist and hand prominent foreground elements. Relaxed hand with anatomically correct five fingers, realistic knuckles, tendons and nails. Simple silver band ring on one finger.
+
+Multiple authentic-looking black-and-gray tattoos cover portions of the hand, wrist and forearm: aged overlapping illustrative motifs, symbols, subtle lettering fragments and shading. Tattoos follow skin curvature, remain embedded beneath natural skin texture and never resemble digital stickers or readable AI gibberish.
+
+CLOTHING
+
+Oversized washed charcoal-black long-sleeved sweatshirt/top and very dark trousers. Heavy relaxed cotton with visible fibers, seams, faded charcoal highlights and broad natural folds created by the curled posture.
+
+ENVIRONMENT
+
+Dense irregular rocky shoreline with varied wet and dry stones in charcoal, gray, muted brown, olive, rust and mossy tones. No repeated rock patterns.
+
+Behind him, subdued gray-green/slate-blue seawater fills much of the upper frame. Small waves move between shoreline rocks with delicate realistic pale foam and irregular ripples. No tropical turquoise water or dramatic surf.
+
+Soft overcast coastal daylight, diffused across his face, hand, clothing and wet rocks. Black clothing retains shadow detail.
+
+CAMERA & ANALOG STYLE
+
+Camera extremely close at head/arm level and slightly above him. His face sits lower-left/center, black-clothed torso fills much of the right side, and tattooed forearm runs diagonally through the foreground. Foreground hand appears naturally somewhat larger than his face.
+
+Use 28–35mm full-frame equivalent lens, documentary perspective with mild foreground enlargement but no fisheye distortion. Focus on his visible eye, face and tattooed arm; distant rocks and water gradually soften.
+
+Authentic 35mm film / early-2000s editorial aesthetic: moderate-low contrast, gently lifted blacks, warm faded beige skin, deep charcoal clothing, earthy rocks, dusty gray-green sea, fine-to-medium film grain, subtle scanning texture, mild highlight bloom, slight chromatic irregularities and natural optical softness.
+
+Mood: quiet, vulnerable, masculine, introspective and slightly melancholic, like an unplanned analog photograph beside cold coastal water. Ultra-realistic photographic texture, natural imperfections, authentic anatomy, cinematic documentary intimacy.`,
+
+  negative: `underage, teenager, elderly, feminine, androgynous, huge bodybuilder, exaggerated muscles, distorted anatomy, broken pose, extra/missing limbs, malformed hands, extra/missing/fused fingers, impossible thumb, extreme giant hand, distorted face, plastic/waxy skin, beauty filter, blue/green/gray/hazel/amber/light eyes, blonde/light/red/gray/white hair, long hair, ponytail, man bun, bald, mustache, upper-lip hair, upper-lip stubble, mustache shadow, beard connected beneath nose, no beard, huge beard, shirtless, white/colorful clothing, hat, sunglasses, excessive jewelry, smiling, laughing, crying, screaming, standing, sitting, swimming, sandy/tropical beach, palm trees, resort, yacht, bright turquoise water, huge waves, storm, hard sunlight, sunset, studio lighting, neon light, missing tattoos, duplicated/floating tattoos, readable tattoo gibberish, digital-sticker tattoos, uniform/repeated rocks, CGI water, excessive HDR, oversaturation, orange skin, extreme bokeh, portrait-mode halo, fisheye, warped shoreline, blurry face/eyes, excessive sharpening, low resolution, text, watermark, logo, CGI, 3D render, illustration, anime, painting, synthetic AI render.`
 }
 ];
