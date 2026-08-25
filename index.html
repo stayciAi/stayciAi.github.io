@@ -8,7 +8,6 @@
   <title>AI Queens — Stayci & Di</title>
 
   <style>
-
     * {
       box-sizing: border-box;
     }
@@ -52,7 +51,6 @@
     .page {
       width: 100%;
       max-width: 760px;
-
       margin: 0 auto;
     }
 
@@ -85,7 +83,6 @@
       white-space: nowrap;
 
       font-weight: 700;
-
       line-height: 1.25;
     }
 
@@ -100,7 +97,6 @@
       letter-spacing: 3px;
 
       text-transform: uppercase;
-
       line-height: 1.7;
     }
 
@@ -195,10 +191,6 @@
       align-items: start;
     }
 
-    .prompt-grid .prompt-card {
-      margin-top: 0;
-    }
-
     .prompt-card {
       display: block;
 
@@ -207,16 +199,12 @@
 
       padding: 24px;
 
-      background:
-        rgba(255, 255, 255, 0.70);
+      background: rgba(255, 255, 255, 0.70);
 
-      border:
-        1px solid rgba(191, 151, 94, 0.35);
-
+      border: 1px solid rgba(191, 151, 94, 0.35);
       border-radius: 26px;
 
       color: #5c463d;
-
       text-decoration: none;
 
       transition:
@@ -246,8 +234,7 @@
 
       transform: rotate(18deg);
 
-      transition:
-        left 2.4s ease-in-out;
+      transition: left 2.4s ease-in-out;
 
       pointer-events: none;
     }
@@ -285,13 +272,12 @@
         filter 1.2s ease;
     }
 
-    .prompt-image-005 {
+    .prompt-image.position-top {
       object-position: center top;
     }
 
     .prompt-card:hover .prompt-image {
       transform: scale(1.02);
-
       filter: brightness(1.03);
     }
 
@@ -324,6 +310,18 @@
       letter-spacing: 0.5px;
     }
 
+    .empty-message {
+      grid-column: 1 / -1;
+
+      text-align: center;
+
+      padding: 30px 10px;
+
+      color: #8a7165;
+
+      font-size: 15px;
+    }
+
     .footer {
       text-align: center;
 
@@ -335,15 +333,12 @@
     }
 
     @media (max-width: 700px) {
-
       .prompt-grid {
         grid-template-columns: 1fr;
       }
-
     }
 
     @media (max-width: 600px) {
-
       body {
         padding: 12px 8px 35px;
       }
@@ -353,9 +348,7 @@
 
         padding: 34px 16px 28px;
       }
-
     }
-
   </style>
 
 </head>
@@ -367,11 +360,9 @@
 
     <section class="main-card">
 
-
       <div class="brand">
         AI Queens ♛ Stayci &amp; Di
       </div>
-
 
       <div class="subtitle">
         Official Prompt Collection
@@ -397,13 +388,7 @@
           >
             <rect x="3" y="3" width="18" height="18" rx="5"></rect>
             <circle cx="12" cy="12" r="4"></circle>
-            <circle
-              cx="17.5"
-              cy="6.5"
-              r="1"
-              fill="currentColor"
-              stroke="none"
-            ></circle>
+            <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"></circle>
           </svg>
         </a>
 
@@ -464,320 +449,110 @@
       </div>
 
 
-      <div class="prompt-grid">
-
-
-        <!-- 001 -->
-
-        <a class="prompt-card" href="/p/001/">
-
-          <img
-            class="prompt-image"
-            src="prompt-001.png"
-            alt="Cinematic Automotive Fashion"
-          />
-
-          <div class="prompt-number">
-            PROMPT #001
-          </div>
-
-          <div class="prompt-title">
-            Cinematic Automotive Fashion
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 002 -->
-
-        <a class="prompt-card" href="/p/002/">
-
-          <img
-            class="prompt-image"
-            src="prompt-002.png"
-            alt="Ruby Rain Luxury Editorial"
-          />
-
-          <div class="prompt-number">
-            PROMPT #002
-          </div>
-
-          <div class="prompt-title">
-            Ruby Rain Luxury Editorial
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 003 -->
-
-        <a class="prompt-card" href="/p/003/">
-
-          <img
-            class="prompt-image"
-            src="prompt-003.PNG"
-            alt="Luxury Elevator Mirror Selfie"
-          />
-
-          <div class="prompt-number">
-            PROMPT #003
-          </div>
-
-          <div class="prompt-title">
-            Luxury Elevator Mirror Selfie
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 004 -->
-
-        <a class="prompt-card" href="/p/004/">
-
-          <img
-            class="prompt-image"
-            src="prompt-004.PNG"
-            alt="Luxury Lace Elevator Selfie"
-          />
-
-          <div class="prompt-number">
-            PROMPT #004
-          </div>
-
-          <div class="prompt-title">
-            Luxury Lace Elevator Selfie
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 005 -->
-
-        <a class="prompt-card" href="/p/005/">
-
-          <img
-            class="prompt-image prompt-image-005"
-            src="prompt-005.PNG"
-            alt="Champagne Piano Haute Couture"
-          />
-
-          <div class="prompt-number">
-            PROMPT #005
-          </div>
-
-          <div class="prompt-title">
-            Champagne Piano Haute Couture
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 006 -->
-
-        <a class="prompt-card" href="/p/006/">
-
-          <img
-            class="prompt-image"
-            src="prompt-006.png"
-            alt="Cozy Couple Mirror Selfie"
-          />
-
-          <div class="prompt-number">
-            PROMPT #006
-          </div>
-
-          <div class="prompt-title">
-            Cozy Couple Mirror Selfie
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 007 -->
-
-        <a class="prompt-card" href="/p/007/">
-
-          <img
-            class="prompt-image"
-            src="prompt-007.png"
-            alt="Convertible Summer Romance"
-          />
-
-          <div class="prompt-number">
-            PROMPT #007
-          </div>
-
-          <div class="prompt-title">
-            Convertible Summer Romance
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 008 -->
-
-        <a class="prompt-card" href="/p/008/">
-
-          <img
-            class="prompt-image"
-            src="prompt-008.PNG"
-            alt="Emerald Motorcycle Luxury Editorial"
-          />
-
-          <div class="prompt-number">
-            PROMPT #008
-          </div>
-
-          <div class="prompt-title">
-            Emerald Motorcycle Luxury Editorial
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 009 -->
-
-        <a class="prompt-card" href="/p/009/">
-
-          <img
-            class="prompt-image"
-            src="prompt-009.PNG"
-            alt="Turquoise Shark Lagoon"
-          />
-
-          <div class="prompt-number">
-            PROMPT #009
-          </div>
-
-          <div class="prompt-title">
-            Turquoise Shark Lagoon
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 010 -->
-
-        <a class="prompt-card" href="/p/010/">
-
-          <img
-            class="prompt-image"
-            src="prompt-010.PNG"
-            alt="Morning Pancake Kitchen Editorial"
-          />
-
-          <div class="prompt-number">
-            PROMPT #010
-          </div>
-
-          <div class="prompt-title">
-            Morning Pancake Kitchen Editorial
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 011 -->
-
-        <a class="prompt-card" href="/p/011/">
-
-          <img
-            class="prompt-image"
-            src="prompt-011.png"
-            alt="Elegant Couple Mirror Selfie"
-          />
-
-          <div class="prompt-number">
-            PROMPT #011
-          </div>
-
-          <div class="prompt-title">
-            Elegant Couple Mirror Selfie
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-        <!-- 012 -->
-
-        <a class="prompt-card" href="/p/012/">
-
-          <img
-            class="prompt-image"
-            src="prompt-012.PNG"
-            alt="Golden Hour Driver Editorial"
-          />
-
-          <div class="prompt-number">
-            PROMPT #012
-          </div>
-
-          <div class="prompt-title">
-            Golden Hour Driver Editorial
-          </div>
-
-          <div class="open">
-            VIEW PROMPT →
-          </div>
-
-        </a>
-
-
-      </div>
+      <div
+        class="prompt-grid"
+        id="promptGrid"
+      ></div>
 
 
       <div class="footer">
         © AI Queens — Stayci &amp; Di
       </div>
 
-
     </section>
 
   </main>
+
+
+  <script src="prompts.js"></script>
+
+  <script>
+
+    const promptGrid =
+      document.getElementById("promptGrid");
+
+
+    if (!Array.isArray(prompts) || prompts.length === 0) {
+
+      promptGrid.innerHTML = `
+        <div class="empty-message">
+          No prompts added yet.
+        </div>
+      `;
+
+    } else {
+
+      prompts.forEach(prompt => {
+
+        const card =
+          document.createElement("a");
+
+        card.className =
+          "prompt-card";
+
+        card.href =
+          `prompt.html?id=${encodeURIComponent(prompt.id)}`;
+
+
+        const image =
+          document.createElement("img");
+
+        image.className =
+          "prompt-image";
+
+        if (prompt.imagePosition === "top") {
+          image.classList.add("position-top");
+        }
+
+        image.src =
+          prompt.image;
+
+        image.alt =
+          prompt.title;
+
+
+        const number =
+          document.createElement("div");
+
+        number.className =
+          "prompt-number";
+
+        number.textContent =
+          `PROMPT #${prompt.id}`;
+
+
+        const title =
+          document.createElement("div");
+
+        title.className =
+          "prompt-title";
+
+        title.textContent =
+          prompt.title;
+
+
+        const open =
+          document.createElement("div");
+
+        open.className =
+          "open";
+
+        open.textContent =
+          "VIEW PROMPT →";
+
+
+        card.appendChild(image);
+        card.appendChild(number);
+        card.appendChild(title);
+        card.appendChild(open);
+
+        promptGrid.appendChild(card);
+
+      });
+
+    }
+
+  </script>
 
 </body>
 
