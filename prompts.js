@@ -244,6 +244,7 @@ Luxury Maldives/private-island fashion campaign, authentic vacation photography,
   id: "017",
   title: "Turquoise Mediterranean Coast Editorial",
   image: "prompt-017.png",
+  imagePosition: "top",
 
   positive: `Ultra-photorealistic vertical 9:16 luxury Mediterranean coastal fashion portrait of the exact young adult woman from the identity reference, 23–27 years old. Recreate the scene reference’s standing pose, upward-turned head, turquoise crochet resortwear, woven bucket hat, jewelry, rocky coastline, vivid blue sea and bright vacation atmosphere.
 
