@@ -8,6 +8,7 @@
   <title>AI Queens — Prompt</title>
 
   <style>
+
     * {
       box-sizing: border-box;
     }
@@ -20,17 +21,20 @@
 
     body {
       min-height: 100vh;
+
       padding: 24px 12px 50px;
 
       font-family: Arial, Helvetica, sans-serif;
       color: #5c463d;
 
       background: transparent;
+
       position: relative;
     }
 
     body::before {
       content: "";
+
       position: fixed;
       inset: -10px;
 
@@ -48,6 +52,7 @@
     .page {
       width: 100%;
       max-width: 760px;
+
       margin: 0 auto;
     }
 
@@ -67,8 +72,12 @@
       -webkit-backdrop-filter: blur(8px);
     }
 
+
+    /* BRAND */
+
     .brand {
       text-align: center;
+
       margin-bottom: 28px;
     }
 
@@ -82,6 +91,7 @@
 
       font-size: clamp(24px, 4vw, 42px);
       font-weight: 700;
+
       line-height: 1.25;
 
       white-space: nowrap;
@@ -98,6 +108,9 @@
       text-transform: uppercase;
     }
 
+
+    /* DIVIDER */
+
     .divider {
       width: 46%;
       height: 1px;
@@ -112,6 +125,9 @@
       );
     }
 
+
+    /* PROMPT HEADER */
+
     .prompt-number {
       text-align: center;
 
@@ -119,6 +135,7 @@
 
       font-size: 13px;
       font-weight: 800;
+
       letter-spacing: 2px;
 
       margin-bottom: 14px;
@@ -132,13 +149,19 @@
       color: #654d43;
 
       font-family: Georgia, "Times New Roman", serif;
+
       font-size: clamp(27px, 5vw, 36px);
       font-weight: 700;
+
       line-height: 1.2;
     }
 
+
+    /* PROMPT BOXES */
+
     .prompt-box {
       margin-top: 22px;
+
       padding: 26px;
 
       background: rgba(255, 255, 255, 0.62);
@@ -157,6 +180,7 @@
 
       font-size: 13px;
       font-weight: 800;
+
       letter-spacing: 2px;
     }
 
@@ -169,10 +193,14 @@
       white-space: pre-line;
     }
 
+
+    /* COPY BUTTON */
+
     .copy-btn {
       width: 100%;
 
       margin-top: 26px;
+
       padding: 16px 24px;
 
       border: none;
@@ -185,6 +213,7 @@
 
       font-size: 12px;
       font-weight: 800;
+
       letter-spacing: 1px;
 
       cursor: pointer;
@@ -204,8 +233,12 @@
         0 8px 22px rgba(168, 120, 54, 0.22);
     }
 
+
+    /* BACK */
+
     .back-link {
       display: block;
+
       width: fit-content;
 
       margin: 26px auto 0;
@@ -214,6 +247,7 @@
 
       font-size: 12px;
       font-weight: 700;
+
       letter-spacing: 1px;
 
       text-decoration: none;
@@ -222,6 +256,9 @@
     .back-link:hover {
       text-decoration: underline;
     }
+
+
+    /* FOOTER */
 
     .footer {
       margin-top: 30px;
@@ -233,21 +270,32 @@
       font-size: 12px;
     }
 
-    .error {
+
+    /* LOADING / ERROR */
+
+    .status-message {
       text-align: center;
+
+      padding: 38px 10px;
+
       color: #8a7165;
+
       font-size: 16px;
       line-height: 1.6;
-      padding: 30px 10px;
     }
 
+
+    /* MOBILE */
+
     @media (max-width: 600px) {
+
       body {
         padding: 12px 8px 35px;
       }
 
       .main-card {
         padding: 34px 16px 28px;
+
         border-radius: 30px;
       }
 
@@ -266,15 +314,22 @@
       .prompt-text {
         font-size: 15px;
       }
+
     }
+
   </style>
+
 </head>
+
 
 <body>
 
   <div class="page">
 
     <main class="main-card">
+
+
+      <!-- BRAND -->
 
       <header class="brand">
 
@@ -288,52 +343,86 @@
 
       </header>
 
+
       <div class="divider"></div>
 
-      <div id="promptContent"></div>
+
+      <!-- DYNAMIC CONTENT -->
+
+      <div id="promptContent">
+
+        <div class="status-message">
+          Loading prompt...
+        </div>
+
+      </div>
+
+
+      <!-- BACK -->
 
       <a
         class="back-link"
-        href="/"
+        href="./"
       >
         ← BACK TO PROMPT LIBRARY
       </a>
+
+
+      <!-- FOOTER -->
 
       <div class="footer">
         © AI Queens — Stayci &amp; Di
       </div>
 
+
     </main>
 
   </div>
 
+
+  <!-- PROMPT DATABASE -->
+
   <script src="prompts.js"></script>
 
+
   <script>
-    const params = new URLSearchParams(window.location.search);
-    const id = params.get("id");
 
-    const prompt = prompts.find(item => item.id === id);
+    const params =
+      new URLSearchParams(window.location.search);
 
-    const container = document.getElementById("promptContent");
+    const id =
+      params.get("id");
 
-    if (!prompt) {
+    const container =
+      document.getElementById("promptContent");
+
+
+    function showError(message) {
+
       container.innerHTML = `
-        <div class="error">
-          Prompt not found.
+        <div class="status-message">
+          ${message}
         </div>
       `;
-    } else {
-      document.title = `AI Queens — Prompt #${prompt.id}`;
+
+    }
+
+
+    function renderPrompt(prompt, positive, negative) {
+
+      document.title =
+        `AI Queens — Prompt #${prompt.id}`;
+
 
       container.innerHTML = `
+
         <div class="prompt-number">
           PROMPT #${prompt.id}
         </div>
 
-        <h2 class="prompt-title">
-          ${prompt.title}
-        </h2>
+
+        <h2 class="prompt-title"></h2>
+
 
         <section class="prompt-box">
 
@@ -348,6 +437,7 @@
 
         </section>
 
+
         <section class="prompt-box">
 
           <div class="prompt-label">
@@ -361,29 +451,212 @@
 
         </section>
 
+
         <button
           class="copy-btn"
           onclick="copyAllPrompts(this)"
         >
           COPY FULL PROMPT
         </button>
+
       `;
 
+
+      document.querySelector(".prompt-title").textContent =
+        prompt.title;
+
+
       document.getElementById("positivePrompt").innerText =
-        prompt.positive || "";
+        positive || "";
+
 
       document.getElementById("negativePrompt").innerText =
-        prompt.negative || "";
+        negative || "";
+
+    }
+
+
+    async function loadLegacyPrompt(prompt) {
+
+      try {
+
+        const response =
+          await fetch(`p/${prompt.id}/index.html`);
+
+
+        if (!response.ok) {
+
+          throw new Error(
+            `Could not load old prompt page: ${response.status}`
+          );
+
+        }
+
+
+        const html =
+          await response.text();
+
+
+        const parser =
+          new DOMParser();
+
+
+        const doc =
+          parser.parseFromString(
+            html,
+            "text/html"
+          );
+
+
+        const positiveElement =
+          doc.querySelector("#positivePrompt");
+
+
+        const negativeElement =
+          doc.querySelector("#negativePrompt");
+
+
+        if (!positiveElement) {
+
+          throw new Error(
+            "Positive prompt was not found in the old page."
+          );
+
+        }
+
+
+        const positive =
+          positiveElement.innerText.trim();
+
+
+        const negative =
+          negativeElement
+            ? negativeElement.innerText.trim()
+            : "";
+
+
+        renderPrompt(
+          prompt,
+          positive,
+          negative
+        );
+
+
+      } catch (error) {
+
+        console.error(error);
+
+
+        showError(
+          "This prompt could not be loaded."
+        );
+
+      }
+
+    }
+
+
+    async function startPromptPage() {
+
+
+      if (
+        typeof prompts === "undefined" ||
+        !Array.isArray(prompts)
+      ) {
+
+        showError(
+          "Prompt database could not be loaded."
+        );
+
+        return;
+
+      }
+
+
+      if (!id) {
+
+        showError(
+          "No prompt selected."
+        );
+
+        return;
+
+      }
+
+
+      const prompt =
+        prompts.find(
+          item => item.id === id
+        );
+
+
+      if (!prompt) {
+
+        showError(
+          "Prompt not found."
+        );
+
+        return;
+
+      }
+
+
+      /*
+        OLD PROMPTS #001–#012
+        Load content from old /p/XXX/index.html
+      */
+
+      if (prompt.legacy === true) {
+
+        await loadLegacyPrompt(prompt);
+
+        return;
+
+      }
+
+
+      /*
+        NEW PROMPTS #013+
+        Load content directly from prompts.js
+      */
+
+      renderPrompt(
+        prompt,
+        prompt.positive || "",
+        prompt.negative || ""
+      );
+
     }
 
 
     async function copyAllPrompts(button) {
 
+      const positiveElement =
+        document.getElementById(
+          "positivePrompt"
+        );
+
+
+      const negativeElement =
+        document.getElementById(
+          "negativePrompt"
+        );
+
+
+      if (!positiveElement) {
+        return;
+      }
+
+
       const positive =
-        document.getElementById("positivePrompt").innerText.trim();
+        positiveElement.innerText.trim();
+
 
       const negative =
-        document.getElementById("negativePrompt").innerText.trim();
+        negativeElement
+          ? negativeElement.innerText.trim()
+          : "";
+
 
       const fullPrompt =
         "POSITIVE PROMPT\n\n" +
@@ -391,43 +664,89 @@
         "\n\nNEGATIVE PROMPT\n\n" +
         negative;
 
+
       const originalText =
         "COPY FULL PROMPT";
 
+
       try {
 
-        await navigator.clipboard.writeText(fullPrompt);
+        await navigator.clipboard.writeText(
+          fullPrompt
+        );
 
-        button.innerText = "COPIED ✓";
+
+        button.innerText =
+          "COPIED ✓";
+
 
         setTimeout(() => {
-          button.innerText = originalText;
+
+          button.innerText =
+            originalText;
+
         }, 1800);
+
 
       } catch (error) {
 
+
         const textarea =
-          document.createElement("textarea");
+          document.createElement(
+            "textarea"
+          );
 
-        textarea.value = fullPrompt;
 
-        document.body.appendChild(textarea);
+        textarea.value =
+          fullPrompt;
+
+
+        textarea.style.position =
+          "fixed";
+
+
+        textarea.style.opacity =
+          "0";
+
+
+        document.body.appendChild(
+          textarea
+        );
+
 
         textarea.select();
 
-        document.execCommand("copy");
 
-        document.body.removeChild(textarea);
+        document.execCommand(
+          "copy"
+        );
 
-        button.innerText = "COPIED ✓";
+
+        document.body.removeChild(
+          textarea
+        );
+
+
+        button.innerText =
+          "COPIED ✓";
+
 
         setTimeout(() => {
-          button.innerText = originalText;
+
+          button.innerText =
+            originalText;
+
         }, 1800);
 
       }
+
     }
+
+
+    startPromptPage();
+
   </script>
+
 
 </body>
 
