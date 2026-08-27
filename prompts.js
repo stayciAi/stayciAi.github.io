@@ -1340,6 +1340,7 @@ Photorealistic image, preserve the exact identities and recognizable facial feat
   id: "041",
   title: "Ivory Garden",
   image: "prompt-041.png",
+  imagePosition: "center 25%",
 
   positive: `Ultra-realistic luxury romantic couture portrait of a beautiful young adult woman, 23–27 years old, outdoors in an elegant lush garden with soft greenery and delicate pale flowers. Recreate the pose, framing, white couture styling, flower at the lips, pearl jewelry, soft garden setting and dreamy atmosphere.
 
@@ -1371,6 +1372,7 @@ Ultra-photorealistic luxury couture photography, exact identity, light blonde up
   id: "042",
   title: "Silver Tide",
   image: "prompt-042.png",
+  imagePosition: "center 20%",
 
   positive: `Ultra-realistic cinematic luxury fashion photograph of a glamorous young adult woman, approximately 23–27 years old, kneeling gracefully in shallow ocean surf during a soft pastel sunset. Recreate the reference's kneeling pose, body orientation, flowing smoky silver-gray gown, dramatic long train, breaking waves, camera perspective and romantic cinematic mood, while preserving the target woman's exact established facial identity, natural appearance and authentic body proportions.
 
