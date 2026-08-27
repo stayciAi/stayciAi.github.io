@@ -1334,5 +1334,132 @@ The composition is tight and closely framed, concentrating entirely on the inter
 Photorealistic image, preserve the exact identities and recognizable facial features of the people from reference photos 1 and 2, photo 3 as the visual reference for pose, composition, framing, lighting, and atmosphere, natural anatomy and proportions, realistic skin texture, highly detailed hands and fingers, realistic silver-white hair strands, matte black fabrics, cool cinematic side lighting, deep controlled shadows, pure black background, dramatic chiaroscuro, intimate close-up composition, shallow depth of field, sophisticated photography, cinematic film-still aesthetic, ultra-detailed textures, premium image quality, 8K resolution.`,
 
   negative: `changed identity, different woman, different man, blended faces, face swap, generic AI faces, altered facial features, distorted face, incorrect facial proportions, additional people, duplicated people, wrong pose, lips touching, full kiss, faces far apart, both looking at camera, man's eyes open, woman's eyes open, exaggerated smile, aggressive expression, exaggerated sexual pose, incorrect hand placement, missing hand on neck, choking gesture, hand covering face, missing wrist support, hands not interacting, short hair on woman, blonde hair, brunette hair, black hair on woman, yellow hair, incorrect silver-white hair, straight hair on man, blonde hair on man, wrong clothing, white clothing, colorful clothing, missing V-neck shirt, missing high-neck sweater, distorted anatomy, extra arms, missing arms, extra hands, malformed hands, extra fingers, missing fingers, fused fingers, broken wrists, distorted neck, distorted shoulders, plastic skin, waxy skin, excessive smoothing, artificial hair, bright background, gray background, visible environment, warm orange lighting, harsh flash, flat lighting, blown highlights, crushed facial detail, excessive HDR, CGI, 3D render, illustration, anime, painting, excessive blur, low resolution, watermark, logo, text, AI artifacts.`
+},
+  {
+  id: "041",
+  title: "Ivory Garden",
+  image: "prompt-041.png",
+
+  positive: `Ultra-realistic luxury romantic couture portrait of a beautiful young adult woman, 23–27 years old, outdoors in an elegant lush garden with soft greenery and delicate pale flowers. Recreate the pose, framing, white couture styling, flower at the lips, pearl jewelry, soft garden setting and dreamy atmosphere.
+
+IDENTITY IS THE HIGHEST PRIORITY: preserve her exact recognizable facial structure, proportions, eyes, eyebrows, nose, lips, cheekbones, jawline, chin, natural body proportions and complexion. Never copy, blend or redesign another woman's identity.
+
+She has light blonde hair styled in a soft romantic updo with natural volume, loose face-framing strands, baby hairs and flyaways. Hair remains clearly blonde with creamy/beige-blonde variation.
+
+Her eyes are rich deep brown, with realistic dark chocolate irises and natural catchlights. Face, neck, shoulders, décolletage and body must have one seamless natural skin tone. Preserve realistic pores, peach fuzz and subtle skin imperfections.
+
+Sophisticated romantic makeup: defined brown eyes, winged eyeliner, separated lashes, natural brows, soft blush, subtle contour and muted rose-nude glossy lips.
+
+POSE: she leans subtly toward the camera, shoulders gently angled, head slightly tilted, looking confidently into the lens. A small fresh white flower rests delicately between her lips, slightly toward one side, without hiding her face.
+
+OUTFIT: luxurious ivory-white corset ensemble with satin, delicate lace, subtle semi-sheer mesh, visible corset structure and enormous airy translucent organza/chiffon puff sleeves. Flowing sheer ivory fabric creates romantic volume around the body. Preserve her natural anatomy without enlarged breasts, tiny waist or exaggerated curves.
+
+Add a refined multi-strand cream pearl choker with a small jeweled clasp, delicate pearl earrings and subtle fine gold jewelry. Realistic pearl, metal, lace and translucent fabric textures.
+
+BACKGROUND: elegant secluded garden with mature trees, lush green foliage and clusters of small white blossoms, softly transitioning into natural creamy bokeh.
+
+LIGHTING: soft diffused natural daylight, flattering and dimensional, preserving skin texture and full detail in white fabrics. Gentle highlights on face, pearls and translucent sleeves with natural soft shadows.
+
+CAMERA: framed approximately from upper thighs/hips upward, 70–85mm portrait lens, sharp focus on face and eyes, shallow natural depth of field.
+
+Ultra-photorealistic luxury couture photography, exact identity, light blonde updo, deep brown eyes, seamless complexion, natural proportions, white flower at lips, ivory corset, huge translucent sleeves, pearl jewelry, romantic garden, realistic skin/fabric/botanical microtexture, premium 8K photography.`,
+
+  negative: `wrong identity, blended face, generic AI model, altered facial structure, changed nose, enlarged lips, doll face, face-swap artifacts, dark/brunette/black/red/short hair, wig, plastic hair, blue/green/gray/hazel/light eyes, wrong eye color, face-body skin mismatch, orange skin, fake tan, plastic/waxy/poreless skin, excessive smoothing, changed body proportions, enlarged breasts, tiny waist, exaggerated hips, bad anatomy, extra limbs, malformed hands, extra/fused fingers, missing flower, oversized/plastic flower, flower covering face, wrong outfit, black/colorful clothing, missing corset, missing puff sleeves, malformed lace/mesh, exposed nipples, excessive transparency, missing pearls, oversized/floating jewelry, indoor/studio/city/beach background, fake garden, harsh flash, neon lighting, blown whites, fisheye, distorted face/body, cropped head, CGI, 3D render, anime, illustration, blur, low resolution, AI artifacts, watermark, logo, text.`
+},
+  {
+  id: "042",
+  title: "Silver Tide",
+  image: "prompt-042.png",
+
+  positive: `Ultra-realistic cinematic luxury fashion photograph of a glamorous young adult woman, approximately 23–27 years old, kneeling gracefully in shallow ocean surf during a soft pastel sunset. Recreate the reference's kneeling pose, body orientation, flowing smoky silver-gray gown, dramatic long train, breaking waves, camera perspective and romantic cinematic mood, while preserving the target woman's exact established facial identity, natural appearance and authentic body proportions.
+
+IDENTITY PRESERVATION IS THE HIGHEST PRIORITY. Preserve her exact recognizable face: face shape, forehead, cheekbones, natural cheek volume, eyes, eyebrows, nose, lips, jawline, chin and subtle natural asymmetry. Do not blend with or copy the reference model's identity.
+
+Her eyes remain deep dark espresso-brown. Her hair remains naturally long and light blonde, wet from seawater and falling in soft separated strands around the shoulders and upper back. Include realistic creamy/champagne-blonde variation, slightly darker wet roots, individual strands and subtle movement from the coastal breeze. Never copy dark hair from the reference.
+
+Preserve her authentic shoulder width, bust, ribcage, waist, hips, thighs, arms and overall silhouette. No enlarged bust, tiny waist, exaggerated hips or altered anatomy.
+
+Maintain one seamless natural complexion across the face, neck, shoulders, décolletage, arms, hands and visible legs. Render realistic wet skin with pores, peach fuzz, tiny seawater droplets, natural imperfections and physically accurate highlights.
+
+POSE & EXPRESSION
+
+She kneels in very shallow water near the shoreline, lower legs folded naturally beneath/beside her. Her torso rises elegantly upright with a subtle natural arch.
+
+Her head tilts gently backward, chin slightly elevated, eyes softly closed and lips relaxed. Expression: serene, sensual, free and emotionally immersed in the ocean.
+
+Both arms descend naturally beside her body, hands resting close to the thighs and wet gown. Perfect anatomical shoulders, elbows, wrists, hands and fingers.
+
+GOWN
+
+She wears an extraordinary floor-length smoky silver-gray couture gown with a deep elegant V neckline, delicate narrow straps, fitted bodice and enormous flowing skirt with an extended train.
+
+Fabric: layered translucent chiffon, silk organza and fluid semi-sheer material in smoky silver, cool taupe-gray, muted blue-gray and subtle pearlescent champagne.
+
+The enormous train spreads diagonally toward the lower-left foreground, partly floating in shallow water and partly resting on reflective wet sand.
+
+Render realistic wet/dry fabric behavior: translucent layers, fine weave, seams, wrinkles, water-darkened areas, wet fabric clinging naturally around parts of the legs and hips, flowing folds and physically believable weight. Elegant coverage, no unintended nudity.
+
+OCEAN & SUNSET
+
+A small wave breaks naturally around her knees and gown with realistic white foam, translucent blue-gray/green water, droplets and fine spray.
+
+Behind her, dramatic layered ocean waves roll toward shore, including a larger breaking wave behind her body. Preserve realistic wave translucency, irregular foam, bubbles, currents and reflections.
+
+The sunset remains subtle and photographic: peach, dusty rose, pale coral and soft gold near the horizon. No fantasy sky.
+
+Lighting combines warm sunset illumination with cool reflected ocean light. Add delicate warm highlights around wet blonde hair, face, shoulders and gown edges while maintaining realistic shadow detail.
+
+Color palette: steel-blue ocean, smoky silver gown, natural warm skin and restrained peach-pink sunset.
+
+CAMERA & COMPOSITION
+
+Woman centered in the lower-middle frame with substantial ocean and waves surrounding and behind her. Keep the entire important gown train visible.
+
+Camera positioned relatively low at approximately kneeling-torso height, several meters away. Use approximately 70–85mm full-frame equivalent perspective with natural compression and moderate depth of field.
+
+The woman, nearest gown folds, water and immediate wave remain highly detailed; distant waves and horizon soften naturally.
+
+Final aesthetic: international luxury fragrance campaign / couture fashion photography photographed on a real ocean shoreline — romantic, powerful, elegant and completely photographic.
+
+Ultra-photorealistic, exact facial identity, natural body proportions, long wet light-blonde hair, deep dark-brown eyes, seamless complexion, smoky silver-gray couture gown, dramatic wet train, kneeling in ocean surf, breaking waves, pastel sunset, realistic seawater and wet skin, cinematic natural lighting, premium photography, 8K detail.`,
+
+  negative: `different identity, reference-model face, blended face, generic influencer, altered facial structure, enlarged lips, doll face, face-swap artifacts, dark/brunette/red/short hair, excessively long hair, synthetic wig, blue/green/gray/hazel/light eyes, wrong eye color, changed body proportions, enlarged breasts, tiny waist, exaggerated hips, stretched limbs, distorted anatomy, face/body skin mismatch, orange skin, fake tan, plastic skin, wax skin, poreless skin, excessive smoothing, extra limbs, malformed hands, extra/missing/fused fingers, broken wrists, distorted knees, impossible kneeling pose, extreme back arch, wrong pose, standing, lying, floating, wrong head position, stiff posture, wrong dress color, black/white/red/blue/gold dress, short dress, latex dress, missing train, short train, excessive transparency, nudity, plastic fabric, rigid chiffon, floating fabric, duplicated train, fabric fused with body, pool, lake, tropical lagoon, flat sea, missing waves, CGI water, duplicated waves, artificial foam, frozen splash, water passing through body, excessive splash covering face, storm, lightning, fantasy sky, giant moon, neon sunset, exaggerated orange/purple sky, harsh flash, studio lighting, neon lighting, excessive HDR, blown highlights, crushed shadows, excessive teal-orange grading, fisheye, extreme wide angle, distorted body, giant head/hands, cropped head, cropped train, CGI, 3D render, illustration, anime, fantasy art, obvious AI appearance, blurry face, low-detail skin/fabric/ocean, pixelation, oversharpening, watermark, logo, text.`
+},
+  {
+  id: "043",
+  title: "Blush Roses",
+  image: "prompt-043.png",
+
+  positive: `Ultra-realistic luxury lifestyle mirror selfie of a glamorous young adult woman, approximately 23–27 years old, standing in an elegant contemporary apartment while holding an enormous bouquet of pale blush-pink roses. Recreate the mirror-selfie composition, standing pose, smartphone placement, oversized rounded gold-framed mirror, huge rose bouquet, pink floral corset, neutral luxury interior and soft natural daylight.
+
+IDENTITY IS THE HIGHEST PRIORITY. Preserve her exact recognizable facial identity, natural facial geometry, eye shape, eyebrows, nose, lips, cheekbones, jawline, chin, subtle asymmetry, complexion and authentic body proportions. Never blend, average or replace her identity.
+
+Her eyes remain deep dark espresso-brown with realistic iris detail and window-light catchlights. Her gaze is naturally directed toward the smartphone screen.
+
+Her hair remains long and light blonde, styled into an elegant sleek low bun / gathered updo, with realistic blonde roots, baby hairs, subtle face-framing strands and flyaways. Never inherit dark hair.
+
+Preserve one seamless natural complexion across the face, neck, shoulders, décolletage, arms and hands, with realistic pores, peach fuzz and subtle imperfections. No face/body color mismatch or plastic retouching.
+
+Maintain her natural body proportions: authentic shoulders, bust, ribcage, waist, hips, torso and arms. No enlarged bust, tiny waist or exaggerated hourglass figure.
+
+POSE: standing in front of the mirror with a subtle three-quarter torso rotation. One arm holds a modern smartphone vertically around eye level; the other supports the enormous bouquet. Hands and fingers must be anatomically correct.
+
+She wears a romantic strapless blush-pink couture corset with structured boning, subtle semi-sheer mesh and dimensional chiffon/organza floral appliqués. Realistic fabric pressure, stitching and layered petals. Add small elegant pearl earrings and nude/blush almond-shaped manicure.
+
+The bouquet is extremely large, luxurious and rounded, containing dozens of individually detailed garden roses in powder pink, blush, dusty rose and creamy pink. Realistic layered petals, natural irregularity and no cloned flower patterns. Wrap it in sculptural layers of translucent frosted white and pale-blush florist paper.
+
+COMPOSITION: photographed entirely through a large elegant rounded/arched mirror with a thin brushed-gold frame. Woman positioned upper-center/right; enormous bouquet dominates the lower-left/center without covering her face.
+
+INTERIOR: sophisticated minimalist apartment with warm off-white/greige walls, subtle paneling, cream sofa, understated décor and a delicate dried-branch arrangement. Clean, elegant and believable.
+
+LIGHTING: soft directional natural window daylight with slightly moody interior exposure. Gentle illumination across face, shoulders, pink corset and roses, with realistic shadows beneath the jaw and between flower petals. No flash or aggressive HDR.
+
+Mirror reflection and perspective must be physically coherent. Smartphone proportions, camera module and grip must look real.
+
+Premium 35–50mm smartphone/full-frame-equivalent perspective, moderate depth of field, authentic smartphone photography and realistic optics.
+
+Ultra-photorealistic luxury Instagram mirror selfie, exact identity, long light-blonde hair in low updo, deep dark-brown eyes, seamless complexion, natural proportions, enormous blush-pink rose bouquet, dimensional pink floral corset, gold rounded mirror, elegant neutral apartment, soft daylight, realistic skin, flowers, fabric and reflections, 8K-level detail.`,
+
+  negative: `wrong identity, reference-model face, blended face, generic influencer, altered facial structure, changed nose, enlarged lips, doll face, face-swap artifacts, dark/brunette/red/short hair, wig, blue/green/gray/hazel/light eyes, wrong eye color, face-body skin mismatch, orange skin, fake tan, plastic/waxy/poreless skin, excessive smoothing, changed body proportions, enlarged breasts, tiny waist, exaggerated hips, elongated arms, bad anatomy, extra arms, malformed hands, extra/missing/fused fingers, broken wrists, distorted phone grip, duplicated phone, duplicated woman, incorrect mirror reflection, warped mirror, wrong pose, sitting, kneeling, stiff pose, missing bouquet, tiny/sparse bouquet, bouquet covering face, red/yellow/dark roses, plastic flowers, cloned roses, repeated petals, malformed flowers, floating bouquet, wrong outfit, dress, casual clothing, missing corset, flat printed flowers, malformed corset, excessive transparency, clothing fused with skin, harsh flash, neon lighting, excessive pink filter, blown highlights, crushed shadows, excessive HDR, fisheye, giant phone, giant hand, distorted body, warped architecture, cluttered interior, outdoor setting, background people, CGI, 3D render, anime, illustration, obvious AI appearance, blurry face, blurry eyes, low-detail flowers, pixelation, oversharpening, watermark, logo, text.`
 }
 ];
