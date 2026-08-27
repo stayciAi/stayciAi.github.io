@@ -1215,5 +1215,124 @@ Captured as an authentic luxury private-party photograph, sophisticated champagn
 Three-quarter portrait from approximately mid-thigh upward, woman occupying the center-right of the frame, champagne-glass arrangement filling the lower-left foreground, server's gloved hand and bottle entering from the far left, soft white curtains filling the entire background.`,
 
   negative: `brunette hair, black hair, red hair, short hair, bob haircut, pixie cut, hair appearing naturally short, fully loose hairstyle, high ponytail, high bun, blue eyes, green eyes, gray eyes, hazel eyes, wrong pose, front-facing pose, looking directly at camera, exaggerated expression, broad smile, wrong dress, white dress, red dress, long dress, sleeves, closed sides, missing feather trim, white feathers, colored feathers, malformed feathers, cheap fabric, matte satin, missing necklace, missing earrings, excessive jewelry, fake diamonds, oversized jewelry, missing champagne glass, wine glass, tumbler, plastic glass, malformed crystal, opaque glass, duplicated glass in hand, missing black bow, oversized bow, malformed glass pyramid, floating glasses, broken glass, server fully visible, extra people, missing white glove, malformed server hand, extra fingers, missing fingers, fused fingers, distorted hands, champagne bottle fused with hand, bottle floating, incorrect pouring angle, distorted anatomy, exaggerated body proportions, plastic skin, waxy skin, excessive smoothing, artificial beauty filter, harsh shadows, blown highlights, excessive flash, dark curtains, colored curtains, cluttered background, CGI, 3D render, illustration, anime, low resolution, blurry face, watermark, logo, text, AI artifacts.`
+},
+  {
+  id: "036",
+  title: "Timeless Embrace",
+  image: "prompt-036.PNG",
+
+  positive: `Without changing the appearance or facial features of the people from photos 1 and 2, use photo 3 as the reference for the composition, pose, framing, lighting, and overall emotional atmosphere.
+
+In this black-and-white image, an intimate and touching scene captures a man and a woman embracing in a tender gesture of closeness, affection, and trust. The woman stands facing the man with her eyes gently closed and a soft, peaceful smile on her face, expressing inner serenity and quiet happiness. Her head is slightly tilted forward, while her arms are wrapped naturally around the man's neck, creating a strong sense of protection, connection, and emotional unity.
+
+The smooth skin of the woman's bare back is visible, delicately illuminated by soft side lighting that emphasizes its natural texture and the graceful, flowing lines of her body. The lighting remains refined and subtle, creating gentle tonal transitions across her silhouette.
+
+The man is wearing a dark shirt with a clearly visible, tactile fabric texture. He leans his head slightly forward and gently kisses the woman on the forehead, conveying warmth, tenderness, care, and affection in this quiet moment. His face is softly but clearly illuminated, revealing realistic skin texture and subtle stubble along his chin and jawline, adding masculinity, depth, and natural realism to his appearance.
+
+A delicate balance between light and shadow creates expressive monochrome contrast, giving the composition emotional depth while emphasizing both the strength and tenderness of their connection. The black-and-white treatment features rich tonal gradation, deep blacks, luminous highlights, and beautifully controlled midtones.
+
+The background is softly blurred and neutral, keeping all attention focused on the couple and reinforcing the feeling of privacy, intimacy, and comfort. The composition is carefully constructed so that the viewer's eye naturally follows the lines of their bodies and embrace, capturing a sincere moment of emotional attachment.
+
+The overall mood is filled with harmony, tenderness, trust, and quiet happiness. The photograph feels sophisticated, elegant, and timeless, preserving an authentic moment of closeness between two people as though frozen in time.
+
+Photorealistic black-and-white photography, preserve the exact identity and recognizable facial features of the people from reference photos 1 and 2, photo 3 as the visual reference for pose and composition, realistic skin texture, natural anatomy, soft directional side lighting, delicate highlights and shadows, cinematic monochrome tonality, shallow depth of field, subtle film-like character, highly detailed fabric and skin textures, premium photography, ultra-high quality, 8K resolution.`,
+
+  negative: `changed identity, different woman, different man, blended identity, face swap, generic AI faces, altered facial features, changed face shape, changed eyes, changed nose, changed lips, changed jawline, distorted face, duplicated people, additional people, incorrect pose, wrong embrace, forehead kiss missing, kissing lips, woman looking at camera, woman's eyes open, exaggerated smile, aggressive expression, unnatural body positioning, distorted anatomy, extra arms, missing arms, extra hands, malformed hands, extra fingers, missing fingers, fused fingers, distorted neck, distorted shoulders, plastic skin, waxy skin, excessive skin smoothing, unrealistic skin texture, incorrect lighting, harsh flash, flat lighting, blown highlights, crushed shadows, color image, sepia, oversaturated tones, busy background, sharp distracting background, CGI, 3D render, illustration, anime, painting, excessive blur, low resolution, watermark, logo, text, AI artifacts.`
+},
+  {
+  id: "037",
+  title: "Silent Connection",
+  image: "prompt-037.PNG",
+
+  positive: `Without changing the appearance or facial features of the people from photos 1 and 2, use photo 3 as the reference for the pose, composition, framing, lighting, and overall emotional atmosphere.
+
+A young man and woman are portrayed in a tender, emotionally intimate moment against a softly illuminated light-colored wall with a subtle, blurred marble pattern.
+
+The woman stands slightly behind the man, leaning gently toward him. Her eyes are closed, and her expression conveys calmness, serenity, and quiet emotional closeness. Her long black hair falls naturally and freely down her back and over one shoulder, adding softness and fluidity to the composition. One of her arms is wrapped gently around the man's shoulder, resting naturally against his dark shirt. Her neatly manicured nails are painted a deep, dark shade, creating a subtle visual accent.
+
+The man is wearing a dark, understated shirt without bright colors or reflective elements. The texture of the fabric is clearly visible under the soft, naturally diffused lighting, which creates delicate shadows and emphasizes the material's realistic structure and folds.
+
+He stands upright with his head slightly raised and turned into a subtle profile. His gaze is directed upward and forward, beyond the frame, creating an atmosphere of contemplation, introspection, and quiet aspiration. His curly dark-brown hair is slightly tousled, giving him a natural, effortless appearance. His skin retains a realistic, natural tone, with smooth transitions between light and shadow emphasizing the structure of his face, jawline, and neck.
+
+The composition is carefully balanced so that both figures blend harmoniously with the luminous background, creating a strong sense of intimacy, emotional connection, and silent support between them. Their body language feels natural and understated, conveying closeness without appearing overly posed.
+
+The atmosphere is infused with subtle warmth and emotional depth while maintaining a restrained simplicity and authenticity. This quiet tension gives the scene a cinematic quality and strong visual depth, as though it were a still frame from an intimate contemporary film.
+
+Photorealistic image, preserve the exact identities and recognizable facial features of the people from reference photos 1 and 2, photo 3 as the visual reference for pose and composition, natural anatomy and proportions, realistic skin texture, detailed curly hair and flowing hair strands, soft diffused natural lighting, delicate highlights and shadows, realistic dark fabric texture, subtle marble background, shallow depth of field, cinematic composition, intimate photography, highly detailed textures, premium image quality, ultra-realistic, 8K resolution.`,
+
+  negative: `changed identity, different woman, different man, blended faces, face swap, generic AI faces, altered facial features, distorted face, incorrect facial proportions, additional people, duplicated people, wrong pose, woman standing in front of man, woman looking at camera, woman's eyes open, exaggerated smile, man looking at camera, man looking downward, incorrect head position, wrong embrace, missing arm around shoulder, short hair on woman, blonde hair, red hair, woman's hair tied up, straight short hair on man, blonde hair on man, incorrect curly hair, bright shirt, white shirt, reflective clothing, distorted anatomy, unnatural body proportions, extra arms, missing arms, extra hands, malformed hands, extra fingers, missing fingers, fused fingers, distorted shoulders, distorted neck, plastic skin, waxy skin, excessive skin smoothing, artificial skin texture, harsh flash, hard lighting, flat lighting, blown highlights, crushed shadows, dark background, busy background, sharp marble pattern, outdoor setting, CGI, 3D render, illustration, anime, painting, excessive blur, low resolution, watermark, logo, text, AI artifacts.`
+},
+  {
+  id: "038",
+  title: "Before the Kiss",
+  image: "prompt-038.PNG",
+
+  positive: `Without changing the appearance or facial features of the people from photos 1 and 2, use photo 3 as the reference for the pose, composition, framing, lighting, and overall emotional atmosphere.
+
+In this quiet and intimate scene, a man and a woman stand face-to-face in profile, their faces almost touching as they pause in the tender moment just before a kiss.
+
+The man has short, thick, curly dark hair and gently tilts his head downward toward the woman. His complexion is light and natural, while his expression remains calm, focused, and affectionate. He is wearing a dark brown corduroy jacket, its distinctive ribbed texture emphasized by soft folds around the shoulder and sleeves. A white shirt is subtly visible underneath, creating a gentle contrast with the deep brown tones of the jacket.
+
+The woman, slightly shorter than the man, tilts her face upward toward him. Her eyes are closed and a soft, relaxed smile rests on her lips, conveying trust, tenderness, and peaceful anticipation. Her long platinum-blonde hair falls freely around her shoulders and is gently lifted by the breeze, with individual strands moving naturally and adding a subtle sense of motion to the otherwise still composition.
+
+She is wearing a plaid blazer in warm brown, taupe, and gray tones, with the woven texture and check pattern of the fabric clearly visible. A white blouse can be seen underneath, softly complementing the muted, natural color palette of the scene.
+
+The background consists of a softly blurred natural landscape beneath a subdued sky, rendered in delicate gray, beige, and muted earthy tones. The shallow depth of field completely separates the couple from their surroundings, reinforcing the feeling of privacy, tranquility, and emotional intimacy.
+
+Soft, diffused daylight gently illuminates their faces and clothing, creating subtle shadows that define their facial features, profiles, and the textures of the fabrics without introducing harsh contrast. The light feels natural and atmospheric, giving the image depth and dimensionality while preserving the authenticity of the moment.
+
+The composition captures the delicate tension of two people suspended just before a kiss—their closeness, warmth, and quiet emotional connection expressed through subtle body language rather than exaggerated gestures. Every detail feels spontaneous and believable, as though the photograph captured a genuine private moment rather than a deliberately posed scene.
+
+Photorealistic image, preserve the exact identities and recognizable facial features of the people from reference photos 1 and 2, photo 3 as the visual reference for pose, composition, framing, and atmosphere, natural anatomy and proportions, realistic skin texture, detailed curly dark hair, realistic platinum-blonde hair moving gently in the wind, highly detailed corduroy and plaid fabric textures, soft overcast daylight, delicate natural shadows, muted earthy color palette, shallow depth of field, cinematic romantic photography, subtle film-like character, intimate aesthetic, ultra-realistic details, premium image quality, 8K resolution.`,
+
+  negative: `changed identity, different woman, different man, blended faces, face swap, generic AI faces, altered facial features, distorted face, incorrect facial proportions, additional people, duplicated people, wrong pose, kissing already, lips touching, faces far apart, front-facing pose, both looking at camera, woman's eyes open, exaggerated smile, aggressive expression, incorrect height difference, man shorter than woman, wrong head position, short hair on woman, brunette woman, black hair on woman, red hair on woman, tied hair, ponytail, bun, incorrect platinum-blonde hair, straight hair on man, blonde hair on man, long hair on man, wrong clothing, black leather jacket, denim jacket, suit, wrong blazer, missing plaid pattern, missing corduroy texture, distorted anatomy, unnatural proportions, extra arms, missing arms, malformed hands, extra fingers, fused fingers, distorted neck, distorted shoulders, plastic skin, waxy skin, excessive smoothing, artificial hair, harsh sunlight, harsh flash, flat lighting, excessive contrast, oversaturated colors, busy background, sharp background, indoor setting, city background, CGI, 3D render, illustration, anime, painting, excessive blur, low resolution, watermark, logo, text, AI artifacts.`
+},
+  {
+  id: "039",
+  title: "Elevator Tension",
+  image: "prompt-039.PNG",
+
+  positive: `Without changing the appearance or facial features of the people from photos 1 and 2, use photo 3 as the reference for the pose, composition, framing, lighting, and overall emotional atmosphere.
+
+Inside a narrow space resembling a modern elevator with metallic walls, two people stand extremely close to one another, creating an almost tangible atmosphere of emotional intimacy and quiet tension.
+
+The man leans slightly toward the woman, his head almost touching her face. He looks at her with a subtle, thoughtful expression, while his body is naturally turned toward her. One hand rests casually inside the pocket of his trousers, while the other is partially concealed by the surrounding shadows. He is dressed in a light-colored tailored suit jacket with matching trousers and a crisp white shirt. The fabric has a soft, matte texture, and the gently diffused lighting subtly emphasizes the clean lines of his silhouette, creating a delicate contrast against the cool metallic surfaces of the elevator.
+
+The woman stands upright beside him, her hands tucked naturally into the pockets of a long, double-breasted dark brown coat with a subtle, refined fabric texture. The collar of the coat is slightly raised, framing her neck and face. Beneath it, a light-colored blouse with a deep neckline is visible, giving her appearance an effortless sense of elegance and sophistication.
+
+Her face is gently turned toward the man, her eyes closed, creating a feeling of calmness, trust, and complete immersion in the moment. Their proximity and restrained body language communicate intimacy without exaggerated gestures, making the interaction feel natural, private, and emotionally charged.
+
+Soft overhead lighting gently wraps around both figures, producing delicate highlights and subtle reflections across the metallic wall behind them. These muted reflections enhance the feeling of isolation and privacy within the confined space. The shadows are deep yet smooth and controlled, carefully defining the contours of their bodies, faces, and clothing while adding cinematic depth and a subtle sense of mystery.
+
+The composition is strict, minimalist, and visually balanced. The cold, understated metallic elevator interior serves as a contrasting backdrop to the warmth and emotional tension between the couple. This contrast creates a uniquely restrained yet tender atmosphere, resembling a frozen frame from an intimate cinematic drama—a fleeting moment in which time seems to slow down between two people deeply connected to one another.
+
+Photorealistic image, preserve the exact identities and recognizable facial features of the people from reference photos 1 and 2, photo 3 as the visual reference for pose, composition, framing, and atmosphere, natural anatomy and proportions, realistic skin texture, highly detailed matte suit and coat fabrics, brushed-metal elevator surfaces, subtle realistic reflections, soft overhead cinematic lighting, deep controlled shadows, muted neutral color palette, intimate photography, shallow cinematic depth, sophisticated film-still aesthetic, subtle emotional tension, premium image quality, ultra-detailed textures, 8K resolution.`,
+
+  negative: `changed identity, different woman, different man, blended faces, face swap, generic AI faces, altered facial features, distorted face, incorrect facial proportions, additional people, duplicated people, wrong pose, couple standing far apart, kissing, exaggerated embrace, woman looking at camera, woman's eyes open, man looking at camera, exaggerated expressions, aggressive expression, incorrect body positioning, wrong clothing, dark suit on man, casual clothing on man, T-shirt, jeans, wrong coat on woman, short coat, light brown coat, missing double-breasted coat, missing coat pockets, hands outside pockets, missing white shirt, missing blouse, distorted anatomy, unnatural proportions, extra arms, missing arms, malformed hands, extra fingers, missing fingers, fused fingers, distorted neck, distorted shoulders, plastic skin, waxy skin, excessive skin smoothing, incorrect metallic reflections, mirror-like elevator walls, excessive reflections, harsh flash, flat lighting, blown highlights, crushed shadows, bright colorful lighting, neon lighting, warm wooden elevator, outdoor setting, busy background, CGI, 3D render, illustration, anime, painting, excessive blur, low resolution, watermark, logo, text, AI artifacts.`
+},
+  {
+  id: "040",
+  title: "Almost a Kiss",
+  image: "prompt-040.PNG",
+
+  positive: `Without changing the appearance or facial features of the people from photos 1 and 2, use photo 3 as the reference for the pose, composition, framing, lighting, and overall emotional atmosphere.
+
+A young couple is portrayed in an intimate and tender moment shaped by soft, cool-toned lighting, with particular emphasis on their faces, hands, and subtle physical interaction.
+
+The man, with dark, slightly wavy hair, leans closely toward the woman, his lips almost touching hers. His eyes are closed, conveying a sense of complete immersion, trust, and emotional closeness. He is wearing a black V-neck shirt made from matte fabric that fits closely to his body, subtly emphasizing the definition of his neck, shoulders, and chest.
+
+The woman has long, flowing silver-white hair and gently tilts her head backward, allowing the man to move closer. Her eyes are closed, and her expression conveys serenity, trust, and quiet devotion. She is dressed in a dark, fitted high-neck sweater made from thin, smooth fabric that follows the elegant lines of her silhouette.
+
+The man holds the back and side of her neck firmly yet delicately with one hand, his fingers naturally intertwined with strands of her silver-white hair. His other hand gently supports her wrist, while the woman holds his hand against her upper chest, reinforcing the sense of emotional connection and tenderness between them.
+
+The background is completely black, eliminating all visual distractions and intensifying the dramatic atmosphere. The darkness creates a striking contrast between illuminated skin, silver-white hair, and the couple's dark clothing, giving the scene a profound sense of intimacy and emotional depth.
+
+Soft, cool directional light falls from the side, revealing realistic skin texture and delicately sculpting the contours of their faces, lips, hands, fingers, and necks. Smooth transitions between highlights and deep shadows create cinematic dimensionality while preserving the softness and intimacy of the moment.
+
+The composition is tight and closely framed, concentrating entirely on the interaction between the two figures—the near-kiss, closed eyes, intertwined hands, subtle gestures, and emotional expressions. The result conveys restrained sensuality, tenderness, trust, and lyrical romantic tension, resembling a carefully composed still from an intimate cinematic drama.
+
+Photorealistic image, preserve the exact identities and recognizable facial features of the people from reference photos 1 and 2, photo 3 as the visual reference for pose, composition, framing, lighting, and atmosphere, natural anatomy and proportions, realistic skin texture, highly detailed hands and fingers, realistic silver-white hair strands, matte black fabrics, cool cinematic side lighting, deep controlled shadows, pure black background, dramatic chiaroscuro, intimate close-up composition, shallow depth of field, sophisticated photography, cinematic film-still aesthetic, ultra-detailed textures, premium image quality, 8K resolution.`,
+
+  negative: `changed identity, different woman, different man, blended faces, face swap, generic AI faces, altered facial features, distorted face, incorrect facial proportions, additional people, duplicated people, wrong pose, lips touching, full kiss, faces far apart, both looking at camera, man's eyes open, woman's eyes open, exaggerated smile, aggressive expression, exaggerated sexual pose, incorrect hand placement, missing hand on neck, choking gesture, hand covering face, missing wrist support, hands not interacting, short hair on woman, blonde hair, brunette hair, black hair on woman, yellow hair, incorrect silver-white hair, straight hair on man, blonde hair on man, wrong clothing, white clothing, colorful clothing, missing V-neck shirt, missing high-neck sweater, distorted anatomy, extra arms, missing arms, extra hands, malformed hands, extra fingers, missing fingers, fused fingers, broken wrists, distorted neck, distorted shoulders, plastic skin, waxy skin, excessive smoothing, artificial hair, bright background, gray background, visible environment, warm orange lighting, harsh flash, flat lighting, blown highlights, crushed facial detail, excessive HDR, CGI, 3D render, illustration, anime, painting, excessive blur, low resolution, watermark, logo, text, AI artifacts.`
 }
 ];
