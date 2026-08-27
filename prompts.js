@@ -519,5 +519,452 @@ Authentic 35mm film / early-2000s editorial aesthetic: moderate-low contrast, ge
 Mood: quiet, vulnerable, masculine, introspective and slightly melancholic, like an unplanned analog photograph beside cold coastal water. Ultra-realistic photographic texture, natural imperfections, authentic anatomy, cinematic documentary intimacy.`,
 
   negative: `underage, teenager, elderly, feminine, androgynous, huge bodybuilder, exaggerated muscles, distorted anatomy, broken pose, extra/missing limbs, malformed hands, extra/missing/fused fingers, impossible thumb, extreme giant hand, distorted face, plastic/waxy skin, beauty filter, blue/green/gray/hazel/amber/light eyes, blonde/light/red/gray/white hair, long hair, ponytail, man bun, bald, mustache, upper-lip hair, upper-lip stubble, mustache shadow, beard connected beneath nose, no beard, huge beard, shirtless, white/colorful clothing, hat, sunglasses, excessive jewelry, smiling, laughing, crying, screaming, standing, sitting, swimming, sandy/tropical beach, palm trees, resort, yacht, bright turquoise water, huge waves, storm, hard sunlight, sunset, studio lighting, neon light, missing tattoos, duplicated/floating tattoos, readable tattoo gibberish, digital-sticker tattoos, uniform/repeated rocks, CGI water, excessive HDR, oversaturation, orange skin, extreme bokeh, portrait-mode halo, fisheye, warped shoreline, blurry face/eyes, excessive sharpening, low resolution, text, watermark, logo, CGI, 3D render, illustration, anime, painting, synthetic AI render.`
+},
+  {
+  id: "024",
+  title: "Cozy Noodles at Home",
+  image: "prompt-024.png",
+
+  positive: `Create an ultra-realistic, intimate lifestyle photograph of a young adult couple relaxing together at home on a large vintage cognac-brown leather sofa, closely inspired by the composition, cozy mood, body positioning, warm lighting, and candid everyday atmosphere of the reference image.
+
+The couple is sitting very close together on the sofa, comfortably curled up in relaxed, natural positions. Their bodies are slightly turned inward toward each other, creating a subtle feeling of closeness and familiarity. Their legs are casually bent and tucked onto the sofa, with realistic overlapping folds of clothing and completely natural body mechanics. Avoid stiff, symmetrical, posed positioning — the scene should look like a genuine private moment captured spontaneously.
+
+Both are eating instant noodles directly from small white takeaway containers. Each person holds their own container in one hand and a simple fork in the other. Capture them in the middle of eating, with a few strands of noodles naturally suspended between the forks and their mouths. Their attention is focused on the food rather than the camera. Neither person is posing or looking into the lens.
+
+The woman sits on the left side of the frame. She wears an oversized charcoal-gray zip-up hoodie with a relaxed, slightly slouchy fit and loose light-gray sweatpants. Her clothing should look soft, comfortable and genuinely lived-in, with realistic fabric folds around her bent legs and waist. Her hair falls naturally around her face. Her expression is calm and completely unposed as she eats.
+
+The man sits beside her on the right. He wears a soft light-gray oversized zip hoodie over a simple white T-shirt and loose light-gray sweatpants. His outfit has a cozy, slightly oversized homewear silhouette. His posture is equally relaxed, with one leg bent across the sofa while he casually eats from his container.
+
+Maintain realistic differences in their height and build. Both people must have anatomically correct, believable human proportions: realistic head-to-body ratios, natural shoulder widths, arm and leg lengths, hand sizes, joint placement and torso proportions. Their seated positions must remain physically plausible, with no distorted limbs, shortened legs, oversized heads, duplicated fingers or unnatural body geometry.
+
+The setting is simple and intimate: a warm brown leather sofa against a subtly textured warm off-white plaster wall. Keep the background minimal and slightly imperfect rather than luxurious or overly styled. The worn leather texture, small creases in the cushions and soft fabric folds should add authenticity and warmth.
+
+LIGHTING: warm late-afternoon or early-evening ambient light entering softly from one side of the room, creating a beautiful golden glow across the leather sofa and gentle highlights along their faces and clothing. Soft directional shadows, warm amber undertones, subtle falloff toward the opposite side of the frame, low contrast and slightly moody cinematic light. No harsh studio lighting.
+
+CAMERA & COMPOSITION: vertical 3:4 composition, medium-wide lifestyle framing, camera positioned approximately at seated eye/chest level in front of the couple, both people clearly visible from head through their bent legs. Slightly imperfect candid framing, as though photographed quietly by a friend from across the room. Natural perspective without wide-angle distortion.
+
+VISUAL STYLE: authentic 35mm film photography, intimate 1990s/early-2000s snapshot feeling, warm analog color palette, subtle visible film grain, slightly muted colors, gentle softness, realistic skin texture, delicate highlight roll-off, soft shadow detail, mild photographic imperfections and organic tonal variation. Avoid excessive sharpness, HDR, glossy commercial retouching or artificial AI-perfect skin.
+
+The final image should feel affectionate without being overtly romantic — two people completely comfortable around each other, sharing takeout food during a quiet evening at home. Cozy, youthful, spontaneous, imperfect and emotionally warm, like an authentic memory captured on film.
+
+Ultra-realistic photography, photorealistic skin and fabric textures, realistic hands and fingers, anatomically correct bodies, natural facial expressions, believable human proportions, cinematic warm ambient lighting, analog film grain, candid lifestyle photography, shallow-to-moderate depth of field, high detail, natural imperfections.`,
+
+  negative: `distorted anatomy, unrealistic body proportions, oversized heads, tiny heads, shortened legs, elongated limbs, extra arms, extra legs, duplicated limbs, malformed hands, extra fingers, missing fingers, fused fingers, distorted feet, impossible seated pose, floating limbs, body intersections, stiff symmetrical pose, both looking at camera, exaggerated expressions, duplicated food containers, missing food containers, malformed forks, duplicated forks, floating noodles, unrealistic noodles, food fused with hands, clothing fused with body, wrong clothing, formal clothing, glamorous evening wear, outdoor setting, restaurant, luxury staged interior, modern glossy showroom, harsh studio lighting, flash photography, neon lighting, excessive HDR, oversaturated colors, plastic skin, waxy skin, poreless skin, excessive beauty retouching, artificial sharpness, fisheye distortion, extreme wide angle, warped sofa, repeated textures, cluttered background, CGI, 3D render, illustration, anime, painting, synthetic AI appearance, blurry faces, low resolution, watermark, logo, random text, AI artifacts.`
+},
+  {
+  id: "025",
+  title: "Romantic Ocean Beach",
+  image: "prompt-025.png",
+
+  positive: `Create an ultra-realistic, cinematic lifestyle photograph of a romantic adult couple on a quiet ocean beach, closely inspired by the composition, pose, natural interaction, atmosphere, and peaceful mood of the reference image.
+
+The photograph should feel warm, affectionate, spontaneous, elegant, and completely natural, like a genuine happy moment captured during a quiet evening walk by the ocean.
+
+COMPOSITION & POSE
+
+The couple stands barefoot on a wide stretch of smooth, slightly wet sand near the shoreline.
+
+The man is standing naturally and securely while gently lifting the woman in his arms, supporting her comfortably around her hips and upper legs.
+
+The woman naturally wraps her arms around his shoulders and neck while leaning toward him. Her posture is relaxed, graceful, feminine, and effortless, with soft natural movement throughout her body.
+
+One of her legs hangs naturally alongside him, while the other leg is gracefully bent backward at the knee, creating a beautiful flowing silhouette.
+
+The couple shares a gentle romantic kiss, with their heads naturally turned toward one another. Their facial profiles remain partially visible.
+
+Their interaction should communicate affection, closeness, warmth, happiness, and genuine romantic chemistry.
+
+The pose must look physically believable and comfortable, as though the man spontaneously lifted her during a playful romantic moment on the beach.
+
+Avoid rigid fashion posing. Keep the shoulders relaxed, hands naturally positioned, fingers soft, and body language fluid and candid.
+
+WOMAN — OUTFIT
+
+The woman wears an elegant white two-piece summer beach outfit made from lightweight, softly flowing fabric.
+
+The upper part is a refined fitted white top with a minimalist feminine design.
+
+The lower part is a long white wrap-style maxi skirt with a high side slit at the thigh.
+
+The slit naturally opens with her movement and reveals one leg up to the upper thigh, while the rest of the skirt remains long and flowing.
+
+The skirt should fall naturally around her hips and legs with realistic folds and soft movement. A gentle coastal breeze lightly moves the fabric, adding an effortless feeling to the photograph.
+
+The outfit should look elegant, feminine, sophisticated, lightweight, and appropriate for a beautiful beach setting.
+
+Her skin has a natural healthy glow with realistic texture. Makeup is subtle and refined, enhancing her features without looking heavy or overly glamorous.
+
+MAN — OUTFIT
+
+The man wears a relaxed white lightweight linen shirt with the sleeves casually pushed or rolled slightly upward.
+
+He wears neutral beige, sand, or taupe shorts with a clean, understated design.
+
+He is barefoot.
+
+His styling should look relaxed, masculine, refined, and naturally appropriate for the beach.
+
+ENVIRONMENT
+
+The couple is surrounded by a peaceful, nearly empty ocean beach.
+
+Gentle waves roll softly toward the shore behind them. The dark, slightly wet sand subtly reflects the muted tones of the sky.
+
+The ocean horizon remains visible in the distance.
+
+Above them is a large softly overcast coastal sky with delicate layers of pale gray, warm cream, pearl, beige, and very subtle evening tones.
+
+Maintain a large amount of open sky above the couple, creating a spacious, peaceful composition similar to the reference image.
+
+The beach should feel quiet, secluded, natural, and serene.
+
+No crowds, buildings, umbrellas, signs, boats, chairs, or distracting objects in the background.
+
+LIGHTING & ATMOSPHERE
+
+Use soft natural late-afternoon or early-evening coastal lighting, gently diffused through the cloudy sky.
+
+Soft flattering illumination on both people, realistic skin tones, delicate highlights, gentle natural shadows, subtle atmospheric haze, and soft reflections across the wet sand.
+
+The color palette is warm-neutral, muted, natural, and cinematic, with no excessive saturation.
+
+The atmosphere should feel peaceful, dreamy, romantic, and authentic.
+
+PHOTOGRAPHY
+
+Ultra-realistic high-end lifestyle photography with subtle editorial polish.
+
+Photographed from approximately eye level at a comfortable distance, using a natural documentary-style perspective.
+
+The photographer captures the couple in a spontaneous moment rather than an intentionally staged pose.
+
+Both people should have realistic human anatomy and natural body proportions.
+
+Highly detailed natural skin texture, individual hair strands, anatomically correct hands and fingers, realistic legs and feet, natural fabric folds, detailed wet sand, authentic ocean waves, and realistic atmospheric depth.
+
+Keep both people clearly focused and detailed while allowing the distant ocean and horizon to become subtly softer.
+
+Natural photographic contrast, realistic dynamic range, delicate film-like texture, and sophisticated cinematic tonal grading.
+
+FRAMING & FORMAT — VERY IMPORTANT
+
+Exact vertical 3:4 aspect ratio.
+
+Create a full-body composition, showing the couple completely from head to bare feet.
+
+The woman’s entire bent leg and raised foot must remain visible inside the frame.
+
+Do not crop heads, arms, hands, fingers, legs, or feet.
+
+Position the couple approximately in the lower-middle portion of the vertical frame, leaving generous negative space above them.
+
+The expansive cloudy sky should occupy a significant portion of the upper image, closely preserving the beautiful spacious composition of the reference.
+
+The couple should remain the clear visual focus while still appearing naturally integrated into the surrounding beach landscape.
+
+Final aesthetic: ultra-realistic romantic beach photography, natural affectionate interaction, graceful feminine pose, flowing long white maxi skirt with a high thigh slit revealing the leg up to the upper thigh, gentle kiss, soft cloudy evening light, candid lifestyle photography, sophisticated coastal atmosphere, realistic anatomy, full-body composition, exact vertical 3:4 aspect ratio.`,
+
+  negative: `No stiff posing, no exaggerated body positioning, no excessive back arch, no awkward embrace, no unnatural leg placement, no distorted anatomy, no extra limbs, no duplicated body parts, no extra fingers, no fused fingers, no malformed hands, no distorted feet, no unrealistic proportions, no plastic skin, no excessive retouching, no waxy faces, no artificial expressions, no transparent clothing, no wardrobe malfunction, no excessive wind, no artificial-looking ocean, no harsh HDR, no oversaturation, no strong artificial lighting, no crowds, no distracting background elements.`
+},
+  {
+  id: "026",
+  title: "Tropical Sunset Kiss",
+  image: "prompt-026.png",
+
+  positive: `Create an ultra-realistic, intimate lifestyle photograph of a romantic adult couple on a tropical beach at sunset, inspired by the composition, atmosphere, body language, styling, and candid feeling of the reference image. The photograph should feel spontaneous, warm, sensual yet tasteful, as though someone quietly captured a genuine private moment between two people in love.
+
+Couple & Interaction
+
+A beautiful adult woman and an attractive adult man stand very close together on the soft sand near the shoreline, completely absorbed in each other.
+
+They are sharing a gentle, natural kiss. Their pose should feel effortless and emotionally authentic rather than staged.
+
+The woman stands facing the man with her body slightly turned toward the camera. She lovingly cups the sides of his face with both hands, her fingers resting naturally along his cheeks and jawline. Her arms are softly bent, creating an elegant feminine silhouette.
+
+The man leans naturally toward her while wrapping both arms around her waist and lower back, holding her close. His hands rest naturally and affectionately around her waist. Their bodies are close together, conveying warmth, tenderness, and genuine romantic chemistry.
+
+Their posture must remain relaxed, fluid, natural, and anatomically realistic, with no stiff posing.
+
+Woman’s Outfit
+
+The woman wears an elegant light cream / pale sage knitted beach dress with a refined minimalist aesthetic. The fabric is lightweight, finely knitted, slightly textured, and naturally follows the shape of her body.
+
+The dress features:
+- long fitted sleeves with subtly extended cuffs;
+- a beautifully open low-cut back;
+- delicate thin straps crossing or outlining the back;
+- a fitted feminine silhouette;
+- soft neutral tones that harmonize with the sunset and beach.
+
+Her hair is styled in a sleek, elegant low bun, exposing her neck and emphasizing the open-back design of the dress.
+
+She wears minimal gold jewelry: small-to-medium gold hoop earrings and several delicate gold rings.
+
+Man’s Outfit
+
+The man wears a relaxed oversized white or warm ivory T-shirt paired with loose, understated light-colored trousers. His outfit should feel sophisticated but effortless, appropriate for an upscale tropical beach vacation.
+
+Environment
+
+The couple stands directly beside the ocean on a beautiful secluded tropical beach.
+
+Behind them are:
+- calm turquoise-blue seawater;
+- gentle waves reaching the shoreline;
+- soft pale sand with realistic footprints and natural texture;
+- several distant anchored sailboats;
+- a subtle tropical coastline in the background;
+- elegant white villas barely visible along the distant shore.
+
+The setting should feel peaceful, exclusive, and naturally luxurious rather than crowded or commercial.
+
+Sunset & Lighting
+
+Capture the photograph during the final moments of blue hour immediately after sunset.
+
+The horizon glows softly with pale golden-yellow and peach tones while the upper sky transitions into muted dusty blue. Several dramatic fluffy clouds catch beautiful warm coral, peach, and orange sunset light, creating a dreamy contrast against the cooler evening sky.
+
+The couple is slightly shadowed from the backlighting, but their skin, clothing, hands, and silhouettes remain naturally detailed and visible.
+
+Use soft ambient sunset illumination with subtle warm rim light, realistic shadows, gentle highlights on the skin, and natural tonal transitions.
+
+Camera & Composition
+
+Vertical 3:4 composition.
+
+Photographed from approximately chest-to-eye level from a close conversational distance, creating the feeling that a friend captured the moment spontaneously.
+
+Frame the couple approximately from the upper thighs upward, keeping their embrace and body language clearly visible while still showing enough of the ocean, horizon, and colorful sunset sky to establish the tropical setting.
+
+Use a natural smartphone / premium compact-camera aesthetic rather than an overly polished studio look.
+
+Approximately 35–50mm equivalent perspective, realistic proportions, moderate depth of field, subtle natural background softness without excessive artificial bokeh.
+
+Overall Aesthetic
+
+Ultra-photorealistic, candid luxury vacation photography, intimate romantic atmosphere, quiet Mediterranean or Caribbean beach evening, understated old-money resort aesthetic, natural chemistry, authentic affectionate body language, realistic skin texture, visible pores and fine skin details, realistic hands and fingers, natural fabric folds, subtle imperfections, cinematic sunset colors, soft evening shadows, sophisticated neutral wardrobe, genuine spontaneous moment, high dynamic range, realistic photography, premium editorial quality.
+
+The final image should look like a real photograph of a couple caught in an intimate sunset moment, not like a posed fashion campaign or an AI-generated scene.`,
+
+  negative: `cartoon, illustration, painting, CGI, 3D render, artificial-looking skin, plastic skin, excessive beauty filter, over-retouched faces, exaggerated body proportions, distorted anatomy, malformed hands, extra fingers, fused fingers, duplicated limbs, unnatural embrace, stiff pose, awkward kissing pose, floating jewelry, distorted clothing, overly dramatic studio lighting, excessive bokeh, oversaturated sunset, fake HDR, unrealistic ocean, warped horizon, excessive sharpening, low resolution, blur, noise, text, watermark, logo.`
+},
+  {
+  id: "027",
+  title: "Santa Monica Roller Skate Summer",
+  image: "prompt-027.png",
+
+  positive: `Create an ultra-realistic, cinematic lifestyle photograph of a young adult couple during a warm summer evening in Santa Monica, California, inspired closely by the composition, interaction, styling, lighting, and spontaneous atmosphere of the reference image. The photograph should feel candid, romantic, youthful, and effortlessly authentic — like a beautiful unplanned moment captured during a carefree day by the ocean.
+
+Composition & Interaction
+
+The couple is standing on a sunlit sidewalk near an elegant coastal café or restaurant.
+
+The young man is crouching naturally in front of the woman, carefully helping her put on and fasten a vintage-style cream roller skate. His attention is focused on the skate as he gently adjusts it with both hands. His posture should feel completely natural and believable, with one knee bent deeply and the other leg supporting his crouched position.
+
+The young woman stands beside him, balancing comfortably on one leg while slightly bending and lifting the other leg toward him so he can help with her roller skate. One of her hands rests lightly and affectionately on his shoulder for balance.
+
+She looks down toward him with a soft, warm, genuine smile, creating a subtle romantic connection between them. Their interaction should feel affectionate without appearing staged — an intimate everyday gesture between a couple who are completely comfortable around each other.
+
+Her second roller skate rests casually on the pavement beside her foot, reinforcing the spontaneous, documentary feeling of the scene.
+
+Woman
+
+A beautiful young adult woman with refined, naturally feminine features and a relaxed summer appearance.
+
+She wears an oversized soft cream vintage T-shirt with delicate faded pink floral graphics across the front, loosely tucked into high-waisted pink-and-white vertically striped shorts.
+
+Her outfit feels playful, feminine, slightly retro, and perfectly suited to a warm California summer evening.
+
+A small vintage compact camera hangs naturally from a thin black strap around her neck, resting around her waist.
+
+She wears layered delicate bracelets, a simple wristwatch, and subtle minimal jewelry.
+
+White crew socks complement the vintage cream roller skates.
+
+Her hair looks naturally tousled by the coastal breeze rather than perfectly styled. Makeup is minimal and fresh, with realistic skin texture and a subtle sun-kissed glow.
+
+Man
+
+A handsome young adult man wearing a simple slightly relaxed white T-shirt, loose beige/taupe trousers, and casual dark sneakers.
+
+His outfit should feel understated, masculine, effortless, and slightly vintage.
+
+His hair is naturally tousled and slightly messy, as though affected by the ocean breeze. His expression is calm and concentrated as he looks downward while fastening her roller skate.
+
+Environment
+
+The scene takes place outside an upscale coastal restaurant or café in Santa Monica, with dark architectural details, outdoor seating, steps, warm umbrellas, subtle signage, and palm trees visible in the background.
+
+A restaurant employee may appear softly in the distant background to add depth and realism, but should remain secondary and unobtrusive.
+
+Tall California palm trees rise against the bright evening sky, subtly establishing the coastal Los Angeles setting.
+
+The sidewalk has realistic warm concrete texture, and the environment should feel lived-in rather than like a controlled photoshoot.
+
+Lighting
+
+Capture the scene during late golden hour, shortly before sunset.
+
+Warm amber sunlight enters strongly from the side and behind the couple, producing beautiful natural rim light around the woman's hair, soft golden highlights across their skin and clothing, and long subtle shadows across the pavement.
+
+The lighting should feel warm, nostalgic, cinematic, and naturally sun-drenched, with gentle highlights rather than artificial studio illumination.
+
+Preserve realistic shadow detail and natural dynamic range.
+
+Camera & Framing
+
+Vertical 3:4 composition.
+
+Full-body environmental portrait with both people clearly visible in the frame, including their legs, footwear, roller skates, and surrounding sidewalk.
+
+Camera positioned approximately at waist-to-chest height, creating an intimate observational perspective.
+
+Natural perspective similar to a premium 35mm documentary/lifestyle photograph.
+
+Moderately shallow depth of field: the couple remains crisp and detailed while the café, palm trees, and distant background fall into a subtle realistic softness.
+
+The framing should feel slightly imperfect and spontaneous rather than geometrically staged.
+
+Overall Aesthetic
+
+Ultra-realistic photography, premium editorial lifestyle photography, romantic California summer atmosphere, youthful coastal nostalgia, subtle 1990s-inspired styling, candid couple interaction, warm golden-hour sunlight, authentic body language, natural skin texture, realistic fabric folds, realistic hands and fingers, detailed vintage roller skates, subtle filmic grain, gentle analog warmth, sophisticated cinematic color grading, natural highlights, soft background separation, high dynamic range, photorealistic details.
+
+The final photograph should look like a genuine candid memory from a carefree summer evening in Santa Monica rather than an AI-generated fashion shoot.`,
+
+  negative: `stiff posing, artificial couple interaction, exaggerated romance, looking directly into camera, fashion-model pose, unnatural anatomy, distorted hands, extra fingers, missing fingers, fused fingers, malformed limbs, incorrect leg positions, duplicated roller skates, floating objects, distorted shoes, plastic skin, excessive skin smoothing, heavy makeup, artificial facial expressions, exaggerated body proportions, overly saturated colors, harsh HDR, artificial studio lighting, excessive background blur, fake bokeh, CGI appearance, 3D render, illustration, cartoon, obvious AI artifacts, text distortions, warped architecture`
+},
+  {
+  id: "028",
+  title: "Crimson Noir Couple",
+  image: "prompt-028.png",
+
+  positive: `Create an ultra-realistic, high-end cinematic fashion portrait of an elegant adult couple, closely inspired by the intimate composition, sophisticated styling, dark atmosphere, and emotional tension of the reference image.
+
+Composition & Pose
+
+Frame the couple in a tight vertical portrait, approximately from the chest/upper torso upward, with their faces as the main visual focus.
+
+The woman stands slightly in front of the man, while he is positioned very close behind and slightly to one side of her. Their bodies naturally overlap, creating an intimate, layered composition.
+
+The woman gently tilts her head toward him, her posture relaxed, elegant, and subtly sensual without looking posed or stiff. She looks directly into the camera with a calm, magnetic, self-assured expression, her lips softly parted.
+
+The man leans slightly toward her, his face positioned close to her temple and hair. His head is lowered as he looks tenderly toward her face rather than toward the camera. Their proximity should suggest quiet chemistry, intimacy, and restrained romantic tension.
+
+Keep both faces clearly visible and naturally proportioned. The pose must feel effortless and spontaneous rather than staged.
+
+Woman
+
+A beautiful adult woman with luxurious light-blonde hair, styled in soft, polished waves with natural movement and volume. A few delicate strands fall loosely around her face.
+
+She has refined feminine facial features, softly sculpted cheekbones, realistic fair skin with visible natural texture, subtle pores, delicate highlights, and sophisticated glamorous makeup.
+
+Her eyes are light hazel-green, luminous and highly detailed, with realistic iris texture and subtle catchlights.
+
+Makeup is elegant and cinematic: softly sculpted brows, neutral taupe-brown eyeshadow, refined black eyeliner, long defined lashes, subtle contouring, and luminous skin.
+
+Her lips are painted a rich classic deep-red shade, with an elegant satin finish.
+
+She wears an elegant strapless deep-red dress or fitted evening top, complemented by a refined red satin neck scarf/choker wrapped elegantly around her neck. Small understated earrings complete the look.
+
+Man
+
+The man has a masculine, refined appearance with dark hair, naturally styled with soft texture and volume.
+
+He has defined facial features, a strong jawline, and neatly groomed short facial hair. His appearance should feel sophisticated, masculine, and editorial rather than overly polished.
+
+He wears a perfectly tailored black blazer over an elegant black dress shirt. The shirt is completely buttoned up all the way to the collar, with every visible button fastened and no exposed chest or neckline. The all-black styling should look sleek, sophisticated, minimal, and luxurious, allowing the woman's deep-red outfit to become the primary color accent in the composition.
+
+Lighting — Dramatic Soft Chiaroscuro
+
+Use dramatic yet exceptionally soft cinematic chiaroscuro lighting.
+
+A large, diffused key light comes softly from one side and slightly above the couple, delicately sculpting their faces instead of illuminating them evenly.
+
+The woman's face receives the most beautiful controlled illumination: soft light gracefully traces her forehead, cheekbones, nose, lips, collarbones, and shoulders while gradually dissolving into shadow along the opposite side.
+
+The man's face is slightly darker, partially emerging from the shadows behind her, creating additional depth, mystery, and visual hierarchy.
+
+Create deep, velvety blacks and smooth shadow transitions, with no harsh flash effect and no aggressively clipped shadows. Shadows should remain rich and dimensional, with subtle detail still visible.
+
+Add an extremely subtle warm rim light along selected edges of the woman's blonde hair and the contours of the couple, separating them delicately from the black background.
+
+The lighting should feel reminiscent of an intimate luxury fashion campaign photographed in a dark studio, with a painterly quality: controlled highlights, soft falloff, dramatic negative space, luminous skin against darkness, and sophisticated chiaroscuro.
+
+Color & Atmosphere
+
+Use a luxurious restricted palette of deep crimson red, rich black, warm natural skin tones, and luminous champagne-blonde hair.
+
+The man's clothing must remain entirely black — black blazer and fully buttoned black shirt — with absolutely no red clothing or red fabric on him.
+
+The background is completely dark and minimal, almost black, with no distracting objects or visible environment.
+
+The atmosphere should feel romantic, mysterious, sophisticated, cinematic, intimate, and slightly nocturnal, like a private moment captured during an exclusive evening editorial shoot.
+
+Photography & Realism
+
+Ultra-photorealistic professional photography, premium full-frame camera, 85mm portrait-lens aesthetic, shallow depth of field, sharp focus on both faces and especially the eyes, realistic skin texture, individual hair strands, natural fabric texture, subtle cinematic grain, rich tonal range, controlled highlights, smooth highlight-to-shadow transitions, realistic anatomy, elegant editorial color grading.
+
+Vertical 3:4 composition.`,
+
+  negative: `red shirt on the man, burgundy shirt on the man, open shirt, unbuttoned collar, exposed male chest, visible undershirt, tie, harsh direct flash, flat frontal lighting, excessive brightness, crushed facial shadows, artificial plastic skin, excessive skin smoothing, orange skin tones, exaggerated makeup, unnatural body positioning, stiff poses, distorted facial features, crossed eyes, overly blurred faces, artificial hair texture, excessive HDR, oversaturation, cartoonish rendering, obvious AI artifacts.`
+},
+  {
+  id: "029",
+  title: "Vintage Photobooth Kiss",
+  image: "prompt-029.png",
+
+  positive: `Create an ultra-realistic, cinematic lifestyle photograph of a young adult couple sharing a tender romantic moment inside a vintage street photobooth, closely inspired by the reference image in composition, framing, body positioning, intimate atmosphere, lighting, and nostalgic analog-film aesthetic, while changing their clothing and styling as described below.
+
+The couple stands closely together inside the narrow entrance of an old-fashioned metallic photobooth. A deep red heavy curtain is pulled partly aside, naturally framing them and creating a secluded, intimate feeling. The surrounding booth is made of slightly worn brushed metal with small strips of black-and-white sample photographs attached to the exterior, giving the scene an authentic retro urban character.
+
+Woman
+
+The woman is wearing a short, lightweight pale-yellow summer dress with delicate ruffles. The dress should feel airy, feminine, playful and effortless, made from soft flowing fabric that falls naturally around her body. Subtle ruffled details decorate the neckline, skirt or sleeves without making the outfit overly elaborate.
+
+On her feet are clean white high-top Converse-style sneakers, creating a charming contrast with the romantic yellow dress.
+
+Her hair is worn completely loose and styled into beautiful, luxurious, soft flowing curls. The curls are voluminous, polished and feminine, with natural movement and dimension rather than looking stiff or overly styled. Soft glossy waves and defined loose curls gently frame her face and cascade naturally around her shoulders.
+
+Man
+
+The man is dressed in a sophisticated but relaxed light-colored linen outfit: a lightweight short-sleeved linen shirt paired with matching light linen trousers. The shirt has a natural relaxed fit and subtle realistic linen texture with gentle wrinkles and folds.
+
+He wears minimalist casual sneakers that harmonize naturally with the light neutral outfit.
+
+Body Proportions & Height
+
+Both people must have completely realistic, anatomically accurate human body proportions and natural adult physiques. Their heads, shoulders, torsos, arms, hands, hips and legs must be correctly proportioned to their overall height, with no elongated limbs, oversized heads, unnaturally narrow bodies or distorted anatomy.
+
+Maintain a believable and realistic height difference between the couple. Their relative scale must remain physically consistent from head to toe, taking their footwear, posture and position inside the booth into account. Neither person should appear unnaturally tall, miniature or disproportionately sized compared with the other.
+
+Perspective must remain physically accurate, with no artificial stretching or compression of their bodies caused by the camera angle. Their feet should naturally connect with the floor, their bodies should have realistic centers of gravity, and their close interaction must remain anatomically believable.
+
+Pose & Interaction
+
+Recreate the intimate energy of the reference: the couple stands extremely close together inside the photobooth, naturally turned toward one another.
+
+The man gently cups the side of the woman’s face with one hand while his other arm stays close around her. The woman lightly holds his wrist or rests her hand against his arm. Their bodies naturally lean toward each other as they share a soft romantic kiss.
+
+Their posture should feel completely spontaneous and believable rather than staged — relaxed shoulders, natural hand placement, subtle body contact and genuine tenderness. The moment should look as though the photographer accidentally captured them during a private second together.
+
+The woman’s yellow dress and bare legs remain clearly visible, as well as her white high-top sneakers. The man’s linen shirt and trousers should also be clearly readable in the frame.
+
+Lighting & Atmosphere
+
+Use warm late-afternoon golden sunlight entering diagonally from outside the booth. The sunlight catches the edges of their faces, clothing and the woman’s loose curls while the interior behind them remains considerably darker.
+
+Create beautiful cinematic chiaroscuro with warm highlights, deep soft shadows and subtle reflected light from the metallic booth walls. The yellow dress should glow gently in the sunlight, while the red curtain adds a rich warm contrast.
+
+The photograph should have a nostalgic 35mm analog-film feeling: subtle fine grain, slightly muted warm colors, soft highlight roll-off, gentle imperfections and natural contrast. Avoid overly clean digital sharpness.
+
+Camera & Composition
+
+Vertical composition, approximately 3:4 aspect ratio. Full-body or nearly full-body framing so their outfits and footwear remain visible. Eye-level candid perspective, as if photographed discreetly from just outside the photobooth.
+
+Use a natural photographic perspective similar to a 50mm lens, avoiding wide-angle distortion. The camera perspective must preserve realistic body proportions and the natural relative height of both people.
+
+Ultra-realistic photography, authentic skin texture, realistic fabric texture, naturally detailed loose curls, anatomically correct adult bodies, realistic body-to-head ratios, natural limb lengths, believable height difference, consistent human scale, accurate perspective, realistic hands and fingers, cinematic golden-hour lighting, warm vintage color grading, subtle film grain, intimate storytelling, spontaneous romantic chemistry, premium editorial photography, realistic shadows, no artificial CGI appearance.`,
+
+  negative: `unrealistic height difference, disproportionate bodies, oversized or undersized heads, excessively long legs, elongated torsos, stretched limbs, warped perspective, miniature-looking person, distorted anatomy, extra fingers or limbs, ponytail, bun, updo, tied-back hair, stiff or artificial curls, stiff posing, exaggerated kissing pose, plastic skin, excessive beauty retouching, overly saturated yellow, neon colors, modern futuristic photobooth design, harsh flash, excessive background blur, cartoonish or painterly appearance.`
 }
 ];
