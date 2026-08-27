@@ -1161,6 +1161,7 @@ FINAL PRIORITY: exact identity, dark-brown eyes, long blonde hair in low updo, s
   id: "034",
   title: "Midnight Corset",
   image: "prompt-034.png",
+    imagePosition: "center 18%",
 
   positive: `Ultra-realistic luxury fashion portrait of a glamorous young adult woman, 24–28, against a deep warm charcoal-brown minimalist background. Recreate the front-facing upper-body framing, both arms raised behind the head, elbows outward, windswept hair across the face, black corset outfit, sheer opera gloves, layered necklaces and dark cinematic mood.
 
