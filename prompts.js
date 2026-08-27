@@ -966,5 +966,141 @@ Use a natural photographic perspective similar to a 50mm lens, avoiding wide-ang
 Ultra-realistic photography, authentic skin texture, realistic fabric texture, naturally detailed loose curls, anatomically correct adult bodies, realistic body-to-head ratios, natural limb lengths, believable height difference, consistent human scale, accurate perspective, realistic hands and fingers, cinematic golden-hour lighting, warm vintage color grading, subtle film grain, intimate storytelling, spontaneous romantic chemistry, premium editorial photography, realistic shadows, no artificial CGI appearance.`,
 
   negative: `unrealistic height difference, disproportionate bodies, oversized or undersized heads, excessively long legs, elongated torsos, stretched limbs, warped perspective, miniature-looking person, distorted anatomy, extra fingers or limbs, ponytail, bun, updo, tied-back hair, stiff or artificial curls, stiff posing, exaggerated kissing pose, plastic skin, excessive beauty retouching, overly saturated yellow, neon colors, modern futuristic photobooth design, harsh flash, excessive background blur, cartoonish or painterly appearance.`
+},
+  {
+  id: "030",
+  title: "Butter Yellow Morning",
+  image: "prompt-030.png",
+
+  positive: `Create an ultra-realistic, high-end lifestyle photograph of a romantic couple during a quiet morning at home, captured through a large wall mirror in an elegant, softly lit interior. The image should feel intimate, luxurious, natural, and effortlessly candid, like a genuine private morning moment photographed on a smartphone.
+
+Composition & Pose
+
+A woman is sitting comfortably in a plush cream boucle armchair directly in front of a large mirror. She sits elegantly with one bare leg crossed over the other, relaxed but graceful.
+
+She is taking a mirror selfie with a dark smartphone held vertically in one hand, positioned beside her face so that her facial features remain clearly visible. In her other hand, she casually holds a small white ceramic coffee cup near chest level.
+
+A man stands closely behind the armchair, leaning gently toward her. He tenderly kisses the woman on her temple, his lips naturally touching the side of her towel-wrapped head in a soft, affectionate gesture. The kiss should look spontaneous and physically natural, like a genuine private moment between a couple.
+
+The woman reacts to his kiss with a warm, genuine, affectionate smile, visibly enjoying the moment. Her expression is soft and happy, with relaxed eyes and a subtle natural smile rather than an exaggerated posed expression.
+
+Their bodies remain positioned very close together, communicating comfortable intimacy, tenderness, familiarity, and affection.
+
+The woman's face remains clearly visible in the mirror despite the man's kiss. The man's face is visible naturally in a partial three-quarter/profile angle as he leans toward her temple.
+
+Woman
+
+The woman wears a luxuriously fluffy pale pastel-yellow bathrobe, loosely and naturally wrapped around her body and tied at the waist. The color should be a delicate creamy butter-yellow, soft and sophisticated rather than bright or saturated.
+
+The robe has an exceptionally soft, plush, fluffy texture with realistic fibers, folds, seams, and volume, creating a cozy and tactile appearance.
+
+Her hair is completely wrapped inside a matching fluffy pale-yellow bath towel, twisted naturally around her head as if she has just stepped out of the shower. The towel is exactly the same delicate pastel butter-yellow shade as the bathrobe, creating a harmonious monochromatic look.
+
+She has natural, refined beauty with realistic skin texture, subtle morning makeup, softly defined eyebrows, delicate lashes, natural lips, and no glasses. Avoid excessive glam makeup or artificial beauty filtering.
+
+Her dark manicure is naturally visible as she holds the smartphone and coffee cup.
+
+Man
+
+The man wears a simple white oversized T-shirt with a relaxed, loose silhouette, slightly dropped shoulders, and naturally draping fabric. The T-shirt should look soft, premium, comfortable, and effortlessly casual, with realistic cotton texture and subtle natural folds.
+
+Keep his overall styling minimal and relaxed, creating the impression of a comfortable morning at home.
+
+He has subtle facial stubble and a gentle, affectionate expression as he kisses the woman softly on her temple.
+
+Interior
+
+The setting is a bright, sophisticated luxury bedroom or dressing-room interior with warm ivory and cream tones.
+
+Behind the couple are elegant white wall panels with classic rectangular molding, creating a clean European-inspired interior. A large mirror frames the composition vertically.
+
+The armchair is upholstered in soft cream boucle fabric, with visible tactile texture and rounded comfortable proportions.
+
+Keep the background minimalist, uncluttered, expensive-looking, and softly residential rather than resembling a hotel or photography studio.
+
+Lighting & Atmosphere
+
+Use soft natural morning daylight coming from a large window to the side, producing gentle highlights across their faces and subtle realistic shadows.
+
+The lighting should be bright and airy but not overexposed, with warm neutral whites, creamy highlights, delicate skin tones, and soft dimensional contrast.
+
+The atmosphere should communicate quiet intimacy, tenderness, slow morning luxury, warmth, comfort, romance, and effortless elegance. The kiss on the temple and the woman's warm smile should feel like a naturally captured affectionate moment rather than a staged pose.
+
+Photographic Style
+
+Ultra-realistic smartphone mirror photography, authentic candid lifestyle aesthetic, spontaneous romantic interaction, realistic human anatomy, natural body proportions, highly detailed skin texture, realistic fluffy fabric fibers, subtle imperfections, natural reflections, physically accurate mirror perspective, soft depth of field, balanced exposure, premium editorial lifestyle photography, understated luxury aesthetic, crisp facial detail, natural color grading, photorealistic, high resolution.`,
+
+  negative: `bright or saturated yellow clothing, pink bathrobe, white towel, fitted T-shirt, long-sleeved shirt on the man, both people staring seriously at the camera, emotionless expression on the woman, exaggerated smile, unnatural kissing pose, obscured female face, distorted hands or fingers, incorrect mirror reflections, warped smartphone, duplicated objects, unnatural anatomy, plastic skin, excessive retouching, artificial studio lighting, overly saturated colors, cluttered background, text, logos, watermarks.`
+},
+  {
+  id: "031",
+  title: "Morning Kitchen Pastry",
+  image: "prompt-031.png",
+
+  positive: `Create an ultra-realistic, candid lifestyle photograph of a young adult couple sharing a sweet, intimate breakfast moment in a beautiful modern kitchen, inspired closely by the atmosphere, composition, and interior of the reference image.
+
+The scene takes place in a bright, elegant kitchen illuminated by soft natural morning daylight. The interior features deep forest-green cabinetry, a large white-and-gray veined marble kitchen island, a black vintage-style range cooker, warm wooden details, open shelving with ceramic cups, and a large sculptural white range hood. The atmosphere should feel cozy, sophisticated, intimate, and genuinely lived-in.
+
+Couple & Interaction — Very Important
+
+The woman is sitting naturally on the edge of the marble kitchen island, facing the man. Her legs are comfortably apart, and the man is standing naturally between her legs, close to her body. The pose should look affectionate and romantic but completely tasteful and non-explicit.
+
+The man gently wraps both arms around the woman's hips and upper thighs, holding her affectionately while standing close to her. His hands rest naturally and respectfully against the outer sides of her hips/thighs. His posture is relaxed and tender rather than suggestive.
+
+The woman is holding one small bite-sized pastry — such as a tiny croissant or small piece of freshly baked pastry — between her fingers and bringing it directly toward the man's mouth, as though she is about to feed him.
+
+The pastry should be clearly visible just in front of his lips, capturing the playful moment immediately before he takes a bite.
+
+The man turns his face upward toward the woman and looks directly into her eyes with a warm, affectionate expression and a gentle genuine smile. His attention is completely focused on her.
+
+The woman looks back at him naturally while feeding him, with a subtle happy expression.
+
+Their interaction should communicate tenderness, familiarity, playfulness, and quiet romantic chemistry, like a spontaneous private moment between a real couple during breakfast.
+
+Face Visibility & Camera Angle
+
+Both people's faces must be clearly visible to the camera.
+
+Position the couple at a natural three-quarter angle rather than photographing them from behind. Their heads and facial features should remain unobstructed even though they are looking at each other.
+
+The camera should capture the man's affectionate upward gaze toward the woman, his visible gentle smile, the woman's face as she looks down toward him, the small pastry positioned near his mouth, his arms naturally embracing her hips and thighs, and the woman's seated position with the man standing between her legs.
+
+Avoid hiding either face behind hair, shoulders, hands, or the pastry.
+
+Woman
+
+The woman has a feminine, elegant appearance with naturally styled blonde hair.
+
+She is not wearing glasses.
+
+Her face should have realistic proportions, authentic skin texture, subtle natural makeup, and a relaxed expression.
+
+She wears an oversized white graphic T-shirt similar to the reference image, featuring a stylish vintage-inspired toast, breakfast, or retro café graphic. The shirt hangs loosely and naturally over her body.
+
+Her outfit underneath remains minimal and mostly concealed by the oversized T-shirt.
+
+Man
+
+The man has a masculine, relaxed appearance with naturally styled dark hair. Do not specify or emphasize his hair length.
+
+He wears a coordinated oversized white graphic T-shirt featuring a large vintage-inspired toast/breakfast illustration and retro typography.
+
+Subtle tattoos may be visible on his forearms.
+
+His expression is particularly important: he is looking tenderly at the woman with a soft, genuine smile, visibly enjoying the playful moment as she feeds him.
+
+Photography & Mood
+
+The image should feel like a real spontaneous photograph taken at home during a slow morning together, rather than a staged professional photoshoot.
+
+Use soft natural window light, realistic shadows, warm neutral highlights, authentic skin texture, realistic anatomy, natural fabric folds, detailed marble textures, subtle photographic depth of field, and slightly imperfect candid framing.
+
+The body positioning must remain anatomically believable and natural, especially the man's arms around the woman's hips and thighs and his position between her legs.
+
+Keep the surrounding kitchen clearly recognizable while making the couple the visual focus.
+
+The final image should have the aesthetic of a high-end Pinterest lifestyle photograph or intimate editorial snapshot — romantic, playful, cozy, effortless, photorealistic, and believable.`,
+
+  negative: `glasses on woman, sunglasses, hidden female face, hidden male face, back-facing pose, faces obscured by hair, faces obscured by hands, pastry covering face, both people looking at camera, emotionless expressions, exaggerated sexual posing, explicit pose, stiff interaction, man standing outside woman's legs, incorrect seated position, distorted embrace, unnatural arm placement, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, duplicated limbs, distorted anatomy, unrealistic body proportions, floating pastry, multiple pastries near mouth, oversized pastry, malformed food, plastic skin, excessive beauty filtering, excessive skin smoothing, artificial expressions, warped kitchen island, distorted marble, cluttered background, harsh studio lighting, excessive HDR, oversaturated colors, excessive bokeh, CGI, 3D render, illustration, cartoon, obvious AI artifacts, text, logo, watermark.`
 }
 ];
