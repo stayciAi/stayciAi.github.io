@@ -500,9 +500,9 @@
         image.className =
           "prompt-image";
 
-        if (prompt.imagePosition === "top") {
-          image.classList.add("position-top");
-        }
+        if (prompt.imagePosition) {
+  image.style.objectPosition = prompt.imagePosition;
+}
 
         image.src =
           prompt.image;
