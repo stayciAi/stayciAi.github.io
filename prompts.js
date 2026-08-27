@@ -1291,6 +1291,7 @@ Photorealistic image, preserve the exact identities and recognizable facial feat
   id: "039",
   title: "Elevator Tension",
   image: "prompt-039.PNG",
+  imagePosition: "center 30%",
 
   positive: `Without changing the appearance or facial features of the people from photos 1 and 2, use photo 3 as the reference for the pose, composition, framing, lighting, and overall emotional atmosphere.
 
