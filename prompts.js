@@ -1102,5 +1102,117 @@ Keep the surrounding kitchen clearly recognizable while making the couple the vi
 The final image should have the aesthetic of a high-end Pinterest lifestyle photograph or intimate editorial snapshot — romantic, playful, cozy, effortless, photorealistic, and believable.`,
 
   negative: `glasses on woman, sunglasses, hidden female face, hidden male face, back-facing pose, faces obscured by hair, faces obscured by hands, pastry covering face, both people looking at camera, emotionless expressions, exaggerated sexual posing, explicit pose, stiff interaction, man standing outside woman's legs, incorrect seated position, distorted embrace, unnatural arm placement, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, duplicated limbs, distorted anatomy, unrealistic body proportions, floating pastry, multiple pastries near mouth, oversized pastry, malformed food, plastic skin, excessive beauty filtering, excessive skin smoothing, artificial expressions, warped kitchen island, distorted marble, cluttered background, harsh studio lighting, excessive HDR, oversaturated colors, excessive bokeh, CGI, 3D render, illustration, cartoon, obvious AI artifacts, text, logo, watermark.`
+},
+  {
+  id: "032",
+  title: "Champagne Noir",
+  image: "prompt-032.png",
+
+  positive: `Ultra-realistic luxury evening fashion portrait of a glamorous young adult woman, faithfully recreating the elegant composition, pose, outfit, champagne moment and sophisticated party atmosphere of the reference image.
+
+The woman is standing beside a white-clothed table, photographed in a graceful three-quarter side profile from approximately mid-thigh upward. Her torso is angled toward the left side of the frame while her head turns slightly downward toward a champagne coupe in her hand. Her lips are softly pursed in a playful, elegant expression. One arm extends naturally forward holding the glass by its stem while her other hand rests gracefully against the side of her upper thigh.
+
+She has long light-blonde hair, styled into a sophisticated loose low updo, while several long soft blonde face-framing strands remain free around her cheeks and neck. The hairstyle must clearly retain the impression of naturally long hair gathered at the back, not short hair. Creamy light-blonde tones, realistic individual strands and subtle flyaways.
+
+Her eyes are deep dark brown. Refined feminine facial proportions with softly sculpted cheekbones, defined brows, elegant jawline, delicate straight nose and full glossy nude-pink lips. Sophisticated evening makeup with softly smoked eyes, defined lashes, subtle eyeliner, warm contour and luminous skin. Preserve realistic pores, fine skin texture and natural tonal variation.
+
+She wears an elegant black satin halter-neck mini dress, closely following the reference. The softly gathered satin neckline attaches at the center of the neck, leaving the shoulders and upper back exposed. The dress has dramatically open sides and a fitted black satin mini skirt. Around the hips is a voluminous black feather trim, creating a luxurious textural contrast between glossy satin and soft feathers. Realistic fabric folds, satin highlights and individually defined feather texture.
+
+Accessories include an elegant diamond tennis necklace following the neckline and large sparkling diamond drop earrings. Jewelry should have sophisticated realistic reflections rather than exaggerated artificial sparkle.
+
+She holds a vintage-inspired ribbed crystal champagne coupe decorated with a delicate narrow black satin bow tied around the stem. On the table beside her is an artistic pyramid-like arrangement of matching empty crystal coupe glasses at different heights, each decorated with elegant black ribbon bows.
+
+From the far left edge of the frame, only the arm and hand of a formally dressed server are visible: black suit sleeve and immaculate white service glove, holding a champagne bottle tilted naturally toward her glass as if about to pour. Keep the server mostly outside the frame, matching the candid composition of the reference.
+
+The background consists of elegant floor-to-ceiling soft white curtains with subtle folds, creating a minimalist upscale private-event setting. A white tablecloth fills the lower-left foreground beneath the champagne-glass arrangement.
+
+Soft warm indoor illumination combined with subtle direct-camera flash creates an authentic upscale evening-event photograph. Natural highlights across her skin, blonde hair, satin dress, diamonds and crystal glassware; realistic shadows and reflections.
+
+Captured as an authentic luxury private-party photograph, sophisticated champagne-event aesthetic, premium fashion photography with a slightly spontaneous social-media quality, realistic full-frame camera rendering, natural depth of field, subtle photographic grain, realistic skin microtexture, accurate hands and fingers, physically believable crystal transparency, no CGI appearance, no plastic skin, no excessive retouching.
+
+Three-quarter portrait from approximately mid-thigh upward, woman occupying the center-right of the frame, champagne-glass arrangement filling the lower-left foreground, server's gloved hand and bottle entering from the far left, soft white curtains filling the entire background.`,
+
+  negative: `brunette hair, black hair, red hair, short hair, bob haircut, pixie cut, hair appearing naturally short, fully loose hairstyle, high ponytail, high bun, blue eyes, green eyes, gray eyes, hazel eyes, wrong pose, front-facing pose, looking directly at camera, exaggerated expression, broad smile, wrong dress, white dress, red dress, long dress, sleeves, closed sides, missing feather trim, white feathers, colored feathers, malformed feathers, cheap fabric, matte satin, missing necklace, missing earrings, excessive jewelry, fake diamonds, oversized jewelry, missing champagne glass, wine glass, tumbler, plastic glass, malformed crystal, opaque glass, duplicated glass in hand, missing black bow, oversized bow, malformed glass pyramid, floating glasses, broken glass, server fully visible, extra people, missing white glove, malformed server hand, extra fingers, missing fingers, fused fingers, distorted hands, champagne bottle fused with hand, bottle floating, incorrect pouring angle, distorted anatomy, exaggerated body proportions, plastic skin, waxy skin, excessive smoothing, artificial beauty filter, harsh shadows, blown highlights, excessive flash, dark curtains, colored curtains, cluttered background, CGI, 3D render, illustration, anime, low resolution, blurry face, watermark, logo, text, AI artifacts.`
+},
+  {
+  id: "033",
+  title: "Midnight Cocktail",
+  image: "prompt-033.png",
+
+  positive: `Ultra-realistic luxury nighttime restaurant portrait of a beautiful young adult woman, 23–28 years old, seated at an elegant open-air restaurant. Recreate the seated pose, cocktail gesture, white flowing outfit, warm lighting, wooden pergola, hanging lights, greenery and sophisticated evening atmosphere.
+
+IDENTITY IS THE HIGHEST PRIORITY: preserve her exact recognizable facial structure, proportions, nose, lips, eyes, eyebrows, jawline, chin, natural body proportions and seamless face-to-body skin tone. No face blending or redesign.
+
+She has deep dark espresso-brown eyes and long light-blonde hair styled into a sleek low bun, with realistic blonde roots, baby hairs and delicate loose strands. Sophisticated warm evening makeup, glossy nude-pink lips, realistic pores and natural skin texture.
+
+POSE: seated behind a white-linen table, framed from waist upward. One forearm rests near the table; the other hand holds a clear rounded cocktail glass near her lips, containing a pale drink, ice and lime. She looks toward the camera with a relaxed, confident expression. Perfect anatomical hands, five fingers, almond-shaped manicure.
+
+OUTFIT: elegant flowing ivory-white deep-V evening top/dress with voluminous long bishop sleeves, soft chiffon/crepe texture and realistic folds. Minimal gold earrings.
+
+BACKGROUND: upscale Mediterranean/tropical restaurant at night with wooden pergola, warm string lights, lush greenery, cream seating and subtle patio-heater flames.
+
+Warm flattering restaurant lighting, natural shadows, realistic glass transparency, condensation and reflections. 50mm full-frame look, shallow natural depth of field, warm bokeh, 8K luxury photorealism.
+
+FINAL PRIORITY: exact identity, dark-brown eyes, long blonde hair in low updo, seamless skin tone, natural proportions, cocktail pose, white outfit, warm restaurant atmosphere, maximum realism.`,
+
+  negative: `wrong identity, copied face, blended face, generic AI model, altered facial features, blue eyes, green eyes, gray eyes, hazel eyes, brunette hair, black hair, red hair, short hair, wig, changed body proportions, enlarged breasts, tiny waist, face-body skin mismatch, orange skin, plastic skin, excessive smoothing, bad anatomy, extra fingers, fused fingers, malformed hands, wrong pose, wrong outfit, black dress, bikini, transparent bodice, exposed nipples, wrong drink, distorted glass, daytime, nightclub, studio, missing pergola, missing greenery, cold lighting, neon, harsh flash, fisheye, distorted face, CGI, 3D render, anime, illustration, blur, low resolution, AI artifacts, watermark, logo, text.`
+},
+  {
+  id: "034",
+  title: "Midnight Corset",
+  image: "prompt-034.png",
+
+  positive: `Ultra-realistic luxury fashion portrait of a glamorous young adult woman, 24–28, against a deep warm charcoal-brown minimalist background. Recreate the front-facing upper-body framing, both arms raised behind the head, elbows outward, windswept hair across the face, black corset outfit, sheer opera gloves, layered necklaces and dark cinematic mood.
+
+IDENTITY IS THE HIGHEST PRIORITY: preserve her exact recognizable face, facial proportions, eyes, nose, lips, cheekbones, jawline, chin, natural body proportions and complexion. Never copy, blend or redesign another woman’s identity.
+
+She has deep dark espresso-brown eyes and long light-blonde champagne/beige-blonde hair, loose and voluminous in tousled waves. Her hands lift the hair naturally while several blonde strands sweep across the forehead, cheek, nose and partially over one eye. Realistic individual hairs and flyaways.
+
+Maintain one seamless warm golden-beige skin tone across face, neck, chest, shoulders, arms and body, with realistic pores, peach fuzz and natural texture.
+
+POSE: torso nearly frontal, both hands behind/in the hair, elbows spread outward, shoulders anatomically relaxed. Direct confident gaze through loose strands, sensual mysterious expression, lips gently parted. Preserve her authentic body shape without enlarged breasts, tiny waist or exaggerated curves.
+
+OUTFIT: elegant black strapless corset-style bodysuit with matte structured fabric and tasteful semi-sheer mesh midriff. Long sheer black mesh gloves above the elbows, realistically revealing skin beneath. Add delicate layered silver/dark-metal necklaces.
+
+Sophisticated smoky taupe/charcoal makeup, defined lashes, subtle contour and nude rose-beige glossy lips.
+
+LIGHTING: cinematic low-key soft directional light sculpting the face, shoulders and collarbones, with subtle rim light separating blonde hair from the dark background. Rich shadows while retaining black fabric and mesh detail.
+
+CAMERA: framed from above the hair to upper hips, approximately 85mm portrait lens. Face centered between raised arms, sharp eyes, natural depth of field.
+
+Ultra-photorealistic, exact identity, dark-brown eyes, long blonde windswept hair, seamless golden-beige skin, perfect anatomy, black corset, sheer gloves, arms behind head, cinematic dark background, realistic skin/hair/fabric texture, luxury 8K photography.`,
+
+  negative: `wrong identity, blended face, generic AI model, altered face, changed nose, enlarged lips, doll face, face-swap artifacts, blue/green/gray/hazel/light eyes, brunette/black/red/short hair, bob, ponytail, bun, wig, yellow/orange blonde, plastic hair, face-body skin mismatch, orange skin, plastic/waxy/poreless skin, excessive smoothing, changed body proportions, enlarged breasts, tiny waist, exaggerated hips, distorted shoulders, bad anatomy, extra/missing arms, malformed hands, extra/fused fingers, broken wrists, arms down, wrong pose, wrong outfit, dress, jacket, latex, missing corset, missing mesh, exposed nipples, excessive transparency, missing/opaque/short gloves, bright background, outdoor setting, nightclub, harsh flash, flat/neon lighting, fisheye, distorted face/body, CGI, 3D render, anime, illustration, blur, low resolution, AI artifacts, watermark, logo, text.`
+},
+  {
+  id: "035",
+  title: "Champagne After Dark",
+  image: "prompt-035.png",
+
+  positive: `Ultra-realistic luxury evening fashion portrait of a glamorous young adult woman, faithfully recreating the elegant composition, pose, outfit, champagne moment and sophisticated party atmosphere of the reference image.
+
+The woman is standing beside a white-clothed table, photographed in a graceful three-quarter side profile from approximately mid-thigh upward. Her torso is angled toward the left side of the frame while her head turns slightly downward toward a champagne coupe in her hand. Her lips are softly pursed in a playful, elegant expression. One arm extends naturally forward holding the glass by its stem while her other hand rests gracefully against the side of her upper thigh.
+
+She has long light-blonde hair, styled into a sophisticated loose low updo, while several long soft blonde face-framing strands remain free around her cheeks and neck. The hairstyle must clearly retain the impression of naturally long hair gathered at the back, not short hair. Creamy light-blonde tones, realistic individual strands and subtle flyaways.
+
+Her eyes are deep dark brown. Refined feminine facial proportions with softly sculpted cheekbones, defined brows, elegant jawline, delicate straight nose and full glossy nude-pink lips. Sophisticated evening makeup with softly smoked eyes, defined lashes, subtle eyeliner, warm contour and luminous skin. Preserve realistic pores, fine skin texture and natural tonal variation.
+
+She wears an elegant black satin halter-neck mini dress, closely following the reference. The softly gathered satin neckline attaches at the center of the neck, leaving the shoulders and upper back exposed. The dress has dramatically open sides and a fitted black satin mini skirt. Around the hips is a voluminous black feather trim, creating a luxurious textural contrast between glossy satin and soft feathers. Realistic fabric folds, satin highlights and individually defined feather texture.
+
+Accessories include an elegant diamond tennis necklace following the neckline and large sparkling diamond drop earrings. Jewelry should have sophisticated realistic reflections rather than exaggerated artificial sparkle.
+
+She holds a vintage-inspired ribbed crystal champagne coupe decorated with a delicate narrow black satin bow tied around the stem. On the table beside her is an artistic pyramid-like arrangement of matching empty crystal coupe glasses at different heights, each decorated with elegant black ribbon bows.
+
+From the far left edge of the frame, only the arm and hand of a formally dressed server are visible: black suit sleeve and immaculate white service glove, holding a champagne bottle tilted naturally toward her glass as if about to pour. Keep the server mostly outside the frame, matching the candid composition of the reference.
+
+The background consists of elegant floor-to-ceiling soft white curtains with subtle folds, creating a minimalist upscale private-event setting. A white tablecloth fills the lower-left foreground beneath the champagne-glass arrangement.
+
+Soft warm indoor illumination combined with subtle direct-camera flash creates an authentic upscale evening-event photograph. Natural highlights across her skin, blonde hair, satin dress, diamonds and crystal glassware; realistic shadows and reflections.
+
+Captured as an authentic luxury private-party photograph, sophisticated champagne-event aesthetic, premium fashion photography with a slightly spontaneous social-media quality, realistic full-frame camera rendering, natural depth of field, subtle photographic grain, realistic skin microtexture, accurate hands and fingers, physically believable crystal transparency, no CGI appearance, no plastic skin, no excessive retouching.
+
+Three-quarter portrait from approximately mid-thigh upward, woman occupying the center-right of the frame, champagne-glass arrangement filling the lower-left foreground, server's gloved hand and bottle entering from the far left, soft white curtains filling the entire background.`,
+
+  negative: `brunette hair, black hair, red hair, short hair, bob haircut, pixie cut, hair appearing naturally short, fully loose hairstyle, high ponytail, high bun, blue eyes, green eyes, gray eyes, hazel eyes, wrong pose, front-facing pose, looking directly at camera, exaggerated expression, broad smile, wrong dress, white dress, red dress, long dress, sleeves, closed sides, missing feather trim, white feathers, colored feathers, malformed feathers, cheap fabric, matte satin, missing necklace, missing earrings, excessive jewelry, fake diamonds, oversized jewelry, missing champagne glass, wine glass, tumbler, plastic glass, malformed crystal, opaque glass, duplicated glass in hand, missing black bow, oversized bow, malformed glass pyramid, floating glasses, broken glass, server fully visible, extra people, missing white glove, malformed server hand, extra fingers, missing fingers, fused fingers, distorted hands, champagne bottle fused with hand, bottle floating, incorrect pouring angle, distorted anatomy, exaggerated body proportions, plastic skin, waxy skin, excessive smoothing, artificial beauty filter, harsh shadows, blown highlights, excessive flash, dark curtains, colored curtains, cluttered background, CGI, 3D render, illustration, anime, low resolution, blurry face, watermark, logo, text, AI artifacts.`
 }
 ];
