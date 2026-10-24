@@ -3862,5 +3862,1825 @@ Missing leopard-print gloves, opaque bulky gloves, incorrect glove pattern, miss
 Bright background, colorful background, outdoor setting, neon lighting, colored glow, flat lighting, missing cinematic shadows, incorrect flash lighting, overexposed face, excessively dark face, artificial skin highlights,
 
 Plastic-looking skin, waxy skin, poreless skin, excessive skin smoothing, excessive retouching, artificial beauty filters, CGI, 3D render, anime, cartoon, illustration, fisheye effect, wide-angle distortion, distorted anatomy, blurry face, low resolution, low quality, inscriptions, logos, watermarks, duplicated woman, extra people, AI artifacts.`
+},
+  
+{
+  id: "063",
+  title: "Skeleton Lovers",
+  image: "prompt-063.PNG",
+
+  positive: `Create an ultra-realistic Halloween couple portrait of an adult man and woman standing closely together indoors, captured with a candid direct-flash smartphone photography aesthetic.
+
+IDENTITY PRESERVATION — CRITICALLY IMPORTANT
+
+If identity photographs are supplied, use them as the ONLY sources of the subjects' individual appearances.
+
+Strictly preserve the man's and woman's exact recognizable identities, facial features, head shapes, facial ovals, eye shapes, eyebrows, noses, lips, cheekbones, chins, natural asymmetry, ages, skin tones, original eye colors, and natural hair characteristics.
+
+Preserve each person's original hair color, hairline, hair texture, and recognizable hairstyle as closely as possible.
+
+Do not mix, swap, blend, or alter their facial identities.
+
+Do not replace either person's face with the face of a model from a composition reference.
+
+Both subjects must remain recognizable beneath the elaborate Halloween makeup.
+
+COMPOSITION AND POSE
+
+Recreate a natural, intimate Halloween couple portrait.
+
+The adult man stands on the LEFT side of the frame.
+
+The adult woman stands on the RIGHT side of the frame.
+
+Their bodies are positioned closely together, creating a relaxed and affectionate couple composition.
+
+The man casually wraps one arm around the woman's shoulders.
+
+His arm rests naturally across her upper back and shoulder area without distorting either person's anatomy.
+
+Both subjects face the camera directly.
+
+Their expressions are serious, confident, calm, and slightly mysterious.
+
+Neither subject is smiling broadly.
+
+The composition frames both people approximately from the upper thighs upward.
+
+Both faces, necks, shoulders, leather jackets, and important clothing details must remain clearly visible.
+
+The pose should feel spontaneous and natural rather than stiff or artificially staged.
+
+HALLOWEEN MAKEUP — REALISTIC SKELETAL BODY PAINT
+
+Both the man and woman wear detailed black-and-white skeletal Halloween makeup covering their faces and necks.
+
+The makeup creates a convincing theatrical skull illusion while preserving each person's recognizable facial anatomy.
+
+Dark black pigment surrounds the eyes, creating the appearance of hollow skull eye sockets.
+
+The eye makeup follows the natural contours of each person's eyes without altering their real eye shapes.
+
+Black skeletal nose details create the illusion of a skull's nasal cavity.
+
+Realistic painted skull teeth extend across the lips and outward onto the cheeks.
+
+The painted teeth are individually defined with believable shapes, shading, and spacing.
+
+Black shadows between the painted teeth create depth and dimension.
+
+White and gray highlights imitate the contours of a human skull.
+
+The makeup includes carefully painted cheekbone structures, jaw details, and dark hollow areas.
+
+The skeletal design continues naturally down both necks.
+
+Painted vertebrae, bone structures, and dark shadowed spaces create the illusion of an exposed skeletal neck.
+
+The face and neck makeup must remain visually connected, detailed, and anatomically believable.
+
+The skeletal elements are clearly theatrical cosmetic body paint applied over intact, healthy skin.
+
+There are no real exposed bones, open wounds, injuries, or gore.
+
+The makeup should look professionally applied but realistic enough for an authentic Halloween party photograph.
+
+MAN'S CLOTHING
+
+The man wears a black leather jacket with a realistic slightly worn texture.
+
+The jacket has natural folds, visible seams, realistic stitching, and subtle reflections from the camera flash.
+
+Underneath the jacket, he wears a dark red-and-black shirt.
+
+The shirt is partially visible through the open front of the leather jacket.
+
+He wears fitted black pants with a natural, realistic fit.
+
+The outfit is masculine, casual, dark, and coordinated with the Halloween aesthetic.
+
+Preserve the man's natural body proportions, shoulder width, arm length, and physique.
+
+Do not exaggerate his muscles or change his recognizable body shape.
+
+WOMAN'S CLOTHING
+
+The woman wears a fitted black top beneath a cropped black leather biker jacket.
+
+The biker jacket features realistic leather texture, structured lapels, metallic details, visible stitching, and natural folds.
+
+She wears high-waisted black shorts that fit naturally around her waist and hips.
+
+Subtle black thigh straps complete the outfit.
+
+The straps are understated, realistic, and correctly positioned on the upper thighs.
+
+The woman's silhouette remains feminine, natural, and anatomically proportionate.
+
+Her shoulders, waist, hips, legs, and arms must retain realistic proportions.
+
+Do not exaggerate her curves, enlarge her hips, broaden her shoulders, or alter her natural anatomy.
+
+TATTOOS — STRICT REFERENCE ACCURACY
+
+Include tattoos ONLY if they are clearly present in the supplied identity photographs.
+
+If the subjects have tattoos in their identity photographs, preserve their actual placement, scale, and recognizable design as accurately as possible.
+
+Do not invent new tattoos.
+
+Do not copy tattoos from a separate composition reference.
+
+If no tattoos are visible in the identity photographs, do not add any tattoos.
+
+BACKGROUND — CASUAL INDOOR HALLOWEEN SNAPSHOT
+
+The setting is a simple indoor residential environment.
+
+Cream-colored walls create a neutral, warm background.
+
+White paneled interior doors are visible behind the couple.
+
+The environment resembles an ordinary home or apartment during a casual Halloween gathering.
+
+Warm ambient indoor lighting provides subtle background illumination.
+
+The background is authentic, understated, and slightly imperfect.
+
+Avoid elaborate haunted-house decorations, theatrical scenery, professional studio backdrops, or excessive props.
+
+The emphasis remains on the couple and their skeletal Halloween makeup.
+
+LIGHTING AND PHOTOGRAPHIC STYLE
+
+Strong frontal camera flash illuminates both subjects.
+
+The lighting resembles a spontaneous photograph captured with a smartphone or compact digital camera.
+
+The flash produces slightly harsh highlights on the faces, leather jackets, and exposed skin.
+
+Deep but natural shadows appear behind the couple and around the contours of their clothing.
+
+Warm ambient room lighting remains visible in the background.
+
+Subtle vintage digital-camera grain adds authenticity.
+
+The image should feel candid, intimate, and spontaneous rather than excessively polished.
+
+Natural skin texture remains visible beneath and around the theatrical makeup.
+
+The leather jackets display realistic reflections, folds, and surface texture.
+
+The makeup has believable pigment density, slight texture, and realistic blending.
+
+CAMERA AND FRAMING
+
+A straightforward frontal camera angle with natural human proportions.
+
+Both subjects stand close to the camera while remaining naturally proportioned.
+
+The framing extends approximately from the upper thighs to above both heads.
+
+The man's arm around the woman's shoulders is clearly visible.
+
+Both faces and the detailed skeletal neck makeup remain important focal points.
+
+Slightly imperfect framing enhances the casual party snapshot aesthetic.
+
+Natural perspective without wide-angle distortion or exaggerated foreground proportions.
+
+Realistic depth, detailed facial makeup, authentic leather textures, and natural indoor lighting.
+
+Ultra-photorealistic Halloween couple photography with high detail and subtle digital-camera grain.
+
+MAIN PRIORITY
+
+Maximum preservation of both subjects' individual facial identities, natural appearance, original hair colors, and realistic anatomy.
+
+The man stands on the left and the woman on the right, close together, with his arm casually wrapped around her shoulders.
+
+Both wear intricate black-and-white skeletal face and neck makeup featuring hollow eye sockets, painted skull teeth, skeletal nose details, and painted neck vertebrae.
+
+The man wears a black leather jacket over a dark red-and-black shirt with fitted black pants.
+
+The woman wears a cropped black leather biker jacket, fitted black top, high-waisted black shorts, and subtle black thigh straps.
+
+Simple cream-colored residential walls, white paneled doors, warm ambient lighting, strong frontal flash, realistic shadows, subtle vintage grain, and an authentic candid Halloween party atmosphere.`,
+
+  negative: `Real exposed skull, exposed bone, real skeletal anatomy visible through skin, gore, open wounds, graphic injury, blood-covered face, zombie decay, rotting flesh, monster face, horror mutations, torn skin,
+
+Altered identity, mixed identities, swapped faces, blended facial features, generic AI faces, copied faces from reference models, changed facial anatomy, changed eye shape, changed nose, changed lips, altered facial oval, changed skin tone, changed age, changed original hair color, artificial hair color, excessive beautification, unrecognizable subjects,
+
+Copied tattoos, random tattoos, invented tattoos, tattoos copied from composition reference, incorrect tattoo placement, incorrect tattoo design,
+
+Missing skeletal makeup, incomplete skull makeup, distorted skull makeup, incorrect skull teeth, missing painted teeth, uneven tooth placement, asymmetrical makeup, missing hollow eye makeup, missing skeletal nose details, missing neck makeup, missing painted vertebrae, unrealistic bone shapes, actual exposed bones instead of body paint,
+
+Cartoon, illustration, anime, CGI, 3D render, plastic skin, waxy skin, excessive retouching, artificial skin smoothing, beauty filters, unrealistic makeup texture,
+
+Distorted faces, incorrect anatomy, oversized heads, tiny heads, unnatural necks, extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, incorrect joints, twisted limbs, duplicate people, extra people, missing person,
+
+Exaggerated muscles, unnaturally broad male shoulders, broad female shoulders, exaggerated female hips, unnaturally narrow waist, unrealistic bust, shortened torso, incorrect body proportions, distorted legs, unnatural pose,
+
+Man on the right, woman on the left, reversed positions, subjects standing far apart, missing arm around shoulders, incorrect embrace, unnatural arm placement, stiff studio pose, exaggerated facial expressions, broad smiles,
+
+Missing black leather jackets, incorrect jacket material, missing dark red-and-black shirt, missing fitted black pants, missing cropped biker jacket, missing black fitted top, missing high-waisted shorts, missing thigh straps, cosplay armor, fantasy armor, elaborate costumes,
+
+Theatrical studio background, haunted castle, graveyard, outdoor setting, elaborate horror scenery, excessive Halloween props, dramatic colored spotlights, neon lighting, artificial cinematic fog, overly polished fashion studio lighting,
+
+Masks covering the faces, full-face plastic skull masks, prosthetic skull heads, face-obscuring accessories,
+
+Missing frontal flash, flat lighting, excessive beauty lighting, unrealistic reflections, overexposed faces, excessively dark faces, extreme contrast hiding makeup details,
+
+Fisheye effect, wide-angle distortion, exaggerated perspective, extreme low-angle photography, excessive blur, motion blur, low resolution, low quality, artificial sharpness, text, watermark, logo, inscriptions, duplicated limbs, AI artifacts.`
+},
+
+{
+  id: "064",
+  title: "Pennywise Together",
+  image: "prompt-064.PNG",
+
+  positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, facial ovals, eyes, eyebrows, noses, lips, cheekbones, chins, ages, natural facial asymmetry, skin tones, eye colors, and original hair colors.
+
+Do not alter their appearance or idealize their faces. Both individuals must remain maximally recognizable even under elaborate Halloween makeup.
+
+Create an ultra-realistic Halloween fashion photograph of an adult couple styled as female and male versions of Pennywise from the horror movie It.
+
+Professional realistic full-body photography. The composition, poses, costumes, and lighting must match the reference as closely as possible.
+
+POSE AND COMPOSITION
+
+The woman stands on the LEFT, and the man stands on the RIGHT, next to each other against a concrete-block wall.
+
+Both face the camera and hold hands between them.
+
+The woman stands in a bold pose with her legs spread wide apart and one knee slightly bent.
+
+Her torso is almost frontal, her head is slightly turned to the right, and her gaze is directed to the side.
+
+One arm is lowered, holding the man's hand, while her other arm is positioned naturally near her thigh, with her free hand lightly holding or touching the ribbon of her balloon.
+
+The man stands upright with his feet shoulder-width apart and his torso facing the camera.
+
+His head is straight, his gaze is directed into the lens, and his facial expression is cold and mysterious.
+
+He holds the woman's hand with one hand and a thin red balloon ribbon with the other.
+
+One large red helium balloon floats above each person.
+
+The balloons are positioned in the upper part of the frame, at slightly different heights, with their long red ribbons hanging naturally downward.
+
+The pose must look confident, natural, balanced, and physically realistic.
+
+CRITICALLY IMPORTANT — ANATOMY AND PROPORTIONS
+
+Preserve the real proportions of both individuals.
+
+Their heads must be normally sized, shoulders naturally proportioned, torsos anatomically correct in length, and arms and legs proportionate to their bodies.
+
+The man has a natural masculine physique, without excessively broad shoulders or artificially enlarged muscles.
+
+The woman has a harmonious feminine figure, delicate shoulders, a defined but natural waist, and a full size 4 bust, proportionate to her rib cage.
+
+The corset supports her bust without unnatural enlargement or deformation.
+
+The woman's legs are long and natural, without excessive elongation.
+
+Her hips, thighs, knees, and calves remain proportionate to her torso.
+
+Hands and fingers must have correct anatomical shapes.
+
+The couple's joined hands must connect naturally, with believable finger placement and correct wrist and elbow positions.
+
+No extra limbs, incorrect joints, distorted anatomy, or unnaturally stretched bodies.
+
+HAIR — MAN
+
+The man's hair must strictly retain its original natural color from his uploaded photograph.
+
+His hair is styled in a voluminous, slightly messy hairstyle with a lifted top section.
+
+The hairstyle has natural texture, realistic individual strands, and believable volume.
+
+Do not alter his natural hairline, original hair shade, or recognizable hair characteristics.
+
+HAIR — WOMAN
+
+The woman's hair is long and thick, strictly retaining its original natural color.
+
+Her hair is parted in the center and styled into two high ponytails on either side of her head.
+
+The ponytails are voluminous, with soft, slightly messy waves falling freely over her shoulders and chest.
+
+The hair has realistic texture, individual strands, and natural movement.
+
+Do not change her original hair shade, hairline, or recognizable hair characteristics.
+
+MAKEUP — PENNYWISE-INSPIRED HALLOWEEN GLAM
+
+Both individuals wear professional theatrical Halloween makeup inspired by Pennywise.
+
+A pale white makeup base covers the face while preserving natural skin texture and recognizable facial anatomy.
+
+Deep black-gray shadows surround the eyes, creating a dark, mysterious clown appearance.
+
+The eyebrows remain expressive and recognizable beneath the makeup.
+
+The tips of the noses are darkened with theatrical clown makeup.
+
+Thin, curved red lines extend from the corners of the mouth upward across the cheeks toward the eye area.
+
+These precise red lines create the characteristic sinister Pennywise-inspired clown smile.
+
+The lips are covered with rich dark-red lipstick.
+
+All makeup elements are artistic theatrical effects applied over intact, healthy skin.
+
+The makeup must not replace, distort, or conceal the subjects' individual facial identities.
+
+WOMAN'S MAKEUP
+
+The woman's makeup is a glamorous interpretation of the Pennywise aesthetic.
+
+Expressive black-gray smoky eyes emphasize her natural eye shape.
+
+Long, thick eyelashes create a dramatic beauty effect.
+
+Sharp, defined black winged eyeliner extends outward from the eyes.
+
+Soft cheekbone contouring adds dimension while preserving her original facial proportions.
+
+Her lips are covered with rich dark-burgundy lipstick.
+
+The characteristic curved red clown lines are clearly visible.
+
+The white makeup base remains realistic, with natural texture and subtle tonal variations.
+
+MAN'S MAKEUP
+
+The man's makeup is darker and more sinister.
+
+Deep black-gray shadows emphasize the eye sockets without changing his real eye shape.
+
+The curved red clown lines are sharply defined and extend upward from the mouth toward the eyes.
+
+His nose tip is darkened, and his lips are colored deep red.
+
+The makeup creates a frightening theatrical clown effect while keeping his original facial features recognizable.
+
+WOMAN'S CLOTHING — WHITE PENNYWISE CORSET COSTUME
+
+The woman wears a short white clown costume featuring a fitted strapless corset.
+
+The corset is made from dense white fabric with shaped cups, vertical boning, decorative seams, and carefully structured panels.
+
+Small bright-red pompoms are arranged vertically along the center of the corset.
+
+The corset follows her natural feminine anatomy, supporting her full bust without excessive enlargement or distortion.
+
+Around her waist is a short, voluminous white tutu skirt.
+
+The skirt consists of multiple layers of semi-transparent white tulle, creating an airy, full silhouette.
+
+The tulle has realistic transparency, delicate folds, and softly layered fabric texture.
+
+A small white pleated ruff collar surrounds her neck.
+
+She wears long, fitted white gloves extending above the elbows, with decorative lace details at the ends.
+
+On her legs are black fine-mesh fishnet tights.
+
+The fishnet pattern is consistent, realistic, and clearly visible.
+
+She wears tall white platform boots with chunky soles, black laces, and round red pompoms on the front.
+
+The boots have realistic proportions, visible material texture, and natural contact with the ground.
+
+The entire outfit is stylish, feminine, theatrical, and inspired by a modern Pennywise Halloween interpretation.
+
+MAN'S CLOTHING — WHITE PENNYWISE COSTUME
+
+The man wears an entirely white clown costume inspired by a modern interpretation of Pennywise.
+
+A loose white long-sleeved shirt with a classic collar forms the main part of the costume.
+
+Three bright-red round pompoms are arranged vertically down the center of the chest.
+
+Around his neck is a large, multilayered white pleated ruff collar.
+
+The ruff collar features thin black edging and realistic structured fabric folds.
+
+He wears straight-cut classic white trousers.
+
+The trousers fit naturally and maintain realistic leg proportions.
+
+White gloves with decorative lace cuffs cover his hands.
+
+He wears white sneakers featuring small red details.
+
+The costume fabric is dense, slightly matte, and features natural folds, seams, and realistic texture.
+
+The man's outfit is elegant, theatrical, and visually coordinated with the woman's costume.
+
+RED BALLOONS — EXACTLY TWO
+
+Exactly TWO large, bright-red, glossy, teardrop-shaped helium balloons.
+
+One balloon floats above the woman on the LEFT.
+
+The second balloon floats above the man on the RIGHT.
+
+The balloons are positioned at different heights, matching the reference composition.
+
+A thin red ribbon extends downward from each balloon.
+
+The man's balloon ribbon hangs near his right hand and is held naturally.
+
+The woman's free hand lightly holds or touches the ribbon of her balloon.
+
+Both ribbons are thin, realistic, and clearly connected to their respective balloons.
+
+The balloons have realistic rounded teardrop shapes, smooth glossy surfaces, and soft white light reflections.
+
+Their size is believable relative to the couple.
+
+Both balloons must remain completely visible.
+
+Do not add any extra balloons.
+
+BACKGROUND AND ATMOSPHERE
+
+A simple outdoor location beside a large wall constructed from rectangular concrete blocks in various shades of gray.
+
+The wall features horizontal bands of dark-gray and light-gray blocks.
+
+Visible seams and a rough concrete surface create an authentic urban texture.
+
+A flat gray concrete surface is visible beneath the couple's feet.
+
+The background is minimal, neutral, and free from distracting objects.
+
+No trees, buildings, cemeteries, smoke, candles, or additional Halloween decorations.
+
+The atmosphere resembles a stylish modern Halloween fashion photoshoot.
+
+The composition emphasizes the contrast between the clean white clown costumes, cool gray concrete background, and saturated bright-red balloons.
+
+LIGHTING AND COLOR GRADING
+
+Soft natural daylight evenly illuminates both faces, costumes, balloons, and the concrete-block wall.
+
+Moderate shadows create realistic depth without harsh contrast.
+
+The white clothing retains natural texture, folds, and subtle shadow details.
+
+The red balloons and pompoms remain bright and saturated.
+
+Slightly muted professional color grading emphasizes cool gray background tones, natural skin tones beneath the theatrical makeup, clean white clothing, and vivid red accents.
+
+No red lighting, neon, colored spotlights, fire, or artificial glowing effects.
+
+The lighting must remain realistic, soft, and consistent with an outdoor daytime fashion photograph.
+
+CAMERA AND FRAMING
+
+Professional full-body photograph of the couple.
+
+The camera is positioned approximately at chest level, using a 50–70mm lens with natural perspective.
+
+The woman occupies the LEFT half of the frame.
+
+The man occupies the RIGHT half of the frame.
+
+Both individuals are fully visible from the tops of their heads to their shoes.
+
+The two red balloons float above them and must not be cropped by the upper edge of the image.
+
+The frame clearly shows the couple's joined hands, complete costumes, the woman's tutu skirt, black fishnet tights, white platform boots, the man's white trousers and sneakers, long balloon ribbons, and the concrete wall.
+
+Maintain sufficient distance from the couple to preserve realistic full-body proportions.
+
+Do not stretch the figures, enlarge their heads, shorten their torsos, or distort their bodies.
+
+Natural portrait perspective without wide-angle or fisheye distortion.
+
+Professional realistic Halloween fashion photography, natural skin texture, detailed theatrical makeup, realistic fabrics, soft depth of field, high detail, and 8K quality.
+
+MAIN PRIORITY
+
+Maximum recognizability of both individuals from their uploaded photographs.
+
+Strict preservation of their original eye colors, natural hair colors, facial features, and human proportions.
+
+Accurate handholding pose with the woman on the LEFT and the man on the RIGHT.
+
+The woman wears a short white corset costume with a voluminous tutu skirt, black fishnet tights, white platform boots, and two high wavy ponytails.
+
+The man wears a white shirt with three red pompoms, a multilayered pleated ruff collar, straight white trousers, and white sneakers.
+
+Both wear expressive Pennywise-inspired theatrical makeup.
+
+Exactly two large glossy red helium balloons float above the couple.
+
+A gray concrete-block wall, soft natural daylight, muted urban color grading, and a realistic full-body Halloween fashion composition complete the scene.`,
+
+  negative: `Altered faces, incorrect identity, blended facial features, face swapping, generic AI faces, changed head shapes, changed eye shapes, changed noses, changed lips, changed cheekbones, changed chins, changed ages, changed skin tones, changed eye colors, changed original hair colors, excessive beautification, loss of facial resemblance,
+
+Oversized heads, tiny heads, excessively broad shoulders, enlarged bust, artificially enlarged muscles, enlarged arms, enlarged hands, unnaturally tiny waist, shortened torsos, excessively elongated legs, deformed legs, oversized hips, incorrect joints, distorted anatomy, disproportionate body shapes,
+
+Extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, incorrectly connected hands, unnatural handholding pose, twisted wrists, extra limbs, missing limbs,
+
+Incorrect hairstyles, altered hairlines, artificial hair colors, wigs, missing woman's ponytails, low ponytails, single ponytail, incorrect ponytail placement, missing center part, incorrect man's hairstyle,
+
+Incorrect clown makeup, missing pale makeup base, missing dark eye shadows, missing red clown lines, missing darkened nose tips, missing dark-red lipstick, distorted facial anatomy, makeup replacing real facial features, full-face masks, cartoon clown faces,
+
+Incorrect costumes, missing white corset, incorrect corset color, missing structured cups, missing red pompoms, missing tutu skirt, flat skirt, missing tulle layers, missing black fishnet tights, incorrect tights color, missing platform boots, incorrect boot color, missing black boot laces, missing white gloves, missing lace details, missing pleated ruff collar,
+
+Incorrect men's shirt, missing three red chest pompoms, incorrect men's trousers, missing white sneakers, incorrect costume fabric, fantasy armor, excessive costume accessories,
+
+Missing balloons, additional balloons, one balloon, three balloons, more or fewer than two balloons, incorrectly positioned balloons, cropped balloons, partially visible balloons, missing ribbons, disconnected ribbons, oversized balloons, tiny balloons, incorrectly colored balloons, heart-shaped balloons,
+
+Incorrect couple positioning, woman on the right, man on the left, reversed subjects, missing handholding pose, subjects standing far apart, incorrect arm positions, unnatural poses, incorrect full-body framing, cropped feet, cropped shoes, cropped heads,
+
+Trees, buildings, cemeteries, smoke, candles, additional Halloween decorations, weapons, blood, gore, extra people, distracting objects, incorrect background, indoor setting, theatrical studio backdrop,
+
+Red lighting, neon lighting, colored spotlights, fire, artificial glow, overly dramatic shadows, harsh artificial lighting, excessive darkness, extreme contrast,
+
+Wide-angle distortion, fisheye effect, stretched bodies, exaggerated perspective, CGI, 3D render, anime, cartoon, illustration, plastic-looking skin, waxy skin, excessive skin smoothing, unrealistic fabric textures, tattoos, glasses, inscriptions, logos, watermarks, blur, low resolution, low quality, AI artifacts.`
+},
+
+{
+  id: "065",
+  title: "Joker & Harley Love",
+  image: "prompt-065.PNG",
+
+  positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, facial ovals, eyes, eyebrows, noses, lips, cheekbones, chins, ages, natural facial asymmetry, skin tones, eye colors, and original hair colors.
+
+Do not alter their appearance or idealize their faces. Both individuals must remain maximally recognizable even under elaborate Halloween makeup.
+
+Create an ultra-realistic Halloween fashion photograph of an adult couple styled as the Joker and Harley Quinn from the DC universe.
+
+The scene is a realistic mirror selfie taken in an ordinary home interior. The composition, poses, makeup, clothing, lighting, and atmosphere must match the reference as closely as possible.
+
+POSE AND COMPOSITION
+
+The woman stands in the foreground, near the center of the frame, slightly to the right of the man, photographing their reflection in a large wall-mounted mirror.
+
+Her torso faces the mirror almost directly.
+
+Her head is slightly turned to the right, and her gaze is directed toward the smartphone screen.
+
+Her right hand is raised near her face, holding the smartphone vertically.
+
+Her left arm hangs naturally along her body.
+
+The man stands directly behind the woman, slightly to her left, pressing close against her back.
+
+His head is positioned near her left shoulder.
+
+His gaze is directed toward the woman's reflection.
+
+One arm wraps naturally around her waist from the front.
+
+His palm rests on her abdomen over the corset, with realistic finger placement and anatomically correct hand proportions.
+
+His other arm is partially concealed behind her body.
+
+The couple's bodies remain close together, creating a natural, intimate, slightly rebellious, and romantic pose.
+
+Their expressions are confident, mysterious, and subtly provocative.
+
+The pose must resemble a genuine spontaneous couple selfie rather than a staged professional photoshoot.
+
+CRITICALLY IMPORTANT — ANATOMY AND PROPORTIONS
+
+Preserve the real proportions of both individuals.
+
+Their heads must be normally sized, shoulders naturally proportioned, torsos anatomically correct in length, and arms and hands proportionate to their bodies.
+
+The man has a natural masculine physique without artificially enlarged shoulders or muscles.
+
+The woman has a harmonious feminine figure, delicate shoulders, a natural waist, and a full bust proportionate to her rib cage.
+
+The corset emphasizes her figure without enlarging her bust beyond its original proportions.
+
+Her shoulders, rib cage, waist, hips, and arms remain anatomically correct.
+
+The man's arm must wrap naturally around the woman's waist without intersecting her body or creating extra limbs.
+
+His hand must rest correctly on the front of her corset, with five naturally positioned fingers.
+
+The woman's smartphone-holding hand must have correct anatomy, realistic finger placement, and believable grip.
+
+The smartphone must be realistically sized relative to her palm.
+
+No enlarged hands, distorted joints, shortened torsos, exaggerated proportions, or unnatural body curvature.
+
+HAIR — MAN
+
+The man's hair strictly retains its original natural color from his uploaded photograph.
+
+Short, thick, slightly tousled hair with natural volume.
+
+The hairstyle has realistic individual strands, a believable hairline, and a softly disheveled texture.
+
+Do not dye his hair green.
+
+Do not change his original hair shade, hairline, or recognizable hair characteristics.
+
+HAIR — WOMAN
+
+The woman's hair is long and strictly retains its original natural color from her uploaded photograph.
+
+Her hair is parted in the center and styled into two high ponytails on either side of her head.
+
+The ponytails are voluminous, slightly messy, and styled in soft waves.
+
+Several loose strands frame her face and fall naturally over her shoulders.
+
+The hair has realistic density, natural movement, and clearly defined individual strands.
+
+Do not change her original hair shade.
+
+Do not copy Harley Quinn's traditional dyed hair colors.
+
+The original hair color must remain unchanged in both ponytails, at the roots, and in every loose strand.
+
+WOMAN'S MAKEUP — HARLEY QUINN
+
+The woman wears dramatic professional Halloween makeup inspired by Harley Quinn.
+
+Her skin appears light under the makeup while retaining her original natural skin tone and realistic texture.
+
+Her eyebrows remain expressive and recognizable.
+
+Black winged eyeliner emphasizes her natural eye shape.
+
+Thick, long eyelashes create a dramatic beauty effect.
+
+Softly blended dark eyeshadow surrounds the eyes.
+
+On one temple, realistic theatrical makeup depicts a small reddish cut.
+
+The effect is cosmetic and does not represent an actual injury.
+
+Beneath the other eye are several small black decorative symbols and inscriptions in Harley Quinn's signature style.
+
+These markings are carefully painted onto the skin as temporary theatrical makeup.
+
+Her lips are covered with rich dark-burgundy lipstick.
+
+Long, uneven red lines are painted from the corners of the mouth outward across the cheeks.
+
+The lines create the illusion of a wide, sinister clown smile without altering her real lips, mouth, or jaw anatomy.
+
+The makeup is slightly smudged but remains professionally executed, realistic, and highly detailed.
+
+On the exposed upper chest is black temporary body art featuring chaotic handwritten inscriptions and playing cards with suit symbols.
+
+The decorative markings appear as theatrical body paint applied directly onto the skin.
+
+They are not permanent tattoos.
+
+All makeup elements must preserve the woman's real facial features and recognizable identity.
+
+MAN'S MAKEUP — THE JOKER
+
+The man's face is covered with a white theatrical makeup base.
+
+The makeup preserves the natural shape and realistic texture of his skin.
+
+Deep, blended black shadows surround his eyes, creating a tired, unhinged, and mysterious gaze.
+
+The dark eye makeup follows his natural eye anatomy without changing the original shape of his eyes.
+
+Small reddish decorative cuts and thin dark symbols appear on his forehead and near one eye.
+
+These are theatrical cosmetic details rather than actual injuries or permanent tattoos.
+
+His lips are covered with smudged dark-red lipstick.
+
+Long, uneven red lines extend from the corners of his mouth outward across his cheeks.
+
+The red lines imitate the Joker's signature sinister smile.
+
+His facial expression is cold, mysterious, confident, and slightly frightening.
+
+Do not alter the real shape of his eyes, eyebrows, nose, lips, cheekbones, or jaw.
+
+The makeup must remain clearly theatrical and preserve his individual facial identity.
+
+WOMAN'S CLOTHING — HARLEY QUINN
+
+The woman wears a fitted purple strapless corset.
+
+The corset features a shaped upper edge, structured cups, vertical boning, decorative seams, and metal fastenings arranged vertically down the center.
+
+The purple fabric has realistic texture, subtle highlights, and natural folds.
+
+The corset emphasizes her natural waist and bust while preserving correct anatomical proportions.
+
+Around her neck is a long dark-green satin necktie.
+
+The necktie hangs loosely down the front of her chest, reaching toward the lower part of the corset.
+
+The satin fabric has a soft sheen, realistic folds, and natural movement.
+
+She wears short black shorts made from dense matte fabric.
+
+The shorts fit naturally around her waist and hips.
+
+The outfit is feminine, rebellious, stylish, and inspired by Harley Quinn's theatrical aesthetic.
+
+MAN'S CLOTHING — THE JOKER
+
+The man wears a white shirt with the upper buttons undone.
+
+The shirt has a casually open collar and slightly disheveled appearance.
+
+Natural fabric folds, visible seams, and realistic cotton texture are clearly rendered.
+
+Over the shirt are narrow black suspenders running vertically down his chest.
+
+The suspenders have realistic tension, width, and placement.
+
+A small dark accessory is worn around his neck, partially concealed by the shirt collar.
+
+His outfit looks slightly untidy but fashionable, creating a modern Joker-inspired appearance.
+
+The clothing must fit his natural masculine physique without exaggerating his shoulders, chest, or arms.
+
+BACKGROUND — REALISTIC HOME MIRROR SELFIE
+
+The scene takes place in an ordinary home bathroom or small dressing room.
+
+The couple stands in front of a large rectangular mirror with a wide white frame.
+
+Behind them is an open doorway with warm beige-peach lighting.
+
+Light-colored walls and a small visible section of furniture create an authentic residential atmosphere.
+
+A light-gray wall is visible on the right side of the frame.
+
+The edge of the mirror frame appears on the left.
+
+The interior is simple, realistic, and slightly imperfect, resembling an ordinary home in the evening.
+
+No additional Halloween decorations, candles, smoke, fantasy elements, or theatrical scenery.
+
+The background must not distract from the couple.
+
+LIGHTING AND COLOR GRADING
+
+Ordinary indoor household lighting combines warm illumination from the adjacent room with slightly cool gray-blue light near the mirror.
+
+Both faces are clearly visible.
+
+The lighting creates soft, natural shadows and subtle reflections on the mirror surface.
+
+Colors are slightly muted and realistic.
+
+The photograph must look like a genuine evening smartphone selfie.
+
+Subtle digital-camera grain, natural sharpness, realistic skin texture, and gentle reflections enhance authenticity.
+
+The purple corset, dark-green necktie, white shirt, and theatrical makeup retain their natural colors.
+
+No red studio lighting, neon lighting, harsh contrast, excessive post-processing, or artificial glowing effects.
+
+CAMERA AND MIRROR FRAMING
+
+A realistic mirror selfie framed from the tops of both heads to approximately the upper thighs.
+
+The smartphone camera is positioned approximately at the woman's face level, slightly to the right of center.
+
+The woman occupies the central and right portions of the frame.
+
+The man stands closely behind her on the left.
+
+Both heads, hairstyles, faces, shoulders, arms, the woman's corset and necktie, the upper portion of her black shorts, and the man's embrace must remain visible.
+
+The smartphone is light-colored, featuring a dual-camera system.
+
+It has a transparent case containing a small decorative photograph.
+
+The phone is held vertically in the woman's right hand.
+
+The phone partially obscures the space near the right side of the woman's face but does not cover her main facial features.
+
+The mirror reflection must remain geometrically believable and physically consistent.
+
+The subjects' positions, arm placement, hand positions, and smartphone orientation must look natural in the reflection.
+
+Do not stretch the figures, distort the mirror perspective, enlarge the smartphone, or alter the size of the hands.
+
+Professional ultra-realistic smartphone photography, natural skin texture, detailed theatrical makeup, realistic hair and fabrics, subtle digital-camera grain, soft household lighting, and maximum photorealism.
+
+MAIN PRIORITY
+
+Maximum recognizability of both individuals from their uploaded photographs.
+
+Strict preservation of their original eye colors, natural hair colors, facial features, and human anatomy.
+
+An accurate intimate mirror selfie pose, with the woman in the foreground holding a light-colored smartphone and the man embracing her from behind around her waist.
+
+The man's hand rests naturally on the front of the woman's purple corset.
+
+The woman wears a fitted purple strapless corset, a long dark-green satin necktie, and short black shorts.
+
+The man wears a casually open white shirt with narrow black suspenders.
+
+Both wear expressive Joker and Harley Quinn theatrical makeup, including dark eye makeup, sinister painted red smiles, and small decorative facial markings.
+
+The woman's hair is styled into two high wavy ponytails while strictly preserving her original hair color.
+
+The man retains his natural hair color and slightly tousled hairstyle.
+
+A realistic home bathroom or dressing room, a large white-framed mirror, an open doorway with warm beige-peach lighting, subtle smartphone-camera grain, and soft household lighting complete the scene.`,
+
+  negative: `Altered faces, incorrect identity, blended facial features, face swapping, generic AI faces, changed head shapes, changed eye shapes, changed noses, changed lips, changed cheekbones, changed chins, changed ages, changed skin tones, changed original eye colors, changed original hair colors, excessive beautification, loss of facial resemblance,
+
+Oversized heads, excessively broad shoulders, artificially enlarged male muscles, enlarged breasts, oversized arms, oversized hands, unnaturally tiny waist, shortened torsos, distorted body proportions, unnatural spine curvature, exaggerated hips, unrealistic anatomy,
+
+Extra fingers, extra hands, extra arms, extra limbs, missing fingers, fused fingers, malformed hands, malformed joints, incorrectly positioned arms, unnatural hand placement, intersecting limbs, duplicated wrists, floating hands, incorrect embrace,
+
+Incorrect hairstyles, green hair on the man, altered hair colors, dyed ponytails, blue ponytails, pink ponytails, missing ponytails, incorrect ponytail placement, missing center part, artificial-looking hair, wigs, altered hairlines,
+
+Incorrect Joker makeup, incorrect Harley Quinn makeup, missing white theatrical makeup on the man, missing dark eye shadows, missing red painted smiles, missing decorative facial markings, distorted facial anatomy, makeup replacing real facial features, full-face masks, actual open wounds, excessive blood, gore,
+
+Real tattoos, permanent tattoos, invented tattoos, tattoo sleeves, glasses, plastic-looking skin, cartoonish styling, excessive beauty filters,
+
+Incorrect clothing, missing purple corset, incorrect corset color, missing structured cups, missing metal fastenings, missing green necktie, incorrect necktie color, missing black shorts, missing white shirt, missing black suspenders, incorrect shirt collar, formal suit jacket, fantasy costumes,
+
+Incorrect mirror selfie composition, incorrect positioning of the couple, man standing in front of the woman, woman standing behind the man, missing embrace, man not touching woman's waist, incorrectly positioned hand on corset, incorrectly positioned smartphone, oversized phone, extra smartphones, missing smartphone, incorrect phone orientation, distorted mirror reflections, impossible mirror geometry,
+
+Additional Halloween decorations, candles, smoke, fantasy elements, weapons, excessive blood, extra people, duplicate couple, theatrical studio background, outdoor setting, haunted house scenery,
+
+Red studio lighting, neon lighting, excessive contrast, artificial glow, harsh colored spotlights, heavy retouching, excessive darkness, overexposed faces,
+
+CGI, 3D render, anime, cartoon, illustration, unnatural skin smoothing, waxy skin, fisheye distortion, extreme wide-angle perspective, stretched bodies, blurred faces, motion blur, low resolution, low quality, logos, watermarks, AI artifacts.`
+},
+
+{
+  id: "066",
+  title: "Eternal Skeleton Love",
+  image: "prompt-066.PNG",
+
+  positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, facial ovals, eyes, eyebrows, noses, lips, cheekbones, chins, ages, natural facial asymmetry, skin tones, eye colors, and original hair colors.
+
+Do not alter their appearance or idealize their faces. Both individuals must remain maximally recognizable even under elaborate Halloween makeup.
+
+Create an ultra-realistic cinematic Halloween fashion photograph of an adult couple in love, styled as romantic gothic skeletons on the seashore at sunset.
+
+Atmospheric professional photography with a composition, poses, clothing, makeup, and lighting matching the reference as closely as possible.
+
+POSE AND COMPOSITION
+
+The man stands on the LEFT, slightly behind the woman, pressing closely and gently against her.
+
+His torso is slightly turned toward the woman, and his head is tilted toward her face.
+
+He gently touches his lips to the area near her temple and upper cheek, as if giving her a tender romantic kiss.
+
+The woman stands on the RIGHT in the foreground, with her head slightly turned to the left toward the man.
+
+Her chin is slightly raised, her gaze is directed into the distance, and her facial expression is calm, mysterious, and romantic.
+
+One of the woman's arms is raised and wrapped behind the man's neck.
+
+Her fingers gently touch the back of his head.
+
+Her other arm hangs naturally along her body and is partially concealed by her dress.
+
+The man embraces the woman from the front with one arm.
+
+His palm rests gently on the upper part of her chest near her collarbones and the base of her neck.
+
+Several large silver rings with dark inlays adorn his fingers.
+
+The embrace is tender, intimate, natural, and anatomically correct.
+
+The man's hand rests lightly against the woman's upper chest without compressing her neck or throat.
+
+The couple's heads are close together, creating an affectionate and cinematic composition.
+
+CRITICALLY IMPORTANT — ANATOMY AND PROPORTIONS
+
+Preserve the natural proportions of both individuals according to their original photographs.
+
+Their heads must be normally sized, shoulders naturally proportioned, torsos anatomically correct in length, and arms and hands proportionate to their bodies.
+
+The man has a natural masculine physique, without excessively massive shoulders or artificially enlarged muscles.
+
+The woman has a harmonious feminine figure, delicate shoulders, a natural waist, and a full bust proportionate to her rib cage.
+
+Do not enlarge her bust beyond its original proportions.
+
+Her dress follows her natural figure without artificial reshaping.
+
+Maintain the correct positioning of both individuals' arms during the embrace.
+
+Forearms, wrists, hands, and fingers must have realistic lengths and natural anatomical connections.
+
+The woman's raised arm must wrap naturally behind the man's neck.
+
+The man's ring-adorned hand must rest correctly near the woman's collarbones, without intersecting her body or creating extra limbs.
+
+No deformed joints, shortened torsos, oversized heads, exaggerated shoulders, or unnatural spinal curvature.
+
+HAIR — MAN
+
+Preserve the man's original hairstyle, natural hair color, and recognizable hairline from his uploaded photograph.
+
+His hair is neatly swept back with subtle natural volume.
+
+The hairstyle features realistic individual strands, natural texture, and soft movement.
+
+The warm sunset light creates delicate highlights along the edges of his hair.
+
+Do not alter his original hair shade, hairline, or recognizable hair characteristics.
+
+HAIR — WOMAN
+
+The woman's hair is long and thick, strictly retaining its original natural color from her uploaded photograph.
+
+Her hair is worn loose in soft, natural waves.
+
+The waves fall freely over her shoulders, down her back, and across her chest.
+
+Individual strands are gently lifted by the sea breeze.
+
+The hairstyle has natural volume, realistic density, and soft movement.
+
+Warm golden-hour backlighting subtly illuminates the outer edges of her hair.
+
+Do not dye, recolor, highlight artificially, or change her original hair shade.
+
+MAKEUP — ROMANTIC GOTHIC SKELETONS
+
+Both individuals wear professional black-and-white Halloween skull makeup.
+
+Their faces are covered with a pale white-gray theatrical makeup base that preserves natural skin texture and recognizable facial features.
+
+Deep black painted eye sockets surround the eyes.
+
+The dark eye makeup follows the natural shape of each person's eyes without changing their real anatomy.
+
+A black skeletal nasal cavity is painted over the nose.
+
+The nose design follows the natural contours of the face without physically changing the nose.
+
+Detailed white teeth with thin black spaces between them are painted over the closed lips and cheeks.
+
+The painted teeth create the illusion of a skeletal jaw.
+
+The teeth are individually defined, realistically shaded, and anatomically believable.
+
+Expressive dark shading emphasizes the cheekbones and underlying bone structure.
+
+The makeup creates a sophisticated gothic skull illusion while preserving both individuals' original facial proportions.
+
+Their eyes retain their original shapes and colors.
+
+The makeup is entirely theatrical body paint applied over intact, healthy skin.
+
+No real exposed bones, facial deformation, or actual injuries.
+
+SKELETAL NECK AND CHEST BODY ART
+
+Realistic black-and-white body art depicting cervical vertebrae and skeletal connections covers both the man's and woman's necks.
+
+The painted vertebrae follow the natural anatomy and contours of their necks.
+
+Black shadows and white highlights create realistic depth between the painted skeletal structures.
+
+On the woman, the skeletal makeup extends down onto the exposed upper chest.
+
+The painted bones and dark shadows blend naturally with the skull makeup on her face and neck.
+
+The body art remains detailed, artistic, and professionally executed.
+
+The effect must look like realistic theatrical makeup rather than actual exposed skeletal anatomy.
+
+MAN'S CLOTHING — ELEGANT BLACK SUIT
+
+The man wears an elegant classic black suit.
+
+A fitted black blazer features structured lapels, natural shoulder proportions, realistic seams, and subtle fabric texture.
+
+Underneath the blazer is a white shirt with the upper buttons undone.
+
+The shirt collar is casually open, creating a relaxed romantic appearance.
+
+White shirt cuffs are visible beneath the jacket sleeves.
+
+The suit fabric is matte, with natural folds and soft highlights from the sunset lighting.
+
+The clothing fits his natural masculine physique without exaggerating his shoulders or chest.
+
+The overall look is sophisticated, minimalist, gothic, and romantic.
+
+WOMAN'S CLOTHING — BLACK GOTHIC DRESS
+
+The woman wears a long black sleeveless dress.
+
+The dress features exposed shoulders, wide shoulder straps, and a rounded neckline.
+
+The fitted upper section emphasizes her natural bust and waist without altering her anatomical proportions.
+
+A narrow black satin belt accentuates the waist.
+
+The satin belt has a subtle sheen and realistic fabric texture.
+
+The skirt is long, flowing, and multilayered.
+
+It is made from lightweight semi-transparent black fabric with soft folds and delicate movement.
+
+The fabric moves naturally in the gentle sea breeze.
+
+The dress creates an elegant, feminine, romantic gothic silhouette.
+
+Both outfits are refined, minimalist, and coordinated, without unnecessary accessories.
+
+BACKGROUND — PEACEFUL SEASHORE AT SUNSET
+
+The couple stands on a deserted seashore during a peaceful sunset.
+
+Behind them stretches an endless calm sea with small, gentle waves.
+
+The horizon line runs approximately at shoulder level.
+
+The sky is light and soft cream-colored, with muted peach and golden tones.
+
+The sun is positioned low behind the couple.
+
+Its warm light creates a delicate golden glow around the man's hair and the couple's silhouettes.
+
+The sea reflects subtle tones of cream, gold, sand, and gray-blue.
+
+The atmosphere is peaceful, intimate, romantic, and slightly melancholic.
+
+No buildings, rocks, palm trees, other people, cemeteries, candles, or Halloween decorations.
+
+Only the couple, the calm sea, and the bright sunset sky.
+
+LIGHTING AND COLOR GRADING
+
+Soft natural golden-hour lighting illuminates the scene.
+
+The warm sun behind the couple creates delicate golden rim lighting around their hair, shoulders, and silhouettes.
+
+Their faces are illuminated by soft, diffused light.
+
+The black-and-white skeleton makeup remains clearly visible and detailed.
+
+Natural, slightly muted color grading features delicate cream, sand, gold, and gray-blue tones.
+
+Moderate contrast and soft shadows create a romantic cinematic atmosphere.
+
+The black clothing retains visible fabric texture and natural folds.
+
+Subtle highlights reveal the man's silver rings, the woman's satin belt, and the fine details of their theatrical makeup.
+
+The lighting must remain realistic and consistent with an outdoor sunset portrait.
+
+No red lighting, neon, smoke, artificial glow, or excessively dark color grading.
+
+CAMERA AND FRAMING
+
+A romantic couple's portrait framed from the tops of their heads to the lower part of their torsos.
+
+The camera is positioned at face level, using a 50–85mm lens with natural portrait perspective.
+
+The man occupies the LEFT side of the frame and stands slightly behind the woman.
+
+The woman is positioned on the RIGHT, closer to the camera.
+
+Their heads touch gently, and their faces are located in the upper central portion of the photograph.
+
+The frame fully includes both heads, hairstyles, shoulders, the romantic embrace, both subjects' hands, the upper part of the man's black suit, and the woman's black dress.
+
+The lower edge of the frame extends below the waist, capturing part of the flowing skirt.
+
+There is sufficient negative space above their heads to reveal the sunset sky.
+
+The horizon remains natural and approximately level with their shoulders.
+
+Do not stretch the figures, enlarge their heads, shorten their torsos, or alter their body proportions.
+
+Natural portrait perspective without wide-angle distortion.
+
+Professional cinematic photography, realistic skin texture, detailed artistic makeup, natural hair, soft depth of field, atmospheric sunset color grading, maximum photorealism, and 8K quality.
+
+MAIN PRIORITY
+
+Maximum recognizability of both individuals from their uploaded photographs.
+
+Strict preservation of their original eye colors, natural hair colors, facial features, and human anatomy.
+
+The man stands on the LEFT, slightly behind the woman, embracing her gently and kissing the area near her temple.
+
+The woman stands on the RIGHT, looking peacefully into the distance with one arm wrapped behind the man's neck.
+
+The man's ring-adorned hand rests naturally on her upper chest near the collarbones without compressing her neck.
+
+Both wear detailed black-and-white theatrical skeleton makeup, including painted skull teeth, dark eye sockets, skeletal nose details, and realistic neck vertebrae.
+
+The man wears an elegant black suit with a white shirt.
+
+The woman wears a flowing black sleeveless dress with a narrow satin belt.
+
+A calm sea, soft cream-and-gold sunset sky, gentle golden-hour backlighting, and a tender romantic atmosphere complete the scene.`,
+
+  negative: `Altered faces, incorrect identity, blended facial features, face swapping, generic AI faces, changed head shapes, changed eye shapes, changed noses, changed lips, changed cheekbones, changed chins, changed ages, changed skin tones, changed original eye colors, changed original hair colors, excessive beautification, loss of facial resemblance,
+
+Oversized heads, excessively broad shoulders, artificially enlarged male muscles, enlarged breasts, oversized arms, oversized hands, unnaturally narrow waist, shortened torsos, distorted body proportions, unnatural spinal curvature, exaggerated hips, unrealistic anatomy,
+
+Deformed joints, incorrect hand placement, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, unnatural arm positioning, twisted limbs, duplicated wrists, floating hands, intersecting limbs, incorrect embrace,
+
+Man's hand compressing the woman's neck, hand gripping the throat, choking pose, aggressive embrace, unnatural finger placement on the chest, missing rings, oversized rings,
+
+Incorrect hairstyles, altered hairlines, artificial hair colors, dyed hair, wigs, incorrect man's hairstyle, missing woman's long loose hair, artificial curls, unrealistic hair texture,
+
+Actual skulls replacing human faces, skeletal facial deformation, altered facial anatomy, incorrect skull makeup, missing painted teeth, missing black eye sockets, missing skeletal nose details, missing skeletal neck body art, missing painted vertebrae, exposed real bones, gore, open wounds, zombie decay,
+
+Incorrect clothing, missing black suit, missing white shirt, incorrect suit color, missing shirt cuffs, incorrect dress, missing wide shoulder straps, missing rounded neckline, missing satin belt, incorrect dress length, bulky dress, excessive accessories,
+
+Incorrect couple positioning, man standing in front of the woman, woman on the left, man on the right, missing embrace, unnatural embrace, missing romantic kiss near the temple, incorrect head positions, subjects standing far apart, looking directly into the camera instead of the distance,
+
+Buildings, rocks, palm trees, additional people, cemeteries, candles, Halloween decorations, artificial scenery, city skyline, boats, excessive waves, stormy ocean, dark storm clouds,
+
+Red lighting, neon lighting, smoke, artificial glow, excessively dark processing, harsh contrast, colored spotlights, overexposed faces, makeup hidden in shadows,
+
+Tattoos, glasses, inscriptions, logos, watermarks, plastic-looking skin, waxy skin, excessive skin smoothing, cartoonish styling, artificial beauty filters,
+
+Fisheye distortion, extreme wide-angle perspective, stretched figures, distorted mirror effects, CGI, 3D render, anime, cartoon, illustration, blurry faces, motion blur, low resolution, low quality, AI artifacts.`
+},
+
+{
+  id: "067",
+  title: "Twisted Clown Love",
+  image: "prompt-067.PNG",
+
+  positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, facial contours, eyes, eyebrows, noses, lips, cheekbones, chins, natural facial asymmetry, ages, skin tones, eye colors, and original hair colors.
+
+Do not alter their appearance, idealize their faces, or replace them with other characters.
+
+Both individuals must remain maximally recognizable even under elaborate Halloween makeup.
+
+Create an ultra-realistic cinematic Halloween fashion photograph of an adult couple styled as dark gothic clowns from an abandoned theater of horrors.
+
+Professional atmospheric photography, with the composition, pose, costumes, makeup, lighting, and environment matching the reference as closely as possible.
+
+POSE AND COMPOSITION
+
+The man sits in the center of the frame on a black wooden chair with straight armrests.
+
+His torso faces directly toward the camera.
+
+His back is straight, and his shoulders are relaxed.
+
+His head is upright, and his gaze is cold, intense, and directed straight into the camera lens.
+
+One hand rests naturally on his thigh.
+
+His other hand is raised to carefully support the back of the woman's head.
+
+The woman is positioned to the LEFT of the man, with her body behind his shoulder.
+
+She leans dramatically sideways and forward, lowering her head over the man's shoulder so that her face appears upside down next to his face.
+
+The woman's inverted head is positioned slightly to the left of the man's head.
+
+Her long hair hangs freely downward, almost reaching his knees.
+
+Her face is fully visible, even though it is upside down.
+
+Her gaze is directed straight into the camera.
+
+Her expression is mysterious, intense, frightening, and theatrical.
+
+The man gently supports the back of her head without compressing her neck or forcing her head into an unnatural position.
+
+The woman's upside-down appearance must result from a physically possible sideways and forward inclination of her upper body.
+
+The pose resembles a carefully performed theatrical trick.
+
+Her neck, shoulders, and spine must maintain anatomically believable alignment.
+
+Do not depict impossible spinal bending, extreme neck twisting, or a detached floating head.
+
+CRITICALLY IMPORTANT — ANATOMY AND PROPORTIONS
+
+Preserve the real proportions of both individuals according to their uploaded identity photographs.
+
+Their heads must be normally sized relative to their shoulders and torsos.
+
+Natural neck lengths, arm lengths, leg lengths, and anatomically correct hands and fingers are essential.
+
+The man has a natural masculine physique, with normally proportioned shoulders and no artificially enlarged muscles.
+
+The woman has a harmonious feminine figure, delicate shoulders, a natural waist, and a full bust proportionate to her rib cage.
+
+Do not enlarge her bust beyond its original proportions.
+
+The woman's dramatic leaning pose requires special anatomical accuracy.
+
+Her head appears upside down because of the natural inclination of her upper body, not because of unnatural twisting of her neck.
+
+Her shoulders, neck, and spine maintain anatomically correct alignment.
+
+Her torso remains physically connected to the rest of her body behind the man's shoulder.
+
+The man's supporting hand must connect naturally to his arm.
+
+His fingers must rest gently and realistically against the back of the woman's head.
+
+No floating head, disconnected body, extra arms, malformed joints, shortened torsos, oversized heads, or unnatural spinal curvature.
+
+HAIR — MAN
+
+The man's hair must strictly retain its original natural color from his uploaded photograph.
+
+His hair is short and thick, with natural texture and slightly messy, voluminous styling.
+
+The hairstyle features subtle volume at the roots and realistic individual strands.
+
+Do not alter his original hairline, original hair shade, or recognizable hair characteristics.
+
+HAIR — WOMAN
+
+The woman's hair is long and thick, strictly retaining its original natural color from her uploaded photograph.
+
+Her hair is worn loose with soft, natural waves.
+
+Because her head is upside down, her hair hangs freely and vertically downward under the influence of gravity.
+
+The long strands partially cover the man's shoulder and extend toward his thighs.
+
+Individual strands frame her inverted face.
+
+The hair has realistic density, natural texture, and believable movement.
+
+The direction of the hair must correspond precisely to the inverted position of her head.
+
+Her hair must not float upward, remain artificially attached to her shoulders, or defy gravity.
+
+Strictly preserve the woman's original hair color and recognizable hair characteristics.
+
+MAKEUP — DARK GOTHIC CLOWNS
+
+Both individuals wear professional black gothic Halloween clown makeup.
+
+The makeup is dramatic, theatrical, mysterious, and frightening while preserving their recognizable facial features.
+
+All black lines, shadows, triangles, and decorative details are artistic cosmetic effects applied over intact skin.
+
+The makeup must not change the real anatomy of either person's eyes, nose, lips, cheekbones, or jaw.
+
+MAN'S MAKEUP
+
+The man wears professional dark Halloween clown makeup.
+
+His natural skin is visible beneath a subtle pale theatrical makeup base.
+
+Deep black eyeshadow surrounds his eyes.
+
+Elongated vertical black triangles extend downward beneath the lower eyelids.
+
+The triangles are sharply defined and follow the natural contours of his face.
+
+The tip of his nose is painted completely black.
+
+His lips are covered with matte black lipstick.
+
+Thin black lines extend outward and downward from the corners of his mouth, creating a sinister clown smile.
+
+Several thin vertical streaks of black makeup run down his chin.
+
+The makeup has realistic pigment texture, precise edges, and subtle blending.
+
+His original facial identity remains clearly recognizable.
+
+WOMAN'S MAKEUP
+
+The woman wears a similar but more expressive glamorous gothic clown makeup look.
+
+Her skin appears pale beneath the theatrical makeup while retaining realistic skin texture.
+
+Intense black smoky eyes emphasize her original eye shapes.
+
+Long, thick eyelashes create a dramatic beauty effect.
+
+Her eyebrows are sharply defined and expressive.
+
+Elongated black triangles with thin, pointed tips extend above and below her eyes.
+
+The triangles are symmetrical in design and carefully painted.
+
+A small black triangle is painted on her nose.
+
+Her lips are deep black with a subtle glossy finish.
+
+A wide, curved black smile is painted from the corners of her lips across her cheeks.
+
+Thin decorative black makeup drips accompany the sinister smile.
+
+The theatrical lines remain crisp, realistic, and professionally executed.
+
+Her upside-down orientation must not distort the makeup or facial proportions.
+
+All makeup details follow her actual facial anatomy.
+
+MAN'S CLOTHING — ALL-BLACK FORMAL SUIT
+
+The man wears a strict, entirely black suit.
+
+A classic fitted black blazer features wide lapels, realistic seams, and natural shoulder proportions.
+
+Underneath the blazer is a black shirt buttoned all the way to the collar.
+
+He wears black trousers with a natural tailored fit.
+
+The fabric is dense, matte, and features realistic folds and subtle texture.
+
+The outfit is elegant, formal, minimalist, and gothic.
+
+No tie, bright details, or additional accessories.
+
+WOMAN'S CLOTHING — BLACK GOTHIC DRESS
+
+The woman wears a fitted short black dress.
+
+The dress features exposed shoulders and a deep but natural neckline.
+
+The upper section follows the natural contours of her bust and waist without distorting her figure.
+
+The fabric is smooth and matte, with soft folds and realistic texture.
+
+Because of her dramatic leaning position, most of the dress is concealed behind the man's shoulder.
+
+Only the naturally visible sections of her dress and shoulders should appear.
+
+The outfit is elegant, dark, feminine, and minimalist.
+
+No bright details, jewelry, or unnecessary accessories.
+
+CHAIR — BLACK WOODEN ARMCHAIR
+
+The man sits on a simple black wooden chair.
+
+The chair has a sturdy construction, a straight back, and clearly visible straight armrests.
+
+The wooden surface has a dark matte finish with subtle realistic texture.
+
+The chair is correctly proportioned to the seated man's body.
+
+His seated posture must be natural, with realistic leg positioning and correct contact with the seat.
+
+The chair's armrests remain visible in the composition.
+
+BACKGROUND — ABANDONED THEATER ATMOSPHERE
+
+The setting is a dark, abandoned interior with an old gray-beige concrete wall.
+
+The wall has a rough, weathered surface.
+
+Visible cracks, stains, scuff marks, and areas of crumbling plaster create an authentic aged texture.
+
+Small dark stains and barely visible traces of old reddish-brown paint appear on the upper part of the wall.
+
+A thin horizontal metal pipe runs behind the chair.
+
+The environment feels neglected, empty, atmospheric, and slightly unsettling.
+
+The background remains minimal and realistic.
+
+No additional objects, candles, skulls, weapons, Halloween decorations, or theatrical props.
+
+The aged concrete wall and black wooden chair are the only important environmental elements.
+
+LIGHTING AND COLOR GRADING
+
+Soft, subdued neutral-warm lighting illuminates the couple from the front and slightly above.
+
+Both faces are clearly visible.
+
+The black gothic clown makeup has strong definition without excessive darkening.
+
+Subtle shadows emphasize the contours of their faces, clothing, and dramatic pose.
+
+Vintage-inspired, slightly muted color grading features gray-brown background tones, natural skin tones, and deep black clothing.
+
+The lighting is cinematic but believable, resembling professional atmospheric portrait photography in an abandoned interior.
+
+The black clothing retains visible fabric texture and natural folds.
+
+The woman's long hanging hair remains clearly defined against the darker surroundings.
+
+No red lighting, neon, fire, smoke, artificial glowing effects, or excessive darkness.
+
+CAMERA AND FRAMING
+
+A medium portrait of the couple.
+
+The camera is positioned approximately at the seated man's chest level.
+
+Use a 50–70mm lens with natural portrait perspective.
+
+The man occupies the central and right portions of the frame.
+
+The woman is positioned on the LEFT, with her upside-down face immediately next to his face.
+
+Both heads are located in the upper half of the photograph.
+
+The woman's long hair extends downward toward the lower part of the frame.
+
+The lower edge of the photograph falls approximately at the level of the seated man's knees.
+
+The composition includes the man's face, shoulders, arms, hands, and part of his trousers.
+
+It also includes the woman's inverted head, shoulders, and long gravity-driven hair.
+
+The chair's straight armrests must remain visible.
+
+Both faces must be clearly recognizable despite the unusual pose and elaborate theatrical makeup.
+
+Maintain natural perspective and anatomically believable proportions.
+
+Do not stretch the figures, enlarge their heads, or distort the perspective.
+
+Professional cinematic Halloween photography, natural skin texture, detailed theatrical makeup, realistic hair, detailed fabric texture, weathered concrete wall texture, maximum photorealism, and 8K quality.
+
+MAIN PRIORITY
+
+Maximum recognizability of both individuals from their uploaded photographs.
+
+Strict preservation of their original eye colors, natural hair colors, facial features, and human anatomy.
+
+The man sits in the CENTER on a black wooden chair with straight armrests, wearing a formal all-black suit.
+
+He looks directly into the camera with a cold, intense expression.
+
+The woman leans dramatically from behind his LEFT shoulder, with her face upside down beside his face.
+
+Her long hair hangs naturally downward under gravity, reaching toward the man's thighs.
+
+The man gently supports the back of her head without compressing her neck.
+
+Both wear expressive black gothic clown makeup with dark eye triangles, black nose details, and sinister painted smiles.
+
+An old weathered gray-beige concrete wall, a thin horizontal metal pipe, subdued neutral-warm lighting, and a vintage abandoned-theater atmosphere complete the scene.`,
+
+  negative: `Altered individual faces, incorrect identity, blended facial features, face swapping, generic AI faces, changed head shapes, changed facial contours, changed eye shapes, changed noses, changed lips, changed cheekbones, changed chins, changed ages, changed skin tones, changed original eye colors, changed original hair colors, excessive beautification, loss of facial resemblance,
+
+Oversized heads, tiny heads, excessively broad shoulders, artificially enlarged muscles, enlarged breasts, oversized arms, oversized hands, unnaturally narrow waist, shortened torsos, distorted body proportions, unrealistic anatomy,
+
+Unnatural twisting of the woman's neck, broken-neck appearance, anatomically impossible spinal curvature, deformed joints, extra limbs, extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, duplicated wrists, incorrect arm connections,
+
+Floating head, detached head, disconnected body, missing torso, incorrect positioning of the woman's torso, unnatural head support, hand gripping the throat, incorrect theatrical leaning pose, physically impossible inversion, distorted shoulders,
+
+Incorrect hairstyles, altered hairlines, artificial hair colors, dyed hair, wigs, unnaturally short hair on the woman, hair defying gravity, floating hair, hair extending upward from an inverted head, incorrect hair direction,
+
+Incorrect gothic clown makeup, altered facial anatomy, masks replacing real faces, missing black eye triangles, missing black clown smile, missing black nose makeup, missing black lipstick, missing decorative makeup streaks, excessive makeup obscuring identity,
+
+Incorrect clothing, missing black suit, missing black shirt, missing black trousers, missing black dress, unnecessary accessories, bright clothing details, tie, jewelry,
+
+Incorrect chair, missing armrests, oversized chair, distorted chair geometry, incorrect couple positioning, woman sitting in the chair instead of the man, man standing instead of sitting, woman on the right, incorrect upside-down pose, woman's face upright, woman's face hidden behind hair,
+
+Additional objects, candles, skulls, weapons, Halloween decorations, excessive blood, gore, masks, fantasy scenery, extra people,
+
+Tattoos, glasses, inscriptions, logos, watermarks, plastic-looking skin, waxy skin, excessive skin smoothing, cartoonish styling,
+
+Red lighting, neon lighting, fire, smoke, artificial glow, excessive darkness, harsh color grading, overly dramatic colored spotlights,
+
+Fisheye distortion, extreme wide-angle perspective, CGI, 3D render, anime, cartoon, illustration, stretched figures, blurred faces, motion blur, low resolution, low quality, AI artifacts.`
+},
+
+{
+  id: "068",
+  title: "Autumn Skeletons",
+  image: "prompt-068.PNG",
+
+  positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, eyes, eyebrows, noses, lips, cheekbones, chins, ages, natural facial asymmetry, skin tones, eye colors, and original hair colors.
+
+Do not alter their appearance, idealize their faces, or replace them with other characters.
+
+Both individuals must remain maximally recognizable even under elaborate Halloween makeup.
+
+Create an ultra-realistic cinematic Halloween fashion photograph of an adult couple styled as gothic skeletons in the middle of an autumn field.
+
+Professional atmospheric photography with the composition, poses, costumes, makeup, lighting, and environment matching the reference as closely as possible.
+
+POSE AND COMPOSITION
+
+The man sits on a small white wooden chair in the center foreground.
+
+His legs are spread naturally and fairly wide apart, with both feet resting firmly on the ground.
+
+His torso leans slightly backward, and his shoulders are relaxed.
+
+One arm hangs loosely between his legs, with his hand positioned near his knee.
+
+His other arm is bent and rests naturally on his thigh.
+
+His head is slightly lowered and turned to the LEFT.
+
+His gaze is directed to the side rather than directly into the camera.
+
+The woman stands behind the man, slightly to his LEFT, almost directly against the chair.
+
+Her torso faces the camera, and one leg is positioned slightly forward.
+
+One hand rests gently on the man's shoulder.
+
+Her other arm hangs naturally along her body.
+
+Her head is upright, and her gaze is directed slightly to the side.
+
+The pose is calm, confident, mysterious, and elegant.
+
+The seated man and standing woman form a balanced, natural couple composition.
+
+CRITICALLY IMPORTANT — ANATOMY AND PROPORTIONS
+
+Preserve the natural proportions of both individuals according to their original identity photographs.
+
+Their heads must be normally sized, shoulders naturally proportioned, torsos anatomically correct in length, and arms and legs proportionate to their bodies.
+
+The man has a natural masculine physique, without excessively broad shoulders or artificially enlarged muscles.
+
+The woman has a harmonious feminine figure, delicate shoulders, a defined but natural waist, and a full bust proportionate to her rib cage.
+
+The dress follows the natural contours of her body without artificially enlarging her bust.
+
+Do not shorten their torsos or enlarge their heads, hands, or shoulders.
+
+Maintain the natural perspective of the seated man and the woman standing behind him.
+
+The woman's standing height and the man's seated height must be physically believable.
+
+Their arms, hands, knees, legs, and feet must have realistic anatomical proportions.
+
+The woman's hand must rest naturally on the man's shoulder, with correct finger placement.
+
+The chair must be realistically proportioned to the human body.
+
+HAIR AND HEADWEAR — MAN
+
+Preserve the man's original natural hair color, hairstyle, and recognizable hairline from his uploaded photograph.
+
+His hair is partially concealed beneath a black felt hat.
+
+The hat features a wide brim and a low crown.
+
+It is tilted slightly forward, creating a mysterious vintage appearance.
+
+The visible hair retains its natural texture and original shade.
+
+Do not recolor his hair or alter his recognizable hair characteristics.
+
+HAIR — WOMAN
+
+The woman's hair is long and thick, strictly retaining its original natural color from her uploaded photograph.
+
+Her hair is worn loose and styled in large, soft waves with natural volume.
+
+Individual strands fall freely over her shoulders and chest.
+
+The waves have realistic texture, density, and movement.
+
+The hairstyle is elegant, voluminous, and slightly windswept.
+
+Do not change her original hair shade, hairline, or recognizable hair characteristics.
+
+MAKEUP — GOTHIC SKELETONS
+
+Both individuals wear professional black-and-white Halloween skull makeup.
+
+Their faces are covered with a white theatrical makeup base that preserves natural skin texture.
+
+Deep black painted eye sockets surround their eyes.
+
+The dark makeup follows their original eye shapes without changing their anatomy or eye colors.
+
+A black skeletal nasal cavity is painted over each person's nose.
+
+Detailed white teeth with thin black spaces between them are painted over the closed lips and cheeks.
+
+The painted teeth create the realistic illusion of a skeletal jaw.
+
+Individual teeth are carefully defined with believable shapes, spacing, and shading.
+
+Black shading along the cheekbones imitates hollow skeletal cavities.
+
+White and gray highlights create realistic three-dimensional depth.
+
+The makeup follows the real contours of their faces without altering their individual identities.
+
+Their original facial proportions, eye colors, and recognizable features must remain intact.
+
+SKELETAL NECK AND CHEST BODY ART
+
+On the woman's neck and exposed upper chest, white cervical vertebrae, collarbones, and upper ribs are painted over a black background.
+
+The skeletal body art follows her natural anatomy.
+
+Careful black shading and white highlights create a three-dimensional painted bone effect.
+
+The man has similar skeletal makeup on the exposed part of his neck.
+
+The makeup connects naturally with the painted skull designs on their faces.
+
+All skeletal details are professional theatrical body paint applied over intact skin.
+
+The makeup must look realistic and three-dimensional without physically transforming their faces or bodies.
+
+Do not replace their heads with actual skulls or their bodies with real skeletons.
+
+MAN'S CLOTHING — VINTAGE GOTHIC STYLE
+
+The man wears a fitted white shirt with a small dark dotted pattern.
+
+The shirt has long sleeves casually rolled up to the forearms.
+
+Several upper buttons are undone, creating a relaxed vintage appearance.
+
+The shirt has realistic cotton texture, visible seams, and natural folds.
+
+Narrow black suspenders run vertically over his chest.
+
+The suspenders connect naturally to the waistband of his trousers.
+
+He wears classic black trousers with a slightly tapered cut.
+
+The trousers fit his natural body proportions.
+
+Tall black leather lace-up boots complete the outfit.
+
+The boots feature realistic leather texture, visible laces, and natural creases.
+
+A black wide-brimmed felt hat sits on his head, tilted slightly forward.
+
+The overall outfit is masculine, elegant, vintage-inspired, and gothic.
+
+WOMAN'S CLOTHING — ELEGANT BLACK DRESS
+
+The woman wears an elegant long black dress with a fitted silhouette.
+
+The dress features a closed upper section and long, slightly voluminous sleeves with fitted cuffs.
+
+The fabric fits closely around her waist and hips, emphasizing her natural feminine figure.
+
+The dress follows her real anatomical proportions without exaggeration.
+
+The skirt is asymmetrical.
+
+A high front slit reveals one leg.
+
+The back of the skirt is long and flows freely almost to the ground.
+
+The dress fabric is dense and matte, with soft, natural folds and realistic movement.
+
+She wears black high-heeled sandals with thin stiletto heels.
+
+Delicate straps wrap naturally around her ankles.
+
+The sandals are realistically proportioned and make believable contact with the ground.
+
+The overall outfit is sophisticated, mysterious, feminine, and gothic.
+
+CHAIR — SMALL WHITE WOODEN CHAIR
+
+The man sits on a small white wooden chair positioned directly among the dry autumn grass.
+
+The chair has a simple, realistic wooden construction.
+
+Its proportions are appropriate for the man's seated body.
+
+The chair supports his weight naturally.
+
+The white painted wooden surface has subtle texture and realistic edges.
+
+The chair's legs are partially concealed by the tall dry grass.
+
+The chair is positioned between the man's spread legs and remains visibly connected to the ground.
+
+BACKGROUND — AUTUMN FIELD
+
+A wide autumn field filled with tall, dry golden-beige grass.
+
+Scattered dark-brown stems and wild plants create natural texture throughout the foreground and background.
+
+The dry grass surrounds the chair and extends into the distance.
+
+In the background is a dense line of trees.
+
+The trees feature muted yellow, brown, and dark-green autumn foliage.
+
+Several tall coniferous trees are visible among the deciduous trees.
+
+The sky is light gray and completely overcast.
+
+The atmosphere resembles a cool, cloudy autumn day.
+
+The setting is quiet, isolated, natural, and slightly melancholic.
+
+No buildings, cemeteries, pumpkins, candles, or additional Halloween decorations.
+
+Only the couple, the white wooden chair, the dry autumn field, the distant trees, and the overcast sky.
+
+LIGHTING AND COLOR GRADING
+
+Soft, diffused natural daylight illuminates the scene under overcast weather conditions.
+
+Both faces and figures are evenly illuminated.
+
+The lighting produces soft shadows without harsh contrasts.
+
+Vintage-inspired, slightly muted color grading emphasizes cool grayish sky tones and warm golden-brown grass tones.
+
+The black clothing appears deep and rich, with visible fabric texture.
+
+The white skeleton makeup remains strongly contrasting without overexposure.
+
+The white shirt and chair retain natural highlights and realistic tonal detail.
+
+The autumn trees display subdued yellow, brown, and dark-green colors.
+
+The overall mood is cinematic, calm, mysterious, and naturally atmospheric.
+
+No red lighting, neon, artificial illumination, fog, or fantasy effects.
+
+CAMERA AND FRAMING
+
+A professional full-body photograph of the couple.
+
+The camera is positioned approximately at the seated man's chest level.
+
+Maintain sufficient distance to preserve natural perspective.
+
+Use a 50–70mm lens with realistic portrait proportions.
+
+The man occupies the central and lower portions of the frame.
+
+The woman stands behind him on the LEFT.
+
+The woman's head is positioned higher than the man's head.
+
+Both figures are fully visible.
+
+The white chair is positioned between the man's legs, with its legs partially concealed by dry grass.
+
+The upper part of the composition includes autumn trees and a section of the overcast sky.
+
+The lower part includes dry grass and both individuals' footwear.
+
+The man's black hat, both subjects' heads, the woman's dress, the chair, legs, boots, and high-heeled sandals must remain visible.
+
+Do not crop their heads, hat, legs, or shoes.
+
+Do not stretch the figures or distort their proportions for the sake of composition.
+
+Professional realistic Halloween photography, natural skin texture, detailed theatrical makeup, realistic fabrics, soft depth of field, atmospheric autumn color grading, maximum photorealism, and 8K quality.
+
+MAIN PRIORITY
+
+Maximum recognizability of both individuals from their uploaded photographs.
+
+Strict preservation of their original eye colors, natural hair colors, facial features, and human anatomy.
+
+The man wears a white patterned shirt with black suspenders, classic black trousers, black leather lace-up boots, and a black wide-brimmed felt hat.
+
+He sits naturally on a small white wooden chair in the center foreground, with his legs spread apart and his gaze directed to the side.
+
+The woman stands behind him, slightly to his LEFT, wearing a fitted long black dress with an asymmetrical high front slit and black high-heeled sandals.
+
+One of her hands rests gently on his shoulder.
+
+Both wear detailed black-and-white theatrical skeleton makeup with painted skull teeth, dark eye sockets, skeletal nose details, and realistic neck body art.
+
+A dry golden autumn field, distant muted autumn trees, a light-gray overcast sky, soft diffused daylight, and vintage-inspired color grading complete the scene.`,
+
+  negative: `Altered individual facial features, incorrect identity, blended facial features, face swapping, generic AI faces, changed head shapes, changed eye shapes, changed noses, changed lips, changed cheekbones, changed chins, changed ages, changed skin tones, changed original eye colors, changed original hair colors, excessive beautification, loss of facial resemblance,
+
+Oversized heads, tiny heads, excessively broad shoulders, artificially enlarged muscles, enlarged breasts, oversized arms, oversized hands, unnaturally narrow waist, shortened torsos, deformed legs, incorrect joints, distorted anatomy, unrealistic body proportions,
+
+Extra arms, extra legs, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, unnatural hand positioning, duplicated limbs, floating limbs, incorrect anatomy,
+
+Incorrect hairstyles, changed hair colors, altered hairlines, artificial-looking hair, wigs, missing woman's long wavy hair, unrealistic hair texture,
+
+Actual skeletons replacing human bodies, real skulls replacing human faces, skeletal facial deformation, altered facial anatomy, incorrect skull makeup, missing painted teeth, missing black eye sockets, missing skeletal nose details, missing skeletal neck makeup, missing painted collarbones and ribs, real exposed bones, gore, open wounds,
+
+Incorrect clothing, missing white patterned shirt, plain white shirt without dotted pattern, missing black suspenders, missing black wide-brimmed hat, incorrect hat shape, incorrect trousers, missing black leather boots, missing black dress, incorrect dress silhouette, missing long sleeves, incorrect skirt slit, missing high-heeled sandals, incorrect footwear,
+
+Incorrect couple positioning, woman sitting instead of the man, man standing instead of sitting, missing hand on the man's shoulder, incorrect chair proportions, missing chair, incorrect chair color, oversized chair, floating chair, unnatural seated posture,
+
+Buildings, cemeteries, pumpkins, candles, additional Halloween decorations, artificial scenery, urban background, indoor setting, extra people, distracting props,
+
+Red lighting, neon, artificial spotlights, fog, fantasy effects, excessive contrast, overexposure, dramatic colored lighting, unrealistic shadows,
+
+Tattoos, glasses, inscriptions, logos, watermarks, plastic-looking skin, waxy skin, excessive skin smoothing, cartoonish styling,
+
+Fisheye distortion, extreme wide-angle perspective, CGI, 3D render, anime, cartoon, illustration, stretched figures, cropped heads, cropped hat, cropped legs, cropped shoes, blurred faces, motion blur, low resolution, low quality, AI artifacts.`
 }
 ];
