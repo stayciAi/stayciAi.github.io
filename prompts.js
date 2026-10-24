@@ -1464,5 +1464,158 @@ Premium 35–50mm smartphone/full-frame-equivalent perspective, moderate depth o
 Ultra-photorealistic luxury Instagram mirror selfie, exact identity, long light-blonde hair in low updo, deep dark-brown eyes, seamless complexion, natural proportions, enormous blush-pink rose bouquet, dimensional pink floral corset, gold rounded mirror, elegant neutral apartment, soft daylight, realistic skin, flowers, fabric and reflections, 8K-level detail.`,
 
   negative: `wrong identity, reference-model face, blended face, generic influencer, altered facial structure, changed nose, enlarged lips, doll face, face-swap artifacts, dark/brunette/red/short hair, wig, blue/green/gray/hazel/light eyes, wrong eye color, face-body skin mismatch, orange skin, fake tan, plastic/waxy/poreless skin, excessive smoothing, changed body proportions, enlarged breasts, tiny waist, exaggerated hips, elongated arms, bad anatomy, extra arms, malformed hands, extra/missing/fused fingers, broken wrists, distorted phone grip, duplicated phone, duplicated woman, incorrect mirror reflection, warped mirror, wrong pose, sitting, kneeling, stiff pose, missing bouquet, tiny/sparse bouquet, bouquet covering face, red/yellow/dark roses, plastic flowers, cloned roses, repeated petals, malformed flowers, floating bouquet, wrong outfit, dress, casual clothing, missing corset, flat printed flowers, malformed corset, excessive transparency, clothing fused with skin, harsh flash, neon lighting, excessive pink filter, blown highlights, crushed shadows, excessive HDR, fisheye, giant phone, giant hand, distorted body, warped architecture, cluttered interior, outdoor setting, background people, CGI, 3D render, anime, illustration, obvious AI appearance, blurry face, blurry eyes, low-detail flowers, pixelation, oversharpening, watermark, logo, text.`
+},
+  {
+  id: "044",
+  title: "Bloody Candy Doll",
+  image: "prompt-044.png",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her real facial features, head shape, facial oval, eyes, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, eye color, and original hair color. Do not alter her appearance or idealize her face. The woman must remain maximally recognizable even under Halloween makeup.
+
+Create an ultra-realistic Halloween beauty fashion photograph of an adult woman styled as a glamorous bloody doll with candy hearts, in a pastel horror aesthetic. Vertical 9:16 format, close-up portrait, professional beauty photography, with the composition as close to the reference as possible.
+
+POSE AND COMPOSITION
+
+The woman is positioned facing forward, with her head slightly tilted and her gaze directed straight into the camera. Her lips are slightly parted, and her facial expression is mysterious, flirtatious, and slightly frightening.
+
+One hand is raised toward her face, holding a large decorative candy heart on a thin stick near one eye. The heart partially covers the bloody makeup around that eye. Her fingers are elegantly curved, her hand is naturally sized, and it does not cover her lips.
+
+The frame includes her head, hair, bare shoulders, collarbones, and upper chest.
+
+CRITICALLY IMPORTANT — ANATOMY AND PROPORTIONS
+
+Preserve the woman's real facial and body proportions. Her head must be a normal size relative to her shoulders, her neck must have a natural length, and her shoulders must be delicate and feminine.
+
+Her bust is full, size 4, anatomically natural and harmoniously proportionate to her rib cage. Do not enlarge the bust beyond the specified proportions or distort the shoulders or décolletage.
+
+Her arm and hand must have natural lengths, with correctly shaped fingers and no perspective-related enlargement. Do not create extra fingers or deformed joints.
+
+HAIR AND HAIRSTYLE
+
+The hair must retain its original color, be long and thick, and be styled in a very voluminous high hairstyle with a half-up ponytail at the crown.
+
+The upper section of the hair is lifted and secured with a small bright pink satin hair tie. The remaining hair is worn loose, with voluminous small waves and a slightly tousled texture.
+
+For the Halloween look, individual strands are temporarily colored lavender, lilac, and rich purple, but the main original hair color remains recognizable. The hair frames her face and falls over her shoulders.
+
+MAKEUP — BLOODY CANDY DOLL
+
+Luxurious glamorous makeup in pink and purple tones. The skin retains its natural tone and visible texture, with soft contouring, pink blush, and luminous highlighter.
+
+The eyebrows are thick and expressive, retaining their original shape. The eyelids feature intense lilac, purple, and pink eyeshadows with smooth blending. Long black winged eyeliner and thick false eyelashes. The eyes retain their original shape and color.
+
+The lips are full, with matte soft pink lipstick, and slightly parted. Do not change the natural shape of the lips.
+
+BLOODY HALLOWEEN MAKEUP
+
+Around one eye, create a realistic, three-dimensional special effect resembling a large, irregular dark-red artificial wound with torn edges, theatrical blood, and textured latex makeup. Part of the effect is concealed by the candy heart.
+
+On the opposite cheek, create a decorative heart-shaped wound with uneven dark burgundy edges. Inside the heart is a light pink surface with the red inscription "KISS ME".
+
+On the upper chest, place two large decorative hearts that appear to be embedded into the skin using professional SFX makeup.
+
+The first heart is positioned in the center of the upper chest. It has a turquoise surface with the inscription "SELF LOVE" and realistic dark-red bloody edges.
+
+The second heart is located near the collarbone on the opposite side. It has a lilac surface with the inscription "BE KIND" and similar raised, bloody edges.
+
+Around the hearts are small splashes of artificial blood, textured latex, and dark burgundy shading. All injuries are strictly theatrical, with no real wounds.
+
+ACCESSORIES AND MANICURE
+
+In her hand, the woman holds a large decorative heart on a stick, resembling a vintage Valentine's Day candy. The heart is light cream-colored with a red border and the inscription "DO U BOO".
+
+Her nails are very long, with a pointed almond shape and a glossy soft pink finish. She wears a small silver ring with a transparent gemstone on one finger.
+
+CLOTHING
+
+Her shoulders and collarbones are exposed. She is wearing a nude-colored strapless top, completely concealed below the lower edge of the frame, creating the effect of an exposed décolletage to showcase the artistic makeup.
+
+Only her shoulders, collarbones, and upper chest are visible in the frame. No additional jewelry that would cover the decorative hearts.
+
+BACKGROUND AND LIGHTING
+
+A clean, light-gray studio background without decorations. Soft, bright frontal beauty lighting evenly illuminates her face, hair, shoulders, and makeup.
+
+Natural color grading with rich pastel pink, lilac, turquoise, and dark-red accents. The skin looks realistic, without excessive smoothing.
+
+No red lighting, neon, smoke, dark interiors, or additional Halloween decorations.
+
+CAMERA AND FRAMING
+
+Vertical 9:16 format, close-up beauty portrait framed from the top of the hairstyle to a line slightly below the decorative hearts on the chest. The camera is positioned at face level, with an 85mm lens and natural portrait perspective.
+
+The face occupies the central part of the frame, while the voluminous hair fills the upper and side portions. The raised hand holding the candy heart is positioned on the left, and the decorative hearts on the chest are fully visible.
+
+Do not crop the top of the hairstyle, the hand, the candy heart, or any makeup elements. Do not stretch the figure to fit the format.
+
+Professional Halloween beauty photography, natural skin texture, detailed three-dimensional SFX makeup, realistic hair, vibrant pastel shades, maximum photorealism, 8K quality.
+
+MAIN PRIORITY: Maximum recognizability of the woman, natural anatomy, voluminous high hairstyle with a pink hair tie, luxurious lilac-pink makeup, bloody special effect around one eye, "DO U BOO" candy heart near the face, decorative hearts reading "KISS ME", "SELF LOVE", and "BE KIND" with realistic bloody edges, long pink manicure, light studio background, and composition strictly matching the reference.`,
+
+  negative: `wrong identity, altered facial features, changed eye color, changed main hair color, unrecognizable face, idealized face, enlarged head, oversized shoulders, exaggerated breasts, enlarged arms or hands, distorted neck, deformed collarbones, distorted rib cage, unnatural body proportions, extra fingers, missing fingers, fused fingers, malformed joints, deformed hands, cropped hairstyle, cropped candy heart, cropped makeup, missing candy heart, incorrect candy heart text, missing decorative hearts, incorrect inscriptions, missing pink hair tie, flat hairstyle, short hair, plastic-looking skin, excessive smoothing, real tattoos, glasses, extra jewelry covering hearts, real injuries, cartoon stylization, anime, illustration, CGI, 3D render, red lighting, neon, smoke, dark interior, Halloween background decorations, incorrect aspect ratio, stretched figure, blur, low resolution, logos, watermarks, AI artifacts.`
+},
+  
+{
+  id: "045",
+  title: "Scooby-Doo Glam",
+  image: "prompt-045.png",
+
+  positive: `Use the uploaded photograph of the adult woman as the only source of her appearance. Preserve her face, eye shape, nose, lips, cheekbones, facial oval, age, skin tone, eye color, and hair color with maximum accuracy. Do not alter or idealize her appearance. The woman must remain fully recognizable.
+
+Create an ultra-realistic Halloween beauty fashion photograph featuring a glamorous Scooby-Doo Girl (Scooby-Doo Glam) look. Vertical 9:16 format, close-up portrait, professional photography, 8K quality.
+
+POSE
+
+The woman is positioned close to the camera, with her torso slightly turned and her head gently tilted at a three-quarter angle. Her gaze is directed straight into the lens, her lips are closed, and her expression is confident and seductive. Natural body proportions, a full size 4 bust without artificial enlargement.
+
+EARS
+
+On her head is a large headband featuring two voluminous, soft dog ears, exactly like Scooby-Doo's ears. The ears are wide, long, chocolate brown with large dark spots, and pinkish-beige on the inside.
+
+Both ears are bent and hang down to the sides: one is slightly raised at the base and curves outward, while the other hangs freely to the side. Soft plush texture, rounded tips, and natural asymmetry.
+
+No upright, pointed, or deer-like ears.
+
+HAIR
+
+Long, thick hair in its original color, worn loose in large, soft waves, with volume at the roots and an almost center parting. Decorative chocolate-brown spots appear on individual strands.
+
+MAKEUP
+
+Luxurious doll-like Halloween glam makeup. Naturally glowing skin, defined cheekbones, and peach blush.
+
+Long, thick black eyelashes, precise winged eyeliner, beige-brown eyeshadow with bright turquoise accents at the outer corners of the eyes.
+
+Thin turquoise lines beneath the eyes and painted lower eyelashes.
+
+A small brown dog nose painted on the tip of her nose, with neat dark freckles and little spots on her cheeks.
+
+Her lips retain their natural shape, appearing full and glossy in a nude-pink shade with brown lip liner.
+
+COSTUME
+
+A fitted chocolate-brown bodysuit made from soft, velvety fabric with large dark spots.
+
+A sculpted, deep neckline emphasizes her natural bust without altering her anatomy.
+
+Around her neck is a wide turquoise collar with silver hardware and a diamond-shaped turquoise-and-gold pendant featuring the letters "SD".
+
+BACKGROUND
+
+A bright, modern home interior with white walls, an open door, and softly blurred furniture.
+
+Soft daylight and warm, natural color grading.
+
+CAMERA
+
+Vertical 9:16 portrait, camera positioned at face level, 50–85mm lens.
+
+Both floppy ears, her face, long hair, collar, and décolletage must be fully visible within the frame.
+
+Maximum detail in skin, hair, makeup, and fabric textures. Realistic photography without cartoon stylization.
+
+MAIN PRIORITY: Complete recognizability of the woman from the original photograph, large soft floppy Scooby-Doo ears, long blonde hair, expressive turquoise-and-black makeup, a brown spotted costume, and the signature turquoise collar.`,
+
+  negative: `wrong identity, altered facial features, idealized face, generic AI woman, face swap, blended face, changed eye shape, changed nose, enlarged lips, enlarged eyes, oversized head, wrong eye color, changed original hair color, short hair, thin hair, unnatural wig, exaggerated breasts, artificial bust enlargement, distorted anatomy, unnatural body proportions, extra arms, extra limbs, extra fingers, fused fingers, malformed hands, upright ears, pointed ears, deer ears, horns, missing dog ears, asymmetrical malformed ears, animal muzzle, realistic animal face, distorted dog nose, oversized painted nose, incorrect makeup, missing turquoise accents, missing collar, wrong collar color, missing SD pendant, incorrect costume, missing brown spots, plastic skin, waxy skin, excessive smoothing, artificial lighting, dark background, cartoon, anime, illustration, CGI, 3D render, blurry face, low resolution, cropped ears, cropped head, cropped collar, incorrect aspect ratio, watermark, logo, unwanted text, AI artifacts.`
 }
 ];
