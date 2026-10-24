@@ -1617,5 +1617,501 @@ Maximum detail in skin, hair, makeup, and fabric textures. Realistic photography
 MAIN PRIORITY: Complete recognizability of the woman from the original photograph, large soft floppy Scooby-Doo ears, long blonde hair, expressive turquoise-and-black makeup, a brown spotted costume, and the signature turquoise collar.`,
 
   negative: `wrong identity, altered facial features, idealized face, generic AI woman, face swap, blended face, changed eye shape, changed nose, enlarged lips, enlarged eyes, oversized head, wrong eye color, changed original hair color, short hair, thin hair, unnatural wig, exaggerated breasts, artificial bust enlargement, distorted anatomy, unnatural body proportions, extra arms, extra limbs, extra fingers, fused fingers, malformed hands, upright ears, pointed ears, deer ears, horns, missing dog ears, asymmetrical malformed ears, animal muzzle, realistic animal face, distorted dog nose, oversized painted nose, incorrect makeup, missing turquoise accents, missing collar, wrong collar color, missing SD pendant, incorrect costume, missing brown spots, plastic skin, waxy skin, excessive smoothing, artificial lighting, dark background, cartoon, anime, illustration, CGI, 3D render, blurry face, low resolution, cropped ears, cropped head, cropped collar, incorrect aspect ratio, watermark, logo, unwanted text, AI artifacts.`
+},
+  
+{
+  id: "046",
+  title: "Cursed Snow White",
+  image: "prompt-046.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her real facial features, head shape, eyes, eyebrows, nose, lips, cheekbones, chin, age, natural asymmetry, skin tone, original eye color, and hair color. Do not alter her appearance or idealize her face. The woman must remain maximally recognizable even under Halloween makeup.
+
+Create an ultra-realistic cinematic Halloween beauty collage featuring the woman as Cursed Snow White, combining classic fairytale beauty with a terrifying zombie transformation. Three horizontal frames separated by thin black diagonal lines, with the composition strictly matching the reference.
+
+COMPOSITION AND POSES
+
+The collage consists of three horizontal photographs of the same woman. In all three frames, her head is tilted to the side, her face is captured in a close-up three-quarter angle, and her shoulders and upper chest are visible. The composition is slightly rotated diagonally.
+
+Top frame — Cursed Snow White with terrifying zombie makeup. Her head is strongly tilted to the left relative to the frame, and her gaze is directed into the camera. One hand holds a small red apple near her face, with a large bitten section exposing the pale flesh. Her facial expression is frightening and mysterious.
+
+Middle frame — Beautiful Snow White before the transformation. The woman tilts her head in the same direction, looks directly into the camera, and keeps her lips slightly parted. One hand elegantly holds a whole red apple near her temple. Her expression is gentle, seductive, and slightly anxious.
+
+Bottom frame — Another depiction of Cursed Snow White. Her head is tilted, one eye is rolled upward and appears milky white, while the other looks directly into the camera. She holds the bitten apple near her chest, with her mouth slightly open.
+
+ANATOMY AND PROPORTIONS
+
+In all three frames, the facial features and proportions must remain strictly identical. The head must be naturally sized, the neck must have anatomically correct length, and the shoulders must be delicate and feminine. The bust is full and harmoniously proportionate to her figure, without artificial enlargement or distortion of the décolletage.
+
+The arms and hands must be naturally sized, with long, anatomically correct fingers gently holding the apple. The head tilt must be achieved through a natural rotation of the head and torso, without unnaturally twisting the neck.
+
+HAIR AND HAIRSTYLE
+
+The hair must strictly retain its original color and be styled in a luxurious vintage Snow White hairstyle: a deep side part, smooth voluminous Old Hollywood waves, and large, neatly defined curls framing the face and falling around shoulder level.
+
+A small, bright red satin bow is placed on one side of her head. The hairstyle and hair color must be identical in all three frames. Do not dye the hair black.
+
+MAKEUP — BEAUTIFUL SNOW WHITE
+
+In the middle frame, the skin retains its original natural tone, appearing smooth while maintaining visible natural texture. Expressive eyebrows, soft brown eyeshadow, elongated black winged eyeliner, thick eyelashes, and subtle blush.
+
+The lips are a rich scarlet red with a velvety matte finish and a precisely defined outline. The eyes retain their original shape and color. The makeup is elegant and feminine, inspired by the aesthetic of a vintage fairytale heroine.
+
+MAKEUP — CURSED SNOW WHITE
+
+In the top and bottom frames, apply professional, realistic zombie SFX makeup.
+
+The skin is pale with a cool grayish-blue undertone. Across the forehead, temples, around the eyes, and on the cheeks, a delicate branching network of dark purple and black veins appears, as though the poison from the enchanted apple is spreading beneath the skin.
+
+Deep gray-purple shadows surround the eyes, creating a sickly, mystical effect. One eye has a milky-white decorative contact lens, while the other retains its original color. The lips are covered in rich dark-red lipstick, slightly smudged at the corners of the mouth.
+
+Small darkened areas on the skin imitate a supernatural fairytale curse, without open wounds or excessive blood. The makeup must not alter the woman's real facial structure.
+
+CLOTHING AND ACCESSORIES
+
+In all three frames, the woman wears the same cream-white dress with a deep rounded neckline, exposed shoulders, and soft, lowered sleeves made from textured fabric.
+
+The upper part of the dress fits closely to her figure, emphasizing the natural contours of her bust and shoulders. The fabric is soft and slightly crinkled, with realistic folds.
+
+Her nails are long, almond-shaped, and coated in a delicate nude shade. No oversized jewelry.
+
+APPLE
+
+A natural red apple with glossy skin and subtle golden undertones. In the middle frame, the apple is whole; in the top and bottom frames, it is bitten, with clearly visible light cream-colored flesh.
+
+The apple must be realistically sized and correctly positioned between her fingers, without any distortion of its shape.
+
+BACKGROUND AND LIGHTING
+
+The top and bottom frames feature a muted golden-olive background resembling antique fabric. The lighting is soft and warm, with cool shadows across the face, creating an eerie fairytale atmosphere.
+
+The middle frame is photographed against a light vintage wall with decorative moldings. Soft neutral lighting beautifully emphasizes the woman's face, red lips, and hair texture.
+
+Vintage color grading with subtle grain and natural shadows. No bright red lighting, neon, or artificial glow.
+
+CAMERA AND COMPOSITION
+
+A cinematic collage divided into three horizontal strips of approximately equal height. The top and bottom photographs are slightly darker, while the central photograph is brighter.
+
+Close-up beauty portrait, 50–85mm lens, natural perspective. In all three frames, the face, hair, shoulders, décolletage, hand, and apple must be visible. Do not crop the eyes, lips, or important makeup details.
+
+Maximum photorealism, natural skin texture, detailed Halloween makeup, realistic hair, professional cinematic post-processing, 8K quality.
+
+MAIN PRIORITY: Maximum recognizability of the woman, three horizontal frames featuring the same Snow White, an identical vintage hairstyle with a red bow, preservation of the original hair color, a cream-colored dress, a red apple, Beautiful Snow White in the center, and two frightening versions with dark veins and a white eye in the top and bottom frames. The composition must strictly match the reference.`,
+
+  negative: `wrong identity, altered facial features, different woman, generic AI face, face swap, blended face, idealized face, changed head shape, changed nose, changed lips, enlarged eyes, changed natural eye color except decorative zombie contact lens, changed original hair color, black dyed hair, short hair, inconsistent hairstyle between frames, missing red satin bow, oversized head, enlarged breasts, exaggerated shoulders, distorted décolletage, unnatural neck rotation, deformed neck, incorrect anatomy, extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed joints, distorted apple, oversized apple, missing apple, incorrect apple color, whole apple in zombie frames, bitten apple in middle frame, missing white zombie eye, both eyes white, missing dark veins, excessive gore, open wounds, excessive blood, inconsistent identity across frames, different women in each frame, duplicated faces within a frame, incorrect dress, dark dress, missing sleeves, incorrect background, neon lighting, red lighting, artificial glow, plastic-looking skin, waxy skin, excessive smoothing, cartoon, anime, illustration, CGI, 3D render, blurry face, low resolution, incorrect collage layout, missing frame, extra frame, cropped eyes, cropped lips, cropped important makeup details, tattoos, glasses, inscriptions, logos, watermarks, AI artifacts.`
+},
+
+{
+  id: "047",
+  title: "Toxic Vampire",
+  image: "prompt-047.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her real facial features, head shape, facial oval, eyes, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, and original eye and hair color. Do not alter her appearance or idealize her face. The woman must remain maximally recognizable even with bright Halloween makeup.
+
+Create an ultra-realistic Halloween beauty fashion photograph of an adult woman styled as a bold, glamorous vampire with bright neon-green and orange makeup. Extreme close-up portrait, professional beauty photography with a direct-flash effect, with the composition as close to the reference as possible.
+
+POSE AND COMPOSITION
+
+The woman's face occupies almost the entire frame, slightly tilted to the side and turned toward the camera at a three-quarter angle. Her head is positioned diagonally, her gaze is directed straight into the lens, and her expression is bold, playful, and provocative.
+
+Her mouth is wide open, with her tongue sticking out forward and slightly downward. On her tongue are two small metallic piercing balls positioned vertically, one behind the other. Two small, sharp white vampire fangs are visible on her upper jaw.
+
+One hand is raised toward her face. Her index and middle fingers form an open V-shaped pose near her lips and chin, emphasizing her bright manicure. The remaining fingers are naturally bent. Her hand is positioned in the right foreground and does not cover her eyes or main facial features.
+
+CRITICALLY IMPORTANT — ANATOMY AND PROPORTIONS
+
+Preserve the woman's real facial shape and proportions. Her head must be naturally sized, her eyes symmetrically positioned while retaining her natural individual asymmetry, and her nose and lips must maintain their original shapes.
+
+The open mouth must have an anatomically correct shape. The tongue must have a natural length and thickness, without excessive enlargement. The vampire fangs must be small, realistic, and correctly positioned among the upper teeth.
+
+The hand must be proportionate to the face, with naturally sized fingers, correctly formed joints, and anatomically accurate positioning. No oversized palms, extra fingers, or deformed nails.
+
+HAIR
+
+The hair must strictly retain its original color, be long, thick, and worn loose, styled in large, expressive Hollywood waves with deep S-shaped curves and volume at the roots.
+
+The hairstyle features a side part. The hair frames the face on both sides and falls in large waves along the shoulders, extending beyond the frame.
+
+Bright temporary orange and acid-green color accents are added to individual strands, as in the reference, while the main original hair color remains clearly distinguishable. Realistic texture of individual hair strands and natural shine.
+
+MAKEUP — HALLOWEEN GLAM
+
+Extremely detailed, vibrant Halloween makeup combining acid green, intense orange, and deep black.
+
+The eyebrows are thick and expressive, retaining their original shape and color, neatly brushed upward.
+
+The eyelids feature a complex eyeshadow gradient: acid green at the inner corners of the eyes, bright orange across the upper eyelids and above the crease, and deep black along the lash line. Wide, dramatic black winged eyeliner with very long, sharp wings extending toward the temples.
+
+Black eyeliner on the lower eyelids, fine decorative strokes, and thick, long false eyelashes on both the upper and lower lash lines. Around the outer corners of the eyes are artistic black lines resembling spiderweb-like stitches, with small orange and green dots.
+
+On the forehead near the hairline, on the temple, and along one cheek are thin decorative black stitches with miniature colored accents, creating the effect of stitched doll skin. All stitches are drawn with cosmetics, without any real injuries.
+
+The skin retains its natural original tone, with visible texture, soft contouring, and luminous highlighter on the cheekbones and bridge of the nose.
+
+The lips are covered in bright, glossy orange lipstick with a precisely defined outline. Preserve the natural shape and volume of the lips. The inside of the mouth and the tongue must look realistic, without colored filters.
+
+EYES AND CONTACT LENSES
+
+Preserve the original shape, placement, and size of the eyes. For the Halloween look, use decorative contact lenses: one eye with a bright green iris, the other with a fiery orange iris and a dark outer ring.
+
+The colored contact lenses must look like real cosmetic accessories and must not alter the anatomy of the eyes. The pupils are round, naturally sized, with realistic flash reflections.
+
+MANICURE AND ACCESSORIES
+
+Long, pointed stiletto-shaped nails with a glossy finish. One nail is bright orange, another is acid green, and the remaining nails follow a similar contrasting color scheme.
+
+The nails feature thin black decorative crosses and short lines imitating stitches. The manicure must be extremely sharp and realistic, with neatly shaped nail plates.
+
+Several thin silver and black rings on the fingers. A small silver hoop nose piercing. Two metallic piercing balls on the tongue. Small silver accessories on the ears.
+
+CLOTHING
+
+The woman is wearing a black gothic outfit, almost entirely concealed by the tight framing. A small section of a black lace collar or sheer lace fabric near the neck is visible at the bottom of the image.
+
+The clothing must not distract attention from the face, makeup, hair, and manicure.
+
+BACKGROUND AND LIGHTING
+
+The background is very dark, almost completely black, without distinguishable objects or decorations.
+
+A bright, direct frontal flash illuminates the face, hair, and hand, creating the characteristic effect of professional beauty photography with high detail.
+
+The skin looks natural, with subtle highlights on the nose, lips, and cheekbones. The makeup colors are rich and contrasting, but without neon glow or colored lighting.
+
+No red lighting, smoke, blurred face, or excessive filters.
+
+CAMERA AND FRAMING
+
+Extreme close-up beauty portrait. The camera is positioned at face level, using an 85–100mm lens with natural portrait perspective.
+
+The face occupies the central and upper parts of the frame. The eyes are positioned in the upper third of the image, while the open mouth and tongue are in the lower central area. The hand with the bright manicure is positioned in the right foreground.
+
+The hair fills the left side and edges of the frame in large waves. The upper part of the head extends partially beyond the photograph's boundaries, while the bottom of the frame ends at the level of the hair and hand.
+
+The main focus is on the eyes, makeup, lips, fangs, tongue, and manicure. High detail sharpness, natural skin texture, professional beauty retouching without a plastic-like effect, maximum photorealism, 8K quality.
+
+MAIN PRIORITY: Maximum recognizability of the woman, accurate facial and hand anatomy, long voluminous wavy hair with the main original color preserved, bright orange-and-green makeup, dramatic black winged eyeliner, decorative stitches, multicolored contact lenses, glossy orange lips, small vampire fangs, an extended tongue with piercings, bright manicure, and an extreme close-up composition strictly matching the reference.`,
+
+  negative: `wrong identity, altered facial features, unrecognizable woman, generic AI face, face swap, idealized face, changed head shape, changed facial oval, changed nose, enlarged eyes, enlarged lips, changed chin, changed main hair color, short hair, thin hair, flat hairstyle, missing Hollywood waves, oversized head, distorted face, asymmetrical eye placement beyond natural asymmetry, incorrect anatomy, oversized mouth, oversized tongue, unnaturally long tongue, duplicated tongue, deformed teeth, oversized vampire fangs, missing fangs, extra fangs, incorrectly positioned fangs, missing tongue piercings, extra tongue piercings, oversized hands, enlarged palms, extra fingers, missing fingers, fused fingers, deformed joints, malformed nails, incorrect V-shaped hand pose, hand covering eyes, missing orange makeup, missing acid-green makeup, missing black winged eyeliner, missing decorative stitches, real wounds, blood, real tattoos, wrong contact lens colors, deformed pupils, glowing eyes, missing bright manicure, short nails, missing nose piercing, incorrect jewelry, excessive skin smoothing, plastic-looking skin, waxy skin, cartoon, anime, illustration, CGI, 3D render, neon glow, colored lighting, red lighting, smoke, bright background, distracting objects, blurry face, low resolution, distorted perspective, cropped eyes, obscured lips, hidden tongue, logos, watermarks, unwanted inscriptions, foreign objects, AI artifacts.`
+},
+
+{
+  id: "048",
+  title: "Ghostface Selfie",
+  image: "prompt-048.PNG",
+
+  positive: `Use the uploaded photographs of the woman and man as the only sources of their appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, cheekbones, chin, age, skin tone, natural asymmetry, and original hair color of each person. Do not alter their appearance or idealize their faces. The woman must remain maximally recognizable, and the man must retain his appearance beneath the costume and mask.
+
+Create an ultra-realistic cinematic Halloween photograph of an adult couple in the aesthetic of 2000s teen horror. The woman is taking a selfie with a man dressed as Ghostface from the movie Scream, while sitting with him on a bed in a cozy bedroom. Atmospheric vintage photography, with the composition strictly matching the reference.
+
+POSE AND COMPOSITION
+
+The woman is positioned in the right foreground, kneeling on a soft bed, with her body slightly turned sideways toward the camera. Her legs are bent and directed to the right, with her hips naturally positioned on the mattress. Her torso leans slightly forward and to the left.
+
+Her head is turned over her shoulder toward the camera, showing her face at a three-quarter angle. She looks directly into the lens with a slight mysterious smile, her lips closed.
+
+Her right arm is extended forward and to the left, holding a small vintage digital camera with its screen facing toward her. A miniature selfie of the couple is visible on the screen. Her hand and the camera are positioned in the left foreground.
+
+The man sits behind the woman on the left, leaning slightly toward her. His head, covered by the white Ghostface mask, is positioned next to her head, slightly above her shoulder. The man looks toward the digital camera through the eye openings of the mask.
+
+The couple is positioned very close together, creating the atmosphere of a playful Halloween selfie.
+
+CRITICALLY IMPORTANT — ANATOMY AND PROPORTIONS
+
+Preserve the natural proportions of both people. The woman's head must be naturally sized, her shoulders feminine, and her neck of natural length.
+
+Her bust is full, size 4, harmoniously proportionate to her figure. Her waist is defined but realistic. Her hips and bent legs have natural proportions, without excessive enlargement.
+
+Her extended arm must have an anatomically correct length, her hand must be proportionate to her body, and her fingers must naturally hold the digital camera. Do not enlarge the arm or hand due to perspective.
+
+The man has a natural masculine physique, normal shoulder width, and correct proportions of the head, arms, and torso.
+
+HAIR AND HAIRSTYLE
+
+The woman's hair must strictly retain its original color and be medium-length or long, according to the original photograph, styled in soft, voluminous waves with a side part.
+
+The front strands beautifully frame her face, while the remaining hair falls freely over her shoulders and down her back. The hairstyle is slightly tousled, inspired by romantic hairstyles of the 2000s.
+
+A small silver decorative tiara with delicate sparkling elements rests on the crown of her head.
+
+The man's hair is completely concealed beneath the black hood of his costume.
+
+WOMAN'S MAKEUP
+
+Soft glamorous makeup in the Y2K aesthetic.
+
+The skin retains its original natural tone, with visible texture, soft contouring, and subtle peach-pink blush.
+
+The eyebrows are neatly shaped, preserving their original form. The eyelids feature soft brown and pink-beige eyeshadows, thin black winged eyeliner, and long, thick eyelashes.
+
+The lips retain their natural shape and are covered with soft pink-nude lipstick with a subtle glossy shine. Her gaze is flirtatious and confident.
+
+Do not change her original eye color.
+
+WOMAN'S CLOTHING
+
+The woman is wearing a fitted, soft pink top made from thin, semi-sheer textured fabric with long flared sleeves.
+
+The fabric features a subtle floral pattern. The neckline is soft and feminine, emphasizing the natural line of her décolletage.
+
+Over the top, she wears a wide black corset belt that accentuates her waist, featuring small silver decorative details.
+
+She is wearing blue high-waisted jeans that fit closely around her hips and become looser below the knees.
+
+She wears several thin rings on her fingers. Her nails are long, pointed, and finished with a metallic silver manicure.
+
+MAN'S LOOK — GHOSTFACE
+
+The man is wearing the classic Ghostface costume from the movie Scream.
+
+A long, loose black robe with a deep hood completely conceals his hair and most of his head.
+
+His face is covered by the recognizable elongated white mask with black oval eye sockets, a long narrow nose, and a large, elongated open mouth.
+
+The mask has a smooth, slightly glossy surface, with realistic shadows inside the eye sockets and mouth.
+
+The costume is entirely black, without additional decorations. The man sits calmly and does not hold any weapons.
+
+DIGITAL CAMERA AND DETAILS
+
+In the woman's hand is a small vintage digital camera from the early 2000s, silver and black in color, with a small rectangular screen.
+
+The screen faces toward the woman and is partially visible to the viewer at an angle. The display clearly shows a selfie of the woman and the masked man together.
+
+The camera must be realistically sized, with her fingers correctly positioned around its body. A thin black camera strap is attached around her wrist.
+
+BACKGROUND AND ATMOSPHERE
+
+A cozy teenage bedroom in the aesthetic of the 2000s.
+
+Behind the couple is a light-colored bed with a soft textured bedspread, white pillows, and a wooden headboard.
+
+The walls are covered with numerous small vintage posters, magazine cutouts, music photographs, and covers of old movies, arranged in a slightly chaotic manner.
+
+In the lower part of the frame, on the bed, lies an open eyeshadow palette in pink and brown shades, a small candle with a warm flame, and several cosmetic accessories.
+
+The room looks lived-in, cozy, and slightly messy, with the atmosphere of a Halloween evening.
+
+LIGHTING AND COLOR GRADING
+
+Warm amber-golden light from a table lamp illuminates the woman's face, hair, and upper body.
+
+Soft, deep shadows fall across the walls. The man in the black costume is partially immersed in dim light, while the white mask stands out brightly against the dark background.
+
+The color grading is vintage, with muted brown, golden, pink, and black tones. Subtle film grain and soft contrast.
+
+No bright red lighting, neon, artificial glow, or excessive retouching.
+
+CAMERA AND FRAMING
+
+The camera is positioned slightly above bed level, directed toward the couple at a slight angle.
+
+35–50mm lens, natural perspective without strong wide-angle distortion.
+
+The woman occupies the central and right portions of the frame, while the man is positioned behind her on the left. Her extended arm holding the digital camera is located in the left-central part of the image.
+
+The frame includes both characters' heads, the woman's upper body, her bent legs in jeans, most of the man's figure, the bed, and details of the room.
+
+Professional cinematic Halloween photography with the atmosphere of an amateur photograph from the 2000s, natural skin texture, realistic fabrics, soft film grain, maximum photorealism, 8K quality.
+
+MAIN PRIORITY: Maximum recognizability of the woman, natural anatomy of the couple, kneeling pose with an extended arm holding a digital camera, the man in the classic Ghostface costume positioned behind her, a soft pink top, black belt, blue jeans, silver tiara, warm lighting, cozy bedroom with vintage posters, and an exact composition matching the reference.`,
+
+  negative: `wrong identity, altered facial features, unrecognizable woman, generic AI face, face swap, blended face, idealized faces, changed head shape, changed eye color, changed original hair color, incorrect age, oversized head, enlarged breasts, exaggerated shoulders, enlarged arms, oversized hands, enlarged hips, excessively narrow waist, shortened torso, distorted anatomy, unnatural body proportions, deformed legs, incorrect joints, extra limbs, extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, incorrect kneeling pose, distorted camera, oversized digital camera, missing digital camera, incorrect camera screen, wrong selfie on camera screen, missing camera strap, wrong Ghostface mask, deformed Ghostface mask, missing mask, incorrect black hood, visible man's hair, incorrect costume, extra costume decorations, weapons, knives, blood, wounds, missing pink top, wrong jeans, missing black corset belt, missing silver tiara, incorrect manicure, tattoos, glasses, modern smartphone instead of vintage digital camera, empty bedroom, missing vintage posters, incorrect lighting, neon lighting, red lighting, artificial glow, excessive retouching, plastic-looking skin, waxy skin, cartoon, anime, illustration, CGI, 3D render, blurry faces, low resolution, strong wide-angle distortion, cropped heads, cropped camera, cropped important details, advertising text, logos, watermarks, AI artifacts.`
+},
+
+{
+  id: "049",
+  title: "Enchanted Fawn",
+  image: "prompt-049.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her facial features, eye shape, nose, lips, facial oval, age, skin tone, and original eye and hair color. Do not alter or idealize her appearance. The woman must remain maximally recognizable.
+
+Create an ultra-realistic Halloween fashion photograph featuring the woman dressed as a seductive woodland fawn. Professional cinematic fashion photography with a luxurious woodland-inspired Halloween aesthetic.
+
+POSE AND COMPOSITION
+
+The woman is kneeling on a light-colored floor, sitting back on her bent legs, with her torso leaning slightly forward.
+
+Both arms are extended downward, with her palms resting naturally on the floor between her knees. Her fingers are elegantly positioned, with anatomically correct proportions.
+
+Her head is turned at a three-quarter angle, and her mysterious gaze is directed to the side. Her expression is soft, alluring, and slightly mysterious.
+
+Preserve natural anatomy, a feminine figure, a full size 4 bust, a defined waist, and harmonious body proportions.
+
+Her head, shoulders, arms, waist, hips, and bent legs must remain naturally proportioned. Do not exaggerate any body features.
+
+HAIR AND ACCESSORIES
+
+Her long, thick hair strictly retains its original color and is styled in soft, voluminous waves with natural shine and realistic individual strands.
+
+On her head are large, branching, velvety brown antlers with a realistic natural structure and elegant symmetrical placement.
+
+Soft deer ears extend from the sides of her head, featuring warm brown fur on the outside and lighter beige-pink tones on the inside.
+
+The antlers and ears look like luxurious realistic costume accessories, securely positioned without distorting the shape of her head.
+
+MAKEUP — WOODLAND FAWN
+
+Beautiful glamorous Halloween makeup in chocolate-brown, caramel, and peach tones.
+
+The skin retains its original natural tone and realistic texture, with soft contouring, warm peach blush, and delicate highlights.
+
+Expressive winged black eyeliner, softly blended chocolate eyeshadow, long thick eyelashes, and beautifully defined eyebrows that preserve their original shape.
+
+Small decorative white fawn spots are painted across her forehead and cheeks in a natural, symmetrical arrangement.
+
+A small black deer nose is delicately painted on the tip of her real nose, without altering its anatomical shape.
+
+Her lips retain their natural shape and volume, finished with soft nude lipstick.
+
+The makeup combines glamorous beauty photography with realistic woodland animal-inspired details, without transforming her face into an animal muzzle.
+
+CLOTHING
+
+The woman wears a fitted chocolate-brown corset top with delicate lace trim, a beautiful V-shaped neckline, and secure bust support.
+
+The corset follows her natural figure, emphasizing her waist and décolletage without artificially enlarging her bust or distorting her anatomy.
+
+A short, voluminous, multilayered brown tulle skirt with soft, airy layers and decorative white fawn spots.
+
+A beautiful satin bow is positioned at the waist, and a small fluffy deer tail is attached to the back of the skirt.
+
+Dark brown knitted thigh-high socks extend above her knees, featuring realistic knit texture and a comfortable fitted appearance.
+
+The costume neatly covers all intimate areas and maintains an elegant, glamorous Halloween fashion aesthetic.
+
+BACKGROUND AND LIGHTING
+
+A minimalist cream-beige photography studio with a smooth light-colored floor and a clean, warm neutral background.
+
+Beautiful warm sunlight streams through a nearby window, creating long diagonal shadows across the floor and background.
+
+The lighting softly illuminates the woman's face, hair, antlers, costume, and skin, emphasizing the natural textures of the velvet, lace, tulle, and knitted fabric.
+
+Warm cinematic color grading with rich chocolate-brown, caramel, cream, and golden-beige tones.
+
+CAMERA AND FRAMING
+
+Professional fashion photography with a 50–70mm lens and natural portrait perspective.
+
+The composition fully includes the branching antlers, deer ears, woman's entire figure, extended arms, hands, corset, skirt, bent legs, and thigh-high socks.
+
+The camera captures the kneeling pose from a flattering natural angle without stretching the limbs or enlarging the head.
+
+Sharp focus on the woman's face, costume, and antlers. Natural skin texture, realistic fabrics, detailed hair, cinematic lighting, professional fashion retouching, maximum photorealism, 8K quality.
+
+MAIN PRIORITY: Maximum recognizability of the woman, preservation of her original facial features and hair color, accurate kneeling pose with both palms resting on the floor, luxurious woodland fawn costume, large branching brown antlers, soft deer ears, glamorous chocolate-and-peach makeup with white fawn spots, chocolate corset, layered brown tulle skirt, dark knitted thigh-high socks, warm sunlight, and maximum photorealism.`,
+
+  negative: `wrong identity, altered facial features, generic AI woman, idealized face, face swap, blended face, changed eye shape, changed nose, changed lips, changed facial oval, changed age, changed skin tone, changed original eye color, changed original hair color, short hair, thin hair, unnatural wig, oversized head, enlarged shoulders, exaggerated breasts, artificial bust enlargement, excessively narrow waist, distorted torso, enlarged hips, unnatural body proportions, incorrect anatomy, extra arms, extra legs, extra fingers, missing fingers, fused fingers, malformed hands, incorrect joints, distorted kneeling pose, unnatural leg position, floating hands, hands not touching the floor, incorrect antlers, missing antlers, broken antlers, extra antlers, missing deer ears, incorrect animal ears, animal muzzle, transformed animal face, oversized painted nose, missing white fawn spots, incorrect makeup, missing corset, incorrect neckline, missing lace trim, missing tulle skirt, missing satin bow, missing deer tail, missing thigh-high socks, exposed intimate areas, transparent costume, plastic-looking skin, waxy skin, excessive smoothing, cartoon, anime, illustration, CGI, 3D render, artificial glow, neon lighting, red lighting, dark interior, distracting background, blurry face, low resolution, cropped antlers, cropped head, cropped hands, cropped legs, distorted perspective, inscriptions, logos, watermarks, AI artifacts.`
+},
+
+{
+  id: "050",
+  title: "Enchanted Rose Fairy",
+  image: "prompt-050.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her face, facial features, proportions, age, natural asymmetry, eye color, skin tone, and hair color. Do not alter or idealize her appearance. The woman must remain maximally recognizable.
+
+Create an ultra-realistic Halloween fantasy fashion photograph of a luxurious woodland flower fairy. Professional fantasy beauty and fashion photography, maximum photorealism, 8K quality.
+
+POSE AND COMPOSITION
+
+The woman stands in the center of the frame, her torso slightly turned at a three-quarter angle, her waist naturally curved, and one hip extended to the side.
+
+Her head is turned sideways, her gaze directed beyond the camera, and her lips slightly parted. Her expression is mysterious, confident, feminine, and elegant.
+
+Her arms are gracefully extended to the sides, with her elbows slightly bent. Her hands and fingers are naturally positioned, with anatomically correct proportions.
+
+Preserve the woman's natural body proportions, including a full bust, defined waist, proportionate hips, delicate shoulders, and anatomically correct arms and hands.
+
+HAIR AND HAIRSTYLE
+
+Very long, thick, perfectly straight, silky hair strictly retaining its original color.
+
+The hair features a beautiful side part and falls smoothly down to her waist, with natural shine, realistic individual strands, and luxurious volume.
+
+Two soft pink roses are placed near her temple, delicately decorating the hairstyle without covering her face.
+
+The hair must remain straight, smooth, and flowing, without curls or artificial color changes.
+
+MAKEUP — LUXURIOUS FLOWER FAIRY
+
+Luxurious glamorous makeup in delicate pink, rose-brown, and warm bronze tones.
+
+The skin retains its original natural tone and realistic texture, with soft luminous highlights and elegant bronze contouring.
+
+Beautifully defined eyebrows preserving their natural shape, softly blended pink-brown eyeshadow, precise black winged eyeliner, and long, thick eyelashes.
+
+The lips retain their natural shape and volume, finished with glossy pink-berry lipstick.
+
+The makeup is elegant, feminine, and inspired by luxurious fantasy beauty photography, without excessive retouching or artificial facial changes.
+
+COSTUME — FLORAL CORSET
+
+A luxurious fitted floral corset with an opaque nude-colored base, completely adorned with three-dimensional pastel pink roses, fresh green leaves, and delicate golden branches.
+
+The roses have realistic layered petals, soft blush-pink shades, and natural botanical textures.
+
+The green leaves are detailed, with visible veins and natural variations in color. Thin golden branches elegantly weave between the flowers, creating a sophisticated fairytale design.
+
+The corset beautifully follows the natural curves of the woman's figure, emphasizing her waist and bust without artificially changing her anatomy.
+
+Her shoulders and collarbones remain exposed.
+
+A short, asymmetrical mini skirt made from dense layers of green leaves and delicate pink flower buds.
+
+The skirt has realistic botanical volume and texture, with carefully arranged overlapping leaves and floral details. It fully covers all intimate areas.
+
+Beautiful floral bracelets made from miniature pink flowers and green leaves decorate both wrists.
+
+WINGS — FOUR TRANSLUCENT FAIRY WINGS
+
+Four enormous translucent fairytale butterfly wings extend from the woman's back.
+
+The two upper wings rise gracefully upward, creating an elegant elongated silhouette.
+
+The two lower wings spread outward to the sides, forming a luxurious balanced composition.
+
+The wings are symmetrical, anatomically and structurally believable as fantasy costume wings, and fully visible within the frame.
+
+Their surfaces are made from an extremely delicate pearlescent membrane with intricate golden-silver veins.
+
+Subtle iridescent shades of pastel pink, mint green, champagne, and pearl shimmer across the translucent surfaces.
+
+The wings catch the soft daylight, revealing delicate transparent textures, realistic reflections, and sophisticated iridescence.
+
+The wings must look ethereal, luxurious, lightweight, and realistic, without resembling cartoon illustrations or plastic props.
+
+BACKGROUND AND LIGHTING
+
+A clean cream-white studio wall without decorations.
+
+Soft natural daylight illuminates the woman's face, hair, floral costume, and transparent wings.
+
+Delicate pastel color grading with soft pink, mint, champagne, pearl, cream, and natural green tones.
+
+Natural shadows add realistic depth and dimension to the flowers, leaves, and translucent wing membranes.
+
+No distracting objects, dark interiors, colored spotlights, neon effects, or excessive artificial glow.
+
+CAMERA AND FRAMING
+
+Professional fantasy fashion photography with the camera positioned at chest level, using a 50–70mm lens and natural perspective.
+
+The woman stands centrally, with her elegant pose, floral corset, asymmetrical leaf skirt, and four enormous wings clearly visible.
+
+The composition extends from the highest tips of the wings to the middle of her thighs.
+
+Both upper and lower wings must fit fully within the image boundaries without cropping.
+
+The woman's recognizable face, long straight hair, exposed shoulders, extended arms, floral bracelets, and detailed costume remain clearly visible.
+
+Extremely detailed natural skin texture, realistic individual hair strands, delicate flower petals, botanical leaves, golden branches, and transparent pearlescent wings.
+
+Professional fashion lighting, sophisticated fantasy styling, natural color grading, realistic materials, maximum photorealism, 8K quality.
+
+MAIN PRIORITY: Maximum recognizability of the woman from the uploaded photograph, strict preservation of her original facial features, eye color, skin tone, and hair color, luxurious long straight silky hair with two pink roses, glamorous pink-brown makeup, three-dimensional floral corset, short asymmetrical green leaf skirt, floral wrist bracelets, four enormous transparent pearlescent butterfly wings with golden-silver veins, elegant standing pose, cream-white studio background, and maximum photorealism.`,
+
+  negative: `wrong identity, altered facial features, unrecognizable woman, generic AI face, face swap, blended face, idealized face, changed facial proportions, changed age, changed skin tone, changed eye color, changed original hair color, dyed hair, short hair, curly hair, wavy hair, thin hair, unnatural wig, oversized head, enlarged eyes, enlarged lips, exaggerated breasts, artificial bust enlargement, excessively narrow waist, enlarged hips, distorted torso, broad shoulders, unnatural body proportions, incorrect anatomy, extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, incorrect joints, unnatural standing pose, missing pink roses in hair, crown, tiara, horns, animal ears, missing floral corset, incorrect corset, transparent corset base, missing pink roses, artificial-looking flowers, missing green leaves, missing golden branches, missing floral bracelets, missing leaf skirt, exposed intimate areas, missing wings, two wings instead of four, extra wings, asymmetrical wings, deformed wings, cropped wings, opaque wings, dark wings, feathered angel wings, bat wings, insect body, plastic-looking wings, cartoon wings, oversized artificial glow, neon lighting, colored spotlights, dark background, distracting decorations, plastic-looking skin, waxy skin, excessive smoothing, excessive retouching, cartoon, anime, illustration, CGI, 3D render, blurry face, low resolution, distorted perspective, cropped head, cropped arms, cropped wing tips, tattoos, inscriptions, logos, watermarks, AI artifacts.`
 }
 ];
