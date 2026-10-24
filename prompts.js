@@ -2938,6 +2938,7 @@ Fisheye effect, wide-angle distortion, CGI, 3D render, anime, cartoon, illustrat
   id: "058",
   title: "Chucky's Revenge",
   image: "prompt-058.PNG",
+  imagePosition: "center 15%",
 
   positive: `Use the uploaded photograph of the woman as the ONLY source of her appearance. Preserve her real facial features with maximum accuracy: head shape, facial oval, eyes, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, and skin tone. Do not alter the woman's identity, idealize her face, or replace it with another character's face. Strictly preserve her original eye color and hair color from the uploaded photograph.
 
@@ -3474,6 +3475,7 @@ Plastic-looking skin, waxy skin, poreless skin, excessive skin smoothing, excess
   id: "061",
   title: "Pumpkin Glam",
   image: "prompt-061.PNG",
+  imagePosition: "center 15%",
 
   positive: `Use the uploaded photograph of the woman as the ONLY source of her appearance. Strictly preserve her individual facial features, head shape, facial oval, eye shape, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, eye color, and original hair color. Do not alter or idealize her appearance. Do not copy the appearance of the model from the reference image. The woman must remain maximally recognizable even under elaborate Halloween makeup.
 
