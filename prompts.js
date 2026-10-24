@@ -4098,6 +4098,7 @@ Fisheye effect, wide-angle distortion, exaggerated perspective, extreme low-angl
   id: "064",
   title: "Pennywise Together",
   image: "prompt-064.PNG",
+  imagePosition: "center 0%",
 
   positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, facial ovals, eyes, eyebrows, noses, lips, cheekbones, chins, ages, natural facial asymmetry, skin tones, eye colors, and original hair colors.
 
@@ -4412,6 +4413,7 @@ Wide-angle distortion, fisheye effect, stretched bodies, exaggerated perspective
   id: "065",
   title: "Joker & Harley Love",
   image: "prompt-065.PNG",
+  imagePosition: "center 10%",
 
   positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, facial ovals, eyes, eyebrows, noses, lips, cheekbones, chins, ages, natural facial asymmetry, skin tones, eye colors, and original hair colors.
 
@@ -4724,6 +4726,7 @@ CGI, 3D render, anime, cartoon, illustration, unnatural skin smoothing, waxy ski
   id: "066",
   title: "Eternal Skeleton Love",
   image: "prompt-066.PNG",
+  imagePosition: "center 10%",
 
   positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, facial ovals, eyes, eyebrows, noses, lips, cheekbones, chins, ages, natural facial asymmetry, skin tones, eye colors, and original hair colors.
 
@@ -5020,6 +5023,7 @@ Fisheye distortion, extreme wide-angle perspective, stretched figures, distorted
   id: "067",
   title: "Twisted Clown Love",
   image: "prompt-067.PNG",
+  imagePosition: "center 15%",
 
   positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, facial contours, eyes, eyebrows, noses, lips, cheekbones, chins, natural facial asymmetry, ages, skin tones, eye colors, and original hair colors.
 
@@ -5360,6 +5364,7 @@ Fisheye distortion, extreme wide-angle perspective, CGI, 3D render, anime, carto
   id: "068",
   title: "Autumn Skeletons",
   image: "prompt-068.PNG",
+  imagePosition: "center 0%",
 
   positive: `Use the uploaded photographs of the man and woman as the ONLY sources of their appearance. Strictly preserve their real facial features, head shapes, eyes, eyebrows, noses, lips, cheekbones, chins, ages, natural facial asymmetry, skin tones, eye colors, and original hair colors.
 
