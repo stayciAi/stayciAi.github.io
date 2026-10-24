@@ -2115,5 +2115,819 @@ Professional fashion lighting, sophisticated fantasy styling, natural color grad
 MAIN PRIORITY: Maximum recognizability of the woman from the uploaded photograph, strict preservation of her original facial features, eye color, skin tone, and hair color, luxurious long straight silky hair with two pink roses, glamorous pink-brown makeup, three-dimensional floral corset, short asymmetrical green leaf skirt, floral wrist bracelets, four enormous transparent pearlescent butterfly wings with golden-silver veins, elegant standing pose, cream-white studio background, and maximum photorealism.`,
 
   negative: `wrong identity, altered facial features, unrecognizable woman, generic AI face, face swap, blended face, idealized face, changed facial proportions, changed age, changed skin tone, changed eye color, changed original hair color, dyed hair, short hair, curly hair, wavy hair, thin hair, unnatural wig, oversized head, enlarged eyes, enlarged lips, exaggerated breasts, artificial bust enlargement, excessively narrow waist, enlarged hips, distorted torso, broad shoulders, unnatural body proportions, incorrect anatomy, extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, incorrect joints, unnatural standing pose, missing pink roses in hair, crown, tiara, horns, animal ears, missing floral corset, incorrect corset, transparent corset base, missing pink roses, artificial-looking flowers, missing green leaves, missing golden branches, missing floral bracelets, missing leaf skirt, exposed intimate areas, missing wings, two wings instead of four, extra wings, asymmetrical wings, deformed wings, cropped wings, opaque wings, dark wings, feathered angel wings, bat wings, insect body, plastic-looking wings, cartoon wings, oversized artificial glow, neon lighting, colored spotlights, dark background, distracting decorations, plastic-looking skin, waxy skin, excessive smoothing, excessive retouching, cartoon, anime, illustration, CGI, 3D render, blurry face, low resolution, distorted perspective, cropped head, cropped arms, cropped wing tips, tattoos, inscriptions, logos, watermarks, AI artifacts.`
+},
+  
+{
+  id: "051",
+  title: "Haunted Harvest",
+  image: "prompt-051.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her real facial features, head shape, facial oval, eyes, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, eye color, and original hair color. Do not alter her appearance or idealize her face. The woman must remain maximally recognizable even under Halloween makeup.
+
+Create an ultra-realistic cinematic Halloween fashion photograph of an adult woman dressed as a seductive autumn scarecrow. Professional atmospheric photography, with the composition, pose, costume, and lighting matching the reference as closely as possible.
+
+POSE AND COMPOSITION
+
+The woman is sitting on the ground among tall, dry autumn grass, with her legs bent at the knees and spread wide apart in a natural position. Her knees point outward and are positioned partially closer to the camera, creating an expressive composition.
+
+Her torso leans slightly forward, and her shoulders are relaxed. Her head is strongly but naturally tilted toward one shoulder, with her face turned directly toward the lens. Her chin is slightly lowered, and her gaze is directed upward into the camera from beneath her brows. Her facial expression is mysterious, playful, and slightly sinister.
+
+Her arms are positioned between her legs, with her hands resting on the ground near her hips. Her fingers are naturally bent. Her hair falls freely along her face and over her chest.
+
+CRITICALLY IMPORTANT — ANATOMY AND PROPORTIONS
+
+Preserve the woman's real, feminine body proportions. Her head must be naturally sized, her shoulders delicate and naturally proportioned, and her neck anatomically correct in length.
+
+Her bust is full, size 4, harmoniously proportionate to her shoulders, rib cage, and waist. The corset supports her bust without unnaturally pushing it upward or distorting its shape. Her waist is defined but realistic, and her torso has a natural length.
+
+Her legs must have natural length and thickness, with anatomically correct knee shapes. Do not enlarge the thighs or knees due to perspective. Her arms must be proportionate to her body, with correctly shaped hands and fingers.
+
+The head tilt must be achieved through a natural movement of the neck, without unnatural curvature of the spine.
+
+HAIR AND HEADWEAR
+
+The hair must strictly retain its original color. It is long, thick, worn loose, and styled in soft, voluminous waves. The strands are slightly tousled, freely framing her face and falling over her shoulders. Do not change the original hair shade.
+
+On her head is a large, soft scarecrow hat made from aged dark-brown fabric. The hat features a tall, uneven, pointed crown with a bent tip and a wide, asymmetrical brim. Visible distressing and unfinished seams appear along the edges.
+
+A thick, light-beige rope is wrapped around the crown and tied into several knots. The hat is slightly tilted to one side, following the angle of her head.
+
+MAKEUP — GLAMOROUS SCARECROW
+
+Professional Halloween makeup in a warm autumn color palette. The skin retains its original natural tone, with visible texture, soft bronze contouring, and expressive terracotta blush.
+
+Numerous small dark-brown freckles are scattered across the bridge of her nose and cheeks. Her eyebrows are expressive and retain their original shape. The eyelids feature brown and copper-gold eyeshadow, long black winged eyeliner, and thick eyelashes.
+
+A small black-brown painted triangle with a thin outline appears on the tip of her nose, imitating the stitched nose of a scarecrow.
+
+Her lips are covered in muted pink-brown lipstick. Long, curved black lines extend from the corners of her mouth across her cheeks, intersected by short vertical strokes to create the effect of a stitched doll-like smile. All lines are painted with cosmetics, without any real wounds.
+
+Preserve the natural shape of her lips, eyes, and nose.
+
+CLOTHING — AUTUMN SCARECROW
+
+The woman wears a short, fitted corset dress made from aged dark-brown fabric with a matte texture. The upper part features a sculpted, deep neckline that emphasizes her natural bust. Decorative uneven fabric patches trim the edges of the neckline.
+
+Several small, light-yellow decorative elements resembling pieces of straw are placed around the bust area.
+
+A short cape made from coarse gray-brown burlap rests over her shoulders, with uneven, pointed edges. Around her neck is a small collar made from light-colored fabric petals.
+
+Her waist is accentuated by several wraps of thick, light-colored rope. The sleeves and cuffs feature coarse burlap, protruding bundles of decorative straw, and uneven fabric edges.
+
+She wears opaque striped tights with wide horizontal stripes in dark brown and gray-beige. Her shoes are partially concealed by the grass and the lower edge of the frame.
+
+The costume must look realistic, with detailed textures of fabric, rope, and straw.
+
+BACKGROUND AND ATMOSPHERE
+
+A dense field of tall, dry autumn grass in golden-beige, sandy, and muted brown shades. Long stems surround the woman on all sides, with some blades of grass positioned close to the lens and softly blurred.
+
+The background contains only dry vegetation and warm autumn colors. No buildings, close-up trees, pumpkins, graveyards, or additional decorations.
+
+The atmosphere evokes a mysterious autumn Halloween photoshoot in the middle of an abandoned field.
+
+LIGHTING AND COLOR GRADING
+
+Soft, warm, natural golden-hour light illuminates the woman's face, hair, and shoulders. Sunlight filters through the dry grass, creating golden highlights and a softly blurred background.
+
+Vintage color grading with warm caramel, sandy, honey, and brown tones. Natural shadows and moderate contrast.
+
+No red lighting, neon, artificial glow, or excessive skin processing.
+
+CAMERA AND FRAMING
+
+The camera is positioned slightly above the woman's face level and angled gently downward, creating a slightly elevated perspective, as in the reference.
+
+50–70mm lens, natural perspective without wide-angle distortion.
+
+The woman occupies the central part of the frame. Her head with the large hat is positioned in the upper third of the image, her torso and décolletage in the center, and her spread knees and striped tights in the lower portion.
+
+The bottom edge of the frame falls around her lower legs, and her shoes may remain outside the photograph. Her face, hat, shoulders, corset, arms, and most of her legs must be fully visible.
+
+Professional cinematic Halloween fashion photography, natural skin texture, realistic hair, detailed makeup, textured burlap and dry grass, soft depth of field, maximum photorealism, 8K quality.
+
+MAIN PRIORITY: Maximum recognizability of the woman, natural anatomy, a seated pose with knees spread apart and head tilted, long wavy hair retaining its original color, a large brown hat with rope, expressive makeup featuring a stitched smile, a brown corset with burlap and straw, striped tights, tall golden grass, and warm autumn lighting strictly matching the reference.`,
+
+  negative: `wrong identity, altered facial features, unrecognizable woman, generic AI face, face swap, blended face, idealized face, changed head shape, changed facial oval, changed eye shape, changed nose, changed lips, changed chin, changed age, changed skin tone, changed eye color, changed original hair color, dyed hair, short hair, thin hair, straight flat hair, unnatural wig, oversized head, enlarged shoulders, exaggerated breasts, artificial bust enlargement, unnaturally pushed-up bust, excessively narrow waist, shortened torso, distorted rib cage, enlarged hips, oversized thighs, oversized knees, shortened legs, distorted anatomy, unnatural body proportions, deformed spine, unnaturally twisted neck, incorrect head tilt, extra arms, extra legs, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, incorrect joints, incorrect seated pose, closed knees, straight legs, floating hands, missing scarecrow hat, small hat, incorrect hat shape, missing pointed crown, missing bent hat tip, missing rope on hat, missing freckles, missing stitched smile, real stitches, real wounds, blood, incorrect nose makeup, missing corset, incorrect neckline, missing burlap cape, missing straw details, missing rope belt, missing striped tights, exposed intimate areas, incorrect costume, plastic-looking fabric, artificial-looking straw, pumpkins, graveyards, buildings, close-up trees, other people, weapons, tattoos, glasses, inscriptions, logos, watermarks, plastic-looking skin, waxy skin, excessive skin smoothing, excessive retouching, cartoon, anime, illustration, CGI, 3D render, neon lighting, red lighting, artificial glow, blurry face, low resolution, strong wide-angle distortion, cropped face, cropped hat, cropped shoulders, cropped corset, missing visible legs, AI artifacts.`
+},
+
+{
+  id: "052",
+  title: "Cowgirl Glam",
+  image: "prompt-052.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her individual facial features, eye shape, nose, lips, facial oval, skin tone, eye color, natural facial proportions, age, and original hair color. Do not alter or idealize her appearance. Do not copy the appearance of the model from the reference example. The woman must remain maximally recognizable.
+
+Create an ultra-realistic close-up fashion beauty portrait of a young adult woman in the luxury cowgirl glam aesthetic. Professional high-fashion Western beauty photography with dramatic direct-flash lighting, sophisticated makeup, and maximum photorealism.
+
+HAIRSTYLE
+
+A perfectly sleek, geometric shoulder-length bob with an absolutely straight, blunt cut and dense texture.
+
+The hair is straight, silky, smooth, and mirror-shiny, with a precise geometric silhouette and naturally realistic individual strands.
+
+At the front, short, thick, straight bangs are neatly styled beneath the cowboy hat, creating a sharp, polished fashion look.
+
+Strictly preserve the woman's natural hair color from the uploaded photograph. Do not dye, recolor, highlight, or otherwise change the original hair shade.
+
+MAKEUP — LUXURY WESTERN GLAM
+
+Striking Western-inspired glamorous makeup with highly intricate graphic eye detailing.
+
+Warm caramel-brown eyeshadow extends dramatically toward the temples, creating an elongated and expressive eye shape without changing the woman's natural eye anatomy.
+
+Dramatic black cat-eye eyeliner features long, sharp, perfectly defined wings extending outward toward the temples.
+
+A delicate row of tiny silver rhinestones follows the upper eyeliner wing, emphasizing the shape of the eyes and adding luxurious sparkling details.
+
+The inner corners of the eyes feature contrasting white graphic swirls, extending elegantly along the bridge of the nose and resembling decorative Western-style ornaments.
+
+The white ornamental makeup must be finely detailed, symmetrical where appropriate, and painted directly onto the skin.
+
+Extremely long, thick black eyelashes create a dramatic beauty effect.
+
+The lower eyelids are accentuated with softly blended warm brown-burgundy eyeshadow, adding depth and intensity to the gaze.
+
+The eyebrows retain their natural shape and color, appearing neatly groomed and softly defined.
+
+The skin retains its original natural tone and realistic texture, enhanced with a bronzed, radiant makeup finish.
+
+Intense wet-look highlighter illuminates the cheekbones and bridge of the nose, creating bright glossy reflections under direct flash lighting.
+
+Soft contouring and warm peach blush sculpt the face without changing its real anatomical proportions.
+
+The lips retain their original natural shape and volume.
+
+The lip makeup features a dark nude-brown lip liner with a precisely defined outline, a lighter caramel-pink center, and an extremely glossy, mirror-like finish.
+
+The overall makeup is bold, glamorous, luxurious, and meticulously detailed, combining modern beauty fashion with sophisticated Western-inspired decorative elements.
+
+COWBOY HAT AND ACCESSORIES
+
+The woman wears a large statement cowboy hat featuring a striking brown-and-white cow print.
+
+The hat has wide, elegantly curved brims with a structured Western silhouette.
+
+A brown leather hatband wraps around the crown, decorated with small metallic studs and a distinctive silver bull ornament.
+
+The cow-print pattern is realistic, with irregular brown patches against a creamy white base.
+
+The hat must have believable proportions and realistic fabric, leather, and metal textures.
+
+One of the woman's hands is raised toward the hat, elegantly holding the edge of the brim.
+
+The hand is covered by a fitted black leather glove with a realistic smooth texture and subtle reflections.
+
+Her fingers are naturally positioned around the brim, with correct anatomy and realistic proportions.
+
+CLOTHING — WESTERN FASHION
+
+The woman wears a fashionable Western-inspired outfit coordinated with the cowboy hat.
+
+The clothing features a matching brown-and-white cow-print design, creating a cohesive luxury cowgirl aesthetic.
+
+The visible upper portion of the outfit is stylish, fitted, and sophisticated, with realistic fabric texture and carefully tailored details.
+
+The clothing complements the hat, makeup, and hairstyle without distracting attention from the woman's face.
+
+POSE AND EXPRESSION
+
+The woman's head is slightly tilted forward and turned toward the camera.
+
+Her gaze is directed straight into the lens, creating a confident, seductive, and powerful fashion expression.
+
+Her lips are relaxed, emphasizing the glossy nude-brown makeup.
+
+One gloved hand gracefully holds the edge of the cowboy hat.
+
+Her shoulders remain naturally positioned, with anatomically correct proportions.
+
+The pose feels bold, glamorous, and effortless, resembling a luxury Western fashion campaign.
+
+BACKGROUND AND LIGHTING
+
+A completely black studio background without visible decorations or distracting objects.
+
+Harsh direct frontal flash lighting illuminates the woman's face, hair, hat, and gloved hand.
+
+Bright highlights appear on the cheekbones, nose, glossy lips, sleek hair, metallic studs, silver rhinestones, and leather glove.
+
+Deep, dramatic shadows create strong contrast against the black background.
+
+The lighting emphasizes realistic skin texture, intricate makeup details, glossy surfaces, and the rich textures of the Western accessories.
+
+No artificial neon glow, colored lighting, excessive filters, or plastic-looking skin.
+
+CAMERA AND COMPOSITION
+
+An ultra-realistic close-up beauty portrait framed down to the shoulders.
+
+The woman's face is the central focus, with the cowboy hat prominently visible above her head.
+
+Her gloved hand holding the brim is included naturally in the composition.
+
+The sleek bob haircut, straight bangs, graphic eye makeup, silver rhinestones, white ornamental swirls, and glossy lips are clearly visible.
+
+Professional high-fashion portrait photography with natural perspective, sharp focus on the eyes and makeup, detailed skin texture, realistic hair, sophisticated direct-flash lighting, and maximum photorealism.
+
+MAIN PRIORITY: Maximum recognizability of the woman from the uploaded photograph, strict preservation of her natural facial features, eye color, skin tone, and original hair color, perfectly sleek geometric bob with straight bangs, dramatic caramel-brown eyeshadow, long black winged eyeliner, silver rhinestones, decorative white Western-style eye swirls, glossy nude-brown lips, brown-and-white cow-print cowboy hat with a silver bull ornament, black leather glove holding the brim, coordinated Western outfit, black studio background, and luxury direct-flash beauty photography.`,
+
+  negative: `wrong identity, altered facial features, unrecognizable woman, generic AI face, face swap, blended face, idealized face, copied face from reference model, changed facial oval, changed eye shape, changed nose, changed lips, changed age, changed skin tone, changed eye color, changed original hair color, dyed hair, blonde hair unless naturally blonde, black hair unless naturally black, artificial highlights, long hair, curly hair, wavy hair, layered haircut, uneven bob, missing blunt cut, missing straight bangs, thin bangs, messy hair, unnatural wig, oversized head, enlarged eyes, exaggerated lips, artificial lip enlargement, distorted face, incorrect anatomy, extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, incorrect joints, oversized glove, missing black leather glove, missing cowboy hat, incorrect hat shape, missing cow-print pattern, incorrect cow-print colors, missing leather hatband, missing metallic studs, missing silver bull ornament, distorted hat brim, hand covering the face, missing winged eyeliner, short eyeliner wings, missing silver rhinestones, oversized rhinestones, missing white ornamental swirls, incorrect graphic makeup, smudged eye details, missing glossy lips, matte lips, unnatural facial contouring, excessive bronzing, plastic-looking skin, waxy skin, excessive smoothing, excessive retouching, cartoon, anime, illustration, CGI, 3D render, neon lighting, colored lighting, bright background, distracting objects, blurry face, low resolution, distorted perspective, cropped eyes, obscured makeup, cropped important hat details, tattoos, glasses, inscriptions, logos, watermarks, AI artifacts.`
+},
+
+{
+  id: "053",
+  title: "Leopard Hair Glam",
+  image: "prompt-053.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her individual facial features, eye shape, nose, lips, facial oval, skin tone, eye color, natural facial proportions, age, and original hair color. Do not alter or idealize her appearance. Do not copy the appearance or hair color of the model from the reference example. The woman must remain maximally recognizable.
+
+Create an ultra-realistic fashion beauty portrait of a young adult woman in a luxurious leopard-inspired glam aesthetic. Professional high-fashion beauty photography with dramatic direct-flash lighting, intricate leopard hair art, radiant bronzed makeup, and maximum photorealism.
+
+HAIRSTYLE — LEOPARD HAIR ART
+
+Very long, perfectly straight, sleek hair with an exceptionally smooth texture and mirror-like glossy shine.
+
+The hair features a precise center part and flows freely below the waist, with realistic individual strands, natural density, and a luxurious silky appearance.
+
+Strictly preserve the woman's original base hair color from the uploaded photograph. Do not dye or replace the natural base shade.
+
+The main feature of the hairstyle is a large, graphic leopard print applied directly to the surface of the hair on one side of the head.
+
+The pattern consists of contrasting irregular spots, broken rosettes, and elongated stripes of different sizes in rich dark-brown and black shades.
+
+The leopard print begins almost at the roots and continues along the entire visible length of one side of the hair.
+
+The spots follow the natural direction of the straight hair strands, creating the realistic appearance of professional stencil hair art or carefully applied temporary hair coloring.
+
+The woman's original base hair color remains clearly visible between the leopard spots, preserving the natural underlying shade.
+
+The opposite side of the hairstyle remains completely solid-colored, strictly matching the woman's original natural hair color without additional patterns or highlights.
+
+The leopard pattern must be sharp, sophisticated, realistic, and integrated into the hair surface rather than appearing as a separate fabric, wig, or accessory.
+
+The hair retains its smooth, straight silhouette and glossy finish on both sides.
+
+MAKEUP — LUXURY BRONZED GLAM
+
+Luxurious bronzed glamorous makeup inspired by high-fashion beauty photography.
+
+The eyebrows retain their original natural shape and color, appearing neatly groomed and softly defined.
+
+Softly blended brown-bronze eyeshadow enhances the eyes, creating elegant warmth and depth.
+
+Dramatic elongated black cat-eye eyeliner features sharp, precise wings extending toward the temples.
+
+Extremely long, thick black eyelashes create a glamorous and expressive gaze.
+
+The woman's original eye shape, placement, and eye color must remain unchanged.
+
+The skin retains its original natural tone and realistic texture, including subtle visible pores and natural facial details.
+
+Warm bronzer enhances the complexion without changing the woman's natural skin color.
+
+Delicate peach-pink blush adds softness to the cheeks.
+
+Pronounced wet-look highlighter creates luminous reflections on the cheekbones and bridge of the nose, especially under direct flash lighting.
+
+The lips retain their original natural shape and volume.
+
+The lip makeup features a dark nude-brown lip pencil defining the natural lip contour, a lighter caramel-nude center, and a transparent mirror-like gloss layered on top.
+
+The overall makeup is radiant, polished, glamorous, and highly detailed without excessive smoothing or artificial facial alterations.
+
+POSE AND EXPRESSION
+
+The woman is sitting with her back partially turned toward the camera.
+
+Her torso is angled away from the lens, while her head turns gracefully over her shoulder to look directly into the camera.
+
+One shoulder is positioned closer to the camera, creating a beautiful three-quarter composition.
+
+Her back is exposed, emphasizing the elegant pose and the length of her hair.
+
+Her facial expression is confident, seductive, and sophisticated, with a direct, captivating gaze.
+
+With one hand, she gently holds a long strand of hair, naturally displaying the smooth texture and decorative leopard pattern.
+
+Her fingers are elegantly positioned with realistic proportions and anatomically correct joints.
+
+Her head, shoulders, arms, torso, and hands retain natural feminine proportions without distortion.
+
+CLOTHING — LEOPARD FASHION
+
+The woman wears a stylish semi-sheer leopard-print top with thin black straps.
+
+The fabric features a realistic animal-print pattern with dark brown and black spots, creating a coordinated luxury fashion aesthetic.
+
+The top follows the natural contours of her body, with realistic fabric tension, delicate transparency, and visible textile texture.
+
+A matching leopard-print bottom completes the outfit.
+
+The clothing is fashionable, sophisticated, and coordinated with the leopard hair art without distracting attention from the woman's recognizable face and hairstyle.
+
+LIGHTING AND BACKGROUND
+
+A smooth, clean light-gray studio background without decorations or distracting objects.
+
+Harsh direct frontal flash lighting illuminates the woman's face, hair, shoulders, and upper body.
+
+The flash creates expressive highlights on the glossy straight hair, radiant cheekbones, bridge of the nose, lips, and exposed skin.
+
+Soft but distinct shadows provide realistic depth and contrast against the neutral background.
+
+The leopard hair pattern remains clearly visible, with sharp dark markings and the woman's natural base hair color showing between the spots.
+
+Natural skin texture with visible pores, realistic hair reflections, and detailed fabric textures.
+
+No neon lighting, colored glow, excessive filters, or artificial skin smoothing.
+
+CAMERA AND COMPOSITION
+
+Professional luxury fashion beauty portrait with natural perspective and high-detail sharpness.
+
+The woman is photographed from a three-quarter rear angle, turning her head over her shoulder toward the camera.
+
+Her recognizable face, one exposed shoulder, part of her back, long sleek hair, and the hand holding a hair strand are clearly visible.
+
+The composition emphasizes the striking leopard-print hair art, with enough of the hairstyle visible to show the pattern extending from near the roots down the length of the hair.
+
+Sharp focus on the woman's eyes, facial features, makeup, and detailed leopard hair pattern.
+
+Professional direct-flash fashion photography, realistic individual hair strands, natural skin texture, sophisticated beauty retouching, and maximum photorealism.
+
+MAIN PRIORITY: Maximum recognizability of the woman from the uploaded photograph, strict preservation of her real facial features, original eye color, skin tone, and natural base hair color, very long perfectly straight mirror-glossy hair with a center part, large dark-brown and black leopard hair art covering one side while the other side remains in her original hair color, luxurious bronzed glam makeup, dramatic cat-eye eyeliner, glossy nude-brown lips, over-the-shoulder seated pose, exposed back, matching leopard-print outfit, light-gray studio background, and harsh direct-flash lighting.`,
+
+  negative: `wrong identity, altered facial features, unrecognizable woman, generic AI face, face swap, blended face, idealized face, copied face from reference model, changed facial oval, changed eye shape, changed nose, changed lips, changed age, changed skin tone, changed eye color, changed original base hair color, dyed base hair, incorrect natural hair shade, copied reference model hair color, short hair, shoulder-length hair, curly hair, wavy hair, frizzy hair, messy hair, uneven hair length, side part, dull hair, artificial wig, leopard-print wig, leopard-print fabric attached to hair, animal fur instead of human hair, missing leopard hair pattern, leopard pattern on both sides, leopard spots covering the entire head, incorrect leopard pattern, blurry spots, poorly defined markings, unrealistic hair coloring, floating spots, detached pattern, missing original hair color between spots, oversized head, enlarged eyes, artificially enlarged lips, exaggerated breasts, unnaturally narrow waist, distorted shoulders, incorrect anatomy, extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, incorrect joints, unnatural neck rotation, incorrect over-the-shoulder pose, missing exposed back, missing hand holding hair, missing leopard-print outfit, incorrect clothing, missing thin black straps, missing glossy lips, matte lips, missing winged eyeliner, incorrect eye makeup, excessive bronzing, plastic-looking skin, waxy skin, excessive smoothing, excessive retouching, cartoon, anime, illustration, CGI, 3D render, neon lighting, colored lighting, dark background, busy background, distracting objects, blurry face, low resolution, distorted perspective, cropped important hair details, obscured leopard pattern, tattoos, glasses, inscriptions, logos, watermarks, AI artifacts.`
+},
+
+{
+  id: "054",
+  title: "Toxic Girl",
+  image: "prompt-054.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her real facial features, head shape, eyes, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, and original eye and hair color. Do not idealize or alter her facial proportions. The woman must remain maximally recognizable even under elaborate SFX makeup.
+
+Create an ultra-realistic Halloween beauty fashion photograph titled "TOXIC GIRL." An adult woman styled as a dangerously beautiful toxic girl: acid-green SFX makeup, black cracks with green drips, a painted toothy smile, yellow TOXIC warning tape, and a bright neon-lime top. Maximum photorealism, professional beauty photography, 8K quality.
+
+POSE AND COMPOSITION
+
+The woman is centered in the frame, facing forward, with the composition extending from the top of her head to the lower part of her torso.
+
+Her torso naturally leans slightly to the left, while her head is gently tilted toward one shoulder and positioned slightly forward. Her gaze is direct, cold, and confident, looking straight into the camera.
+
+Her shoulders are exposed, her arms are relaxed and lowered, and parts of her forearms in neon sleeves are visible along the edges of the frame.
+
+Her real mouth is closed.
+
+Preserve the natural feminine anatomy and proportions of the woman from the original photograph: a normally sized head, delicate shoulders, a natural neck, anatomically correct rib cage and torso length, a feminine waist, and correctly proportioned arms and joints.
+
+Her bust is full, approximately size 4, with a natural anatomical shape and harmonious proportions relative to her body, without excessive enlargement or compression from the top.
+
+HAIR
+
+The hair must strictly retain its original color.
+
+Long, thick, perfectly straight, smooth, silky hair falling freely along both sides of her face, over her shoulders and chest, and down her back.
+
+A natural part, volume at the roots, individually defined realistic strands, and soft highlights.
+
+TOXIC MAKEUP
+
+Professional Halloween SFX makeup in an acid-green, lime, yellow, and charcoal-black color palette, while preserving the woman's natural skin tone.
+
+Intense black smoky eyes combined with neon-lime eyeshadow and yellow-green inner corners. Black-and-green blending along the lower eyelids and long, dramatic black eyelashes.
+
+The eyebrows retain their original shape and color.
+
+Thin, bright-green toxic drips extend from the lower eyelids down the cheeks.
+
+Numerous thin, branching black cracks cover the forehead, temples, cheeks, jawline, neck, collarbones, shoulders, and upper chest. Acid-green and yellow-lime pigment is visible inside the cracks, accompanied by individual green droplets.
+
+This is exclusively a cosmetic optical SFX effect, without any real wounds or skin damage.
+
+TOOTHY SMILE
+
+The real mouth remains physically closed, and the lips are covered with black makeup.
+
+A wide, terrifying smile is painted over the skin, featuring two rows of long, narrow, white triangular teeth, grayish shading, and black spaces between the teeth.
+
+The painted smile extends toward the cheeks but does not alter the real shape of the lips, jaw, or face. The teeth are painted only.
+
+TOXIC WARNING TAPE
+
+Exactly three realistic bright-yellow warning tapes featuring the large black word TOXIC:
+
+1. The first tape runs across the upper forehead, just below the hairline.
+2. The second tape runs diagonally across the painted smile and cheek.
+3. The third tape wraps around the neck and extends diagonally across the collarbones and upper chest toward the opposite shoulder.
+
+Realistic folds, subtle signs of wear, and natural contact shadows.
+
+CRITICALLY IMPORTANT
+
+The chest, neck, and shoulders must feature only cracks, green toxic drips, and TOXIC warning tape.
+
+NO additional eyes, pupils, irises, or eyelashes anywhere on the body. The only eyes are the woman's two real eyes on her face.
+
+CLOTHING
+
+A fitted, acid-lime strapless top with a straight neckline, made from smooth, matte, elastic fabric.
+
+The top leaves the shoulders, collarbones, and upper chest exposed, revealing the body art.
+
+Both arms are covered with long, fitted neon-green glove sleeves that begin below the shoulders.
+
+BACKGROUND AND LIGHTING
+
+A simple, clean, light-gray studio background with a cool undertone, without decorations or objects.
+
+Soft, even, neutral-white beauty lighting from the front and slightly above.
+
+Natural skin texture, sharply defined black cracks, and saturated neon-green pigments without artificial glowing effects.
+
+Soft, natural shadows behind the hair and shoulders.
+
+CAMERA AND FRAMING
+
+Camera positioned at face level, 85mm portrait lens.
+
+The frame must fully include the top of the head and hair, face, neck, both shoulders, bust, and torso down to the lower edge of the top.
+
+The head is slightly shifted to the right, while the torso leans to the left.
+
+No wide-angle distortion.
+
+Maximum detail in the skin, hair, eyes, SFX makeup, TOXIC warning tape, and fabric.
+
+Ultra-photorealistic professional Halloween beauty photography, realistic skin texture, 8K quality.
+
+MAIN PRIORITY: Maximum recognizability of the woman, preservation of her original face, eye color, skin tone, and hair color, acid-green SFX makeup, branching black cracks with green toxic drips, a physically closed mouth with a painted toothy smile, exactly three yellow TOXIC warning tapes in their specified positions, no additional eyes anywhere on the body, a fitted neon-lime strapless top, matching neon-green glove sleeves, light-gray studio background, natural anatomy, and maximum photorealism.`,
+
+  negative: `Wrong or blended identity, altered face, eyes, nose, lips, or jaw, incorrect eye or hair color, generic AI face, excessive beautification, plastic-looking or poreless skin,
+
+Giant head, overly broad shoulders, shortened torso, exaggerated chest, unnaturally tiny waist, distorted proportions, incorrect anatomy, malformed arms, hands, or joints,
+
+Incorrect hair, short hair, curly hair, artificial hair color, wig,
+
+Open real mouth, real exposed teeth, altered jaw, real wounds, gore, torn skin, anatomical damage,
+
+Extra eyes on the chest, body, neck, or shoulders, third eye, body eyes, pupils, irises, or eyelashes outside the face, extra facial eyes,
+
+Missing or incorrect black cracks, missing green toxic drips, excessive fantasy mutations,
+
+Missing or additional TOXIC warning tape, incorrect tape placement, unreadable or random text; only the word TOXIC is allowed,
+
+Incorrect or multicolored clothing, straps, missing neon top, missing neon sleeves, jewelry, tattoos, accessories,
+
+Dark or cluttered background, laboratory, abandoned building, smoke, fire, Halloween decorations, red, blue, or purple lighting,
+
+Fisheye effect, wide-angle distortion, CGI, 3D render, anime, cartoon, illustration, blur, low quality, watermark, logo, random text.`
+},
+
+{
+  id: "055",
+  title: "Nightmare Muse",
+  image: "prompt-055.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the ONLY source of her appearance. Strictly preserve her recognizable face, head shape, eyes and their color, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, and original hair color, length, and texture. Do not idealize or alter her appearance.
+
+Create an ultra-realistic cinematic Halloween fashion photograph of an adult woman in a seductive feminine interpretation of Freddy Krueger. Dark vintage aesthetics of an old boiler room, professional fashion photography, 8K quality.
+
+POSE
+
+The woman is reclining sideways in a relaxed position in a massive vintage armchair made of dark-brown leather with wide wooden armrests.
+
+Her body is positioned diagonally, her back rests naturally against the chair, and her torso is slightly turned toward the camera. Her hips are closer to the front edge of the seat, while her legs extend diagonally to the left and are slightly bent.
+
+Her head is slightly tilted, her gaze directed straight into the camera, and her expression is confident, bold, and mysterious, with her lips slightly parted.
+
+One arm is bent near her face, displaying Freddy's metal glove, with the elbow close to her torso. Her other arm rests casually on the armrest.
+
+ANATOMY
+
+Strictly preserve the natural feminine proportions of the woman from the original photograph: a normally sized head, narrow, delicate, gently sloping shoulders, a natural neck and collarbones, normal torso length, a proportionate rib cage, feminine waist and hips, and long, slender legs and arms.
+
+A full bust, approximately size 4, with a natural shape and harmonious proportions relative to her figure, without enlarging the rib cage or creating an artificial push-up effect.
+
+No perspective-based enlargement of the hips, legs, arms, or shoulders.
+
+HAIR AND HAT
+
+The hair must strictly retain its original color, length, and texture. It is smooth, worn loose, with natural volume, freely framing her face and falling over her shoulders and chest.
+
+She wears the classic dark-brown felt Freddy Krueger hat, featuring a wide brim, an indented crown, and a dark hatband.
+
+The hat must not conceal her face.
+
+MAKEUP
+
+Cinematic glam horror makeup without facial injuries.
+
+Natural skin with visible texture, warm brown smoky eyes, soft winged eyeliner, thick eyelashes, delicate contouring, and subtle blush.
+
+Glossy nude-brown lips retaining their strictly natural shape.
+
+No burns, scars, or blood on the face.
+
+CLOTHING
+
+A loose, textured Freddy Krueger sweater featuring wide horizontal dark-red and muted swamp-green stripes, slightly aged, with small decorative holes.
+
+Long, loose sleeves and a wide, relaxed neckline exposing the collarbones and décolletage.
+
+The sweater follows the natural contours of her narrow shoulders and bust without widening her silhouette. Its lower hem is slightly raised, revealing a small portion of her abdomen.
+
+Very short light-blue high-waisted denim shorts with distressed details and frayed edges.
+
+Black large-mesh fishnet stockings decorated with small black satin bows.
+
+GLOVE
+
+An aged dark-brown leather glove with metal plates, copper fastenings, and rivets.
+
+On four fingers, exactly FOUR long, narrow, curved steel blades extend upward and slightly to the side, without covering the face.
+
+The glove must be correctly proportioned to the woman's hand.
+
+BACKGROUND
+
+A dark, abandoned industrial boiler room with a horror aesthetic.
+
+Vintage electrical control panels, round gauges, switches, wires, and aged metal panels.
+
+On the left, tall old windows allow cool, grayish daylight to enter.
+
+Deep brown, bronze, black, and gray tones.
+
+LIGHTING
+
+Soft, directional warm amber-golden cinematic lighting illuminates the woman's face, hair, collarbones, and clothing, while the background remains darkened.
+
+Subtle, realistic highlights reflect off the metal blades.
+
+No neon, fire, smoke, or excessive visual effects.
+
+CAMERA AND FRAMING
+
+70–85mm lens.
+
+The camera is positioned approximately 3–4 meters away, at mid-torso level or slightly above, capturing the woman from a subtle side angle.
+
+Natural perspective without wide-angle enlargement.
+
+The hat, face, hair, shoulders, torso, glove, shorts, and upper legs must be fully visible. The legs are cropped below mid-thigh level.
+
+Ultra-photorealistic cinematic Halloween fashion photography, exact identity preservation, realistic female anatomy, narrow feminine shoulders, natural proportions, detailed knitwear, denim, aged leather and metal, warm vintage color grading, deep shadows, authentic abandoned boiler-room atmosphere, 8K quality.
+
+MAIN PRIORITY: Maximum recognizability of the woman, preservation of her original facial features, eye color, hair color, hair length and texture, relaxed reclining pose in a massive dark-brown leather armchair, narrow feminine shoulders, natural body proportions, classic brown Freddy Krueger hat, dark-red and swamp-green striped sweater, distressed light-blue denim shorts, black fishnet stockings with satin bows, correctly proportioned leather glove with exactly four curved metal blades, and atmospheric vintage boiler-room lighting.`,
+
+  negative: `Wrong or blended identity, generic AI face, altered face, eye color, or hair color, excessive beautification, plastic-looking or poreless skin,
+
+Broad masculine shoulders, massive deltoids, oversized rib cage, forearms, or hands, enlarged breasts, hips, or legs, tiny head, unnaturally tiny waist, shortened torso, distorted anatomy,
+
+Incorrect pose, rigid frontal sitting position, twisted torso or spine, perspective-enlarged thighs, legs, or arms, malformed joints, extra or missing limbs or fingers,
+
+Incorrect hair or hair color, short hair, wig, face concealed by the hat or hair,
+
+Burned, scarred, or bloody face, wounds, gore, altered facial anatomy,
+
+Incorrect sweater or stripe colors, shoulder pads, oversized shoulders, missing denim shorts or fishnet stockings,
+
+Incorrect glove, oversized hand, more or fewer than four blades, malformed, floating, or duplicated blades, blades covering the face,
+
+Bright or modern interior, neon, fire, smoke, excessive red lighting,
+
+Fisheye effect, wide-angle distortion, CGI, 3D render, anime, cartoon, tattoos, text, logos, watermark, duplicated woman, blur, low quality.`
+},
+
+{
+  id: "056",
+  title: "Bloody Circus Doll",
+  image: "prompt-056.PNG",
+
+  positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her real face, head shape, eyes, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, and original eye and hair color. Do not idealize or alter her appearance. The woman must remain maximally recognizable.
+
+Create an ultra-realistic cinematic Halloween fashion photograph of an adult woman styled as a luxurious bloody circus doll from an abandoned Victorian theater of horrors.
+
+POSE
+
+The woman occupies the left and central parts of the frame, standing mostly with her back and left shoulder toward the camera, while slightly turning her torso.
+
+She gracefully looks back over her shoulder directly into the lens, with her face at a three-quarter angle, chin slightly raised, and lips slightly parted.
+
+Her expression is cold, mysterious, confident, and seductive. Her back and waist maintain a natural curve.
+
+Her right arm extends backward toward the camera, with the elbow slightly bent. Her hand naturally holds the handle of a large antique butcher's cleaver.
+
+Her arm, shoulder, and hand remain naturally sized, without perspective-based enlargement.
+
+ANATOMY
+
+Strictly preserve the natural proportions of the woman from the original photograph: a normally sized head, delicate feminine shoulders, natural bust, rib cage, waist, and torso length.
+
+The corset supports her figure without excessively compressing or enlarging her bust.
+
+Anatomically correct arms, hands, fingers, and joints.
+
+No wide-angle distortions.
+
+HAIR
+
+The hair must strictly retain its original color.
+
+Long, thick, loose hair styled in soft, slightly tousled waves, with natural volume and individual strands framing her face.
+
+Realistic hair texture and shine.
+
+MAKEUP
+
+Luxury dark-circus porcelain doll makeup featuring burgundy-brown smoky eyes, long black winged eyeliner, and thick eyelashes.
+
+Thin vertical black doll-makeup lines above and below the eyes.
+
+Beneath one eye is a small dark-red artificial bloody tear, with several decorative blood drips on the cheekbone.
+
+Glossy dark-cherry lips, slightly smudged at one corner, without altering their natural shape.
+
+CLOTHING
+
+A short, luxurious Victorian dark-circus cabaret dress.
+
+A black-and-burgundy velvet corset with vertical boning, decorative lacing, and black lace.
+
+Exposed shoulders and lowered, voluminous sleeves made from burgundy satin, black lace, and aged cream-colored ruffles.
+
+A short, voluminous, multilayered skirt made from blood-red velvet, black tulle, and vintage lace, featuring small stains of theatrical fake blood.
+
+A narrow burgundy choker decorated with metal studs.
+
+CLEAVER
+
+A large antique butcher's cleaver with a wide rectangular blade made from darkened, scratched steel, featuring decorative traces of artificial blood.
+
+The cleaver points diagonally toward the lower-right corner of the image.
+
+The blade occupies the right foreground and is slightly blurred by the shallow depth of field.
+
+Realistic proportions, without contact with the body, wounds, or any scene of violence.
+
+BACKGROUND
+
+A luxurious abandoned Victorian circus theater featuring heavy burgundy velvet curtains, aged wood, tarnished golden decorative elements, and warm string lights.
+
+On the right side of the background stands a large circular red-and-cream circus target mounted on a wooden stand, with several old throwing knives and decorative traces of artificial blood.
+
+A worn wooden floor and subtle atmospheric haze.
+
+LIGHTING
+
+Soft, warm amber-golden cinematic light illuminates the woman's face, hair, shoulders, and dress.
+
+Deep burgundy-brown shadows and warm bokeh from the string lights.
+
+Muted vintage color grading without red neon lighting or plastic-looking skin.
+
+CAMERA AND FRAMING
+
+50–70mm lens.
+
+The camera is positioned approximately at shoulder level, with natural perspective and moderately shallow depth of field.
+
+The woman's face is positioned in the upper-left third of the image, her figure occupies the left and central areas, the cleaver appears in the right foreground, and the circus target is visible in the right background.
+
+The frame extends approximately to the upper thighs, with the entire skirt visible.
+
+Ultra-photorealistic 8K cinematic Halloween fashion photography, realistic skin, natural anatomy, detailed velvet, lace, hair, and aged metal, luxurious abandoned dark-circus atmosphere, warm vintage cinematic color grading.
+
+MAIN PRIORITY: Maximum recognizability of the woman, strict preservation of her original facial features, eye color, skin tone, and hair color, elegant over-the-shoulder pose, natural feminine anatomy, long softly waved hair, luxurious dark-circus doll makeup with decorative fake-blood tears, black-and-burgundy Victorian corset dress, voluminous velvet and lace skirt, antique cleaver held safely toward the right foreground, circular circus target in the background, and warm cinematic lighting in an abandoned Victorian theater.`,
+
+  negative: `Wrong or blended identity, altered face, incorrect eye or hair color, generic AI face, excessive beautification, plastic-looking or poreless skin,
+
+Giant head, broad or muscular shoulders, enlarged breasts, unnaturally tiny waist, shortened torso, distorted rib cage or spine, unnatural body proportions,
+
+Giant or elongated arm or hand, malformed hands, extra, missing, or fused fingers, broken joints, extreme perspective distortion,
+
+Incorrect pose, front-facing pose, not looking over the shoulder, unnatural back arch,
+
+Incorrect hairstyle or hair color, short hair, artificial-looking hair, wig,
+
+Incorrect, light-colored, or colorful dress, modern outfit, missing corset or ruffles, exaggerated cleavage,
+
+Oversized or distorted cleaver, cleaver touching or cutting the body, active violence, real wounds, gore, exposed tissue,
+
+Missing circus target, modern or overly bright background, neon lighting, strong red lighting, cartoon Halloween decorations,
+
+Fisheye effect, extreme wide-angle distortion, CGI, 3D render, anime, cartoon, illustration, tattoos, text, logos, watermark, duplicated woman, low quality, blur.`
+},
+
+{
+  id: "057",
+  title: "Crimson Clown",
+  image: "prompt-057.PNG",
+
+  positive: `Use the uploaded photograph as the only source of the woman's appearance. Strictly preserve her real facial features, head shape, eyes, eyebrows, nose, lips, facial oval, natural asymmetry, age, skin tone, eye color, and original hair color. Do not alter her appearance, do not replace her face with that of another character, and do not crop her head or hair.
+
+Create an ultra-realistic cinematic Halloween fashion photograph of an adult woman styled as a mysterious female clown inspired by the horror movie It. Reproduce the composition, pose, lighting, and color palette of the reference as accurately as possible.
+
+POSE AND COMPOSITION
+
+The woman is positioned in the center of the frame, captured in a close-up portrait from the head to the lower part of the chest.
+
+Her torso leans slightly forward, her head is strongly tilted toward one shoulder, and her face is positioned at a slight angle.
+
+She looks directly into the camera from beneath partially lowered eyelids. Her facial expression is mysterious, calm, and slightly frightening. Her lips are slightly parted.
+
+HAIR
+
+The hair must strictly retain its original color. It is long, thick, worn loose, and styled in large, soft waves.
+
+Voluminous strands freely frame her face and fall over her shoulders.
+
+MAKEUP — GLAMOROUS CLOWN
+
+Light porcelain-style makeup with natural skin texture, while preserving the woman's original skin tone and recognizable facial features.
+
+Expressive dark eyebrows, rich terracotta-red eyeshadow around the eyes, soft blending, long black eyelashes, and neatly defined winged eyeliner.
+
+Small, natural-looking freckles are scattered across the cheeks and bridge of the nose.
+
+Thin, curved burgundy-red lines are painted from the corners of the mouth outward across the cheeks, imitating a sinister clown smile.
+
+The lips are a rich dark-burgundy color with a wet, glossy shine.
+
+CLOTHING
+
+The woman wears a vintage dark-burgundy clown costume with a deep neckline that emphasizes her full size 4 bust.
+
+Around her neck is an enormous, voluminous, multilayered collar made from cream-white fabric with wide, wavy ruffles.
+
+The fabric is dense and soft, with realistic folds.
+
+RED BALLOON AND RIBBON
+
+In one hand, the woman holds a thin white ribbon attached to a large red balloon.
+
+The balloon is positioned directly above her head, occupies the upper part of the frame, and is partially cropped by the top edge of the photograph.
+
+The white ribbon hangs freely and vertically in front of her face, passing across the forehead, eye area, and below the chin.
+
+The hand holding the ribbon is positioned in the lower central part of the frame.
+
+LIGHTING
+
+The lighting must strictly match the reference: no red lighting, red illumination on the face, or red glow in the background.
+
+The scene is illuminated by soft, muted warm light with a natural golden-beige tone.
+
+Delicate amber and peach highlights appear on the face, accompanied by soft, deep shadows.
+
+On the left side of the frame, a subtle milky-gray haze with a diffused whitish glow creates the effect of an old film photograph.
+
+The lower part of the image features soft brownish-beige blur.
+
+BACKGROUND AND COLOR GRADING
+
+The background is very dark, almost black, with muted olive-green and brown tones, without any bright light sources.
+
+Red appears only on the balloon, in the makeup, and in details of the costume.
+
+The color grading is vintage and slightly faded, featuring soft contrast, warm skin tones, deep shadows, and delicate film grain.
+
+CAMERA AND FRAMING
+
+The camera is positioned at face level.
+
+Close-up portrait, 85mm lens, shallow depth of field, soft vintage sharpness, realistic skin texture, and atmospheric fine-art photography.
+
+The composition is slightly asymmetrical, with the balloon positioned directly above the head, the face gently tilted, and plenty of dark negative space surrounding the woman.
+
+STRICT VISUAL REQUIREMENTS
+
+Reproduce the soft lighting, muted colors, head position, balloon placement, ribbon placement, and overall dark vintage atmosphere of the original reference as accurately as possible.
+
+Do not make the image excessively contrasty, glossy, or artificial.
+
+Ultra-photorealism, high detail, professional cinematic Halloween beauty photography.
+
+MAIN PRIORITY: Maximum preservation of the woman's recognizable appearance, accurate reference composition, soft warm lighting without red illumination, a large red balloon directly above her head, a thin white ribbon hanging in front of her face, a dramatic cream-white ruffled collar, mysterious clown makeup, and a dark, atmospheric vintage aesthetic.`,
+
+  negative: `Wrong identity, blended identity, generic AI face, altered facial features, changed head shape, changed facial oval, incorrect eye color, changed eyebrows, nose, lips, cheekbones, or chin, altered age, changed skin tone, changed original hair color, artificial hair color, short hair, straight flat hair, wig, copied face of another character, excessive beautification, idealized facial proportions,
+
+Oversized head, broad shoulders, unnatural neck curvature, distorted anatomy, exaggerated breasts, unnaturally narrow waist, malformed arms, hands, or fingers, extra or missing fingers,
+
+Incorrect pose, straight head position, missing head tilt, looking away from camera, incorrect facial expression, face hidden by hair, cropped head, cropped hair,
+
+Missing clown makeup, incorrect clown makeup, exaggerated clown nose, missing burgundy smile lines, incorrect eyeshadow, missing freckles, altered lip shape, excessively glossy or plastic-looking skin,
+
+Missing burgundy clown costume, incorrect neckline, missing cream-white collar, small collar, flat collar, incorrect collar color, missing ruffles, artificial-looking fabric,
+
+Missing red balloon, multiple balloons, incorrect balloon color, balloon beside the head instead of above it, balloon covering the face, incorrect balloon placement, missing white ribbon, thick ribbon, colored ribbon, ribbon behind the head, incorrect ribbon placement, missing hand holding ribbon,
+
+Red studio lighting, red illumination on face, red glow in background, red fog, neon illumination, bright rim lighting, fire, excessive contrast, oversaturated colors, artificial glow, excessive skin smoothing, poreless skin,
+
+Bright background, colorful background, modern decorations, distracting objects, missing dark vintage atmosphere, incorrect color grading, excessive sharpness, artificial HDR effect,
+
+Fisheye effect, wide-angle distortion, CGI, 3D render, anime, cartoon, illustration, tattoos, inscriptions, logos, watermarks, duplicated woman, extra people, blurry face, low quality, AI artifacts.`
 }
 ];
