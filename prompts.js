@@ -2121,6 +2121,7 @@ MAIN PRIORITY: Maximum recognizability of the woman from the uploaded photograph
   id: "051",
   title: "Haunted Harvest",
   image: "prompt-051.PNG",
+  imagePosition: "center 15%",
 
   positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her real facial features, head shape, facial oval, eyes, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, eye color, and original hair color. Do not alter her appearance or idealize her face. The woman must remain maximally recognizable even under Halloween makeup.
 
@@ -2465,6 +2466,7 @@ MAIN PRIORITY: Maximum recognizability of the woman from the uploaded photograph
   id: "054",
   title: "Toxic Girl",
   image: "prompt-054.PNG",
+  imagePosition: "center 20%",
 
   positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her real facial features, head shape, eyes, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, and original eye and hair color. Do not idealize or alter her facial proportions. The woman must remain maximally recognizable even under elaborate SFX makeup.
 
@@ -2705,6 +2707,7 @@ Fisheye effect, wide-angle distortion, CGI, 3D render, anime, cartoon, tattoos, 
   id: "056",
   title: "Bloody Circus Doll",
   image: "prompt-056.PNG",
+  imagePosition: "center 30%",
 
   positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her real face, head shape, eyes, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, and original eye and hair color. Do not idealize or alter her appearance. The woman must remain maximally recognizable.
 
