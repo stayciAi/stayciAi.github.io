@@ -1923,6 +1923,7 @@ MAIN PRIORITY: Maximum recognizability of the woman, natural anatomy of the coup
   id: "049",
   title: "Enchanted Fawn",
   image: "prompt-049.PNG",
+  imagePosition: "center 20%",
 
   positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her facial features, eye shape, nose, lips, facial oval, age, skin tone, and original eye and hair color. Do not alter or idealize her appearance. The woman must remain maximally recognizable.
 
@@ -2009,6 +2010,7 @@ MAIN PRIORITY: Maximum recognizability of the woman, preservation of her origina
   id: "050",
   title: "Enchanted Rose Fairy",
   image: "prompt-050.PNG",
+  imagePosition: "center 15%",
 
   positive: `Use the uploaded photograph of the woman as the only source of her appearance. Strictly preserve her face, facial features, proportions, age, natural asymmetry, eye color, skin tone, and hair color. Do not alter or idealize her appearance. The woman must remain maximally recognizable.
 
