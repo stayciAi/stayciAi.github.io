@@ -35,6 +35,71 @@ body::before {
   text-shadow: 2px 3px 10px rgba(0, 0, 0, 0.95);
   filter: drop-shadow(0 3px 5px #000);
 }
+/* STAYCI AI QUEEN — final visual refinements */
+
+/* Smaller, more elegant main title */
+.brand {
+  font-size: clamp(40px, 5vw, 68px);
+  letter-spacing: -0.055em;
+  position: relative;
+  z-index: 2;
+}
+
+/* Smaller subtitle */
+.tagline {
+  font-size: clamp(18px, 2vw, 26px);
+  letter-spacing: 0;
+  line-height: 1.4;
+  position: relative;
+  z-index: 2;
+}
+
+/* Blend the portrait into the background */
+.queen {
+  right: 0;
+  width: 45%;
+  background-position: center top;
+  -webkit-mask-image:
+    linear-gradient(to right,
+      transparent 0%, black 35%, black 90%,
+      transparent 100%),
+    linear-gradient(to bottom,
+      transparent 0%, black 12%, black 72%,
+      transparent 100%);
+  -webkit-mask-composite: source-in;
+  mask-image:
+    linear-gradient(to right,
+      transparent 0%, black 35%, black 90%,
+      transparent 100%),
+    linear-gradient(to bottom,
+      transparent 0%, black 12%, black 72%,
+      transparent 100%);
+  mask-composite: intersect;
+}
+
+/* Hide search and All prompts button */
+.tools {
+  display: none !important;
+}
+
+/* Mobile layout */
+@media (max-width: 560px) {
+  .brand {
+    font-size: clamp(30px, 8vw, 43px);
+    max-width: 90%;
+    white-space: normal;
+  }
+
+  .tagline {
+    font-size: 18px;
+    line-height: 1.45;
+  }
+
+  .queen {
+    width: 73%;
+    height: 260px;
+  }
+}
 </style>
 </head>
 <body><main class="wrap">
