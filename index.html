@@ -37,11 +37,11 @@ body::before{background:url("marble-bg.png") center center / cover no-repeat fix
 <script>
 const grid=document.getElementById('promptGrid'), count=document.getElementById('count'), search=document.getElementById('search'), title=document.getElementById('libraryTitle');
 const all=typeof prompts!=='undefined'&&Array.isArray(prompts)?prompts:[];let category='';
-// Explicit editorial categories. Holiday prompts may also appear under Woman or Couple.
+// Explicit categories by prompt ID. Holiday prompts can also appear in the matching person category.
 const categoryIds={
- woman:new Set(['001','002','003','004','005','008','009','010','012','013','014','015','016','017','018','024','027','030','031','032','033','034','035','041','042','043',...Array.from({length:19},(_,i)=>String(i+44).padStart(3,'0'))]),
- man:new Set(['019','020','021','022','023']),
- couple:new Set(['006','007','011','025','026','028','029','036','037','038','039','040',...Array.from({length:6},(_,i)=>String(i+63).padStart(3,'0'))]),
+ woman:new Set(['001','002','003','004','005','009','010','013','014','015','016','017','018','032','033','034','035','041','042','043',...Array.from({length:19},(_,i)=>String(i+44).padStart(3,'0'))]),
+ man:new Set(['008','012','019','020','021','022','023']),
+ couple:new Set(['006','007','011','024','025','026','027','028','029','030','031','036','037','038','039','040',...Array.from({length:6},(_,i)=>String(i+63).padStart(3,'0'))]),
  holiday:new Set(Array.from({length:25},(_,i)=>String(i+44).padStart(3,'0')))
 };
 function match(p,c){return !c || Boolean(categoryIds[c]?.has(String(p.id).padStart(3,'0')));}
