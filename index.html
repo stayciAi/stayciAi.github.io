@@ -57,6 +57,29 @@ body::after{opacity:.22}
 .dropdown a{justify-content:flex-start;box-shadow:none}
 @media(max-width:800px){.tagline{font-size:clamp(16px,2.3vw,20px)}}
 @media(max-width:560px){.brand{background:linear-gradient(180deg,#fff9e8,#f6cb7b 75%,#fff0c9);-webkit-background-clip:text;background-clip:text;color:transparent}.tagline{font-size:clamp(15px,4vw,18px);margin:11px 0 18px}.social a,.social button{font-size:12px;padding:10px 11px;gap:6px}.social-icon{width:17px;height:17px}}
+
+/* Seamless hero: no rectangular dark panel, portrait fades into marble */
+.hero-copy::before{content:none!important;display:none!important}
+.hero-copy{isolation:auto!important}
+.hero{isolation:isolate}
+.queen{
+  opacity:1;
+  background-position:center 22%;
+  -webkit-mask-image:linear-gradient(to right,transparent 0%,#000 22%,#000 77%,transparent 100%),linear-gradient(to bottom,#000 0%,#000 66%,transparent 100%);
+  -webkit-mask-composite:source-in;
+  mask-image:linear-gradient(to right,transparent 0%,#000 22%,#000 77%,transparent 100%),linear-gradient(to bottom,#000 0%,#000 66%,transparent 100%);
+  mask-composite:intersect;
+}
+.brand,.eyebrow,.tagline{filter:drop-shadow(0 2px 6px rgba(0,0,0,.95))}
+@media(max-width:560px){
+ .queen{
+   opacity:.96;
+   -webkit-mask-image:linear-gradient(to right,transparent 0%,#000 12%,#000 88%,transparent 100%),linear-gradient(to bottom,#000 0%,#000 62%,transparent 100%);
+   -webkit-mask-composite:source-in;
+   mask-image:linear-gradient(to right,transparent 0%,#000 12%,#000 88%,transparent 100%),linear-gradient(to bottom,#000 0%,#000 62%,transparent 100%);
+   mask-composite:intersect;
+ }
+}
 </style>
 </head>
 <body><main class="wrap">
