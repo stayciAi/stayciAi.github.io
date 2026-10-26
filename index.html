@@ -80,6 +80,26 @@ body::after{opacity:.22}
    mask-composite:intersect;
  }
 }
+
+/* Final portrait edge fix: one smooth mask on every side (no hard rectangle). */
+.hero{overflow:visible}
+.queen{
+  width:56%;right:-5%;top:-22px;height:calc(100% + 44px);
+  opacity:1;
+  -webkit-mask-image:radial-gradient(ellipse 60% 66% at 53% 47%, #000 38%, rgba(0,0,0,.95) 49%, rgba(0,0,0,.52) 72%, transparent 100%) !important;
+  mask-image:radial-gradient(ellipse 60% 66% at 53% 47%, #000 38%, rgba(0,0,0,.95) 49%, rgba(0,0,0,.52) 72%, transparent 100%) !important;
+  -webkit-mask-composite:initial !important;
+  mask-composite:initial !important;
+}
+@media(max-width:800px){.queen{width:58%;right:-5%}}
+@media(max-width:560px){
+ .queen{
+   width:100%;right:0;top:-10px;height:300px;
+   background-size:contain;background-position:center top;
+   -webkit-mask-image:radial-gradient(ellipse 65% 68% at 50% 39%,#000 35%,rgba(0,0,0,.92) 49%,rgba(0,0,0,.48) 72%,transparent 100%) !important;
+   mask-image:radial-gradient(ellipse 65% 68% at 50% 39%,#000 35%,rgba(0,0,0,.92) 49%,rgba(0,0,0,.48) 72%,transparent 100%) !important;
+ }
+}
 </style>
 </head>
 <body><main class="wrap">
