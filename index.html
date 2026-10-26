@@ -100,6 +100,36 @@ body::after{opacity:.22}
    mask-image:radial-gradient(ellipse 65% 68% at 50% 39%,#000 35%,rgba(0,0,0,.92) 49%,rgba(0,0,0,.48) 72%,transparent 100%) !important;
  }
 }
+
+/* Strong edge-to-edge transparency: zero opacity before the portrait box ends. */
+.queen{
+  -webkit-mask-image:radial-gradient(ellipse 60% 65% at 50% 48%, #000 0%, #000 24%, rgba(0,0,0,.92) 39%, rgba(0,0,0,.5) 56%, transparent 79%) !important;
+  mask-image:radial-gradient(ellipse 60% 65% at 50% 48%, #000 0%, #000 24%, rgba(0,0,0,.92) 39%, rgba(0,0,0,.5) 56%, transparent 79%) !important;
+  -webkit-mask-composite:initial!important;
+  mask-composite:initial!important;
+}
+@media(max-width:560px){
+ .queen{
+  -webkit-mask-image:radial-gradient(ellipse 60% 65% at 50% 46%, #000 0%, #000 24%, rgba(0,0,0,.9) 40%, rgba(0,0,0,.48) 56%, transparent 79%) !important;
+  mask-image:radial-gradient(ellipse 60% 65% at 50% 46%, #000 0%, #000 24%, rgba(0,0,0,.9) 40%, rgba(0,0,0,.48) 56%, transparent 79%) !important;
+ }
+}
+
+/* Portrait size refinement: smaller, balanced, with soft edges. */
+.queen{
+  width:40% !important;
+  height:350px !important;
+  top:28px !important;
+  right:1% !important;
+  background-position:center 20% !important;
+  background-size:cover !important;
+}
+@media(max-width:800px){
+  .queen{width:43% !important;height:305px !important;top:30px !important;right:0 !important;}
+}
+@media(max-width:560px){
+  .queen{width:70% !important;height:225px !important;top:6px !important;right:0 !important;background-size:contain !important;background-position:right top !important;}
+}
 </style>
 </head>
 <body><main class="wrap">
