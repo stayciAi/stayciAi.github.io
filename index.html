@@ -13,6 +13,28 @@ body::before {
   background: url("marble-bg.png") center center / cover no-repeat fixed !important;
   filter: none !important;
 }
+.hero-copy {
+  isolation: isolate;
+}
+
+.hero-copy::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: -20px -25px -15px -35px;
+  background: radial-gradient(
+    ellipse at 38% 40%,
+    rgba(0, 0, 0, 0.85) 0%,
+    rgba(0, 0, 0, 0.55) 48%,
+    transparent 80%
+  );
+  pointer-events: none;
+}
+
+.brand {
+  text-shadow: 2px 3px 10px rgba(0, 0, 0, 0.95);
+  filter: drop-shadow(0 3px 5px #000);
+}
 </style>
 </head>
 <body><main class="wrap">
