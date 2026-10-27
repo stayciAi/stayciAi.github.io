@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -382,7 +383,7 @@
 
   <!-- PROMPT DATABASE -->
 
-  <script src="prompts.js?v=3"></script>
+  <script src="prompts.js"></script>
 
 
   <script>
@@ -410,43 +411,29 @@
 
     function renderPrompt(prompt, positive, negative) {
 
-      document.title =
-        `AI Queens — Prompt #${prompt.id}`;
+      document.title = `AI Queens — Prompt #${prompt.id}`;
 
+      // One block for new prompts, and both old parts together for legacy prompts.
+      const positiveText = String(positive || "").trim();
+      const negativeText = String(negative || "").trim();
+      const fullText = positiveText && negativeText
+        ? "POSITIVE PROMPT\n\n" + positiveText + "\n\nNEGATIVE PROMPT\n\n" + negativeText
+        : positiveText || negativeText;
 
       container.innerHTML = `
-
-        <div class="prompt-number">
-          PROMPT #${prompt.id}
-        </div>
-
-
+        <div class="prompt-number">PROMPT #${prompt.id}</div>
         <h2 class="prompt-title"></h2>
-
-
         <section class="prompt-box">
           <div class="prompt-label">FULL PROMPT</div>
           <div class="prompt-text" id="fullPrompt"></div>
         </section>
-
-
-        <button
-          class="copy-btn"
-          onclick="copyAllPrompts(this)"
-        >
+        <button class="copy-btn" onclick="copyAllPrompts(this)">
           COPY FULL PROMPT
         </button>
-
       `;
 
-
-      document.querySelector(".prompt-title").textContent =
-        prompt.title;
-
-
-      document.getElementById("fullPrompt").innerText =
-        [positive || "", negative ? "NEGATIVE PROMPT\n" + negative : ""].filter(Boolean).join("\n\n");
-
+      container.querySelector(".prompt-title").textContent = prompt.title || "";
+      document.getElementById("fullPrompt").innerText = fullText;
     }
 
 
@@ -605,10 +592,9 @@
 
     async function copyAllPrompts(button) {
 
-      const fullElement = document.getElementById("fullPrompt");
-      if (!fullElement) return;
-      const fullPrompt = fullElement.innerText.trim();
-
+      const fullPromptElement = document.getElementById("fullPrompt");
+      if (!fullPromptElement) return;
+      const fullPrompt = fullPromptElement.innerText.trim();
 
       const originalText =
         "COPY FULL PROMPT";
@@ -696,3 +682,5 @@
 </body>
 
 </html>
+
+```
