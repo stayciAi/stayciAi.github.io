@@ -493,6 +493,6 @@ const prompts = [
       "woman",
       "holiday"
     ],
-    "imagePosition": "center 9%"
+    "imagePosition": "center 10%"
   }
 ];
