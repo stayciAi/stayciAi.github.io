@@ -1,4 +1,3 @@
-```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>AI Queens — Prompt</title>
+  <title>STAYCI AI QUEEN — Prompt</title>
 
   <style>
 
@@ -320,6 +319,48 @@
 
   </style>
 
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    /* STAYCI AI QUEEN — matches the black-and-gold collection homepage */
+    :root { color-scheme: dark; }
+    body { font-family:'DM Sans',Arial,sans-serif; color:#f8e6bd; background:#060504; padding:30px 14px 65px; }
+    body::before { inset:0; background:url('marble-bg.png') center center / cover no-repeat fixed; filter:none; transform:none; }
+    body::after { content:""; pointer-events:none; position:fixed; inset:0; z-index:-1; opacity:.25;
+      background-image:radial-gradient(#f7bd62 1px,transparent 2px),radial-gradient(#ffe6a5 1px,transparent 2px);
+      background-size:83px 79px,131px 127px; background-position:9px 17px,47px 65px; }
+    .page { max-width:840px; }
+    .main-card { background:rgba(7,6,5,.92); border:1px solid #d6a55b; border-radius:22px;
+      padding:44px 38px 36px; box-shadow:0 0 12px #b8763580,0 18px 55px #000b; backdrop-filter:blur(6px); }
+    .brand h1 { font-family:'Cinzel',Georgia,serif; font-style:normal; font-weight:500;
+      font-size:clamp(27px,5.6vw,52px); white-space:normal; letter-spacing:-.045em;
+      background:linear-gradient(#fff6d6,#f6c26d 44%,#ae681c 66%,#ffe2a1);
+      -webkit-background-clip:text; background-clip:text; color:transparent;
+      filter:drop-shadow(0 2px 7px #b9773c88); }
+    .brand-subtitle { color:#ffe0a0; font:italic clamp(15px,2.6vw,21px) Georgia,serif;
+      letter-spacing:0; text-transform:none; margin-top:15px; }
+    .divider { width:72%; background:linear-gradient(90deg,transparent,#f5cb80,transparent); }
+    .prompt-number { color:#e4b96e; font-family:'Cinzel',serif; }
+    .prompt-title { color:#fff0d0; font-family:'Cinzel',Georgia,serif; font-weight:500; font-size:clamp(24px,4vw,34px); }
+    .prompt-box { background:rgba(18,13,9,.9); border:1px solid #9e713b; border-radius:15px;
+      box-shadow:inset 0 0 20px #a4681710,0 6px 22px #0005; }
+    .prompt-label { color:#f2c67d; font-family:'Cinzel',Georgia,serif; font-size:12px; }
+    .prompt-text { color:#f4e4c7; font-size:15px; line-height:1.8; overflow-wrap:anywhere; }
+    .copy-btn { background:linear-gradient(120deg,#9e631f,#e9bc70,#a56c28); color:#170d04;
+      border:1px solid #f4d296; font-family:'DM Sans',sans-serif; font-size:13px;
+      box-shadow:0 0 14px #bb802f75; }
+    .copy-btn:hover { background:linear-gradient(120deg,#b47b2d,#ffe0a0,#b47b2d); box-shadow:0 0 22px #dba651aa; }
+    .copy-btn:focus-visible,.back-link:focus-visible { outline:2px solid #ffe0a0; outline-offset:4px; }
+    .back-link { color:#f1c783; font-family:'Cinzel',Georgia,serif; text-align:center; line-height:1.7; }
+    .footer { color:#bfa072; }
+    .status-message { color:#f2d5a6; }
+    @media(max-width:600px) { body {padding:12px 9px 40px;} .main-card {padding:31px 17px 29px;border-radius:17px;}
+      .brand h1 {font-size:clamp(25px,8vw,38px);} .prompt-box {padding:21px 16px;} .prompt-text {font-size:14px;} }
+    @media(prefers-reduced-motion:reduce) {*,*:before,*:after {transition:none!important;} }
+  </style>
+
 </head>
 
 
@@ -335,11 +376,11 @@
       <header class="brand">
 
         <h1>
-          AI Queens ♛ Stayci &amp; Di
+          STAYCI AI QUEEN
         </h1>
 
         <div class="brand-subtitle">
-          Official Prompt Collection
+          ✦ Where Imagination Becomes Art ✦
         </div>
 
       </header>
@@ -372,7 +413,7 @@
       <!-- FOOTER -->
 
       <div class="footer">
-        © AI Queens — Stayci &amp; Di
+        © STAYCI AI QUEEN · Where Imagination Becomes Art
       </div>
 
 
@@ -410,15 +451,7 @@
 
 
     function renderPrompt(prompt, positive, negative) {
-
-      document.title = `AI Queens — Prompt #${prompt.id}`;
-
-      // One block for new prompts, and both old parts together for legacy prompts.
-      const positiveText = String(positive || "").trim();
-      const negativeText = String(negative || "").trim();
-      const fullText = positiveText && negativeText
-        ? "POSITIVE PROMPT\n\n" + positiveText + "\n\nNEGATIVE PROMPT\n\n" + negativeText
-        : positiveText || negativeText;
+      document.title = `STAYCI AI QUEEN — Prompt #${prompt.id}`;
 
       container.innerHTML = `
         <div class="prompt-number">PROMPT #${prompt.id}</div>
@@ -427,13 +460,18 @@
           <div class="prompt-label">FULL PROMPT</div>
           <div class="prompt-text" id="fullPrompt"></div>
         </section>
-        <button class="copy-btn" onclick="copyAllPrompts(this)">
-          COPY FULL PROMPT
-        </button>
+        <button class="copy-btn" onclick="copyAllPrompts(this)">COPY FULL PROMPT</button>
       `;
 
       container.querySelector(".prompt-title").textContent = prompt.title || "";
-      document.getElementById("fullPrompt").innerText = fullText;
+      const pos = String(positive || "").trim();
+      const neg = String(negative || "").trim();
+      // Existing two-part prompts keep both texts in one box.
+      // New single-field prompts are displayed exactly as entered.
+      const full = pos && neg
+        ? "POSITIVE PROMPT\n\n" + pos + "\n\nNEGATIVE PROMPT\n\n" + neg
+        : (pos || neg);
+      document.getElementById("fullPrompt").textContent = full;
     }
 
 
@@ -487,12 +525,12 @@
 
 
         const positive =
-          positiveElement.innerText.trim();
+          (positiveElement.innerText || positiveElement.textContent || "").trim();
 
 
         const negative =
           negativeElement
-            ? negativeElement.innerText.trim()
+            ? (negativeElement.innerText || negativeElement.textContent || "").trim()
             : "";
 
 
@@ -591,86 +629,29 @@
 
 
     async function copyAllPrompts(button) {
-
-      const fullPromptElement = document.getElementById("fullPrompt");
-      if (!fullPromptElement) return;
-      const fullPrompt = fullPromptElement.innerText.trim();
-
-      const originalText =
-        "COPY FULL PROMPT";
-
-
+      const element = document.getElementById("fullPrompt");
+      if (!element) return;
+      const fullPrompt = element.textContent || "";
+      const originalText = "COPY FULL PROMPT";
       try {
-
-        await navigator.clipboard.writeText(
-          fullPrompt
-        );
-
-
-        button.innerText =
-          "COPIED ✓";
-
-
-        setTimeout(() => {
-
-          button.innerText =
-            originalText;
-
-        }, 1800);
-
-
+        await navigator.clipboard.writeText(fullPrompt);
       } catch (error) {
-
-
-        const textarea =
-          document.createElement(
-            "textarea"
-          );
-
-
-        textarea.value =
-          fullPrompt;
-
-
-        textarea.style.position =
-          "fixed";
-
-
-        textarea.style.opacity =
-          "0";
-
-
-        document.body.appendChild(
-          textarea
-        );
-
-
+        const textarea = document.createElement("textarea");
+        textarea.value = fullPrompt;
+        textarea.style.position = "fixed";
+        textarea.style.opacity = "0";
+        document.body.appendChild(textarea);
         textarea.select();
-
-
-        document.execCommand(
-          "copy"
-        );
-
-
-        document.body.removeChild(
-          textarea
-        );
-
-
-        button.innerText =
-          "COPIED ✓";
-
-
-        setTimeout(() => {
-
-          button.innerText =
-            originalText;
-
-        }, 1800);
-
+        const copied = document.execCommand("copy");
+        document.body.removeChild(textarea);
+        if (!copied) {
+          button.innerText = "COPY FAILED";
+          setTimeout(() => { button.innerText = originalText; }, 1800);
+          return;
+        }
       }
-
+      button.innerText = "COPIED ✓";
+      setTimeout(() => { button.innerText = originalText; }, 1800);
     }
 
 
@@ -682,5 +663,3 @@
 </body>
 
 </html>
-
-```
