@@ -505,7 +505,7 @@ const prompts = [
       "woman",
       "holiday"
     ],
-    "imagePosition": "center 22%"
+    "imagePosition": "center 21%"
   },
   {
     "id": "071",
