@@ -808,5 +808,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 3%"
+  },
+  {
+    "id": "097",
+    "title": "Romantic Dinner Date",
+    "image": "prompt-097.png",
+    "positive": "POSITIVE PROMPT\n\nUltra-photorealistic vertical 9:16 candid nightlife restaurant photo of EXACTLY TWO young adults. Woman seated in front, man extremely close behind her, his arm resting naturally across her shoulders, both looking toward the camera. The woman holds a large wine glass very close to the lens, creating dramatic foreground perspective, with a playful hand gesture. Dark upscale restaurant, warm amber lighting, direct smartphone flash, intimate spontaneous late-night atmosphere.\n\nWOMAN — PHOTO 2 identity: preserve her exact recognizable face and facial proportions, light blue-gray eyes, natural freckles, full glossy nude-pink lips, and very long, extremely thick copper-auburn hair with large voluminous waves. She makes a subtle playful pout and wears a fitted zebra-pattern nightlife top.\n\nMAN — PHOTO 3 identity: preserve his exact recognizable face and facial proportions, short dark textured hair, thick eyebrows, defined masculine jawline, muscular athletic build, broad shoulders and strong arms. He has a short neatly groomed dark beard along the lower cheeks, jawline and chin, but ABSOLUTELY NO MUSTACHE. His upper lip is completely clean-shaven, with no mustache hairs or mustache shadow. He wears a fitted plain black short-sleeve shirt.\n\nRealistic skin and hair texture, anatomically correct hands with five fingers, realistic wine glass, maximum identity fidelity, no mustache, no upper-lip facial hair, no identity blending, no distorted anatomy, no extra limbs, no CGI, no text or watermark.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 37%"
   }
 ];
