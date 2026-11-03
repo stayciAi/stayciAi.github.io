@@ -797,5 +797,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 20%"
+  },
+  {
+    "id": "096",
+    "title": "Pink Sporty Besties",
+    "image": "prompt-096.png",
+    "positive": "PROMPT\n\nUltra-photorealistic vertical 9:16 Y2K fashion photo of exactly two adult women, recreating the FIRST image exactly: same extreme low-angle wide-lens perspective, athletic track location, hurdle, body positions, poses, outfits and platform heels.\n\nStanding woman = SECOND identity: preserve her exact facial features and very long straight light-brown hair with vivid pink face-framing streaks. She wears the same pink cropped cardigan and mini skirt with lavender platform heels.\n\nCrouching woman = THIRD identity: preserve her exact facial features, freckles, blue-gray eyes, and extremely long voluminous warm auburn hair. She wears the same patterned fur-collar top, white mini skirt and green platform heels.\n\nKeep both women clearly recognizable, realistic skin and natural proportions, authentic early-2000s fashion photography.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 3%"
   }
 ];
