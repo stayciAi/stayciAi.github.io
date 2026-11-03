@@ -819,5 +819,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 37%"
+  },
+  {
+    "id": "098",
+    "title": "Night Out Besties",
+    "image": "prompt-098.png",
+    "positive": "POSITIVE PROMPT\n\nCreate an ultra-photorealistic vertical 9:16 candid street-fashion photo of EXACTLY TWO adult women, recreating the FIRST image extremely closely in composition, seated positions, body placement, camera angle, arm positions, handbags and overall styling.\n\nLEFT / slightly behind = SECOND identity. Preserve her face extremely accurately: exact facial structure, freckles, cheekbones, nose, full lips and light blue-gray eyes. She has very long, extremely voluminous warm copper-auburn hair with large soft waves. Dress her in the same off-shoulder white knit outfit as the FIRST image with the tan studded handbag.\n\nRIGHT / foreground = THIRD identity. Preserve her face extremely accurately: warm tan complexion, sculpted cheekbones, strong brows, almond-shaped hazel-green eyes, refined nose and full glossy nude lips. She has very long voluminous jet-black hair. Dress her in the same strapless fitted black outfit, silver chain necklace and black studded handbag.\n\nNO GLASSES OR SUNGLASSES ON EITHER WOMAN. Both faces and eyes must be completely visible. Recreate the FIRST image’s pose exactly: the right woman extends her arm forward holding the compact digital camera for their selfie, while the left woman leans closely behind her. Both look toward the camera they are holding.\n\nDirect flash, dark urban pavement background, authentic Y2K/2000s candid fashion snapshot, realistic skin texture, slight digital grain.\n\nNEGATIVE PROMPT\n\nglasses, sunglasses, eyewear, hidden eyes, wrong identity, blended faces, same face twice, identity swap, brunette left woman, red-haired right woman, wrong pose, missing camera, extra people, malformed hands, extra fingers, plastic skin, CGI, illustration.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 72%"
   }
 ];
