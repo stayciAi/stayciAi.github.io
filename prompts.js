@@ -1447,5 +1447,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 83%"
+  },
+  {
+    "id": "155",
+    "title": "Urban Duo",
+    "image": "prompt-155.jpg",
+    "positive": "POSITIVE PROMPT\nUltra-photorealistic vertical 9:16 candid nightlife couple photo of EXACTLY TWO young adults, standing very close together against a plain light wall. The man stands directly behind the woman with one arm wrapped naturally around her waist, leaning slightly toward her. The woman leans back into him with her eyes closed and makes a playful kissy expression toward the camera.\nBoth make playful hand signs toward the lens, with their hands clearly visible in the foreground. The man wears a loose black T-shirt, dark pants, a silver chain and wristwatch, with visible tattoos on his forearm and hand. The man must have NO MUSTACHE and NO GLASSES or SUNGLASSES. His upper lip is completely clean-shaven, with no mustache hairs or shadow. The woman wears a black embellished crop top, black low-rise pants, a black choker, layered necklaces and a silver chain belt.\nDirect smartphone flash, strong shadows on the wall, casual party snapshot aesthetic, slight grain, realistic skin texture and natural body proportions.\nNo specific facial features, hair color, eye color or individual identity — appearance remains fully adaptable to any supplied people references. Realistic hands with five fingers, no fused fingers, no extra limbs, no distorted anatomy, no CGI, no text or watermark.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
