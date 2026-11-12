@@ -1392,5 +1392,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "150",
+    "title": "Espresso Mood",
+    "image": "prompt-150.jpg",
+    "positive": "POSITIVE PROMPT:\n\nUse the uploaded photo only as the identity and appearance reference. Preserve the woman’s recognizable appearance and natural features.\n\nCreate an ultra-photorealistic square 1:1 luxury autumn fashion collage of ONE adult woman, approximately 23–27 years old, divided into THREE horizontal panels. Keep the same woman consistent across all panels.\n\nTOP PANEL: EXTREME MACRO CLOSE-UP OF ONLY THE WOMAN’S TWO EYES AND EYEBROWS. Crop the image extremely tightly so that ONLY both eyes, eyelashes, eyebrows and a very small amount of surrounding skin are visible. The frame must begin around the eyebrows and end immediately below the eyes. NO nose, NO nose tip, NO nostrils, NO cheeks, NO lips, NO mouth, NO chin, NO full face. Both eyes fill almost the entire width of the frame and are the absolute focal point. Preserve the exact natural eye shape and eyebrow characteristics from the uploaded identity reference. Sharp iris detail, individual eyelashes, realistic catchlights, visible pores and natural skin texture. NO sunglasses and NO eyeglasses.\n\nMIDDLE PANEL: close-up of both hands elegantly holding a shallow coupe-style glass filled with dark espresso coffee with a thin creamy foam layer. Long almond-shaped nails painted glossy metallic chocolate brown, several chunky sculptural gold rings, luxurious deep chocolate-brown faux-fur texture in the background.\n\nBOTTOM PANEL: top-down fashion detail shot of her feet on dark city pavement. Slightly cropped charcoal denim jeans, elegant pointed-toe chocolate-brown leather Mary Jane shoes with thin straps and small gold buckles. One hand naturally holds a clear takeaway iced coffee with visible ice and caramel-toned coffee.\n\nLuxury Pinterest autumn moodboard aesthetic, espresso brown, chocolate, caramel, charcoal and antique gold palette, warm cinematic daylight, realistic textures, subtle analog grain, sophisticated quiet-luxury styling.\n\nWOW FACTOR: the top panel must be an intensely magnetic beauty macro where ONLY TWO EYES are visible from edge to edge, with crystal-clear iris texture, individual lashes and beautiful natural catchlights. Combined with glossy chocolate manicure, gold jewelry, espresso and polished brown leather, the collage should feel expensive, sensual, tactile and editorial.\n\nNEGATIVE PROMPT:\n\nlips, mouth, nose, nostrils, nose tip, chin, jaw, full face, half face, cheeks visible in top panel, face portrait in top panel, face too far away, forehead fully visible, sunglasses, eyeglasses, closed eyes, one eye only, cropped eye, blurry eyes, distorted eyes, artificial iris, excessive eyelashes,\n\ndifferent identity between panels, multiple women, generic model face, plastic skin, beauty filter, malformed hands, extra fingers, fused fingers, distorted nails, deformed feet, mismatched shoes, wrong collage layout, CGI, illustration, anime, obvious AI look, oversmoothing, low resolution, text, logo, watermark",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
