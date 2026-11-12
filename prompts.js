@@ -1381,5 +1381,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "149",
+    "title": "Dark Bunny",
+    "image": "prompt-149.jpg",
+    "positive": "## POSITIVE PROMPT\n\nUltra-realistic vertical 3:4 BLACK-AND-WHITE luxury fashion editorial portrait of a beautiful adult woman, approximately 23–27 years old, photographed from mid-torso upward against a deep dark minimalist studio background.\n\nShe has a refined oval-to-soft-heart-shaped face, softly sculpted cheekbones, a defined jawline, straight elegant nose, naturally full nude lips, light warm skin with realistic pores and subtle freckles. Her eyes are light gray-blue, almond-shaped, with detailed irises, long curled lashes and polished winged eyeliner.\n\nHer hair is warm beige-honey blonde, long but not excessively long, approximately chest to upper-mid-back length, smooth, sleek and mostly straight with soft natural movement.\n\nShe wears a dramatic black leather couture bunny-inspired mask with two tall pointed ears and refined metallic stud details, looking elegant and runway-like rather than costume-like. Both eyes remain clearly visible through the openings.\n\nHer head is slightly tilted, gaze confident toward the camera, lips gently parted. One hand rests softly against the side of her cheek and jaw, with anatomically correct fingers and a pale nude almond-shaped manicure.\n\nShe wears an oversized crisp white button-down shirt open over a fitted opaque black lace-trimmed fashion top, plus long sparkling statement earrings.\n\nDramatic monochrome side lighting, rich blacks, luminous grayscale highlights, subtle film grain, cinematic luxury mood, 50–85mm portrait lens aesthetic, shallow depth of field, ultra-detailed skin, hair, leather, studs, lace and cotton texture, 8K photorealistic magazine quality.\n\n## NEGATIVE PROMPT\n\nbrunette, black hair, red hair, excessively long hair, short hair, dark brown eyes, black eyes, green eyes, hazel eyes, wrong mask, missing bunny ears, animal face, furry costume, mascot costume, full-face helmet, colorful image, wrong pose, extra arms, extra hands, extra fingers, fused fingers, malformed hands, distorted face, asymmetrical eyes, exaggerated proportions, plastic skin, wax skin, excessive smoothing, CGI, 3D render, anime, cartoon, blurry, low resolution, flat lighting, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
