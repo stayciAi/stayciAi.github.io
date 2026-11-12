@@ -1216,5 +1216,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 83%"
+  },
+  {
+    "id": "134",
+    "title": "Midnight Besties — McDonald's Street Style",
+    "image": "prompt-134.jpg",
+    "positive": "POSITIVE PROMPT\n\nCreate an ultra-photorealistic vertical 9:16 candid Y2K fast-food restaurant photo of EXACTLY TWO adult women, recreating the FIRST image extremely closely: exact composition, camera angle, body placement, poses, hand positions, drinks, outfits, red sunglasses and restaurant environment.\n\nLEFT / standing woman = SECOND identity. Preserve her face extremely accurately: exact facial structure, cheekbones, nose, lips, eyebrows, light blue-gray eyes, freckles and individual proportions. She has very long, extremely voluminous warm copper-auburn hair with large soft waves. She wears the FIRST image’s black crop top, tiny black shorts and oversized bright-red jacket. Match the standing pose exactly: one arm bent across near her face, the other holding the drink with straw.\n\nRIGHT / lower woman = THIRD identity. Preserve her face extremely accurately: exact oval face, sculpted cheekbones, almond-shaped eyes, defined brows, proportional nose and full nude-pink lips. She has very long, sleek jet-black hair with a center part. She wears the FIRST image’s red-and-black racing jacket, red crop top and denim bottoms, holding the cup and drinking through the straw. Match her lower seated/crouched position exactly.\n\nBoth wear the same narrow translucent red sunglasses positioned low enough that their eyes remain visible, exactly like the FIRST image.\n\nCRITICAL: identity accuracy is the highest priority. Do not copy faces or hair from the FIRST image. Do not blend or swap the two women.\n\nDirect compact-camera flash, evening visible through the window, authentic slightly grainy late-2000s/Y2K snapshot, realistic skin and natural candid imperfections.\n\nNEGATIVE PROMPT\n\nwrong identity, blended faces, same face twice, identity swap, wrong hair colors, brunette left woman, red-haired right woman, wrong pose, changed composition, missing drinks, missing red sunglasses, hidden eyes, extra people, malformed hands, extra fingers, distorted anatomy, plastic skin, CGI, illustration, studio photo.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 1%"
   }
 ];
