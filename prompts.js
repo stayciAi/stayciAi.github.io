@@ -1293,5 +1293,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 19%"
+  },
+  {
+    "id": "141",
+    "title": "Dark Seduction — Black Cutout Dress & Bold Glamour",
+    "image": "prompt-141.jpg",
+    "positive": "Ultra-photorealistic vertical 9:16 fashion photo of an adult woman posing closely against a plain white wall. Preserve the woman’s own facial identity, facial features, hair color, eye color, skin tone and overall appearance from the supplied identity reference.\nShe stands in a sensual three-quarter side pose, body turned sideways with a pronounced curved silhouette, leaning her upper body and one shoulder toward the wall. One arm is raised above her head, while the other hand rests flat against the wall beside her face. She looks directly toward the camera through narrow futuristic black wraparound sunglasses, slightly lowered on the nose.\nShe wears a fitted black long-sleeve bodysuit/jumpsuit with a deep neckline. Along the entire outer side of the hip and leg are large oval cutouts connected by multiple silver metal O-rings, exposing sections of skin and creating an edgy alternative fashion aesthetic.\nLong pointed glossy black manicure, minimal silver ring, subtle fine-line tattoos scattered along the visible arm. Confident, seductive expression with slightly parted lips.\nClose fashion framing emphasizing the face, waist, hip and upper legs. Plain white textured wall, minimal background, soft diffused indoor lighting, realistic skin texture, natural shadows, sharp fabric details, realistic metal reflections, editorial Instagram fashion photography, slightly provocative Y2K/alternative aesthetic, high detail, photorealistic, no distortion.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 0%"
   }
 ];
