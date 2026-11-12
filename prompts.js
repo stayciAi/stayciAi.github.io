@@ -1348,5 +1348,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "146",
+    "title": "Winter Luxe",
+    "image": "prompt-146.jpg",
+    "positive": "### POSITIVE PROMPT\n\nCreate an ultra-photorealistic vertical 9:16 luxury fashion portrait of a beautiful young adult woman, approximately 22–26 years old, standing outdoors in an elegant high-end city setting.\n\nShe has an oval feminine face, soft sculpted cheekbones, defined jawline, full nude lips, light natural freckles, soft matte-glow skin, thick natural brows, and light gray-blue eyes with long lashes and subtle glamorous eyeliner. Her hair is medium-long to long, warm beige-honey blonde, smooth and silky, worn sleek and straight beneath a structured white fashion cap.\n\nShe is posed in a refined three-quarter side profile, looking off to the side with a calm, expensive, confident expression.\nShe wears dramatic crystal drop earrings and a luxurious white statement outfit: a fitted white corset-style bodysuit with sheer side panels, sparkling crystal trim, high-cut lines, and flowing rhinestone chain details. Over it, she wears an oversized white faux-fur coat draped around her arms and shoulders, creating a glamorous winter-luxury aesthetic.\n\nThe composition is framed from the upper thighs upward, with the woman centered and dominant in the frame. One hand is visible near the hip with a clean white manicure. Her body proportions, hands, fingers, and pose must remain elegant and anatomically realistic.\n\nBackground: a softly blurred upscale urban exterior with pale architecture, bright neutral tones, and delicate warm bokeh lights.\nLighting: soft natural daylight with subtle editorial glow, flattering highlights on the skin, soft shadows, clean luxury color grading, and premium fashion-photography styling.\n\nStyle: high-fashion editorial, luxury winter glamour, ultra-realistic beauty photography, premium Instagram aesthetic, magazine-quality, 8K, sharp facial detail, realistic skin texture, detailed fabric, realistic faux-fur texture, sparkling jewelry reflections, photorealistic hair strands, masterpiece quality.\n\nFinal priority: vertical 9:16 format, woman approximately 22–26 years old, light gray-blue eyes, warm beige-honey blonde hair, white cap, white corset bodysuit with crystal details, oversized white fur coat, elegant side-profile pose, luxury city background, extremely high photorealistic quality.\n\n---\n\n### NEGATIVE PROMPT\n\nlow quality, blurry, pixelated, soft focus, bad anatomy, deformed body, extra fingers, missing fingers, malformed hands, distorted face, asymmetrical eyes, wrong eye color, dark eyes, wrong hair color, black hair, short hair, orange skin, plastic skin, wax skin, over-smoothed skin, exaggerated lips, cartoon, anime, CGI, 3D render, illustration, unrealistic fur, messy outfit, wrong outfit color, casual clothes, missing cap, wrong hat, missing earrings, extra jewelry, bad proportions, warped corset, broken rhinestone chains, ugly background, indoor bedroom, harsh flash, overexposed highlights, underexposed face, random text, watermark, logo, signature, social media interface, cropped head, cropped body, low detail, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 9%"
   }
 ];
