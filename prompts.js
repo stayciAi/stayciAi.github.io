@@ -2679,5 +2679,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 4%"
+  },
+  {
+    "id": "267",
+    "title": "Silk and Silence",
+    "image": "prompt-267.jpg",
+    "positive": "## POSITIVE PROMPT\n\nUltra-realistic vertical 2:3 BLACK-AND-WHITE luxury editorial portrait of an adult woman, approximately 23–27 years old, photographed indoors on a light wooden parquet floor against elegant white paneled doors.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, outfit and composition: she reclines gracefully on the floor, upper body supported by one arm, torso slightly arched. The opposite arm is raised with the hand resting softly against the forehead. Her eyes are closed, head tilted slightly backward, lips relaxed, creating a dreamy intimate fashion-editorial mood.\n\nHair is worn long, loose and flowing across the floor with natural volume and individual strands.\n\nShe wears a flowing ivory-white satin slip dress with thin straps and a fitted black lace-trimmed bust section, combining soft satin draping with delicate lace detail.\n\nSoft natural window light, elegant monochrome tonal range, gentle shadows, realistic skin texture, detailed satin and lace, subtle film grain, premium 50–85mm fashion photography, 8K photorealistic quality.\n\n## NEGATIVE PROMPT\n\ndifferent identity, altered face, different pose, sitting upright, standing, eyes open, both arms down, short hair, updo, wrong outfit, black dress, missing lace, missing satin skirt, extra arms, extra fingers, fused fingers, malformed hands, distorted anatomy, plastic skin, excessive smoothing, colorful image, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
