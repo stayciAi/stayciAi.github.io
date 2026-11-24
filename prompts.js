@@ -1568,5 +1568,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "166",
+    "title": "Into the Wild",
+    "image": "prompt-166.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, eye color, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever. If a beard is present, it must be confined to the chin, lower cheeks, and jawline, without extending onto the upper lip.**\n\nCreate an **ultra-realistic vertical 9:16 photograph of an adult man in a pine forest**, replicating the reference image as accurately as possible in terms of composition, pose, extreme low-angle perspective, clothing, and lighting.\n\nThe camera is positioned **extremely low in front of the man and angled sharply upward**. The man leans slightly toward the lens and looks down into the camera with a natural smile. **One arm is extended directly toward the camera, with his hand occupying a substantial portion of the lower foreground.** His fingers are literally just a few centimeters away from the lens, appearing dramatically enlarged due to perspective distortion. Reproduce this effect as accurately as possible.\n\nThe man is wearing a **black T-shirt, a blue denim jacket with thick white fur lining and a voluminous fur collar, dark rectangular sunglasses**, and a thin chain necklace with a small pendant.\n\nHe is surrounded by tall pine trees that, due to the wide-angle, low-angle perspective, appear to converge from the edges of the image toward the center of the blue sky. **The bright sun is positioned behind the man between the trees**, creating warm backlighting, sunlight highlights, and subtle lens flare.\n\nThe aesthetic of an authentic, spontaneous **wide-angle smartphone lifestyle photograph**: pronounced perspective distortion limited to the extended arm and hand, natural skin texture, realistic anatomy, a sharply focused face, authentic forest and clothing details, with no artificial or AI-generated appearance.\n\n**Aspect ratio: 9:16.**\n\n**Negative prompt:** mustache, stubble or facial hair above the upper lip, altered appearance, different face, distorted face, extra fingers, extra arms, malformed hand, small foreground hand, lack of pronounced wide-angle perspective, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, studio lighting, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 100%"
   }
 ];
