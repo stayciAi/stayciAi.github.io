@@ -2569,5 +2569,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "257",
+    "title": "Love Above the Clouds",
+    "image": "prompt-257.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 candid smartphone selfie of an adult couple sitting closely together in a premium airplane cabin during a flight.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix, beautify or alter their facial identities.\n\nRecreate the composition and pose: the woman sits on the left, slightly closer to the camera, resting her cheek naturally on one hand while looking directly into the lens with a calm relaxed expression. The man sits beside her on the right, leaning slightly toward her and looking naturally at the camera. Frame both from approximately the waist/chest upward, with their seats and part of the aircraft cabin clearly visible.\n\nKeep realistic body proportions and natural size difference. The woman has a slim feminine silhouette with narrow delicate shoulders and wears a fitted black long-sleeve top and a simple black headband. Her long hair falls naturally over one shoulder. The man has a naturally masculine athletic build and wears a relaxed light-gray zip-up hoodie and a backwards black baseball cap.\n\nBoth wear large silver over-ear headphones. Keep accessories minimal and realistic.\n\nBackground: authentic premium airplane cabin with wide seats, headrests, overhead luggage compartments, curved ceiling panels, air vents, reading lights, aircraft windows and subtle warm ambient cabin lighting. Maintain realistic aircraft proportions and perspective.\n\nNatural daylight softly entering through the windows mixed with warm cabin lighting, realistic skin texture, minimal makeup effect, subtle smartphone sharpness, slight natural grain, balanced exposure, casual travel atmosphere, spontaneous in-flight couple selfie, understated luxury travel aesthetic, photorealistic.\n\nNEGATIVE PROMPT\n\ncartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, altered identity, mixed facial identities, distorted faces, incorrect proportions, exaggerated muscles, broad female shoulders, exaggerated curves, extra arms, extra hands, extra fingers, malformed hands, duplicate people, extra passengers dominating the frame, distorted headphones, duplicate headphones, warped airplane interior, unrealistic aircraft seats, incorrect cabin perspective, private jet interior, cockpit, fake windows, floating objects, excessive jewelry, studio lighting, professional photoshoot, heavy bokeh, extreme wide-angle distortion, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
