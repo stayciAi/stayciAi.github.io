@@ -2987,5 +2987,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "295",
+    "title": "Parisian Rebel",
+    "image": "prompt-295.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 edgy luxury lifestyle portrait of an adult woman, approximately 23–27 years old, sitting dramatically on a wide windowsill inside a modern apartment.\n\nUse the uploaded identity photo only for the woman’s appearance: preserve her recognizable facial features, face shape, skin tone, eye color, hair color and overall identity. Recreate the pose, body position, expression, outfit and composition of this scene.\n\nShe sits low on the windowsill with both legs spread into a wide bent-knee pose, creating a strong low-angle perspective. One chunky boot dominates the extreme foreground while the opposite leg bends toward the side. One arm is raised above her head against the wall, while the other rests naturally lower near the body. Her expression is calm, confident and slightly sultry, gaze directed toward the camera.\n\nShe wears a cropped black leather biker jacket over a fitted black bralette / crop top, paired with tight dark charcoal-gray leggings and oversized black leather biker boots with multiple wide straps, silver studs and heavy buckles.\n\nHair is worn long, loose and voluminous with soft waves, while preserving the exact hair color from the identity photo.\n\nBackground: textured light wall, large floor-to-ceiling window, subtle city architecture outside. Natural window light mixed with soft indoor illumination, dramatic low-angle smartphone perspective, realistic leather and fabric texture, sharp skin detail, subtle grain, 8K photorealistic fashion quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, changed face, wrong eye color, wrong hair color, different pose, standing pose, both legs together, missing raised arm, missing leather jacket, missing black crop top, missing gray leggings, wrong boots, small boots, heels, extra legs, malformed feet, distorted hands, extra fingers, exaggerated anatomy, plastic skin, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
