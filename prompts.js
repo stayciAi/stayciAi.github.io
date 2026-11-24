@@ -2756,5 +2756,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "274",
+    "title": "Scarlet Romance",
+    "image": "prompt-274.jpg",
+    "positive": "Use the uploaded photograph of the adult woman as the sole reference for her appearance. Preserve her recognizable individual facial features as accurately as possible: head and face shape, eyes, eyebrows, nose, lips, natural asymmetry, skin tone, and age. Do not replace her face or create a generic appearance. Preserve the original hair color, length, and texture; only the hairstyle should change.\n\nCreate a photorealistic luxury fashion editorial photograph of the woman beside a large wooden-framed window in an elegant, dark interior. Vertical 4:5 aspect ratio, framed from the head to approximately the hips. The woman is positioned slightly to the right of center, with her body turned slightly toward the camera. Both arms are raised above her head, resting naturally against the upper part of the window frame, creating an elongated, graceful pose. Her head is slightly tilted, her gaze is directed to the side, and her expression is calm and confident.\n\nShe is wearing an elegant, deep-red corset evening gown with a feminine, structured silhouette and a refined neckline. Luxurious matte fabric, natural folds, and soft draping. A slender, well-proportioned silhouette with natural anatomy. A metal wristwatch and minimalist rings on her fingers.\n\nHer long hair is styled in large, soft waves, cascading freely over her shoulders. The hair color, length, and texture must match the original photograph.\n\nMakeup — sophisticated soft glam: a natural complexion with realistic skin texture, softly defined cheekbones, neatly groomed eyebrows, neutral smoky eyes, thin black eyeliner, and expressive eyelashes. Nude-pink lips with a soft satin finish, preserving their natural shape.\n\nA large bouquet of deep-red natural roses is positioned in the left foreground. The flowers are close to the camera, making them slightly out of focus and partially obscuring the lower portion of the composition. The woman remains the primary visual focus.\n\nSoft natural light enters through the window from the side and slightly behind. Cinematic contrast between the bright window area and the deep shadows of the interior. The lighting beautifully defines her face, hair, shoulders, and the fabric of the dress. The atmosphere is romantic, sophisticated, and luxurious.\n\nCamera positioned approximately at chest level, medium portrait, full-frame camera, 50mm lens, f/1.8–f/2.8, shallow depth of field. Exceptionally sharp face and eyes, natural pores and skin microtexture, individual hair strands, realistic fabric texture, cinematic shadows, subtle film grain, high dynamic range, luxury romantic editorial photography, photorealistic, ultra-detailed.\n\nExclude: a different face, altered individual facial features, changes to hair color or length, excessive retouching, plastic-looking skin, doll-like features, unnatural body proportions, incorrect anatomy, extra arms or fingers, deformed hands, broken joints, asymmetrical eyes, blurred face, cropped head or hands, artificial-looking flowers, CGI, anime, illustration, 3D render, text, logo, watermark.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
