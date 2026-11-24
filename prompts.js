@@ -2822,5 +2822,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "280",
+    "title": "Silent Authority",
+    "image": "prompt-280.jpg",
+    "positive": "Ultra-realistic vertical nighttime portrait of an adult man in an elegant luxury interior, preserving the exact facial identity, facial features, natural eye color, hair color, haircut and facial hair from the supplied identity reference. Do not change his recognizable appearance. No glasses. If the identity reference has no mustache, do not add one.\n\nHe stands facing the camera with his torso slightly turned, looking directly into the lens with a calm, confident expression and his chin subtly raised. One hand is lifted naturally beneath his chin, fingers touching the jawline, while the other hand rests casually inside his trouser pocket.\n\nHe wears a crisp fitted white dress shirt, dramatically unbuttoned down the upper chest, paired with elegant black tailored trousers. The shirt fits closely across his broad shoulders, chest and muscular arms. Masculine athletic proportions, broad chest, defined shoulders and arms.\n\nA lit cigarette rests naturally between his lips, angled slightly upward, with a thin realistic trail of smoke drifting around his face. Several chunky masculine silver rings on the raised hand, a thin understated chain necklace and an elegant watch.\n\nBackground: dim sophisticated luxury interior with dark floor-length curtains, warm beige stone walls, decorative molding, dark framed artwork and classic furniture partially disappearing into the shadows.\n\nDirect vintage-style camera flash illuminates the man strongly against the darker room, creating bright highlights on the white shirt and skin with deep natural shadows behind him. Slightly underexposed background, subtle haze from the cigarette smoke, authentic late-night analog/Instagram aesthetic.\n\nMedium portrait from approximately mid-thigh upward, camera around chest level, slightly candid framing. Realistic masculine skin texture and pores, natural facial details, detailed shirt folds, subtle film grain, slightly muted colors, authentic flash exposure, photorealistic, no CGI, no illustration. Vertical 9:16 composition.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
