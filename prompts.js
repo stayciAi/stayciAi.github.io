@@ -2844,5 +2844,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "282",
+    "title": "Amber Chemistry",
+    "image": "prompt-282.jpg",
+    "positive": "Ultra-realistic vertical luxury nightlife photo of an adult couple posing together on a modern illuminated wooden staircase, preserving the exact recognizable facial identity, facial features, natural eye color, hair color and hairstyle of each person from their supplied identity references. Do not merge or interchange their identities.\n\nThe woman sits in the foreground between the man’s legs, leaning slightly back against him. One arm is raised behind her head with the elbow pointing outward, while her other arm extends casually to the side. She looks directly into the camera with a calm, confident expression. She wears a fitted white asymmetrical one-shoulder crop top with thin straps and relaxed light-blue low-rise jeans. Feminine hourglass proportions, narrow delicate shoulders, pronounced bust, slim waist and curvy hips.\n\nThe man sits one step higher directly behind her, legs spread naturally on either side of her body, creating a close couple pose. He wears an open white casual shirt, revealing part of his chest, paired with relaxed light-blue jeans. No glasses, no mustache. Preserve his natural facial hair from the supplied identity reference except for the mustache. One hand rests naturally near the woman’s hip/waist while the other rests on his own thigh. Masculine, relaxed posture.\n\nBackground: luxurious contemporary staircase made from layered warm wood panels with horizontal integrated amber LED lighting between the steps and wall sections, creating dramatic geometric lines and a sophisticated nightclub/lounge atmosphere.\n\nMedium-full body composition from a slightly low frontal angle. Direct on-camera flash mixed with warm ambient LED lighting, crisp illumination on the couple, rich warm shadows, realistic skin highlights, subtle reflections and deep contrast. Luxury nightlife Instagram photography, authentic candid mood, realistic skin texture and pores, individual hair strands, detailed denim and fabric texture, correct hands and anatomy, photorealistic, no CGI, no illustration. Vertical 4:5 composition.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
