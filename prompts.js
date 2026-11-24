@@ -1843,5 +1843,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 100%"
+  },
+  {
+    "id": "191",
+    "title": "Forest Reverie",
+    "image": "prompt-191.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever.**\n\nCreate an **ultra-realistic, atmospheric portrait of a man in a park**, replicating the provided reference image as accurately as possible in terms of composition, pose, framing, and lighting.\n\nThe man is standing **right beside a massive tree trunk on the left side of the frame**, leaning slightly against it with his shoulder and back. His torso remains almost upright, his head is turned to the side, and his gaze is directed beyond the frame. His facial expression is calm and slightly contemplative.\n\nHe is wearing a **plain white T-shirt layered underneath a loose, unbuttoned dark overshirt**. The lower half of his outfit is dark and minimalist, without logos.\n\nThe main visual focus is a **narrow, warm beam of low evening sunlight** streaming through the trees and illuminating the man's face with golden light, while most of his body and the surrounding woodland remain in deep, natural shadow. Preserve the striking contrast between light and shadow exactly as shown in the reference image.\n\nThe background features dense, dark trees, green grass, and soft patches of sunlight. The background is slightly blurred, creating a quiet, natural atmosphere. Subtle film grain, deep shadows, and warm golden highlights.\n\nMaximum photorealism, natural skin and realistic textures, natural exposure, **cinematic analog lifestyle photography**, with no artificial or AI-generated appearance.\n\n**Negative prompt:** mustache, facial hair or stubble above the upper lip, altered appearance, different face, looking directly at the camera, incorrect pose, brightly illuminated entire body, uniform studio lighting, additional people, plastic-looking skin, CGI, 3D rendering, excessive retouching, text, logos, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
