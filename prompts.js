@@ -2173,5 +2173,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "221",
+    "title": "Zero Apologies",
+    "image": "prompt-221.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 3:4 edgy Y2K fashion portrait of an adult woman, approximately 23–27 years old, photographed indoors beside a large floor-to-ceiling window in a modern apartment.\n\nUse the uploaded identity photo only for the woman’s appearance: preserve her recognizable facial features, skin tone, eye color, hair color and overall identity. Recreate the pose, facial expression, outfit, styling and composition of this scene.\n\nShe stands with her back and hips turned toward the camera, upper body twisting over one shoulder to look directly at the lens. Her back is slightly arched, creating a strong confident fashion pose. One hand is raised beside her face with the middle finger extended, while she sticks her tongue out in a playful rebellious expression.\n\nShe wears a fitted black long-sleeve cropped top and extremely distressed black high-waisted denim shorts with raw frayed edges and torn detailing.\n\nHair is worn long, loose and voluminous, falling down the back in soft waves, while preserving the exact hair color from the identity photo.\n\nBackground: bright modern apartment with a white structural column, minimalist kitchen and large window revealing contemporary city architecture outside.\n\nSlightly low-angle smartphone perspective, direct-camera flash mixed with natural window light, realistic skin and denim texture, sharp facial detail, subtle grain, 8K photorealistic social-media fashion quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, changed face, wrong eye color, wrong hair color, different pose, front-facing pose, missing tongue-out expression, missing middle-finger gesture, wrong outfit, blue denim shorts, long pants, missing tattoos, distorted hands, extra fingers, fused fingers, malformed legs, exaggerated anatomy, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
