@@ -2415,5 +2415,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "243",
+    "title": "Love on Another Level",
+    "image": "prompt-243.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 9:16 lifestyle portrait of an adult couple standing closely together inside a modern stainless-steel elevator, photographed in a natural high-end smartphone aesthetic.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix, beautify or alter their facial identities.\n\nRecreate the composition and pose: the woman stands in the foreground on the left, slightly angled toward the camera, while the man stands closely beside and slightly behind her on the right, gently leaning his head toward hers. Both look directly toward the camera with relaxed, natural expressions.\n\nThe woman has a slim feminine silhouette with narrow delicate shoulders and wears a fitted black sleeveless high-neck crop top with high-waisted black leather pants. She holds a small fluffy cream-colored Pomeranian naturally against the front of her body with one arm. Minimal jewelry and natural manicure. The man has a taller, naturally athletic masculine build with broad shoulders and wears a fitted black button-up shirt with the upper buttons casually open, black trousers, a black belt and a classic metallic wristwatch.\n\nBackground: modern elevator with brushed stainless-steel walls, subtle reflections, metal handrail and bright geometric ceiling lights. Keep the elevator perspective realistic and uncluttered.\n\nNeutral indoor lighting, realistic skin texture, crisp facial details, subtle smartphone sharpness, natural shadows, understated luxury aesthetic, casual couple snapshot, balanced exposure, realistic fabric and leather textures, photorealistic.\n\nNEGATIVE PROMPT\n\ncartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, altered identity, mixed facial features, distorted faces, incorrect proportions, exaggerated muscles, broad female shoulders, exaggerated curves, unnatural height difference, extra arms, extra hands, extra fingers, malformed hands, fused fingers, duplicate people, duplicate dog, deformed dog, oversized dog, distorted animal anatomy, extra legs, fake tattoos, random tattoos, warped elevator, unrealistic reflections, distorted clothing, floating accessories, excessive jewelry, studio backdrop, heavy bokeh, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
