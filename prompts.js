@@ -2404,5 +2404,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 0%"
+  },
+  {
+    "id": "242",
+    "title": "Cocktails and Chemistry",
+    "image": "prompt-242.jpg",
+    "positive": "POSITIVE PROMPT\nUltra-realistic vertical 4:5 black-and-white luxury editorial photograph of an adult couple sitting closely together on an elegant upholstered sofa in a sophisticated dimly lit lounge.\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, natural eye color, hair characteristics, skin tone and overall appearance. Do not mix, beautify or alter their identities.\nRecreate the composition and pose: the woman sits on the left with her legs elegantly crossed, body slightly turned toward the man. The man sits immediately beside her on the right, leaning subtly toward her. They look intensely at each other while simultaneously sipping cocktails through thin straws. Each holds a classic coupe cocktail glass naturally near the chest. Their faces remain clearly visible.\nThe woman has a slim feminine silhouette with narrow delicate shoulders, long elegant legs and natural proportions. She wears a minimalist fitted black mini dress with thin spaghetti straps and a low neckline, paired with sheer black stockings. Minimal jewelry and a refined manicure.\nThe man has a naturally masculine athletic build and wears a perfectly tailored black suit, crisp white dress shirt, narrow black tie, white pocket square and an elegant metallic wristwatch. No glasses, no sunglasses.\nBackground: intimate upscale lounge with dark textured wall covering and a luxurious upholstered sofa. In the foreground, partially visible out of focus, a low cocktail table with elegant glassware and a small glowing table lamp with a pleated shade. У мужчины нет усов\nClassic monochrome photography, subtle direct-flash effect mixed with soft ambient lounge lighting, rich blacks, elegant highlights, realistic skin texture, subtle film grain, slightly vintage 1990s luxury editorial aesthetic, intimate sophisticated atmosphere, natural candid chemistry, photorealistic.\nNEGATIVE PROMPT\nglasses, sunglasses, broad female shoulders, masculine female body, exaggerated curves, exaggerated muscles, altered identity, mixed identities, distorted faces, looking at camera, smiling broadly, incorrect pose, separate seating, extra people, duplicate people, extra arms, extra hands, malformed fingers, incorrect hands, duplicate glasses, distorted cocktail glasses, missing straws, extra straws, random tattoos, fake tattoos, cartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, color photography, modern nightclub, bright background, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
