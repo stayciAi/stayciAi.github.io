@@ -2921,5 +2921,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "289",
+    "title": "Neon Rebels",
+    "image": "prompt-289.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 nighttime street photo of an adult couple, captured from a dramatic low-angle perspective with an edgy candid fashion aesthetic.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix or alter their facial identities.\n\nRecreate the composition: the woman stands on the left, slightly leaning toward the camera, while the man is positioned lower on the right, leaning forward with one arm extended downward. Both look away from the camera toward the same direction with calm, confident expressions.\n\nThe woman has a slim feminine silhouette with narrow delicate shoulders and wears an oversized black leather jacket over a fitted black top. The man has a naturally athletic masculine build and wears a fitted plain black T-shirt and dark pants. Tattoos only if present in the supplied identity references.\n\nBoth have unlit cigarettes resting naturally between their lips. No visible smoke.\n\nBackground: elegant stone building facade at night, windows and architectural details rising dramatically behind them due to the low camera angle.\n\nIntense saturated red light illuminates their faces, skin and clothing from the front/side, contrasting with dark ambient nighttime shadows. Moody urban atmosphere, strong red-and-black color palette, realistic skin texture, subtle grain, slight smartphone imperfections, cinematic nightlife photography, spontaneous street snapshot, photorealistic.\nУ мужчины нет умов. Не рисуй усы мужчине. \n\nNEGATIVE PROMPT\n\ncartoon, illustration, CGI, studio portrait, daylight, bright background, soft pastel lighting, plastic skin, excessive retouching, beauty filter, distorted anatomy, incorrect proportions, exaggerated muscles, broad female shoulders, extra fingers, malformed hands, duplicated limbs, duplicate people, distorted faces, mixed identities, fake tattoos, random tattoos, excessive smoke, burning cigarette, exaggerated facial expressions, looking directly at camera, flat camera angle, blurry faces, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
