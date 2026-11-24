@@ -2558,5 +2558,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "256",
+    "title": "California Chemistry",
+    "image": "prompt-256.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 full-body street-style photo of an adult couple standing together outdoors, captured from a slightly low camera angle with a casual early-2000s urban fashion aesthetic.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix, beautify or alter their facial identities.\n\nRecreate the composition and pose: the man stands on the left, relaxed and upright with his body facing the camera and his head slightly tilted. The woman stands on the right, very close beside him, subtly leaning her upper body toward the camera with one hip shifted to the side. Both look toward the camera with calm, confident expressions. Show both people completely from head to shoes.\n\nKeep their natural height difference and realistic body proportions. The man has a tall, naturally athletic masculine build with broad shoulders and wears an oversized black sleeveless tank top, loose blue jeans, white high-top sneakers, a thin chain necklace and dark rectangular sunglasses. The woman has a slim feminine silhouette with narrow delicate shoulders and a defined waist, wearing a fitted black cropped top, low-rise straight-leg blue jeans and chunky white sneakers. She holds a small black shoulder bag loosely by its long strap.\n\nTattoos only if present in the supplied identity references; do not invent or copy tattoos from the composition reference.\n\nBackground: minimalist outdoor urban walkway between clean white concrete walls, textured pavement, modern architecture and several tall palm trees visible above the walls. Bright overcast daylight with a pale sky.\n\nSubtle wide-angle perspective, slightly low viewpoint, authentic candid street photography, realistic skin and fabric textures, mild analog grain, slightly softened digital sharpness, understated Y2K aesthetic, natural exposure, spontaneous couple snapshot, photorealistic.\n\nNEGATIVE PROMPT\n\ncartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, altered identity, mixed facial identities, copied reference tattoos, random tattoos, distorted faces, incorrect anatomy, exaggerated muscles, broad female shoulders, exaggerated curves, unrealistic height difference, cropped feet, cropped head, extra limbs, extra fingers, malformed hands, duplicate people, distorted sunglasses, warped clothing, deformed shoes, floating handbag, incorrect perspective, extreme fisheye, studio lighting, dramatic artificial lighting, crowded background, cars, excessive props, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
