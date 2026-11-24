@@ -1854,5 +1854,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "192",
+    "title": "Wild Instinct",
+    "image": "prompt-192.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever.**\n\nCreate an **ultra-realistic close-up portrait of an adult man in a forest**, replicating the provided reference image as accurately as possible in terms of composition, pose, framing, and camera angle.\n\nThe man is positioned **directly behind a massive pine tree trunk that vertically occupies almost the entire right half of the frame, partially concealing his face and body**. Only the left half of his face and his upper torso are visible. He looks directly into the camera with a calm, serious expression.\n\nOne arm is raised above his face, with his hand **gripping the edge of the tree trunk from above**. His palm is concealed behind the tree, while his fingers appear prominently in the foreground near his forehead. Preserve the positioning of his hand and fingers as closely as possible to the reference image.\n\nThe man is wearing a **plain dark sleeveless tank top**, exposing his shoulders and arms. No jewelry or glasses.\n\nThe camera is positioned very close to the subject, creating an **intimate close-up composition**. The tree trunk in the foreground is rendered in exceptional detail, with rough, cracked bark occupying a substantial portion of the image. A dark, dense coniferous forest is visible in the slightly blurred background.\n\nMuted natural forest lighting, earthy brown and green color grading, pronounced film grain, and a slightly vintage **raw photography aesthetic**.\n\nMaximum photorealism: natural skin texture, an anatomically accurate hand with five fingers, highly detailed tree bark, natural shadows, and realistic textures, with no artificial or AI-generated appearance.\n\n**Negative prompt:** mustache, stubble or facial hair above the upper lip, altered appearance, different face, tree positioned too far from the face, fully visible face, incorrect hand placement, extra or fused fingers, deformed hand, glasses, jewelry, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, text, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
