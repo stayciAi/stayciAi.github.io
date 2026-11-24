@@ -1755,5 +1755,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 0%"
+  },
+  {
+    "id": "183",
+    "title": "Celestial Warrior",
+    "image": "prompt-183.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 2:3 ethereal fantasy fashion portrait of an adult woman, approximately 23–27 years old, kneeling sideways on shimmering white satin fabric in a misty monochrome studio scene.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, hairstyle, outfit and composition: she is sitting gracefully sideways on her bent knees, with both legs folded beneath and slightly to one side of her body. Her torso remains elegant and upright with a subtle natural curve. Her body is shown in a soft three-quarter side angle while her face is gently turned toward the front. Her head is slightly lowered and her eyes are looking downward, creating a calm, mysterious, otherworldly expression.\n\nHer hair is extremely long, sleek and straight with blunt bangs, cascading smoothly around her shoulders and down both sides of her body, with some strands naturally resting over the satin floor.\n\nShe wears a luminous white satin mini dress with a fitted ruched bodice, short softly flared skirt and dramatic detached voluminous puff sleeves.\n\nBehind her are enormous symmetrical soft white feather angel wings, spreading upward and outward from behind her body and partially disappearing into the surrounding fog.\n\nShe holds ONLY ONE long ornate medieval-style sword. The sword is positioned vertically EXACTLY IN THE CENTER of the composition, directly in front of her body. The blade extends straight downward between her folded knees toward the satin floor, while both hands rest elegantly around the ornate silver sword handle. The sword is perfectly centered and acts as the main symmetrical focal point of the portrait.\n\nDreamy white-on-silver lighting, heavy atmospheric haze, soft diffused glow, blooming highlights, subtle luminous halo effect, reflective white satin, delicate individual feather texture, polished silver sword details, surreal heavenly atmosphere, elegant angelic warrior aesthetic, premium fantasy fashion editorial photography, cinematic depth, realistic skin texture, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, wrong facial features, standing pose, frontal kneeling pose, legs spread apart, incorrect leg position, eyes looking directly at camera, short hair, curly hair, missing bangs, missing wings, small wings, asymmetrical wings, dark wings, multiple swords, two swords, extra sword, sword positioned to the side, off-center sword, horizontal sword, distorted sword, bent blade, floating sword, extra arms, extra hands, extra fingers, malformed hands, incorrect hand placement, wrong outfit, dark dress, exposed lingerie, harsh contrast, colorful background, plastic skin, CGI appearance, anime, cartoon, blurry image, low resolution, watermark, text, logo, duplicated objects, distorted anatomy, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
