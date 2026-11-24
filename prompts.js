@@ -2448,5 +2448,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "246",
+    "title": "Twilight Kiss",
+    "image": "prompt-246.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 9:16 intimate close-up photo of an adult couple, captured in a spontaneous candid smartphone aesthetic.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix or alter their facial identities.\n\nRecreate the composition and pose: the woman is positioned in the foreground on the left, facing slightly toward the camera with her eyes gently closed and a relaxed expression. The man stands very close behind her on the right, leaning toward her cheek and kissing the side of her face. His tattooed arm wraps naturally around the front of her shoulders and neck in a close affectionate embrace, with his hand resting loosely and naturally. Keep the gesture clearly affectionate and non-forceful.\n\nThe woman has a slim feminine silhouette with narrow delicate shoulders and wears a simple fitted black low-neckline top with a delicate pendant necklace. The man wears a plain black T-shirt, a metallic wristwatch, and has a naturally masculine athletic build. Tattoos only if present in the supplied identity references.\n\nBackground: softly blurred outdoor evening setting with pale blue dusk sky, distant landscape and subtle ambient light.\n\nStrong vintage smartphone aesthetic, intentionally soft focus, slight motion blur, visible analog-style grain, low-resolution texture, muted colors, subtle cyan and warm skin tones, imperfect exposure, dreamy atmospheric haze, natural skin texture, candid framing, authentic spontaneous couple snapshot, photorealistic.\n\nNEGATIVE PROMPT\n\ncartoon, illustration, CGI, overly sharp digital image, studio photography, professional lighting, HDR, plastic skin, excessive retouching, beauty filter, exaggerated muscles, broad female shoulders, distorted anatomy, incorrect proportions, aggressive gesture, choking, visible distress, extra arms, extra hands, extra fingers, malformed hands, duplicated limbs, distorted faces, merged faces, incorrect facial identity, fake tattoos, random tattoos, distorted watch, unnatural embrace, duplicate people, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
