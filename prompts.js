@@ -1601,5 +1601,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "169",
+    "title": "Black Elegance",
+    "image": "prompt-169.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, eye color, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever. If a beard is present in the original photograph, it must not extend onto the upper lip.**\n\nCreate an **ultra-realistic vertical 9:16 outdoor photograph of an adult man**, replicating the provided reference image as accurately as possible in terms of composition, pose, clothing, camera angle, and atmosphere.\n\nThe man is standing beside a stone balustrade in an elegant garden. He is wearing a **fitted black sleeveless tank top, black trousers, a wide-brimmed black felt hat, and round dark sunglasses**. His wrists are accessorized with minimalist black bracelets and jewelry.\n\nThe pose must closely match the reference image: his torso is slightly turned at a three-quarter angle, with one arm hanging naturally in front of his body, while **the other arm is bent and raised above his head, with his fingers naturally touching the brim of his hat**, as though he is adjusting it. His head is slightly raised and turned to the side.\n\nThe man has an **athletic, toned physique**, with naturally defined shoulders and arms, without exaggerated or excessively developed musculature.\n\nThe background features a historic stone balustrade, neatly trimmed shrubs, trees, and a warm autumn garden. Soft natural daylight, warm brown and green tones, and a slightly blurred background.\n\n**Maximum photorealism:** natural skin texture, realistic anatomy and muscle definition, anatomically accurate hands and fingers, authentic fabric textures, and realistic metal and glass details of the sunglasses. The aesthetic of authentic, high-end men's lifestyle photography, with no artificial or AI-generated appearance.\n\n**Aspect ratio: 9:16.**\n\n**Negative prompt:** mustache, stubble above the upper lip, facial hair above the upper lip, altered appearance, different face, excessively large muscles, extra fingers, deformed hands, incorrect pose, missing hat or sunglasses, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, text, logos, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
