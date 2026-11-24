@@ -1557,5 +1557,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 42%"
+  },
+  {
+    "id": "165",
+    "title": "Autumn Serenity",
+    "image": "prompt-165.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever.**\n\nCreate an **ultra-realistic vertical 9:16 photograph of an adult man in an autumn forest**, replicating the reference image as accurately as possible in terms of composition, pose, clothing, camera angle, and lighting.\n\nThe man is **casually leaning with his back and shoulder against a massive tree trunk on the right side of the frame**. Both hands are tucked into the front pockets of his jeans, and his torso is slightly tilted toward the tree. His head is turned to the side, with his gaze directed into the distance beyond the frame. His facial expression is calm and contemplative.\n\nHe is wearing a **loose-fitting dark green knitted sweater**, with a white T-shirt slightly visible underneath, paired with light blue straight-leg jeans. The outfit is simple and masculine, without logos or lettering.\n\nHe is surrounded by an atmospheric autumn forest, with the ground covered in dry golden-brown leaves. **Intense, warm rays of the setting sun stream through the trees behind the man**, creating a golden haze, beautiful backlighting, and soft bokeh.\n\nThe shot is framed approximately **from the knees up**, with a natural portrait perspective and shallow depth of field. Maximum photorealism: natural skin texture, realistic textures of the knitted sweater, denim, tree bark, and leaves, and subtle film grain. The aesthetic of a **warm, cinematic autumn lifestyle portrait**, with no artificial or AI-generated appearance.\n\n**Aspect ratio: 9:16.**\n\n**Negative prompt:** mustache, thin mustache, stubble or facial hair above the upper lip, altered appearance, different face, glasses, hands outside pockets, incorrect pose, green summer foliage, cold lighting, additional people, deformed body, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, text, logos, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
