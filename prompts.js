@@ -2151,5 +2151,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "219",
+    "title": "Cozy Morning",
+    "image": "prompt-219.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 2:3 cozy luxury lifestyle portrait of an adult woman, approximately 21–25 years old, photographed indoors while reclining on a soft light-colored sofa in natural daylight.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, hairstyle, outfit and composition: she sits sideways and slightly reclined, torso turned away from the camera while her head turns back over one shoulder. Her gaze is directed softly to the side with a calm, relaxed expression. One arm rests along the sofa cushion while the other remains relaxed near the body.\n\nShe has narrow feminine shoulders, delicate shoulder width, a soft elegant shoulder line and balanced upper-body proportions — never broad, square, bulky or muscular shoulders.\n\nHair is styled into two high ponytails with loose face-framing strands, keeping the natural hair characteristics from the identity image.\n\nShe wears an oversized soft white fluffy textured robe / cardigan, loosely draped off one shoulder, paired with beige-brown monogram-pattern thigh-high socks extending high above the knees. Add simple silver hoop earrings and minimal jewelry.\n\nBackground: minimalist cream interior with neutral cushions and soft bedding. Warm diffused window light, realistic fluffy fabric texture, natural skin detail, subtle shadows, cozy high-end social-media aesthetic, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, broad shoulders, wide shoulders, square shoulders, muscular shoulders, bulky torso, different pose, front-facing pose, short hair, single ponytail, missing twin ponytails, wrong robe color, thin flat fabric, missing thigh-high socks, plain socks, extra arms, extra legs, malformed hands, extra fingers, distorted anatomy, exaggerated proportions, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
