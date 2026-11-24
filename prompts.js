@@ -2998,5 +2998,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "296",
+    "title": "Pixel Princess",
+    "image": "prompt-296.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic playful Y2K lifestyle fashion portrait of an adult woman, approximately 21–25 years old, photographed indoors in a modern gaming / home-office room.\n\nUse the uploaded identity photo only for the woman’s appearance: preserve her recognizable facial features, skin tone, eye color, hair color and overall identity. Recreate the pose, facial expression, outfit, styling and composition of this scene.\n\nShe sits sideways on the edge of a desk with one knee raised prominently toward the foreground, the other leg bent naturally downward. Her torso remains upright and slightly angled toward the camera, with a confident direct gaze and softly parted lips.\n\nShe wears large pink-and-white over-ear gaming headphones with pink cat ears, a fitted white cropped sleeveless top, an oversized white open-knit mesh cardigan slipping loosely from the shoulders, light-blue high-waisted denim shorts, white crew socks and chunky blue-white-black high-top sneakers.\n\nHer hair is worn loose and naturally styled according to the identity photo, while keeping the overall soft feminine Y2K look.\n\nBackground: dark modern room with a computer monitor, desk setup and small pink gaming accessories / decorative objects, softly visible behind her.\n\nBright direct-camera flash mixed with low ambient room lighting, realistic skin texture, sharp facial detail, natural fabric and denim texture, authentic premium social-media photography, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, changed face, wrong eye color, wrong hair color, different pose, standing pose, both legs down, missing cat-ear headphones, wrong headphone color, missing white crop top, missing mesh cardigan, missing denim shorts, wrong shoes, heels, distorted legs, malformed hands, extra fingers, extra limbs, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
