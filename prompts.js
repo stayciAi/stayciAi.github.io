@@ -2250,5 +2250,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "228",
+    "title": "Monochrome Romance",
+    "image": "prompt-228.jpg",
+    "positive": "Ultra-realistic vertical 4:5 black-and-white intimate fashion portrait of an adult couple standing extremely close together indoors, photographed from the chest up.\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, natural eye color, hair color, skin tone and overall appearance. Do not mix, beautify or alter their identities.\nRecreate the pose precisely: the man stands on the left and the woman on the right, facing each other in profile with their faces very close. Both make playful exaggerated kissy lips toward each other. The woman gently presses one hand against the man’s cheek, slightly squishing his face, while the man mirrors the gesture by softly holding and pressing her cheek with one hand. Keep both hands clearly visible and anatomically natural.\nBoth wear narrow minimalist black sunglasses. The woman has a slim feminine silhouette with narrow delicate shoulders, sleek hair tightly pulled back into a clean low bun, small elegant earrings, and a black satin scarf wrapped around her neck with the ends falling down her back. Her shoulders remain bare. The man wears a structured black blazer with minimal styling, subtle rings and a metallic bracelet/watch.\nSimple background of softly illuminated floor-to-ceiling curtains with vertical folds.\nHigh-contrast monochrome photography, soft diffused window light, smooth highlights, rich blacks, realistic skin texture, subtle film grain, chic minimalist fashion aesthetic, playful romantic chemistry, spontaneous editorial snapshot, photorealistic.\nNEGATIVE PROMPT\nbroad female shoulders, masculine female body, exaggerated muscles, altered identity, mixed identities, distorted faces, open mouth, tongue out, kissing directly, extra hands, extra arms, extra fingers, malformed fingers, fused fingers, hands covering entire face, duplicate people, asymmetrical sunglasses, oversized sunglasses, random tattoos, fake tattoos, messy background, cartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, color photography, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
