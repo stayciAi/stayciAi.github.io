@@ -2811,5 +2811,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "279",
+    "title": "Tropical Noir",
+    "image": "prompt-279.jpg",
+    "positive": "Ultra-realistic vertical black-and-white tropical lifestyle photo of an adult man, preserving the exact facial identity, facial features, natural eye shape, haircut, hair texture and facial hair from the supplied identity reference. Do not change his recognizable appearance. No glasses. If the identity reference has no mustache, do not add one.\n\nThe man is shirtless, with an athletic masculine physique, defined chest, shoulders and abs. Preserve tattoos only if they actually exist in the identity reference; do not invent or copy tattoos from another person.\n\nHe stands beneath dense tropical palm trees, photographed from an extreme low-angle perspective, with the smartphone positioned approximately around lower chest/waist level and pointed sharply upward. His torso fills most of the lower frame while his face appears higher and slightly farther from the lens. He looks downward toward the camera with a calm, confident, slightly serious expression.\n\nOne hand is extended prominently toward the lens, appearing naturally larger because of the wide-angle perspective. Between his fingers he holds a lit cigarette, with a small realistic ember and a subtle trail of smoke rising upward. Correct masculine hand anatomy, five natural fingers, realistic perspective.\n\nAbove and behind him, large overlapping palm fronds and a tall palm trunk fill almost the entire background, creating a dense tropical canopy. Small clusters of coconuts are visible high above him between the leaves.\n\nA thin necklace with a small pendant rests naturally against his chest, with a simple casual bracelet around one wrist.\n\nHigh-contrast monochrome photography, natural tropical daylight filtered through palm leaves, bright highlights breaking through the canopy, deep black shadows, authentic smartphone exposure, slightly raw vacation snapshot aesthetic. Subtle film grain, realistic skin texture and pores, natural body hair, detailed palm leaves, slight wide-angle lens distortion, photorealistic, no CGI, no illustration. Vertical 9:16 composition.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
