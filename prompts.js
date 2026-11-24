@@ -2668,5 +2668,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 27%"
+  },
+  {
+    "id": "266",
+    "title": "Velvet Rockstar",
+    "image": "prompt-266.jpg",
+    "positive": "Ultra-realistic vertical 9:16 cinematic concert fashion portrait of an adult woman, approximately 23–27 years old, performing on a dark stage under warm focused spotlights.\n\nUse the supplied identity reference to preserve her recognizable facial features, eye color, blonde hair color, skin tone and natural appearance. Do not copy clothing from the identity reference.\n\nShe stands in an elegant three-quarter side pose, torso naturally turned, holding a silver handheld microphone close to her lips with one hand, looking sideways with a confident, focused performance expression.\n\nHer hair is very long, straight and loose, flowing naturally down her back with subtle movement from the stage atmosphere.\n\nShe wears an elaborate cream / ivory couture stage mini dress with a fully covered structured bodice, delicate lace panels, layered ruffles and romantic vintage-inspired detailing. The outfit is glamorous and theatrical rather than lingerie. Pair it with long burgundy leather opera gloves and a dramatic sculptural burgundy embellished hip overskirt / decorative belt piece, richly decorated with metallic stars, studs, eyelets and ornamental hardware.\n\nThe styling should feel like a high-fashion pop concert costume: sophisticated, dramatic, luxurious and editorial.\n\nDark minimalist concert background, warm amber spotlight from above and behind, subtle atmospheric haze, cinematic rim lighting around the hair, realistic shadows across the face and outfit, natural skin texture, realistic microphone reflections, highly detailed lace, leather and metallic embellishments, shallow depth of field, subtle photographic grain, premium concert editorial photography, 8K photorealistic quality.\n\nNEGATIVE PROMPT: different identity, altered facial proportions, revealing lingerie, transparent clothing, exposed breasts, excessive cleavage, nudity, fetish styling, wrong pose, missing microphone, microphone away from lips, short hair, updo, wrong hair color, missing burgundy gloves, missing burgundy hip accessory, plain outfit, flat studio lighting, bright background, extra limbs, extra fingers, malformed hands, distorted microphone, exaggerated anatomy, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.\n",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 4%"
   }
 ];
