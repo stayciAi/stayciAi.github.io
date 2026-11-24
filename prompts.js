@@ -1832,5 +1832,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 18%"
+  },
+  {
+    "id": "190",
+    "title": "Amsterdam Mood",
+    "image": "prompt-190.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever.**\n\nCreate an **ultra-realistic lifestyle photograph of a man beside a canal in Amsterdam**, replicating the provided reference image as accurately as possible in terms of composition, pose, clothing, camera angle, and atmosphere.\n\nThe man is standing right at the edge of the canal, **with his torso and head tilted slightly forward and downward**, looking toward the ground. Both hands are tucked into his trouser pockets. His pose is relaxed and natural, as though he has been casually photographed while out for a walk.\n\nHe is wearing a **loose-fitting, lightweight olive-beige jacket, a black T-shirt, and wide-leg white trousers**. The outfit is minimalist, without visible logos.\n\nBehind him is an authentic, atmospheric **Amsterdam canal**, featuring water with natural reflections, an arched brick bridge with numerous bicycles along its railings, tall, narrow historic dark-brick buildings, large windows, trees, and subtle urban activity in the distance. Blue sky with soft clouds.\n\nPreserve the authentic feel of an **ordinary, spontaneous smartphone photograph rather than a professional photoshoot**: natural daylight, realistic perspective, a relatively sharp and detailed background, natural colors, and subtle imperfections in the composition.\n\nMaximum photorealism: natural skin texture, authentic clothing folds, realistic water, architecture, and reflections, with no artificial or AI-generated appearance.\n\n**Negative prompt:** mustache, facial hair or stubble above the upper lip, altered appearance, different face, looking directly at the camera, raised head, hands outside pockets, tight-fitting trousers, fashion model posing, studio lighting, excessive bokeh, empty background, deformed hands, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 100%"
   }
 ];
