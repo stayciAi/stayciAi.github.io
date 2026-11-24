@@ -2899,5 +2899,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "287",
+    "title": "Golden Getaway",
+    "image": "prompt-287.jpg",
+    "positive": "POSITIVE PROMPT\nUltra-realistic vertical 4:5 cinematic lifestyle photo of an adult couple around a car at golden hour, photographed from a dramatic low angle with a raw luxury road-trip aesthetic.\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, natural eye color, hair color, hairstyle characteristics, skin tone and overall appearance. Do not mix, beautify or alter their identities.\nRecreate the composition precisely: the woman occupies the upper half of the frame, leaning forward over the open edge of the car with both arms resting naturally in front of her. The man is positioned much lower in the foreground, reclining inside or against the car, shown mostly in side profile. The unusual diagonal edge of the open car door/window divides the composition between them.\nThe woman looks slightly away from the camera with a calm, confident expression while casually holding a cigarette near her lips with one hand. Her hair moves naturally in the wind. She has a slim feminine silhouette with narrow delicate shoulders and wears a fitted black spaghetti-strap top with a low neckline, dark bottoms, delicate necklace and aviator-style sunglasses.\nThe man has a naturally masculine athletic build and is shown in close side profile in the lower foreground, wearing a black top and dark rectangular sunglasses. He casually holds a cigarette between his lips.\nTattoos only if they are actually present in the supplied identity references. Do not copy, invent or add any tattoos from the composition reference.\nOutdoor setting at sunset with a warm cloudy sky and distant landscape. Strong golden backlight outlining the woman’s hair, warm amber highlights on skin, deep cinematic shadows, subtle lens flare, realistic skin texture, slightly muted earthy tones, shallow depth of field, subtle film grain, intimate spontaneous road-trip atmosphere, high-end cinematic photography, photorealistic.\nNEGATIVE PROMPT\ncopied tattoos, random tattoos, fake tattoos, broad female shoulders, masculine female body, exaggerated muscles, exaggerated curves, altered identity, mixed identities, distorted faces, incorrect anatomy, extra arms, extra hands, extra fingers, malformed hands, duplicate people, distorted sunglasses, duplicate sunglasses, excessive cigarette smoke, multiple cigarettes, studio background, indoor setting, midday lighting, cartoon, illustration, CGI, plastic skin, beauty filter, excessive retouching, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
