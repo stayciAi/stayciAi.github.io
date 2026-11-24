@@ -2646,5 +2646,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "264",
+    "title": "Untamed Luxury",
+    "image": "prompt-264.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 cinematic luxury fashion portrait of an adult woman, approximately 23–27 years old, lying closely beside a large majestic Bengal tiger inside a dark elegant vintage interior.\n\nUse the uploaded identity photo only for the woman’s appearance: preserve her recognizable facial features, face shape, skin tone, eye color, hair color and overall identity. Recreate the pose, body position, expression, styling and composition of this scene.\n\nThe woman lies gracefully on her side on an ornate deep-red Persian rug, her upper body leaning against the tiger. Her head rests gently near the tiger’s shoulder while one hand softly touches its chest/neck. She looks directly toward the camera with a calm, mysterious, confident expression.\n\nShe wears a fitted deep burgundy satin evening dress with thin straps and a high side slit, paired with a luxurious black faux-fur stole draped around her shoulders and arms. Add a delicate sparkling necklace and refined evening makeup.\n\nThe Bengal tiger lies calmly beside her, large and anatomically realistic, with detailed orange fur, black stripes, white facial markings, expressive eyes, realistic whiskers and massive front paws. The interaction feels serene and editorial, not aggressive.\n\nBackground: dark vintage room with rich wooden tones, an antique upright piano behind them, moody shadows and subtle warm ambient light.\n\nLIGHTING: cinematic low-key lighting with warm highlights on the woman’s skin, satin dress and tiger fur, deep soft shadows and luxurious film-like contrast.\n\nPremium editorial photography, 50–85mm lens aesthetic, realistic skin texture, detailed fur, fabric and rug texture, subtle grain, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, changed face, wrong eye color, wrong hair color, different pose, standing woman, sitting upright, aggressive tiger, roaring tiger, attacking tiger, extra tiger, distorted animal anatomy, extra legs, malformed paws, fake fur, cartoon tiger, missing piano, wrong dress color, missing black fur stole, extra arms, extra fingers, fused fingers, malformed hands, distorted body, plastic skin, excessive smoothing, CGI, 3D render, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
