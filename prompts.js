@@ -2580,5 +2580,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "258",
+    "title": "Blue Sky Rebels",
+    "image": "prompt-258.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 9:16 low-angle fashion portrait of an adult couple outdoors, photographed against a vivid cloudless deep-blue sky with a bold early-2000s streetwear aesthetic.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix, beautify or alter their facial identities.\n\nRecreate the composition and perspective: the woman stands in the foreground on the right, very close to the camera and occupying most of the frame from the waist/chest upward. The man stands farther behind on the left, appearing slightly smaller because of perspective. The camera is positioned noticeably below eye level and tilted upward. Both look toward the camera with relaxed, confident expressions.\n\nKeep their natural body proportions and realistic height difference. The woman has a slim feminine silhouette with narrow delicate shoulders and wears an oversized light-blue zip-up hoodie with subtle silver embroidered graphic details, futuristic narrow wraparound sunglasses with blue-tinted lenses, and delicate silver necklaces. The man has a naturally masculine athletic build and wears an oversized black zip-up hoodie with contrasting silver graphic embroidery and dark pants. Tattoos only if present in supplied identity references.\n\nBright natural daylight with strong direct sunlight, crisp highlights on the faces and hair, realistic shadows, saturated cobalt-blue sky filling the entire background, no buildings or distracting objects.\n\nDynamic wide-angle perspective, subtle lens distortion caused naturally by the low camera position, vivid saturated colors, crisp smartphone detail, realistic skin texture, slight Y2K editorial influence, casual street-fashion snapshot, photorealistic.\n\nNEGATIVE PROMPT\n\ncartoon, illustration, CGI, artificial face, plastic skin, excessive retouching, beauty filter, altered identity, mixed facial identities, distorted faces, incorrect proportions, exaggerated muscles, broad female shoulders, exaggerated curves, duplicate people, extra people, extra limbs, malformed hands, fake tattoos, random tattoos, oversized head, extreme fisheye distortion, warped sunglasses, asymmetrical glasses, incorrect perspective, flat eye-level camera angle, cloudy sky, buildings, trees, indoor setting, studio backdrop, dull colors, heavy blur, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
