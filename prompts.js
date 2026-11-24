@@ -2602,5 +2602,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "260",
+    "title": "Midnight Escape",
+    "image": "prompt-260.jpg",
+    "positive": "Ultra-realistic vertical nighttime photo of an adult man relaxing shirtless in an outdoor hot tub / jacuzzi, preserving the exact facial identity, facial features, natural eye color, hair color, haircut and facial hair from the supplied identity reference. Do not change his recognizable appearance. No glasses. If the identity reference has no mustache, do not add one.\n\nHe is submerged in the water approximately up to the lower abdomen/waist, with his muscular upper body fully visible above the surface. Athletic masculine physique with broad shoulders, defined chest, muscular arms and sharply defined abs. His wet skin is covered with realistic water droplets and subtle highlights.\n\nHe leans backward against the edge of the jacuzzi in a relaxed dominant pose, both arms stretched widely along the rim on either side of his body, opening the chest and shoulders. His head is tilted slightly backward and upward, eyes relaxed, giving the image a spontaneous late-night atmosphere.\n\nCamera positioned very low, almost directly at water level, looking slightly upward toward him. His torso dominates the center of the frame while the water fills the entire lower foreground.\n\nOutdoor setting at deep night, almost completely black surroundings with barely visible silhouettes of trees and only a few distant warm lights. Underwater jacuzzi lights create a subtle pale aqua/greenish glow beneath the water, illuminating his torso from below. Warm steam rises naturally from the hot water into the cold night air.\n\nRealistic bubbling jacuzzi water, ripples and reflections around his body, tiny bubbles across the foreground, wet skin reflections, atmospheric steam. Extremely low-light smartphone photography, slightly grainy authentic phone-camera quality, deep blacks, dramatic underlighting, natural contrast, no studio lighting, no artificial beauty retouching, realistic skin texture and body hair, photorealistic, no CGI, no illustration. Vertical 9:16 composition. No text, numbers or watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
