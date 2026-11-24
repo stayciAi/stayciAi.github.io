@@ -2426,5 +2426,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "244",
+    "title": "Rebel Romance",
+    "image": "prompt-244.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 black-and-white fashion portrait of an adult couple standing very close together against a plain light wall, photographed with a direct-flash editorial aesthetic.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix or alter their facial identities.\n\nRecreate the composition and pose: the woman stands in the foreground on the left with her body turned mostly away from the camera, looking back over her shoulder directly toward the lens. The man stands immediately behind and slightly to her right, his shoulder overlapping hers, also turning his head toward the camera. Their heads are positioned close together, creating a compact, intimate composition.\n\nKeep realistic height difference and natural proportions. The woman has a slim feminine silhouette with narrow delicate shoulders and long straight hair falling naturally down her back. The man has a naturally masculine athletic build with broader shoulders and realistic proportions.\n\nBoth wear oversized black leather jackets with subtle natural leather texture and soft highlights. Minimal accessories, clean styling, no unnecessary details. Tattoos only if present in supplied identity references.\n\nSimple plain light-gray wall background with no decorations. Strong frontal camera flash creates crisp shadows behind the couple, bright facial highlights and glossy reflections on the leather.\n\nHigh-contrast monochrome photography, subtle analog grain, slightly raw editorial texture, realistic skin pores, sharp facial details, understated 1990s fashion-editorial aesthetic, spontaneous yet stylish portrait, photorealistic.\n\nNEGATIVE PROMPT\n\ncolor image, cartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, distorted faces, mixed identities, incorrect facial features, exaggerated muscles, broad female shoulders, incorrect proportions, unnatural height difference, extra limbs, extra fingers, malformed hands, duplicate people, fake tattoos, random tattoos, exaggerated expressions, smiling, elaborate background, props, sunglasses, hats, excessive jewelry, soft glamour lighting, heavy bokeh, extreme blur, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
