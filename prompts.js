@@ -2206,5 +2206,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 15%"
+  },
+  {
+    "id": "224",
+    "title": "Midnight Temptation",
+    "image": "prompt-224.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-photorealistic vertical 9:16 intimate cinematic dinner photo of an adult couple, captured in a dim modern kitchen or dining area. The man sits at the table on the left, slightly leaning back and looking toward the woman, while she stands close beside him on the right and leans toward his face.\n\nThe woman gently holds a dark cigar near the man’s lips with one hand, while her other hand rests naturally near his wrist/hand. The man holds a large wine glass with red wine in his other hand. A second wine glass and a wine bottle sit on the table in the foreground.\n\nThe man wears a dark blazer over a light open-collar shirt. The woman wears a fitted semi-sheer black long-sleeve top. The man has NO MUSTACHE and NO GLASSES or sunglasses — upper lip completely clean-shaven.\n\nWarm low ambient lighting, rich brown and amber tones, strong vintage film grain, slight motion blur and soft zoom-blur around the edges, candid late-night atmosphere, sensual editorial photography.\n\nNo specific facial features, hair color, eye color or individual identity — appearance remains fully adaptable to any supplied people references. Realistic hands and fingers, natural body proportions, no extra limbs, no distorted anatomy, no CGI, no text or watermark.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
