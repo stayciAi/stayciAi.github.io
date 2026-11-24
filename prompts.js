@@ -2239,5 +2239,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "227",
+    "title": "Love on Another Level",
+    "image": "prompt-227.jpg",
+    "positive": "POSITIVE PROMPT\nUltra-realistic vertical 4:5 full-body mirror selfie of an adult couple inside a modern stainless-steel elevator, captured with a casual high-end smartphone aesthetic.\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, natural eye color, hair color, hairstyle characteristics, skin tone and overall appearance. Do not mix, beautify or alter their identities.\nRecreate the pose and composition: the man stands on the left, noticeably taller than the woman, leaning casually back against the elevator wall with a relaxed slightly slouched posture. The woman stands very close beside him on the right, leaning her upper body toward him while pushing her hips slightly backward in a playful pose. She holds a smartphone vertically in one hand for the mirror selfie while her other arm extends behind her to hold the metal elevator handrail. Her head rests close to his chest/shoulder and she makes a playful expression with her tongue slightly out. The man tilts his head gently downward toward her.\nShow both people completely from head to shoes. Keep a realistic natural height difference.\nThe man has a lean, naturally athletic masculine build and wears an oversized black hoodie, loose charcoal-black jeans and clean white sneakers. No glasses, no sunglasses, no hat. The woman has a slim feminine figure with a defined waist, natural curves and narrow delicate shoulders, wearing a fitted dark-brown long-sleeve cropped top with matching high-waisted fitted leggings and chunky white sneakers.\nBackground: narrow modern elevator entirely covered in brushed stainless-steel panels, reflective surfaces, illuminated control buttons, horizontal metal handrail, open elevator doors behind the couple and bright rectangular ceiling lights.\nCool neutral overhead lighting, realistic metallic reflections, crisp smartphone detail, natural skin texture, subtle shadows, slightly wide-angle mirror perspective, casual spontaneous couple selfie, modern urban aesthetic, photorealistic.\nNEGATIVE PROMPT\nglasses, sunglasses, hat, broad female shoulders, masculine female body, exaggerated curves, exaggerated muscles, altered identity, mixed identities, incorrect facial features, distorted faces, incorrect height difference, extra people, duplicate people, extra arms, extra hands, extra fingers, malformed hands, fused fingers, distorted smartphone, floating phone, incorrect mirror reflection, warped elevator walls, distorted handrail, cropped feet, cropped head, random tattoos, fake tattoos, cartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, studio photography, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
