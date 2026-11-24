@@ -2129,5 +2129,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 13%"
+  },
+  {
+    "id": "217",
+    "title": "Love in Smoke",
+    "image": "prompt-217.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 BLACK-AND-WHITE edgy beauty portrait of an adult woman, approximately 23–27 years old, photographed in a dark intimate setting with a raw vintage social-media aesthetic.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, styling and composition: she reclines slightly backward, head tilted subtly to one side, gaze lowered with a calm rebellious expression. Her lips are parted as she exhales a thin stream of smoke that forms several distinct heart-shaped smoke rings floating beside her face.\n\nHair is swept back loosely with natural texture. She wears a fitted black scoop-neck top layered beneath a dark casual jacket. Add visible black-and-gray tattoos across the neck, upper chest and forehead/temple area, keeping them realistic and naturally integrated into the skin.\n\nDramatic black-and-white lighting, soft grain, deep shadows, realistic smoke transparency, detailed skin texture, subtle flash aesthetic, candid nightlife mood, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, wrong pose, smiling broadly, closed mouth, missing smoke, random smoke cloud, malformed smoke hearts, cigarette covering face, extra fingers, distorted anatomy, duplicated tattoos, fake tattoo texture, plastic skin, excessive smoothing, colorful image, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
