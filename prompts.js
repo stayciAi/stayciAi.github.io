@@ -2536,5 +2536,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "254",
+    "title": "After Hours",
+    "image": "prompt-254.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 candid black-and-white nighttime photo of an adult couple sitting closely together at an outdoor table, captured with a raw vintage compact-camera / early smartphone aesthetic.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix, beautify or alter their facial identities.\n\nRecreate the composition and pose: the man sits on the left and the woman sits closely beside him on the right, both leaning naturally toward the table. Their bodies face roughly toward the camera while their heads are turned slightly upward and toward the same off-camera direction. Each casually holds a cigarette near the mouth with one hand. Their expressions are relaxed and distracted, as if captured spontaneously during a late-night conversation. No posing directly for the camera.\n\nThe man has a naturally lean masculine build and wears a simple light-colored T-shirt, a dark baseball cap and a metallic wristwatch. The woman has a slim feminine silhouette with narrow delicate shoulders and wears a simple fitted black sleeveless top. Minimal jewelry and natural styling. Tattoos only if present in supplied identity references.\n\nForeground: worn outdoor table with a smartphone, a couple of beverage cans and a casually placed dark bag or jacket. Keep the objects secondary to the couple and naturally arranged.\n\nBackground: quiet residential neighborhood at night with modest houses, brick walls, parked cars and distant streetlights. Deep dark sky with subtle light flare from an overhead streetlamp. Background slightly soft and imperfect.\n\nMonochrome black-and-white photography, low-light exposure, visible digital grain and noise, slightly soft focus, mild motion blur, crushed blacks, imperfect highlights, subtle flash or nearby streetlight illumination, authentic unpolished late-night snapshot, nostalgic early-2000s atmosphere, realistic skin texture, photorealistic.\n\nNEGATIVE PROMPT\n\ncolor image, cartoon, illustration, CGI, polished studio photography, cinematic professional lighting, beauty filter, plastic skin, excessive retouching, altered identity, mixed facial identities, distorted faces, incorrect anatomy, exaggerated muscles, broad female shoulders, exaggerated curves, extra arms, extra hands, extra fingers, malformed hands, duplicate people, fake tattoos, random tattoos, excessive cigarette smoke, dramatic smoking effects, crowded background, luxury setting, restaurant interior, daylight, perfect sharpness, HDR, heavy bokeh, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
