@@ -2360,5 +2360,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 19%"
+  },
+  {
+    "id": "238",
+    "title": "Rugged Elegance",
+    "image": "prompt-238.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever.**\n\nCreate an **ultra-realistic vertical 9:16 photograph of an adult man beside a large black off-road pickup truck**, replicating the reference image as accurately as possible in terms of composition, pose, clothing, camera angle, and atmosphere.\n\nThe man is **sitting sideways on the door sill of the open driver's door of a lifted off-road pickup truck**, with his torso leaning slightly forward. One leg is bent inside the vehicle, while the other rests on the metal side step. His hands are loosely clasped between his knees. His head is slightly raised and turned to the side, with his gaze directed beyond the frame.\n\nHe is wearing a **loose-fitting black T-shirt, slightly relaxed straight-leg blue jeans, brown leather cowboy boots, and a black baseball cap** featuring a small minimalist symbol. A thin silver-toned chain necklace rests around his neck. **No glasses or sunglasses.**\n\nThe large black pickup truck is lightly covered in road dust and dirt. The driver's door is wide open, clearly revealing the dark leather interior, substantial door panel, large side mirror, running board, and oversized off-road tire.\n\nThe background features **a softly blurred natural landscape in cool gray-green tones**, with soft, overcast lighting. Slightly muted color grading, subtle film grain, and a rugged **American country / western lifestyle aesthetic**.\n\nMaximum photorealism: natural skin texture, anatomically accurate body proportions, realistic fabrics, leather boot textures, metal surfaces, automotive paint, dust, and natural reflections. No artificial or AI-generated appearance.\n\n**Aspect ratio: 9:16.**\n\n**Negative prompt:** mustache, stubble or facial hair above the upper lip, glasses, altered appearance, different face, incorrect pose, closed vehicle door, passenger car instead of a large pickup truck, missing baseball cap, sneakers instead of cowboy boots, tight-fitting jeans, additional people, deformed hands, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, text, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
