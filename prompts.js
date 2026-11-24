@@ -2228,5 +2228,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "226",
+    "title": "Double Trouble",
+    "image": "prompt-226.jpg",
+    "positive": "Ultra-realistic vertical 4:5 candid nighttime photo of an adult couple inside a dimly lit American-style dive bar / pool hall, captured with a nostalgic early-2000s compact digital camera aesthetic.\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, natural eye color, hair color, skin tone and overall appearance. Do not mix, beautify or alter their identities.\nRecreate the composition: the man stands on the left with his back toward the camera, slightly turned toward the woman. The woman stands closely beside him on the right, facing the camera at a three-quarter angle and looking sideways toward him with a playful, flirtatious expression. His hand rests naturally around her lower waist/hip.\nThe man wears an oversized black T-shirt. On the back of his T-shirt, reproduce the exact large handwritten-style phrase: “Trouble Finds Me” — “Trouble” in red and “Finds Me” in white, arranged vertically exactly like a vintage graphic print. The wording must be clearly readable and spelled EXACTLY: TROUBLE FINDS ME. Do not change, misspell, replace or add any words. Loose dark jeans, thin chain necklace and dark baseball cap. No glasses or sunglasses.\nThe woman has a slim feminine silhouette with a defined waist and narrow delicate shoulders. She wears a fitted white cropped tank top. Across the front of her top, reproduce the exact word “Trouble” in red vintage-style lettering, clearly readable and spelled EXACTLY: TROUBLE. Beneath it, add the small black text “SELF SENSITIVE CLUB”. Do not change or misspell the lettering. She also wears very short distressed denim shorts, layered delicate necklaces and a dark red cowboy hat. She casually holds a glass beverage bottle with both hands in front of her thighs.\nTattoos only if present in the supplied identity references; do not copy tattoos from the composition reference.\nBackground: green-felt pool table with billiard balls, dark wood bar interior, glowing vintage advertising signs and warm red string lights across the ceiling.\nStrong direct-camera flash mixed with dim warm bar lighting, deep shadows, reddish-brown tones, visible digital grain, mild softness, imperfect exposure, authentic Y2K point-and-shoot photography, spontaneous nightlife snapshot, realistic skin and clothing textures, photorealistic.\nNEGATIVE PROMPT\nmisspelled text, incorrect lettering, random letters, gibberish text, changed phrase, additional words, missing words, incorrect T-shirt print, incorrect tank-top print, glasses, sunglasses, altered identity, mixed identities, copied tattoos, random tattoos, broad female shoulders, masculine female body, exaggerated curves, exaggerated muscles, distorted anatomy, extra arms, extra hands, malformed fingers, duplicate people, cartoon, illustration, CGI, plastic skin, beauty filter, polished studio photography, modern luxury bar, daylight, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
