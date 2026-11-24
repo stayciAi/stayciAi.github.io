@@ -3009,5 +3009,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "297",
+    "title": "Petal Reverie",
+    "image": "prompt-297.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical \n romantic luxury fashion portrait of an adult woman, approximately 23–27 years old, reclining elegantly against an extravagant wall completely covered with dense fresh flowers in blush pink, lavender, lilac, cream and soft purple tones.\n\nUse the uploaded identity photo only for the woman’s appearance: preserve her recognizable facial features, face shape, skin tone, eye color, hair color and overall identity. Recreate the pose, facial expression, styling and composition of this scene.\n\nShe reclines diagonally against the floral wall, upper body slightly raised toward the camera. One arm is lifted beside her head with the hand resting softly in her hair, while the opposite hand rests naturally across the waist / upper thigh. One leg extends prominently across the lower foreground. Her lips are slightly parted and her gaze is directed confidently toward the camera with a soft glamorous expression.\n\nShe wears a luxurious white bridal-inspired corset bodysuit with structured cups, delicate lace panels and semi-sheer detailing, combined with long translucent white tulle gloves / sleeves and a flowing sheer white tulle overskirt draped around the hips and legs. Add a delicate white garter with a tiny flower detail on the upper thigh.\n\nBackground completely filled with lush realistic flowers — roses, ranunculus, hydrangeas and small blossoms — creating a dreamy couture floral installation.\n\nSoft diffused beauty lighting, luminous realistic skin, subtle shadows, detailed lace and tulle texture, natural flower petals, premium editorial photography, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, changed face, wrong eye color, wrong hair color, different pose, different expression, standing pose, missing flowers, sparse flowers, wrong outfit, colored corset, missing tulle, missing garter, excessive nudity, distorted anatomy, extra arms, extra legs, extra fingers, fused fingers, malformed hands, warped flowers, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 23%"
   }
 ];
