@@ -2085,5 +2085,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "213",
+    "title": "Autumn Goddess",
+    "image": "prompt-213.jpg",
+    "positive": "Create an ultra-photorealistic vertical 9:16 cinematic autumn fashion portrait of one adult woman standing in a wild autumn meadow, photographed from an extreme low ground-level angle looking upward. Preserve the dramatic pose and perspective: her body towers above the camera, one hand resting elegantly on her waist, the other raised near her neck, head slightly tilted back, while a gentle autumn wind moves her hair.\n\nShe wears a long flowing black semi-sheer couture dress with a fitted bodice and high thigh slit, creating a striking contrast against the warm golden landscape.\n\nTransform the scene into late golden autumn: tall dried grasses surround her, the ground is covered with orange, copper, amber and burgundy fallen leaves, and several leaves swirl through the air around her silhouette. Add a few large softly blurred leaves and grasses very close to the lens for dramatic depth.\n\nThe low autumn sun sits directly behind her, creating an intense golden halo around her hair and body, spectacular sun rays, lens flare and glowing edges on the floating leaves. In the distance are dark autumn trees beneath a dramatic cloudy sky. Warm amber and deep chocolate tones, strong backlighting, cinematic shadows, dreamy bokeh, subtle film grain, realistic skin and fabric, atmospheric editorial photography, powerful autumn WOW effect, photorealistic and highly detailed.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 12%"
   }
 ];
