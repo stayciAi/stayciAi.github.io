@@ -2261,5 +2261,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "229",
+    "title": "Golden Woodland",
+    "image": "prompt-229.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 2:3 romantic outdoor fashion portrait of an adult woman, approximately 23–27 years old, photographed beside a large tree in a warm sunlit woodland during golden hour.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, hairstyle, outfit and composition: she leans her back and shoulder lightly against the tree trunk, body angled sideways, with one knee raised and bent forward. One hand gently holds a section of hair near the shoulder while the other remains relaxed lower beside the body. Her head is turned slightly to the side, gaze directed away from the camera, lips softly parted with a dreamy calm expression.\n\nShe has narrow feminine shoulders, delicate shoulder width, a soft natural shoulder line and elegant upper-body proportions — never broad, square, bulky or muscular shoulders.\n\nShe wears a romantic white textured cropped blouse with a ruched bodice, front tie opening, long fitted sleeves and dramatic flared ruffle cuffs, paired with white layered ruffle shorts / mini skirt, white knee-high socks and tall dark brown leather boots.\n\nHair is worn very long, loose and softly wavy, preserving its natural characteristics from the identity image.\n\nWarm golden-hour sunlight filtering through trees, soft rim light around the hair, realistic woodland bokeh, natural skin texture, detailed white fabric and tree bark, dreamy feminine countryside aesthetic, 8K photorealistic editorial quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, broad shoulders, wide shoulders, square shoulders, muscular shoulders, bulky torso, different pose, both legs straight, standing away from tree, looking directly at camera, short hair, tied hair, wrong outfit, missing ruffles, dark clothing, sneakers, malformed hands, extra fingers, fused fingers, extra limbs, distorted legs, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
