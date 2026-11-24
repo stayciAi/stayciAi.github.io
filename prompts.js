@@ -2118,5 +2118,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 43%"
+  },
+  {
+    "id": "216",
+    "title": "Serpent Queen",
+    "image": "prompt-216.jpg",
+    "positive": "POSITIVE PROMPT\nUltra-realistic vertical 9:16 dark luxury beauty portrait of an adult woman, approximately 23–27 years old, photographed in an intimate close-up against a deep warm-black studio background.\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\nRecreate the pose, expression, styling and composition: tight portrait from upper chest upward, head tilted slightly toward one side, eyes gently closed and lips softly relaxed, creating a calm mysterious expression. A large realistic patterned python curves vertically along one side of her body and rests gently beside her cheek and temple, its head positioned close to the upper side of her face. The snake must appear calm and elegant, never aggressive.\nShe has narrow feminine shoulders, delicate shoulder width, soft elegant shoulder lines and balanced upper-body proportions — never broad, square, bulky or muscular shoulders.\nHair is worn long, loose and softly voluminous, framing the face and shoulders while preserving its natural characteristics from the identity image.\nShe wears a minimal black strapless top and a wide black choker with a polished gold circular ring detail at the center.\nWarm low-key studio lighting, deep shadows, subtle golden highlights across the skin and snake scales, realistic pores, glossy lips, highly detailed reptile texture, shallow depth of field, premium dark-fashion beauty photography, 8K photorealistic quality.\nNEGATIVE PROMPT\ndifferent identity, altered face, broad shoulders, wide shoulders, square shoulders, muscular shoulders, bulky torso, eyes open, exaggerated smile, different pose, short hair, updo, snake covering entire face, multiple snakes, aggressive snake, open snake mouth, biting, attacking, blood, injury, malformed snake, extra snake heads, distorted scales, wrong choker, missing gold ring, extra limbs, malformed anatomy, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 13%"
   }
 ];
