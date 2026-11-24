@@ -3042,5 +3042,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 13%"
+  },
+  {
+    "id": "300",
+    "title": "Elevated Attitude",
+    "image": "prompt-300.jpg",
+    "positive": "## POSITIVE PROMPT \n \nUltra-realistic 9:16 BLACK-AND-WHITE luxury fashion portrait of an adult woman, approximately 23–27 years old, photographed inside a sleek modern elevator. \n \nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance. Recreate the pose, expression, hairstyle, outfit and composition of this scene. \n \nShe leans casually against one side of the elevator, body in profile, with one leg extended dramatically straight across the frame and the boot pressed against the opposite wall, while the other leg remains grounded. One hand rests naturally on the raised thigh. Her expression is calm, confident and slightly aloof. \n \nHair is styled in a messy high bun with loose face-framing strands. She wears narrow black cat-eye sunglasses, oversized statement earrings, a short black ruffled mini dress, sheer black tights and dramatic glossy black thigh-high boots. \n \nMinimal metallic elevator interior, symmetrical doors behind her, clean reflective surfaces and cinematic monochrome atmosphere. Strong contrast, soft directional lighting, realistic fabric and patent-leather reflections, subtle film grain, premium editorial photography, 8K photorealistic quality. \n \n## NEGATIVE PROMPT \n \ndifferent identity, altered face, wrong eye color, wrong hair color, different pose, both feet on floor, bent raised leg, missing thigh-high boots, ankle boots, missing sunglasses, wrong outfit, long dress, colorful image, extra legs, extra arms, malformed hands, extra fingers, distorted boots, warped elevator, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 37%"
   }
 ];
