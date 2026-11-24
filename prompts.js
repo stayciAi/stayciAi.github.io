@@ -2613,5 +2613,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "261",
+    "title": "Raw Confidence",
+    "image": "prompt-261.jpg",
+    "positive": "Ultra-realistic vertical post-shower bathroom smartphone selfie of an adult man, preserving the exact facial identity, facial features, natural eye color, hair color, haircut and facial hair from the supplied identity reference. Do not change his recognizable appearance. No glasses. If the identity reference has no mustache, do not add one.\n\nHe is shirtless with a muscular athletic physique, defined broad chest, shoulders, arms and visible abs. His skin and hair are still wet after a shower, with realistic water droplets covering his shoulders, chest, arms and torso, subtle natural skin shine and moisture.\n\nThe photo is taken from a very low, close, wide-angle smartphone perspective, with one arm extended toward the camera, making the near shoulder and arm appear slightly larger because of natural lens perspective. His torso dominates the foreground. His head is turned strongly to the side toward the illuminated mirror, showing a masculine side/three-quarter profile rather than looking into the camera.\n\nA white bath towel is wrapped low and securely around his waist, and one hand naturally grips the edge of the towel near his hip. Non-explicit, tasteful post-shower styling.\n\nModern luxury bathroom with large warm-gray stone tiles, a white rectangular sink, chrome faucet and toiletries on the counter. A large rectangular wall mirror with bright integrated LED strips along its edges creates the strongest light source in the scene.\n\nMoody warm low-light bathroom photography, bright cool-white mirror illumination contrasting with darker ambient shadows, realistic highlights across wet skin and muscles, deep dimensional shadows defining the torso. Authentic spontaneous smartphone-photo aesthetic, slight wide-angle distortion, realistic pores and body hair, individual water droplets, detailed towel fibers, natural anatomy, photorealistic, no CGI, no illustration. Vertical 4:5 composition.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
