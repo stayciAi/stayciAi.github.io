@@ -2437,5 +2437,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "245",
+    "title": "Partners in Style",
+    "image": "prompt-245.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 9:16 black-and-white mirror selfie of an adult couple standing closely together inside a compact modern elevator.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix or alter their identities.\n\nRecreate the composition and pose: the woman stands in the foreground slightly to the left, turned three-quarters toward the mirror while holding a modern smartphone vertically in front of them to take the selfie. The man stands directly behind her, taller and partially obscured by her and the phone. Keep the close layered composition and natural height difference.\n\nBoth wear narrow rectangular black sunglasses. The woman has a slim feminine silhouette with narrow delicate shoulders and wears an oversized sporty racing-style jacket with graphic panels and relaxed sleeves. Her hair is sleek and tightly pulled back into a long braided ponytail. Minimal jewelry and a natural manicure. The man wears a simple dark oversized top or jacket with a clean minimalist silhouette.\n\nBackground: compact elevator interior with reflective dark metallic doors, vertical wood-textured wall panels, metal trim and bright ceiling lights. Preserve realistic mirror reflections and perspective.\n\nHigh-contrast monochrome photography, deep blacks, bright highlights, subtle smartphone grain, slightly imperfect exposure, crisp but natural details, dark urban fashion aesthetic, spontaneous late-night mirror selfie, realistic skin texture, authentic smartphone photography, photorealistic.\n\nNEGATIVE PROMPT\n\ncolor image, cartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, incorrect facial identity, mixed identities, distorted reflection, incorrect mirror perspective, duplicate people, extra people, extra arms, extra hands, extra fingers, malformed hands, fused fingers, distorted smartphone, floating phone, exaggerated muscles, broad female shoulders, incorrect body proportions, unnatural height difference, random tattoos, fake tattoos, distorted sunglasses, warped elevator walls, studio photography, professional fashion shoot, excessive blur, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
