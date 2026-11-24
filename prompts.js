@@ -1513,5 +1513,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "161",
+    "title": "Pretty Criminal",
+    "image": "prompt-161.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 moody cinematic portrait of an adult woman, approximately 23–27 years old, seated at a dark interrogation-style table in a dim room with a black leather chair behind her and a muted tiled wall background.\n\nIf an identity photo is supplied, preserve only the exact identity and natural facial features.\n\nShe leans forward over the table with a rebellious chaotic attitude, head tilted to one side, tongue out, both middle fingers raised, wrists joined by metal handcuffs resting near the table edge. Expression is wild, defiant and provocative.\n\nShe wears an orange prison-style button-up shirt with sleeves rolled up slightly. Include visible tattoos on both forearms and hands, long sharp manicure, bold winged eyeliner and glam makeup.\n\nLighting is low-key and dramatic, with a focused overhead / side light illuminating her face, hands and shirt while the background falls into deep shadow. Dark moody color grading, gritty atmosphere, realistic skin texture, natural shadows, premium cinematic photography, highly detailed, photorealistic.\n\nNEGATIVE PROMPT\n\nlow quality, blurry, soft face, extra fingers, missing fingers, bad hands, fused fingers, extra arms, distorted anatomy, duplicated tattoos, wrong gesture, closed mouth, no tongue out, smiling softly, standing pose, bright cheerful lighting, overexposed image, cartoon, anime, CGI, plastic skin, watermark, text, logo, low resolution.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
