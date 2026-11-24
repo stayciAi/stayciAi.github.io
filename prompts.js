@@ -2767,5 +2767,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "275",
+    "title": "Caught Being Cute",
+    "image": "prompt-275.jpg",
+    "positive": "Ultra-realistic vertical spontaneous nighttime close-up portrait of an adult woman leaning against a raw concrete wall in an outdoor city parking area, preserving the exact facial identity, facial features, natural eye color, hair color and hair length from the supplied identity reference. Do not change or beautify her recognizable appearance. Hair worn loose and natural, keeping its original color and length.\n\nRecreate the pose and interaction closely: her head and shoulder lean against the concrete wall, face tilted slightly upward. A man remains completely outside the frame — only his forearm and hand are visible, entering from the lower-right foreground. His hand gently but firmly cups her jaw and chin from underneath, fingers wrapping naturally along the side of her face. Do not show the man’s face or body.\n\nHer expression is playful and provocative: eyes rolled dramatically upward so she is looking toward the top of the frame, broad smile with white teeth visible, tongue fully sticking out. Natural flushed cheeks and spontaneous candid energy.\n\nShe wears a casual muted olive/khaki zip-up top, slightly relaxed fit, with small minimalist silver hoop earrings. Natural glam makeup: long defined lashes, groomed brows, luminous skin, rosy flushed cheeks and glossy natural lips.\n\nBackground: nighttime open-air urban parking lot with parked cars, concrete pavement, distant modern high-rise buildings and scattered illuminated windows. City lights softly blurred into bokeh.\n\nShot from very close range with a smartphone, slightly above face level, wide-angle close-up perspective. Strong direct smartphone flash brightly illuminates her face, the man’s hand and the concrete wall, creating hard realistic shadows and slightly overexposed highlights while the city background remains dark. Authentic skin texture, pores, tiny imperfections and natural facial asymmetry, slight digital grain, casual nightlife snapshot aesthetic, photorealistic, no CGI, no plastic skin. Vertical 3:4 composition.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
