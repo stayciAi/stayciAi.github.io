@@ -2481,5 +2481,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "249",
+    "title": "Preppy Chic",
+    "image": "prompt-249.jpg",
+    "positive": "Use the uploaded photograph of the woman as the sole source of her appearance. Strictly preserve her real, individual facial features, head shape, eyes, eyebrows, nose, lips, facial contours, natural asymmetry, age, and skin tone. Do not copy the appearance of the woman from the composition reference. Preserve the hair color, length, and texture exactly as shown in the uploaded photograph. Do not alter her facial identity or crop out the top of her head or hair.\n\nA photorealistic, stylish street-fashion photograph of a young adult woman posing against a light-colored brick wall. She is sitting on or leaning against a low ledge by the wall, with her torso slightly turned toward the camera. One leg is bent and raised, while the other is positioned lower. One hand is placed near her waist beneath the edge of the blazer, while the other rests casually near her thigh. Her head is slightly raised and turned slightly to the side, with a confident gaze directed straight into the camera and her lips closed. The pose is relaxed, confident, and slightly edgy, resembling a shot from a contemporary fashion campaign.\n\nShe is wearing a soft black beret with a small, round white graphic badge on the front. A loose, oversized gray menswear-style blazer with defined shoulder lines, while her natural shoulders remain narrow and feminine. Underneath the blazer, she wears a fitted, cropped white shirt with the upper buttons undone and an open collar. A long charcoal-gray plaid tie is loosely knotted around her neck, with its end extending almost to the skirt.\n\nHer figure is feminine, with narrow shoulders, a slim waist, and an approximately size 4 bust with a naturally rounded shape proportional to her body. The shirt accentuates her bust while keeping it fully covered. Her midriff is exposed, with a well-defined waist. A delicate, minimalist waist chain adorns her waist.\n\nThe bottom consists of a very short, high-waisted, creamy off-white pleated mini skirt with soft, wide pleats and realistic, substantial fabric. The skirt fully covers her intimate areas. Her legs are bare. A neat, light-colored manicure with long, feminine nails.\n\nMakeup: polished soft glam — an even, natural complexion with preserved skin texture and visible pores, soft contouring, neatly defined and expressive eyebrows, neutral brown-beige eyeshadow, thin, softly blended winged eyeliner, long eyelashes, subtle highlighter,…",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 35%"
   }
 ];
