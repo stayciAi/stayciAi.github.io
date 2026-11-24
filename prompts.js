@@ -2778,5 +2778,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "276",
+    "title": "Queen of the Enchanted Forest",
+    "image": "prompt-276.jpg",
+    "positive": "Create an ultra-photorealistic vertical 9:16 cinematic autumn fantasy fashion portrait of one adult woman in an enchanted forest. Shoot from a dramatic low angle with strong perspective: she sits elegantly on the forest floor among enormous red-and-white fly agaric mushrooms, with several giant mushroom caps towering above and around her. Preserve the surreal oversized mushroom concept and luxurious editorial composition.\n\nDress her in a deep black glossy leather corset dress with a fitted structured waist, long dramatic sleeves and a flowing black skirt, paired with black glossy knee-high platform boots with multiple silver buckles and an ornate dark metallic gothic crown. The black outfit must strongly contrast with the warm autumn environment and must not blend into the leaves or mushrooms.\n\nSurround her with an abundance of golden, burnt-orange, copper and deep-red autumn leaves covering the forest floor, floating through the air and softly blurred close to the lens. Add moss, damp earth, subtle mist and countless giant red fly agaric mushrooms with white spots. Warm golden rays filter through the forest canopy, illuminating drifting leaves and creating spectacular volumetric light, cinematic depth and a magical WOW effect. Rich autumn colors, dramatic shadows, realistic skin and fabric textures, glossy leather reflections, shallow depth of field, high-fashion fantasy editorial, photorealistic, luxurious, atmospheric, extremely detailed.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
