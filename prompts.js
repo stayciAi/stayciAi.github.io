@@ -1590,5 +1590,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "168",
+    "title": "Subway Groove",
+    "image": "prompt-168.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Preserve his recognizable facial features, hair, eye color, skin tone, physique, and individual characteristics as accurately as possible. **Do not alter his appearance or create a new identity.**\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever. If a beard is present, it must be confined to the chin, lower cheeks, and jawline, without extending onto the upper lip.**\n\nCreate an **ultra-realistic vertical 9:16 photograph of an adult man inside a subway car**, replicating the reference image as accurately as possible in terms of composition, pose, camera angle, clothing, and atmosphere.\n\nThe man is sitting casually on a **bright orange molded plastic seat**, with his legs spread wide apart. He is wearing a white tank top layered underneath a loose, unbuttoned black short-sleeved shirt, wide-leg black trousers, and white sneakers. He is wearing large black over-ear headphones.\n\nIn one lowered hand, he holds a **small aluminum beverage can**, while his other hand is raised near a metal handrail, with his fingers relaxed. His head is tilted slightly backward, his eyes are closed, and his face displays a **wide, natural, joyful smile**, as though he is completely immersed in the music.\n\nThe camera is positioned **high above the man at a diagonal angle, pointing downward**, creating the distinctive perspective of the reference image. The man occupies the central portion of the frame, with his widely spread legs and white sneakers extending toward the bottom edge of the image.\n\nThe interior resembles an authentic urban subway car: metal walls and doors, chrome handrails, a dark floor, a row of orange seats, and informational signs. Warm, muted lighting, subtle film grain, and a stylish **vintage urban lifestyle aesthetic**.\n\n**Maximum photorealism:** natural skin with visible texture, anatomically accurate hands and fingers, realistic fabric, metal, and plastic textures, and natural shadows. The photograph should look like an authentic, spontaneous, stylish candid shot taken inside a subway car, with no artificial or AI-generated appearance.\n\n**Aspect ratio: 9:16.**\n\n**Negative prompt:** mustache, thin mustache, stubble above the upper lip, facial hair above the upper lip, connected beard and mustache, altered appearance, different face, altered hair or eyes, additional people, extra limbs, extra fingers, deformed hands, incorrect pose, missing headphones, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, studio lighting, blurred face, text artifacts, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
