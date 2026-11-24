@@ -2470,5 +2470,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 25%"
+  },
+  {
+    "id": "248",
+    "title": "Crystal Reflections",
+    "image": "prompt-248.jpg",
+    "positive": "Ultra-realistic sensual nighttime mirror portrait of an adult woman posing in front of a large ornate vintage mirror in a dark luxurious interior. Preserve the exact facial identity, facial features, natural eye color, hair color and hair length from the supplied identity reference. Do not change her recognizable appearance.\n\nThe composition is photographed through the mirror reflection. Her reflection is the main subject in the center, while part of her real body and hair appears heavily blurred in the extreme left foreground, creating depth and an intimate candid effect.\n\nShe is seated/leaning backward in a relaxed sensual pose, torso slightly reclined, one leg bent and raised, one hand resting naturally near her upper thigh while the other supports her body behind her. Confident dreamy expression, gaze directed toward her own reflection/camera.\n\nShe wears a fitted silver-white crystal and rhinestone mini dress, with thin straps, a deep sculpted neckline and semi-sheer sparkling panels. Feminine hourglass proportions, narrow delicate shoulders, pronounced full bust, slim waist and curvy hips.\n\nHair styled in very voluminous long glamorous waves, slightly tousled and cascading over one shoulder. Preserve the original hair color from the identity reference.\n\nDark luxurious room with vintage wooden details, decorative objects and an oversized antique mirror with a thick intricately carved metallic frame. The environment remains mostly hidden in darkness.\n\nDramatic deep violet, purple and magenta ambient lighting fills the entire scene, with subtle pink highlights reflecting from the mirror and sparkling dress. Low-light photography, soft cinematic grain, slightly dreamy diffusion, deep shadows, realistic mirror reflections, moody nightclub atmosphere.\n\nLuxury after-dark editorial photography, realistic skin texture, natural highlights, individual hair strands, highly detailed crystals and fabric, atmospheric low-light exposure, photorealistic, no CGI, no illustration. Vertical 4:5 composition.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
