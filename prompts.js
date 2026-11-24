@@ -2965,5 +2965,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "293",
+    "title": "Autumn Solitude",
+    "image": "prompt-293.jpg",
+    "positive": "Универсальный мужской промпт:\n\nUltra-realistic vertical cinematic autumn portrait of an adult man sitting on the weathered wooden steps of a rustic dark wooden house, preserving the exact facial identity, facial features, natural eye color, hair color, hairstyle and facial hair from the supplied identity reference. Do not change his recognizable appearance. No glasses. If the identity reference has no mustache, do not add one.\n\nHe wears a dark charcoal wool overcoat casually draped over his shoulders, a thick textured taupe/brown cable-knit turtleneck sweater, fitted black trousers and dark shoes. Masculine, expensive understated autumn styling.\n\nRecreate the pose closely: he sits sideways on the edge of the wooden porch steps, one leg bent upward and the other extended diagonally toward the foreground, creating strong perspective. His torso leans slightly forward; one hand rests naturally near his raised knee while the other rests beside him on the wooden step. His head is slightly lowered and turned to the side, eyes looking downward with a calm, thoughtful expression.\n\nSurround him with a rich late-autumn atmosphere: scattered dry orange and brown maple leaves covering the old wooden steps and ground, an autumn tree with rusty-orange foliage framing the left side, dark timber walls and a rustic porch behind him. Moody overcast weather, cool muted daylight, earthy brown, charcoal and burnt-orange palette.\n\nShot from a slightly low three-quarter angle, medium-full body framing, with the extended leg appearing closer to the lens. Soft natural cloudy light, gentle shadows, shallow depth of field, subtle background blur, realistic skin and fabric texture, detailed knitwear and weathered wood, cinematic editorial photography, slightly desaturated autumn grading, natural film grain, photorealistic, no CGI, no plastic skin. Vertical 3:4 composition.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
