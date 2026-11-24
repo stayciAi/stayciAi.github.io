@@ -2393,5 +2393,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "241",
+    "title": "Dark Obsession",
+    "image": "prompt-241.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 9:16 dark cinematic editorial portrait of an adult couple, photographed in a moody black studio-like interior with dramatic low-key lighting.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, natural eye color, hair color, skin tone and overall appearance. Do not mix, redesign or beautify their facial identities.\n\nRecreate the composition and pose: the woman sits in the foreground facing directly toward the camera, while the man stands closely behind her, leaning forward over her shoulders. He gently places one hand on the top of her head while his other hand rests horizontally across the front of her mouth in a clearly posed, theatrical gesture without force or distress. The woman looks directly into the camera with an intense, calm expression. Her hands are held together close beneath her chin. Keep their bodies close and the composition centered and symmetrical.\n\nThe woman has a slim feminine silhouette with narrow delicate shoulders and long softly waved hair falling over one shoulder. She wears a fitted black gothic-inspired corset-style top with satin details and lace-up elements. The man has a tall, naturally muscular masculine build with broad shoulders and wears a fitted black sleeveless tank top. Tattoos only if present in the supplied identity reference images.\n\nMinimal dark accessories: layered metallic necklaces, several rings and a dark metallic wristwatch. Avoid excessive jewelry.\n\nBackground almost completely black with subtle atmospheric haze. Dramatic cinematic lighting with cool blue rim light from one side and subtle warm amber edge light from the opposite side, deep sculpted shadows, controlled highlights on faces, hair and shoulders.\n\nDark luxury gothic aesthetic, realistic skin pores and texture, deep blacks, subtle film grain, shallow depth of field, high contrast, cinematic photographic realism, intimate mysterious atmosphere, professional editorial photography, photorealistic.\n\nNEGATIVE PROMPT\n\nviolence, choking, strangulation, forceful restraint, visible distress, fear, injury, bruises, blood, wounds, gore, aggressive expression, cartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, altered identity, mixed facial identities, distorted faces, incorrect anatomy, broad female shoulders, exaggerated female muscles, exaggerated male muscles, extra arms, extra hands, extra fingers, malformed hands, fused fingers, hand covering nose, distorted hand over mouth, duplicate limbs, duplicate people, copied tattoos, random tattoos, excessive jewelry, bright background, daylight, flat lighting, colorful background, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 0%"
   }
 ];
