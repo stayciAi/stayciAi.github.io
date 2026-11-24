@@ -2382,5 +2382,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 35%"
+  },
+  {
+    "id": "240",
+    "title": "Midnight Sophistication",
+    "image": "prompt-240.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever. If a beard is present, it must be confined to the chin, lower cheeks, and jawline.**\n\nCreate an **ultra-realistic vertical 9:16 photograph of an adult man seated at a table in a stylish restaurant or café**, replicating the reference image as accurately as possible in terms of composition, pose, clothing, camera angle, and lighting.\n\nThe man is sitting casually at the table, with his torso leaning slightly backward, his shoulders relaxed, and his head tilted slightly to one side. He looks directly into the camera with a calm, confident expression. He is wearing a **black turtleneck sweater and a loose-fitting, textured black cardigan**, paired with round dark sunglasses in thin metal frames.\n\nThe shot is framed approximately **from the waist up, at the eye level of a person seated opposite him**. A white plate, cutlery, and clear drinking glasses are softly blurred in the foreground, creating the authentic feel of a spontaneous restaurant photograph.\n\nThe interior is dark, cozy, and luxurious, with **warm golden lights, soft bokeh, table setting details, and flowers** in the background. A narrow beam of warm natural light falls across the man's face from the side, creating striking contrasts between light and shadow and a cinematic sense of depth.\n\nMaximum photorealism: natural skin texture, realistic textures of black clothing, glassware, and tableware, shallow depth of field, and subtle film grain. The aesthetic of a **luxurious, moody restaurant lifestyle portrait**, with no artificial or AI-generated appearance.\n\n**Aspect ratio: 9:16.**\n\n**Negative prompt:** mustache, thin mustache, stubble or facial hair above the upper lip, altered appearance, different face, incorrect pose, missing sunglasses, additional people in the center of the frame, deformed hands, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, overly bright interior, cold studio lighting, text, logos, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
