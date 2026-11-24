@@ -2866,5 +2866,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "284",
+    "title": "Vintage Romance",
+    "image": "prompt-284.jpg",
+    "positive": "Ultra-realistic candid nightlife photo of an adult couple in an elegant wine bar/restaurant, preserving the exact recognizable facial identity, facial features, natural eye color, hair color and hairstyle of each person from their supplied identity references. Do not merge or interchange their identities.\n\nThe man sits on a bar stool on the left, wearing a crisp fitted white button-up shirt with sleeves slightly rolled up and black trousers. No glasses, no mustache. He smiles naturally while looking toward the woman.\n\nThe woman sits sideways on his lap, leaning affectionately against him with a joyful natural smile, her head close to his. She wears a glamorous deep burgundy-red two-piece evening outfit: a draped halter-style top with a high neckline and a dramatic open center revealing the midriff, paired with a fitted low-rise maxi skirt. Feminine hourglass figure, narrow delicate shoulders, pronounced bust, slim waist and curvy hips.\n\nOne of her arms wraps naturally around his neck/head while her other arm extends casually toward the chair/bar beside them. The man has one arm around her waist and one hand resting naturally on her outer hip/upper thigh. Their pose should feel affectionate, playful and spontaneous rather than staged.\n\nBehind them is a dramatic floor-to-ceiling glass-front wine cabinet completely filled with rows of wine bottles, dark wooden framing and warm ambient restaurant lighting. Marble bar counter visible at the bottom of the frame.\n\nDirect on-camera flash photography, bright crisp illumination on the couple with a darker warm background, realistic flash reflections on the glass and bottles, subtle motion blur in her raised hand, authentic spontaneous nightlife Instagram aesthetic. Realistic skin texture, pores, natural facial details, detailed fabric, correct hands and anatomy, photorealistic, no CGI, no illustration. Vertical 4:5 composition.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
