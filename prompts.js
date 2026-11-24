@@ -2525,5 +2525,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "253",
+    "title": "Stolen Kisses",
+    "image": "prompt-253.jpg",
+    "positive": "Ultra-realistic vertical close-up smartphone selfie of an adult couple, preserving the exact recognizable identity, facial features, natural eye color, hair color and hairstyle of each person from their supplied identity references. Do not merge, average or interchange their faces.\n\nThe woman is in the foreground, facing the camera in a close-up selfie. She wears an oversized black leather jacket over a black top. Her hair falls smoothly around her shoulders; preserve its original color and length from her reference. Glamorous makeup: defined brows, long lashes, soft winged eyeliner, luminous skin, subtle natural freckles across the cheeks and nose, and glossy nude-pink lips. Her lips are slightly parted and she looks directly into the camera.\n\nThe man is directly behind her, leaning closely over her shoulder and kissing/nuzzling the side of her neck just below the ear. One side of his face remains partially visible. He wears a black hoodie and a dark baseball cap worn backward. No glasses, no mustache; preserve his facial identity and natural facial hair from his reference except for the mustache.\n\nHis arm comes naturally around her from behind, with one hand gently wrapped around the front/side of her neck, fingers relaxed and clearly visible, creating an intimate affectionate couple pose. Correct hand anatomy, five natural fingers, realistic grip, no distortion.\n\nTight chest-up composition, woman centered and dominating the foreground, man partially hidden behind her left side. Camera held slightly below/at face level, authentic spontaneous couple selfie.\n\nBright modern interior beside a large window, soft cool daylight coming from behind and from the side, slightly overexposed window background with subtle details on the glass. Natural smartphone HDR, realistic skin texture and pores, individual hair strands, detailed leather texture, soft natural shadows, intimate Instagram aesthetic, photorealistic, no CGI, no illustration. Vertical 9:16 format.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
