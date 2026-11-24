@@ -2877,5 +2877,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "285",
+    "title": "Skyline Kiss",
+    "image": "prompt-285.jpg",
+    "positive": "Универсальный промпт для пары:\n\nUltra-realistic luxury travel photograph of an adult couple embracing intimately in a rooftop infinity pool in Dubai, preserving the exact recognizable facial identity, facial features, natural eye color, hair color and hairstyle of each person from their supplied identity references. Do not merge, average or interchange their identities.\n\nThe man stands waist-deep in the turquoise infinity pool, shirtless, with a masculine athletic physique. Preserve tattoos only if they are present in his identity reference; do not invent tattoos. No glasses, no mustache. He holds the woman securely around her waist and lower back.\n\nThe woman is wrapped around him, sitting against his body with both legs naturally wrapped around his waist. One arm is around his shoulders while her other hand rests gently against the side of his neck and jaw. Their bodies are pressed closely together and they are kissing, shown mostly in romantic side profile. Feminine hourglass proportions, narrow delicate shoulders, pronounced bust, slim waist and curvy hips.\n\nShe wears a minimalist fitted white swimsuit with a deep neckline, elegant and luxurious. Preserve her original hair color and length from the identity reference; her hair falls naturally down her back and appears slightly damp from the pool.\n\nThe couple occupies the lower-center foreground while the spectacular Dubai skyline fills the background, with the Burj Khalifa perfectly centered directly behind them, rising dramatically high into the clear blue sky. Rooftop infinity-pool edge visually merges with the city horizon. Modern skyscrapers surrounding the Burj Khalifa must be clearly recognizable and realistically proportioned.\n\nBright sunny midday, strong natural sunlight, realistic wet skin with sparkling water droplets, crisp reflections and ripples across turquoise water, subtle highlights on their bodies, clear blue sky with slight atmospheric haze over the distant city.\n\nLuxury vacation Instagram photography, slightly wide-angle perspective, camera approximately at water/chest level, expansive skyline visible above the couple, natural depth, realistic skin texture and pores, detailed wet hair, authentic water physics, correct hands and anatomy, photorealistic, no CGI, no illustration. Vertical 4:5 composition.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
