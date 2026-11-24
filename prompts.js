@@ -2217,5 +2217,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "225",
+    "title": "Private Passion",
+    "image": "prompt-225.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 intimate black-and-white mirror selfie of an adult couple indoors, captured in a dim private interior.\n\nIf identity photos are supplied, preserve only their exact recognizable identities, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose and composition: the man stands with his bare back facing the mirror and camera, positioned in the foreground with his head slightly turned toward the woman. The woman stands closely behind him, partially visible over his shoulder, kissing him intimately. One arm wraps around the back of his neck, her hand resting naturally against his neck, while her other hand holds a modern smartphone in front of the mirror to take the photo.\n\nThe man has a naturally athletic masculine physique with broad shoulders and a defined back, realistic anatomy without exaggerated bodybuilding proportions. The woman has a slim feminine silhouette, narrow delicate shoulders and natural proportions. Their bodies are very close together.\n\nThe woman wears a delicate lace bodysuit or lace lingerie-style top, elegant and tasteful. Minimal jewelry, subtle bracelet, long natural manicure. The man is shirtless.\n\nDark modern interior, large rectangular wall mirror with a metallic frame, subtle wood-textured walls, minimal background details.\n\nMonochrome black-and-white photography, low-key lighting, deep shadows, soft highlights across the man’s back and shoulders, realistic skin texture, subtle film grain, sensual private atmosphere, authentic spontaneous mirror selfie, slightly imperfect smartphone quality, photorealistic.\n\nNEGATIVE PROMPT\n\ncolor image, cartoon, illustration, CGI, plastic skin, excessive retouching, distorted anatomy, exaggerated muscles, unnaturally broad female shoulders, incorrect proportions, extra arms, extra hands, extra fingers, missing fingers, fused fingers, malformed hands, duplicated limbs, distorted reflection, duplicate people, extra people, incorrect mirror perspective, floating phone, deformed smartphone, unnatural embrace, disconnected bodies, distorted faces, fake tattoos, random tattoos, excessive accessories, studio lighting, professional photoshoot look, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
