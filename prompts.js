@@ -2910,5 +2910,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "288",
+    "title": "Wild West Romance",
+    "image": "prompt-288.jpg",
+    "positive": "POSITIVE PROMPT\nUltra-realistic vertical 4:5 intimate Western-inspired lifestyle portrait of an adult couple inside a rustic barn or stable filled with hay, captured in soft natural daylight.\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, natural eye color, hair color, hairstyle characteristics, skin tone and overall appearance. Do not mix, beautify or alter their identities.\nRecreate the pose and composition: the woman is positioned on the left, sitting or leaning backward against a large pile of hay, while the man stands extremely close in front of her on the right. Their bodies are facing each other. The woman tilts her upper body slightly backward and turns her face toward the camera with a soft, confident expression. The man looks downward toward her face.\nThe man gently places one hand beneath the woman’s chin/along the side of her neck, while his other hand rests naturally on her waist and lower abdomen. Keep the interaction intimate, relaxed and clearly consensual.\nThe woman has a slim feminine silhouette with a defined waist and narrow delicate shoulders. She wears a fitted white cropped tank top, short light-colored floral shorts and an oversized tan workwear jacket loosely falling off her arms. A large black cowboy hat sits on her head.\nThe man has a tall, naturally masculine athletic build with broad shoulders. He wears a light cream workwear jacket over a dark shirt, black jeans and a large white cowboy hat with a thin brown leather band. No glasses and no sunglasses.\nTattoos only if actually present in the supplied identity references. Do not copy, invent or add tattoos from the composition reference.\nBackground: rustic barn interior with corrugated metal walls and roof, dark wooden support beams and large piles of dry hay surrounding the couple. Soft daylight enters naturally through openings in the structure.\nWarm neutral tones, realistic skin texture, natural shadows, slightly muted country color palette, subtle film grain, candid intimate chemistry, authentic modern Western aesthetic, realistic clothing and hay textures, spontaneous lifestyle photography, photorealistic.\nNEGATIVE PROMPT\nglasses, sunglasses, copied tattoos, random tattoos, fake tattoos, broad female shoulders, masculine female body, exaggerated curves, exaggerated muscles, altered identity, mixed identities, distorted faces, aggressive interaction, choking, strangulation, visible distress, incorrect hand placement, extra arms, extra hands, extra fingers, malformed hands, duplicate people, distorted cowboy hats, missing cowboy hats, woman wearing white hat, man wearing black hat, studio background, luxury interior, cartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
