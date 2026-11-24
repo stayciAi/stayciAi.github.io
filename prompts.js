@@ -2954,5 +2954,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "292",
+    "title": "Urban Transit",
+    "image": "prompt-292.jpg",
+    "positive": "Ultra-realistic vertical street-style fashion photograph of an adult man standing on a modern subway/metro platform, preserving the exact facial identity, facial features, natural eye color, hair color, hairstyle and facial hair from the supplied identity reference. Do not change or beautify his recognizable appearance. No glasses. If the identity reference has no mustache, do not add one.\n\nHe stands casually near the platform edge while a white metro train rushes past directly behind him, creating strong realistic horizontal motion blur in the train and windows while the man remains sharply focused.\n\nHe wears a dark chocolate-brown oversized suede/leather bomber jacket left open, an ivory/off-white fitted ribbed knit sweater, relaxed high-waisted charcoal-gray pleated trousers and a black leather belt. A dark brown leather shoulder/travel bag hangs at his side. Elegant masculine autumn outfit, expensive understated European street style.\n\nPose: relaxed confident stance, torso facing mostly toward the camera while his head is turned to the side, looking away from the lens. One hand lightly grips the open edge of his jacket near the waist while the other is casually positioned near/in the jacket pocket. Natural candid body language, as if photographed unexpectedly while waiting for the train.\n\nModern underground station with a dark slatted ceiling, neutral platform surfaces and a fast-moving white train filling almost the entire background. Warm interior lights from the train contrast subtly with the cooler station environment.\n\nShot at approximately waist-to-head / three-quarter framing, eye-level smartphone or compact-camera perspective, slight spontaneous handheld feeling. Subject tack-sharp with realistic background motion blur, shallow-to-moderate depth of field, natural ambient station lighting, realistic skin texture and pores, detailed fabric textures, subtle cinematic contrast, authentic luxury Instagram street photography, photorealistic, no CGI, no artificial plastic skin. Vertical 3:4 composition.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
