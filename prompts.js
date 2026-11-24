@@ -2855,5 +2855,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "283",
+    "title": "Playful Devotion",
+    "image": "prompt-283.jpg",
+    "positive": "Ultra-realistic vertical close-up nightlife smartphone photo of an adult couple, preserving the exact recognizable facial identity, facial features, natural eye color, hair color and hairstyle of each person from their supplied identity references. Do not merge or interchange their identities.\n\nThe woman stands in the foreground, very close to the camera, while the man stands directly behind her with his head gently leaning against hers. She looks into the camera with a playful expression, one eye closed in a wink and lips slightly parted. She wears oval brown translucent-frame glasses and a fitted dark-brown lace camisole/corset-style top with thin straps. Long sleek hair with a center part falls naturally over her chest and shoulders. Glamorous soft makeup, long lashes, glossy nude-pink lips and subtle natural freckles.\n\nThe man stands behind her, wearing a relaxed dark-gray oversized T-shirt, a dark baseball cap worn backward, small earrings and a thin silver chain with a cross pendant. No glasses. Preserve his facial hair exactly from his identity reference; if his reference has no mustache, do not add one. His arm wraps casually around the woman from behind, with his forearm crossing naturally in front of her shoulders/chest and his hand relaxed near her hair.\n\nPreserve any tattoos that are actually present in the supplied identity references; do not invent additional tattoos. Correct hands, five natural fingers, realistic anatomy.\n\nTight intimate chest-up composition, woman dominating the foreground and man slightly higher behind her. Dark stylish bar/nightclub interior with warm amber-brown wall panels and very dim background details.\n\nStrong direct smartphone flash, brightly illuminated faces against a dark nightlife background, deep natural shadows, realistic flash highlights on skin, glasses and jewelry. Candid Instagram nightlife aesthetic, realistic pores and skin texture, individual hair strands, subtle imperfections, authentic phone-camera sharpness, photorealistic, no CGI, no illustration. Vertical 9:16 format.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
