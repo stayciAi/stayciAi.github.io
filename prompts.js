@@ -2371,5 +2371,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "239",
+    "title": "Autumn Gentleman",
+    "image": "prompt-239.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever.**\n\nCreate an **ultra-realistic vertical 9:16 photograph of an adult man standing under an umbrella in autumn**, replicating the reference image as accurately as possible in terms of composition, pose, clothing, camera angle, and atmosphere.\n\nThe man is standing on a wet sidewalk in front of a dense hedge covered in **vibrant golden-yellow and orange autumn leaves**. A large **classic black umbrella with a curved wooden handle** is open above him. He holds the umbrella near his chest with one hand, while the other rests casually in his trouser pocket. His head is turned slightly to the side, with his gaze directed beyond the frame.\n\nHe is wearing an elegant layered outfit consisting of a **gray turtleneck sweater, a classic gray tailored suit, a long dark brown wool overcoat**, and dark brown boots. **No glasses or sunglasses.**\n\nNearly full-length framing from a natural camera height. Wet pavement, fallen leaves, overcast weather after rainfall, and soft, diffused daylight. The warm autumn foliage contrasts beautifully with his dark, sophisticated attire.\n\nMaximum photorealism: natural skin texture, realistic wool coat texture, wet pavement, water droplets on the umbrella, natural clothing folds, and a soft depth of field. The aesthetic of **elegant European autumn street-style photography**, with no artificial or AI-generated appearance.\n\n**Aspect ratio: 9:16.**\n\n**Negative prompt:** mustache, stubble or facial hair above the upper lip, glasses, altered appearance, different face, incorrect pose, missing umbrella, closed umbrella, hand outside the trouser pocket, green summer foliage, sunny weather, additional people, deformed hands, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, text, logos, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 35%"
   }
 ];
