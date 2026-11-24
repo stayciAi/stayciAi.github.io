@@ -2074,5 +2074,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 16%"
+  },
+  {
+    "id": "212",
+    "title": "Autumn Enchantress",
+    "image": "prompt-212.jpg",
+    "positive": "Create an ultra-photorealistic vertical 9:16 cinematic dark autumn fantasy fashion portrait of one adult woman standing in an enchanted late-autumn forest. Preserve the dramatic composition: she stands slightly turned to the side, head turned away from the camera, with an elegant mysterious expression and relaxed sensual posture.\n\nShe wears a long flowing black off-the-shoulder couture gown with a fitted corset bodice, voluminous sleeves and a high thigh slit. The dark dress creates a powerful contrast with the warm autumn environment.\n\nSurround her with giant surreal autumn plants and enormous dark sculptural flowers, towering above her like an enchanted forest. The ground is densely covered with golden, copper, burnt-orange and deep burgundy fallen leaves, with leaves also drifting through the air and several large blurred leaves close to the lens. Add twisted branches, moss, subtle mist and glowing amber foliage in the distance.\n\nStrong golden sunset rays break through the dark forest and illuminate the edges of the giant plants, her silhouette and floating leaves. Deep cinematic shadows, warm amber backlight, atmospheric haze, dramatic volumetric light, rich autumn colors, dreamy depth of field, subtle film grain. Dark autumn fairytale, mysterious luxury editorial, magical WOW effect, realistic skin and fabric textures, photorealistic, extremely detailed, cinematic photography.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
