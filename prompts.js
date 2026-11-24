@@ -1546,5 +1546,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 42%"
+  },
+  {
+    "id": "164",
+    "title": "Autumn Gold",
+    "image": "prompt-164.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever.**\n\nCreate an **ultra-realistic autumn portrait of an adult man in a forest**, replicating the provided reference image as accurately as possible in terms of composition, pose, framing, clothing, branch placement, and lighting.\n\nThe man stands **directly in the center of the frame, facing the camera**, with his torso upright and his arms hanging naturally at his sides. His facial expression is calm, serious, and confident, with his gaze directed straight into the camera lens. The shot is framed approximately **from mid-thigh up**, with the camera positioned at a natural viewing height.\n\nThe man is wearing a **mustard-orange hoodie layered underneath a brown leather jacket**, featuring natural signs of wear and realistic leather texture.\n\nHe is surrounded by a dense autumn forest in warm **golden, amber, and brown tones**. A thin branch with yellow-orange leaves extends above his head, beautifully framing the upper part of the composition. Several large, blurred leaves are positioned very close to the camera lens in the foreground.\n\nBehind the man are tall, vertical tree trunks and **bright golden bokeh created by sunlight**, producing a warm, luminous atmosphere. Shallow depth of field, with the man's face in sharp focus while the background and foreground leaves are softly blurred.\n\nMaximum photorealism: natural skin texture, realistic jacket leather and hoodie fabric, natural lighting, and subtle film grain. The aesthetic of an **atmospheric autumn cinematic lifestyle portrait**, with no artificial or AI-generated appearance.\n\n**Negative prompt:** mustache, stubble or facial hair above the upper lip, altered appearance, different face, incorrect pose, looking away from the camera, glasses, additional people, green summer foliage, cold lighting, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, text, logos, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 42%"
   }
 ];
