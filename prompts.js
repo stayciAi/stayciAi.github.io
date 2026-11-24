@@ -1766,5 +1766,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "184",
+    "title": "Heart of Fire & Ice",
+    "image": "prompt-184.jpg",
+    "positive": "POSITIVE PROMPT\nUltra-realistic vertical 9:16 dark fantasy luxury fashion portrait of an adult woman, approximately 23–27 years old, photographed in a dramatic black studio environment surrounded by fire, ice and shattered crystal.\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\nRecreate the pose, expression, outfit and composition: she is seated facing slightly sideways, head lifted gracefully, with a sheer black blindfold wrapped across her eyes. One arm is raised elegantly while she delicately holds a long ornate silver arrow horizontally between her fingers. Her lips are softly parted, creating a mysterious, powerful expression.\nShe wears a dramatic black sculptural corset dress with metallic crystal embellishments, feathered textures and a fitted couture bodice. Behind her spread enormous black crystalline wings, sharp and reflective like shattered obsidian glass.\nAbove her floats a huge broken crystal heart divided into two contrasting halves: the left half glowing red-orange and engulfed in realistic flames, the right half made of icy transparent blue crystal covered with frost and frozen fractures. Smaller shattered crystal hearts and fragments float throughout the scene.\nCinematic red firelight from one side and cold blue-white light from the opposite side, deep black background, dramatic reflections, atmospheric smoke, sparkling glass particles, realistic flames and ice, premium dark-fantasy editorial photography, 8K photorealistic quality.\nNEGATIVE PROMPT\ndifferent identity, altered face, eyes visible through blindfold, missing blindfold, missing arrow, distorted arrow, arrow piercing body, blood, injury, gore, missing wings, feather angel wings, small wings, missing broken heart, intact heart, cartoon flames, fake ice, excessive fire covering subject, extra arms, extra fingers, fused fingers, malformed hands, distorted anatomy, plastic skin, CGI-looking face, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 96%"
   }
 ];
