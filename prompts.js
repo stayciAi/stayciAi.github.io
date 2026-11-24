@@ -2514,5 +2514,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "252",
+    "title": "Midnight Affair",
+    "image": "prompt-252.jpg",
+    "positive": "Ultra-realistic cinematic nighttime photo of an adult couple sitting together in the dark back seat of a luxury car. Use the supplied identity references for both people and preserve their exact recognizable facial features, natural eye colors, hair colors and hairstyles. Do not blend or interchange their identities.\n\nThe woman is positioned on the right, sitting sideways with her back prominently turned toward the camera, twisting her upper body and looking over her shoulder toward the man. She wears a sensual fitted deep-red halter-neck top with an extremely low open back, exposing almost the entire back, paired with fitted black pants. Feminine hourglass proportions, narrow delicate shoulders, slim waist and curvy hips. Sleek elegant hairstyle, refined evening makeup and small earrings.\n\nThe man sits on the left, dressed completely in black: black blazer/jacket over a black shirt. He leans slightly toward the woman and looks at her, creating an intimate candid interaction. One hand rests low near her hip/thigh area while holding a modern smartphone. Natural masculine proportions.\n\nComposition: close intimate two-person shot from inside the vehicle, woman’s open back and silhouette dominating the right/center of the frame, man shown in profile on the left. Their faces are turned toward each other rather than toward the camera.\n\nVery dark luxury-car interior, black leather seats, glossy interior details, faint city lights visible through the windows. Direct smartphone flash illuminates their skin and clothing against the nearly black background, deep shadows, slightly underexposed nighttime aesthetic, spontaneous paparazzi/Instagram-style photograph, realistic skin texture, natural imperfections, detailed fabric, authentic phone-camera quality, photorealistic, no CGI, no illustration. Square 1:1 composition.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
