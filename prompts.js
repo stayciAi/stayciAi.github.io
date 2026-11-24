@@ -2338,5 +2338,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "236",
+    "title": "Effortless Chic",
+    "image": "prompt-236.jpg",
+    "positive": "altered facial structure, distorted face shape, oversized forehead, distorted jaw, cheekbones, chin or nose, malformed nostrils, oversized filler lips, extreme pout, doll face, Barbie face, plastic or wax skin, beauty-filter face, excessive smoothing, airbrushed skin, missing pores, uncanny valley, excessive tan, orange or gray skin, face-body skin mismatch;\nwrong pose, standing rigidly upright, sitting, kneeling, lying down, both arms crossed, both hands on hips, hands covering face, extreme back arch, impossible hip twist, broken neck, twisted torso, disconnected shoulders;\nbad anatomy, exaggerated breasts or hips, impossible tiny waist, distorted torso, extra/missing/duplicated limbs, fused limbs, broken elbows, twisted wrists;\nbad hands, extra or missing fingers, fused or duplicated fingers, malformed thumbs, broken wrists, floating hands, giant hands, giant acrylic nails;\nwrong outfit, white or colorful top, T-shirt, long sleeves, hoodie, blazer, dress, corset dress, bikini, sports bra, leather or latex bodysuit, high-waisted jeans, skinny jeans, dark or black jeans, shorts, skirt, leggings, missing waist cutouts, excessive cutouts, transparent clothing, logos, branding, text;\nsaturated blue denim, destroyed or heavily ripped jeans, giant holes, malformed waistband, jeans fused with skin, melted denim, fake denim texture;\nwrong interior, dark bedroom, nightclub, bathroom, cluttered kitchen, outdoor setting, beach, city street, industrial room, hotel lobby, colorful or black walls, messy room, excessive furniture clutter;\nmissing window, dark or colored curtains, heavy drapes, distorted or floating curtains, curtains intersecting body;\nmissing books, floating or giant books, distorted pages, dominant readable text, duplicated books; missing bread, plastic bread, malformed or giant loaf, duplicated or floating food;\nmissing flowers, only red roses, neon flowers, giant bouquet covering woman, plastic flowers, malformed petals, repetitive cloned flowers, duplicated bouquet;\nextreme low angle, top-down angle, fisheye, ultra-wide distortion, stretched face, giant nose, giant foreground hand, warped room, tilted architecture, impossible perspective, extreme artificial bokeh, portrait-mode cutout artifacts;\nCGI, 3D render, anime, cartoon, illustration, painting, digital art, video-game graphics, fake skin, artificial fabric, plastic denim, fake flowers, obvious AI artifacts;\nduplicate woman, multiple women, additional people, watermark, signature, logo, captions, random text, social-media interface, border, frame.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
