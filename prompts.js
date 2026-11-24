@@ -2657,5 +2657,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "265",
+    "title": "Noir Glamour",
+    "image": "prompt-265.jpg",
+    "positive": "## POSITIVE PROMPT \n \nUltra-realistic 9:16 luxury evening fashion portrait of an adult woman, approximately 23–27 years old, posing beside a tall full-length mirror in a softly lit elegant interior. \n \nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance. \n \nRecreate the pose, expression, outfit and composition: the woman stands with her back and one shoulder turned toward the camera, body slightly arched, while her reflection is clearly visible in the mirror. One hand rests naturally near the hip / upper thigh and the other near the waist. In the reflection, her head is gently tilted back with a confident, elegant expression. \n \nShe wears a fitted black off-the-shoulder sequined midi dress with a structured sweetheart neckline and a high side slit, creating a sleek glamorous silhouette. Hair is worn long and loose, falling naturally over one shoulder. \n \nSoft warm low-key lighting, subtle shadows across the body and wall, realistic mirror reflection, detailed sequins, elegant evening atmosphere, premium fashion-editorial photography, realistic skin texture, 8K photorealistic quality. \n \n## NEGATIVE PROMPT \n \ndifferent identity, altered face, wrong pose, incorrect mirror reflection, duplicated woman, reflection showing different pose, missing mirror, wrong outfit, colored dress, long sleeves, missing side slit, extra arms, extra legs, malformed hands, extra fingers, distorted body, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 27%"
   }
 ];
