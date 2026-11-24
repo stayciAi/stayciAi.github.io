@@ -2162,5 +2162,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "220",
+    "title": "Iconic Ex",
+    "image": "prompt-220.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 Y2K mirror-selfie portrait of a beautiful adult woman, approximately 23–27 years old, photographed indoors in a minimalist bathroom / dressing room with bright direct camera flash.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, natural eye color, natural hair color, skin tone and overall appearance. Do not redesign or blend her face.\n\nShe stands facing the mirror in a relaxed straight pose, torso slightly angled toward the camera. One hand holds a compact digital camera beside her face, producing a strong bright flash flare, while the other hand rests naturally across her lower abdomen. She looks directly into the mirror with a confident, slightly serious expression and softly pursed glossy lips.\n\nShe has narrow feminine shoulders, delicate shoulder width, a soft elegant shoulder line and balanced upper-body proportions. Shoulders must NOT appear broad, square, bulky or muscular.\n\nHair is very long, sleek, straight and glossy with a precise center part, falling evenly past the chest. Preserve the natural hair color from the identity image.\n\nShe wears narrow rectangular rimless / transparent glasses with thin delicate frames.\n\nOutfit: a fitted white short-sleeve cropped T-shirt with large bold black uppercase lettering reading exactly: “WORLD’S BEST EX GF”. The text must be perfectly spelled, clearly readable, correctly oriented in the final image, NOT mirrored, NOT reversed, with no missing, duplicated or distorted letters.\n\nAccessories: stacked gold bracelets on one wrist, delicate gold rings and long nude-pink almond-shaped nails. Optional subtle floral linework tattoo on the forearm.\n\nBackground: clean pale tiled wall, minimalist interior and simple door details, keeping the environment secondary.\n\nLIGHTING: strong direct-camera flash with a bright authentic flare next to the camera, crisp highlights on the glasses, skin and jewelry, subtle flash shadows and slightly dim ambient room lighting.\n\nPremium compact-camera / smartphone aesthetic, realistic skin pores, individual hair strands, natural facial texture, slight photographic grain, authentic early-2000s/Y2K social-media vibe, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, wrong eye color, wrong hair color, broad shoulders, wide shoulders, square shoulders, muscular shoulders, bulky torso, oversized upper body, short hair, curly hair, side part, missing glasses, oversized sunglasses, wrong pose, both hands covering face, missing camera, weak flash, no flash flare, wrong shirt color, wrong shirt text, mirrored text, reversed text, misspelled text, random letters, extra text, duplicated words, illegible lettering, distorted typography, extra arms, extra hands, extra fingers, fused fingers, malformed hands, distorted glasses, warped camera, plastic skin, excessive smoothing, CGI, anime, cartoon, illustration, blurry, low resolution, watermark, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
