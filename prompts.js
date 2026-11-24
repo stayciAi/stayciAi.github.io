@@ -2624,5 +2624,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "262",
+    "title": "Smoke and Desire",
+    "image": "prompt-262.jpg",
+    "positive": "Универсальный промпт для пары:\n\nUltra-realistic cinematic black-and-white intimate portrait of an adult couple in an extremely dark interior. Preserve the exact recognizable facial identity, facial features, hair color/structure, haircut and overall appearance of each person from their supplied identity references. Do not merge or interchange their identities.\n\nThe shirtless man dominates the frame in close side profile, head tilted slightly backward, chin raised and gaze directed upward. No glasses, no mustache. A thin chain necklace rests naturally across his chest.\n\nThe woman is positioned behind him and mostly outside the frame — her face and body are not visible. Only her two feminine hands and forearms appear, wrapping intimately around him from behind. One hand gently touches and traces his jawline/chin with the index finger, while the other rests around the front/side of his neck and upper chest. Long elegant manicure, delicate feminine hands, relaxed natural fingers.\n\nThe man holds a lit cigarette between two fingers close to his mouth, while a dense cloud of smoke escapes upward from his slightly parted lips and curls dramatically above his face. The smoke must be highly visible against the black background, soft, organic and realistically illuminated.\n\nExtreme close-up side-profile composition, cropped from the upper chest upward. Very dark almost completely black background, no visible environment. Strong cinematic low-key monochrome lighting from one side, illuminating only part of his face, jaw, neck, chest, the woman’s hands and the cigarette smoke while the opposite side disappears into deep black shadows.\n\nMoody analog black-and-white photography, high contrast, subtle film grain, slightly soft vintage texture, realistic skin pores and facial texture, natural shadows, detailed smoke, correct hands and fingers, sensual mysterious atmosphere, photorealistic, no CGI, no illustration. Vertical 9:16 composition with subtle rounded black frame edges.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
