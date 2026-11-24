@@ -2140,5 +2140,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "218",
+    "title": "Golden Hour Muse",
+    "image": "prompt-218.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 moody indoor fashion portrait of an adult woman, approximately 23–27 years old, photographed from a slightly low angle in a modern industrial-style interior.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, outfit and composition: she leans forward with her torso angled toward the camera, both arms extended downward for support, hips pushed slightly back, head tilted upward and to the side, eyes gently closed and lips relaxed, creating a calm sensual editorial expression.\n\nShe has narrow feminine shoulders, delicate shoulder width, a soft natural shoulder line and elegant upper-body proportions — shoulders must never appear broad, square, bulky or muscular.\n\nShe wears a fitted black mini dress / bodycon dress with thin straps and a deep softly draped neckline. Hair is worn long, loose and naturally tousled around the shoulders.\n\nBackground: minimalist loft interior with pale walls, exposed dark wood and visible industrial ceiling ducts. Soft dim natural window light, muted earthy tones, subtle shadows, realistic skin and fabric texture, candid editorial photography, slight film grain, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, broad shoulders, wide shoulders, square shoulders, muscular shoulders, bulky torso, different pose, standing upright, head facing camera, eyes wide open, wrong outfit, long sleeves, trousers, extra arms, extra legs, malformed hands, extra fingers, distorted anatomy, exaggerated body proportions, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
