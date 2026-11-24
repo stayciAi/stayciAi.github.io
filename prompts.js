@@ -2063,5 +2063,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "211",
+    "title": "The Cursed Bride",
+    "image": "prompt-211.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 2:3 dark ethereal fashion triptych of an adult woman, approximately 23–27 years old, composed as three stacked cinematic frames with a haunting bridal-fantasy aesthetic.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nTop frame: extreme close-up of her collarbone and hands. She wears delicate ivory lace, while both hands rest near the chest. Fingernails are extremely long, sharp stiletto-shaped, translucent amber-gold, black and deep burgundy, with glass-like metallic texture.\n\nMiddle frame: full-body fashion portrait. She wears an elaborate ivory lace bridal-inspired ensemble with a fitted lace top, draped semi-sheer skirt, long lace sleeves, thigh-high lace stockings and a dramatic long lace veil covering the head and framing the body. She stands gracefully against a dark textured studio wall with an eerie elegant posture.\n\nBottom frame: extreme close-up of the face. Her eyes appear milky white / opaque supernatural white, with no visible iris, while delicate silver crystal tears stream beneath the eyes. Skin remains realistic and human, expression calm and haunting.\n\nMoody sepia-gray lighting, deep shadows, antique gothic atmosphere, realistic lace, skin, nails and crystal reflections, subtle film grain, cinematic editorial photography, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, child, teenager, colorful cheerful scene, normal visible irises in bottom frame, glowing neon eyes, blood, gore, wounds, zombie face, skull makeup, extra fingers, fused fingers, malformed hands, short nails, cartoon nails, missing veil, wrong outfit, modern casual clothing, distorted anatomy, plastic skin, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 16%"
   }
 ];
