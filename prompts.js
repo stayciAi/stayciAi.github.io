@@ -2547,5 +2547,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "255",
+    "title": "Midnight Mischief",
+    "image": "prompt-255.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 candid nighttime photo of an adult couple standing side by side outdoors, captured with a raw early-2000s compact digital camera / direct-flash aesthetic.\n\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, hair characteristics, skin tone and natural appearance. Do not mix, beautify or alter their facial identities.\n\nRecreate the composition and pose: the man stands on the left, noticeably taller than the woman, with a relaxed slightly slouched posture. One hand is raised casually near his face while he looks off to the side. The woman stands on the right, slightly closer to the camera, looking toward the lens with a playful expression and one eye closed in a wink. One hand is tucked into her jacket pocket while the other is raised casually near her shoulder. Keep the pose spontaneous and imperfect rather than professionally posed.\n\nThe man has a naturally lean masculine build and wears a simple black long-sleeve top with loose dark jeans. The woman has a slim feminine silhouette with narrow delicate shoulders and wears a fitted semi-sheer black long-sleeve top, an oversized dark leather jacket loosely falling around her shoulders, and a short vivid pink mini skirt with subtle metallic details.\n\nBackground: dark residential urban setting at night, barely visible building facade, windows and distant streetlights fading into deep shadows.\n\nStrong frontal camera flash illuminating the couple against an almost-black background, slightly blown highlights, warm skin tones, deep shadows, visible digital grain, mild softness, subtle motion imperfections, low-light noise, nostalgic 2000s point-and-shoot camera quality, authentic unpolished nightlife snapshot, photorealistic.\n\nNEGATIVE PROMPT\n\ncartoon, illustration, CGI, professional studio photography, cinematic movie lighting, modern polished editorial look, plastic skin, excessive retouching, beauty filter, altered identity, mixed facial identities, distorted faces, incorrect anatomy, exaggerated muscles, broad female shoulders, exaggerated curves, incorrect height difference, extra arms, extra hands, extra fingers, malformed hands, duplicate people, random tattoos, fake tattoos, overly detailed background, daylight, bright environment, heavy bokeh, perfect symmetrical posing, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
