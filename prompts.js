@@ -2030,5 +2030,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "208",
+    "title": "Ruby Romance",
+    "image": "prompt-208.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 9:16 luxury beauty editorial portrait of an adult woman, approximately 23–27 years old, photographed in an extreme close-up against a deep red-and-black studio background.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the composition, expression, hairstyle and styling: her face fills most of the frame in a dramatic three-quarter close-up, gaze intense toward the camera, lips softly parted. Hair is styled sleek, straight and glossy, framing the face.\n\nMultiple vertical strands of deep ruby-red translucent crystal hearts hang in the foreground at different distances, partially crossing the face and creating layered depth. The hearts should look like polished glass gemstones attached to fine dark-red chains, with realistic reflections and refractions.\n\nMakeup is glamorous and dramatic: deep burgundy-red smoky eyeshadow, sharp black winged eyeliner, long lashes, sculpted brows, luminous skin and glossy nude-brown lips.\n\nRich red studio lighting mixed with deep shadows, sparkling highlights through the heart crystals, shallow depth of field, crisp eyes and lips, realistic skin texture, premium high-fashion beauty campaign, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, wrong eye color, wrong hair color, messy hair, curly hairstyle, missing hearts, opaque hearts, plastic hearts, cartoon hearts, broken chains, hearts covering entire face, distorted face, crossed eyes, exaggerated lips, plastic skin, excessive smoothing, extra eyes, duplicate facial features, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.\n",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 17%"
   }
 ];
