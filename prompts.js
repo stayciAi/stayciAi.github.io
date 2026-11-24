@@ -1986,5 +1986,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "204",
+    "title": "Fries & Friendship",
+    "image": "prompt-204.jpg",
+    "positive": "Ultra-realistic candid nighttime flash photograph of two adult people, a man and a woman, captured in a spontaneous playful moment outdoors at night. Vertical 9:16 composition, intimate close framing, authentic casual snapshot aesthetic, realistic smartphone / compact-camera photography.\n\nIf identity/reference photos are supplied, strictly preserve the exact recognizable identity and natural appearance of each person: facial structure, face shape, eyes and eye color, nose, lips, eyebrows, skin tone, natural hair color, hairstyle characteristics, facial hair if present, and distinctive facial proportions. Do not copy the identities or personal facial characteristics of the people from the composition reference. The supplied identity photos always take priority.\n\nRecreate the pose, framing, expressions, camera angle, lighting and playful interaction of the composition reference as closely as possible.\n\nThe woman is positioned in the foreground on the right side of the frame, noticeably closer to the camera. Her face fills a large portion of the image. She slightly lifts her chin and makes a funny exaggerated pout, looking directly toward the camera.\n\nThe man stands slightly behind her on the left, leaning naturally toward the camera. His posture is casual and relaxed, with a playful, slightly serious expression.\n\nBoth people have a single thin French fry placed horizontally between the upper lip and the bottom of the nose, creating funny fake moustaches. Clearly recognizable golden French fries — thin, rectangular fried potato sticks with slightly irregular edges and a lightly crisp surface. NOT breadsticks, NOT crackers, NOT pretzel sticks, NOT wooden sticks.\n\nThe woman has long loose hair falling naturally around her shoulders. The man wears a simple casual light-colored T-shirt. Keep clothing understated and realistic.\n\nThe photograph is taken at night in an almost completely dark outdoor environment. The background is predominantly black with only a few tiny distant warm lights visible, creating subtle bokeh.\n\nUse direct on-camera flash illuminating the faces and upper bodies against the dark background. Warm slightly underexposed nighttime tones, deep shadows, realistic skin texture, subtle flash highlights, natural contrast and slight digital grain.\n\nThe image should feel like a real spontaneous photo taken by friends during a fun night out, not a professional photoshoot: imperfect natural framing, close camera distance, slightly uneven lighting, authentic expressions and believable photographic imperfections.\n\nAvoid: breadsticks, bread, crackers, pretzels, wooden sticks, oversized fries, multiple fries, food covering the mouth, distorted faces, duplicated people, extra limbs, artificial plastic skin, excessive beauty retouching, studio lighting, bright background, daytime scenery, overly polished fashion photography, CGI, illustration, cartoon appearance.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
