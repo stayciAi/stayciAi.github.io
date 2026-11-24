@@ -2888,5 +2888,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "286",
+    "title": "Prismatic Desire",
+    "image": "prompt-286.jpg",
+    "positive": "Универсальный промпт для пары:\n\nUltra-realistic sensual luxury editorial portrait of an adult couple in an intimate embrace, preserving the exact recognizable facial identity, facial features, natural eye color, hair color and hairstyle of each person from their supplied identity references. Do not merge, average or interchange their identities.\n\nThe woman stands in the foreground with her back and side turned toward the camera, pressing closely against the man. Her torso twists slightly so her face is visible in elegant three-quarter profile as she looks directly into his eyes with a subtle sensual smile. One arm wraps around the back of his neck while the other hand gently grips the collar of his shirt. Feminine hourglass proportions, narrow delicate shoulders, pronounced bust, slim waist and curvy hips.\n\nShe wears a glamorous silver crystal-covered backless evening dress, fitted tightly to the body, with ultra-thin sparkling straps, a dramatically open back and shimmering rhinestone texture. Large statement crystal chandelier earrings, delicate bracelets and rings.\n\nThe man stands directly behind/against her, leaning his forehead and face closely toward hers while looking into her eyes. He wears a crisp white button-up shirt left deeply unbuttoned at the chest. No glasses, no mustache. Preserve his natural facial hair from the supplied identity reference except for the mustache. His arms wrap naturally around her waist and hips, with one hand resting low on her outer hip/upper buttock over the dress, creating an intimate but elegant couple pose.\n\nTight waist-up/upper-thigh composition, bodies overlapping closely, faces almost touching. Simple pale neutral wall behind them with dramatic oversized shadows of the couple.\n\nStrong direct flash mixed with artistic prism/refraction effects, soft rainbow light leaks and subtle chromatic reflections around the edges of the frame, crisp illumination on their faces and bodies, sparkling highlights across the crystal dress and jewelry, deep cinematic shadows. High-end nightlife/editorial photography, realistic skin texture and pores, individual hair strands, detailed crystals and fabric, correct hands and anatomy, photorealistic, no CGI, no illustration. Vertical 4:5 composition.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
