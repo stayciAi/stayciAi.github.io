@@ -2052,5 +2052,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "210",
+    "title": "Queen of Blades",
+    "image": "prompt-210.jpg",
+    "positive": "Ultra-photorealistic vertical 4:5 dark fantasy fashion portrait of one adult woman kneeling on the ground in a dramatic medieval warrior-inspired scene.\n\nRecreate the composition and atmosphere of the reference image: the woman is centered, kneeling among several tall medieval swords planted vertically into the ground around her. Her torso is slightly leaning forward, head gently lowered, with a mysterious, melancholic expression.\n\nShe has extremely long, voluminous wavy hair cascading almost to the ground, slightly windswept, with soft bangs framing her face.\n\nShe wears an elaborate dark silver and chrome fantasy couture outfit: sculptural metallic armor-like details around the neck, shoulders and chest, an artistic fitted bodice, asymmetrical silver hip armor, and a large flowing liquid-metal satin fabric draped dramatically around her legs and across the ground.\n\nThree to four elegant medieval swords surround her at different distances, their polished steel blades catching narrow highlights. Dark rocks and uneven ground create a mysterious battlefield-like environment.\n\nFull color, NOT black and white. Deep cinematic color palette: cold silver, polished chrome, gunmetal gray, muted charcoal, subtle midnight blue and desaturated teal tones in the background. Natural warm-beige skin tone remains visible, creating contrast against the cold metallic environment. Very subtle cool blue reflections on the steel and silver fabric.\n\nHeavy atmospheric fog and smoke behind her, dramatic directional moonlight coming from the upper left, soft cold backlight outlining her extremely long hair, deep shadows across the face and body, realistic metallic reflections, glossy liquid-silver fabric, subtle skin highlights, volumetric haze.\n\nDark medieval fantasy, fallen angel warrior aesthetic, mysterious high-fashion editorial, ethereal but dangerous atmosphere, cinematic photography, realistic anatomy, realistic skin texture, intricate metal details, shallow depth of field, subtle film grain, dramatic chiaroscuro, luxurious gothic fantasy, ultra-detailed, photorealistic, 8K.\n\nNEGATIVE PROMPT: black and white, monochrome, grayscale, oversaturated colors, bright colorful background, cartoon, anime, plastic skin, excessive armor, helmet, modern weapons, extra swords floating in air, extra limbs, extra fingers, distorted hands, duplicated body parts, deformed anatomy, text, watermark.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
