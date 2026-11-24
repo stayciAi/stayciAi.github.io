@@ -2041,5 +2041,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 17%"
+  },
+  {
+    "id": "209",
+    "title": "Dangerous Attraction",
+    "image": "prompt-209.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 cinematic editorial photograph of two consenting adults, one man and one woman, standing extremely close together in a narrow dimly lit corridor.\n\nIf identity reference photos are supplied, preserve each person’s exact recognizable identity, facial features, proportions, hair color, eye color, skin tone and natural appearance. Do not blend their identities.\n\nThe man wears a fitted white dress shirt with rolled-up sleeves, a loosened black tie and a black shoulder holster. He stands very close to the woman, leaning toward her with his forehead almost touching hers. His expression is serious, controlled and intense.\n\nThe woman is backed against the wall, wearing an elegant black off-shoulder dress, sleek low bun and statement gold earrings. She looks toward the man with an intense serious expression.\n\nCRITICAL HANDGUN POSITION: The handgun is held ONLY by the man. The woman does not hold or touch it. The man raises one arm above the woman’s head and braces it against the wall, holding a single black handgun in that raised hand, closely matching the reference pose. The handgun is clearly visible above and slightly beside her head, with the barrel pointing vertically upward and away from both people. His finger is clearly outside the trigger guard. Exactly one handgun.\n\nHis other arm is extended beside the woman against the wall, naturally framing her body. Their bodies are extremely close but naturally posed.\n\nDark moody cinematic lighting, narrow vintage corridor, shallow depth of field, muted colors, subtle film grain, realistic skin texture, natural anatomy and proportions, sensual romantic tension, luxury fashion-editorial aesthetic, photorealistic, high detail.\n\nNEGATIVE PROMPT\n\nWoman holding handgun, handgun in woman’s hand, gun pointed at either person, gun pointed at head, finger on trigger, multiple guns, extra arms, extra hands, extra fingers, duplicated limbs, distorted anatomy, deformed faces, merged bodies, unrealistic proportions, cartoon, CGI, oversaturated colors, excessive skin smoothing.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
