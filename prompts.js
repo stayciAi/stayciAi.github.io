@@ -2283,5 +2283,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "231",
+    "title": "Starlit Rebels",
+    "image": "prompt-231.jpg",
+    "positive": "Да, поняла — мужчина должен показывать фак (средний палец), а не жест двумя пальцами.\nPOSITIVE PROMPT\nUltra-realistic vertical 4:5 nighttime smartphone selfie of an adult couple sitting closely together inside a luxury car, captured in a dark intimate nightlife atmosphere.\nIf identity photos are supplied, preserve their exact recognizable identities, facial features, natural eye color, hair color, hairstyle characteristics, skin tone and overall appearance. Do not mix, beautify or alter their identities.\nRecreate the composition: the woman sits in the foreground on the right, holding the phone at arm’s length and looking directly into the camera with a calm, slightly pouty expression. The man sits closely beside and slightly behind her on the left, turned toward her and looking at her face rather than at the camera.\nThe man raises one hand prominently beside the woman and clearly shows the middle finger toward the camera: ONLY the middle finger is fully extended upward, while the index finger, ring finger and little finger are completely folded into the palm and the thumb rests naturally across the folded fingers. The gesture must unmistakably be a middle-finger gesture, NOT a peace sign, NOT two raised fingers, NOT a pointing gesture.\nThe woman has a slim feminine silhouette with narrow delicate shoulders and wears a fitted black low-cut top with thin straps and a delicate pendant necklace. The man has a naturally masculine athletic build and wears a simple black T-shirt, dark baseball cap, metallic chain necklace and a large metallic wristwatch. No glasses and no sunglasses. Tattoos only if present in the supplied identity references.\nDark luxury car interior with black leather seats and a dramatic starlight headliner filled with hundreds of tiny blue, violet and white illuminated points. У мужчины нгет усов\nStrong cool blue ambient lighting illuminating their faces and skin, subtle violet highlights, realistic low-light smartphone exposure, slight digital grain, mild softness, natural skin texture, wide-angle selfie perspective, imperfect candid framing, authentic spontaneous late-night couple selfie, photorealistic.\nNEGATIVE PROMPT\npeace sign, V sign, two raised fingers, index finger raised, pointing gesture, incorrect hand gesture, extra fingers, six fingers, missing fingers, fused fingers, malformed hands, duplicated hands, glasses, sunglasses, broad female shoulders, masculine female body, exaggerated muscles, altered identity, mixed identities, fake tattoos, random tattoos, duplicate people, distorted car interior, missing starlight ceiling, daylight, studio lighting, cartoon, illustration, CGI, plastic skin, beauty filter, excessive retouching, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
