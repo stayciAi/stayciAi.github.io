@@ -2723,5 +2723,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "271",
+    "title": "Sunshine and Sass",
+    "image": "prompt-271.jpg",
+    "positive": "Универсальный женский промпт:\n\nUltra-realistic vertical playful lifestyle portrait of an adult woman posing indoors beside a textured concrete wall, preserving the exact facial identity, facial features, natural eye color, hair color and hair length from the supplied identity reference. Do not change her recognizable appearance. Hair is worn long, straight and loose down the back, while keeping the original color and length from the identity reference.\n\nShe has a feminine hourglass figure, narrow delicate shoulders, slim waist, curvy hips, large full bust and a prominent firm rounded butt. Keep the anatomy natural and proportional.\n\nOutfit: fitted white ribbed asymmetrical crop top with a cropped front exposing the waist and stomach and dramatically elongated sleeves extending past the hands, paired with very short high-waisted distressed black denim shorts with raw frayed hems.\n\nRecreate the pose closely: she stands in a three-quarter back/side view, hips pushed noticeably backward toward the camera, lower back gently arched, torso leaning slightly backward and twisting toward the lens. One leg remains straight while the other is bent backward at the knee, lifting the foot behind her. Her arms hang naturally beside her body.\n\nExpression is playful and flirty: one eye tightly winking, broad natural smile with teeth visible, tongue playfully sticking out, head turned back toward the camera.\n\nMinimal modern interior with a warm-gray textured concrete/plaster wall and a bright out-of-focus vertical foreground element along one side of the frame. Strong warm sunlight enters from the side, producing bright golden highlights across her face, hair, white top and legs with soft natural shadows.\n\nShot from approximately hip/waist height, three-quarter body framing with emphasis on the dynamic side/back pose, slight telephoto compression, shallow depth of field, realistic skin texture and pores, natural skin highlights, detailed ribbed fabric and distressed denim, warm sunlit color grading, spontaneous high-end Instagram photography, photorealistic, no CGI, no plastic skin. Vertical 3:4 composition.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
