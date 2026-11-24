@@ -1579,5 +1579,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 100%"
+  },
+  {
+    "id": "167",
+    "title": "Urban Silence",
+    "image": "prompt-167.jpg",
+    "positive": "Use the **uploaded photo of the man exclusively as a reference for his appearance**. Fully preserve his recognizable facial features, hair, skin tone, physique, and individual characteristics **without any alterations**.\n\n**CRITICALLY IMPORTANT: The man must have absolutely no mustache. The area above his upper lip must be completely clean-shaven, with no facial hair or stubble whatsoever.**\n\nCreate an **ultra-realistic vertical 9:16 photograph of an adult man in a modern urban setting**, replicating the reference image as accurately as possible in terms of composition, pose, clothing, camera angle, and atmosphere.\n\nThe man stands on an urban staircase in front of a contemporary building made of dark glass and metal. His head is **tilted sharply downward**, his gaze directed toward the ground, with his face partially obscured by the brim of his baseball cap. Both hands are casually tucked into his jacket pockets.\n\nHe is wearing an **oversized gray jacket made of textured sherpa/teddy fleece material**, a loose-fitting white T-shirt, and wide-leg gray drawstring sweatpants. On his head is a gray baseball cap with a small white embroidered symbol on the front. He is wearing white wired earphones, with the thin cable hanging naturally down the front of his T-shirt. A minimalist silver-toned chain necklace rests around his neck.\n\nPreserve the **loose oversized silhouette and relaxed streetwear fit of the clothing**. The shot is framed approximately from the head to mid-shin, with the man occupying the central portion of the image.\n\nThe background features dark contemporary architecture, a glass facade, vertical metal elements, concrete stairs, and black railings. Muted, cool-toned daylight, slightly underexposed lighting, subtle film grain, and a **moody urban street-style aesthetic**.\n\nMaximum photorealism: natural skin texture, realistic jacket and fabric textures, natural clothing folds, accurate body proportions, and authentic urban lighting. No artificial or AI-generated appearance.\n\n**Aspect ratio: 9:16.**\n\n**Negative prompt:** mustache, thin mustache, stubble or facial hair above the upper lip, altered appearance, different face, tight-fitting clothing, incorrect pose, hands outside pockets, missing baseball cap, wireless earbuds instead of wired earphones, additional people, deformed body, plastic-looking skin, CGI, 3D rendering, illustration, excessive retouching, bright sunlight, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
