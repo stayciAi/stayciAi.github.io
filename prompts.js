@@ -2272,5 +2272,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "230",
+    "title": "Queen of Hearts",
+    "image": "prompt-230.jpg",
+    "positive": "Ultra-realistic vertical 2:3 dark luxury editorial portrait of an adult woman, approximately 23–27 years old, photographed seated on a deep burgundy velvet sofa in a moody upscale lounge.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, natural eye color, natural hair color, skin tone and overall appearance.\n\nRecreate the pose, expression, outfit and composition: she reclines confidently against the sofa with one knee raised prominently toward the foreground, body slightly angled toward the camera. One hand holds several red-backed playing cards beside one eye, partially covering that side of the face, while the opposite hand lightly touches the brim of her hat. She looks sideways with a calm, mysterious, seductive expression and softly parted lips.\n\nShe has narrow feminine shoulders, delicate shoulder width, a soft elegant shoulder line and balanced upper-body proportions — shoulders must never appear broad, square, bulky or muscular.\n\nHair is worn long, loose and softly styled, while preserving the natural hair characteristics from the identity image.\n\nShe wears a dramatic oversized black wide-brim hat, a fitted black long-sleeve high-neck bodysuit, sheer black thigh-high stockings and minimal gold jewelry. Add a deep burgundy manicure.\n\nSeveral playing cards are scattered naturally across the velvet sofa in the lower foreground, reinforcing the glamorous casino-inspired aesthetic.\n\nDark sophisticated background, rich burgundy and black tones, strong direct-camera flash illuminating the face, cards and skin while leaving deep cinematic shadows. Realistic velvet, sheer fabric, cards and jewelry textures, subtle grain, high-fashion nightlife photography, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, broad shoulders, wide shoulders, square shoulders, muscular shoulders, bulky upper body, different pose, both legs down, missing raised knee, cards covering entire face, missing playing cards, distorted cards, duplicated cards in hand, missing hat, small hat, wrong outfit, trousers, dress, opaque tights, malformed hands, extra fingers, fused fingers, extra limbs, distorted anatomy, exaggerated proportions, plastic skin, excessive smoothing, flat lighting, bright daylight, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
