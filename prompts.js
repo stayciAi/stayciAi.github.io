@@ -2976,5 +2976,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "294",
+    "title": "Morning Physique",
+    "image": "prompt-294.jpg",
+    "positive": "Ultra-realistic vertical bedroom mirror selfie of an adult man, preserving the exact facial identity, facial features, natural eye color, hair color, haircut and facial hair from the supplied identity reference. Do not change his recognizable appearance. No glasses. If the identity reference has no mustache, do not add one.\n\nHe is shirtless, with a muscular athletic physique, broad defined shoulders, muscular chest and arms, narrow waist and clearly defined abs. He sits casually on the edge of an unmade bed directly in front of a large floor-to-ceiling mirrored wardrobe, legs spread naturally in a relaxed masculine pose.\n\nOne hand rests casually near his upper thigh while the other is raised holding a smartphone in front of his face, taking the mirror selfie. His head is tilted slightly backward as he looks naturally at the phone screen.\n\nHe wears loose sage/olive-green sweatpants sitting low on the waist, with no shirt. Around his neck is a thick gold chain with a large oval gold pendant, resting prominently against his bare chest.\n\nModern casual bedroom with a large bed covered in soft gray and beige bedding, slightly messy blankets and pillows, tall gray curtains along a large window, pale neutral walls, wall-mounted air conditioner and subtle everyday interior details. The large mirrored wardrobe dominates the composition, showing the man and bedroom naturally in reflection.\n\nShot from a slightly low and wide smartphone perspective through the mirror, with a lot of ceiling and mirror visible above him, making the composition feel spontaneous rather than professionally staged.\n\nSoft natural daylight entering through the sheer curtains from the left, realistic indoor shadows, subtle highlights defining the chest and abs, authentic smartphone HDR and slight wide-angle lens distortion. Realistic masculine skin texture, visible pores, natural body hair, detailed sweatpants fabric, realistic mirror reflections, slightly casual Instagram aesthetic, photorealistic, no CGI, no illustration. Vertical 9:16 composition.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
