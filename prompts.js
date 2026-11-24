@@ -1645,5 +1645,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 26%"
+  },
+  {
+    "id": "173",
+    "title": "Sunlit Desire",
+    "image": "prompt-173.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 4:5 soft luxury indoor portrait of an adult woman, approximately 23–27 years old, photographed from the chest upward against a warm beige wall with soft natural sunlight creating subtle window-shaped shadows.\n\nIf an identity photo is supplied, preserve only the exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance. Recreate the pose, expression, hairstyle, outfit and composition of this scene.\n\nShe faces the camera with her head tilted gently backward and slightly to one side, eyes softly closed, lips relaxed and slightly parted, creating a dreamy intimate expression. A few loose hair strands fall naturally across the forehead and face.\n\nShe wears a black lace balconette-style top beneath an oversized soft ivory-white fluffy cardigan with large buttons, worn open at the front. One hand is raised casually near the shoulder with relaxed elegant fingers and a natural nude manicure.\n\nWarm diffused daylight, soft golden highlights on the skin, delicate shadows, realistic pores, natural hair strands, detailed lace and fluffy fabric texture, subtle film softness, premium lifestyle editorial photography, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, wrong eye color, wrong hair color, different pose, eyes open wide, exaggerated smile, hands covering face, wrong outfit, missing cardigan, missing black lace top, harsh flash, cold blue lighting, plastic skin, excessive smoothing, extra fingers, fused fingers, malformed hands, distorted anatomy, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
