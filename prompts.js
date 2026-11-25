@@ -3790,5 +3790,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "368",
+    "title": "Whispers of autumn",
+    "image": "prompt-368.jpg",
+    "positive": "Use the uploaded photo as the only source of the woman's appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, age, and natural hair color. Do not change the appearance and do not replace the face with another character.\n\nUltra-realistic vertical 9:16 cozy late-autumn fashion photograph. A young adult woman stands with her back to the camera on a wooden terrace by a calm forest lake. The frame is almost full-length, the composition strictly repeats the reference: the woman is located in the center, relies on the autumn landscape in front of her, her face is not visible at all. Both arms are bent at the elbows, palms are on the waist, elbows are spread to the sides.\n\nShe is wearing a bulky soft milky-cream sweater with an oversize large ribbed knit and long free sleeves. The sweater slightly hangs over the waist. Below is a short milky-cream pleated mini-skirt, creating a gentle feminine silhouette. On her legs are light high golf socks/knitted tights, gathered with soft folds.\n\nHer hair is loose, the length and natural color strictly correspond to the uploaded photo. The hair is styled in large soft waves and freely falls down her back. The upper part of the hair is slightly gathered at the back and fixed with a very large bulky bow made of milky-cream satin fabric, the bow is well noticeable and is the main accent of the hairstyle.\n\nIn front of the woman is a quiet dark lake, reflecting the gray cloudy sky and the surrounding trees. Around is late autumn: tall trees with almost bare branches, remnants of golden-yellow, ochre, and copper foliage, individual bright maple leaves on the branches in the foreground. The forest looks slightly damp after cool autumn weather. The wooden railing of the terrace passes horizontally in front of the woman.\n\nSoft diffused light of a cloudy autumn day, calm muted color palette: creamy, wood-brown, golden, ochre, gray-green. A light cool mist over the water, atmospheric depth, reflections of trees in the lake. The mood is cozy, quiet, romantic, and slightly melancholic.\n\nCozy autumn aesthetic, Pinterest fall photography, romantic countryside mood, realistic knit texture, realistic satin bow, individual hair strands, natural body proportions, authentic wooden textures, detailed autumn foliage, cinematic natural light, subtle film look, photorealistic, ultra-detailed, 9:16 vertical composition, no CGI, no plastic skin, no excessive retouching.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
