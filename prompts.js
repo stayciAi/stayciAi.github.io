@@ -4054,5 +4054,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "392",
+    "title": "Fluffy Fur Fashion",
+    "image": "prompt-392.jpg",
+    "positive": "Use the uploaded photos of the two girls as the only sources of their appearance. For each girl, strictly preserve the real facial features, head shape, oval, eyes and their color, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, body type, original hair color, length and structure, as well as tattoos, piercings, moles, and other individual features, if any. Do not mix the girls' appearance with each other, do not change or idealize the faces.\n\nCreate an ultra-realistic vertical 9:16 fashion photograph of two adult girls in a studio, maximally accurately reproducing the composition, poses, and mood of the reference. The frame is approximately from the head to the middle of the hips, the girls are standing very close, almost touching their bodies.\n\nThe girl on the left: stands with her back half-turned, her shoulder slightly raised, her head slightly tilted back and turned towards the camera, her gaze directly into the lens, her lips slightly parted. A bulky, fluffy brown-beige fur coat with a natural mottled fur pattern is carelessly thrown over her shoulders, lowered enough to expose her shoulders and upper chest. Under the coat, a short black outfit is visible, showing the upper part of her thigh. With one hand, she holds the edges of the coat near her chest.\n\nThe girl on the right: stands sideways to the camera and very close to the first girl, her body slightly tilted towards her. Her head is turned in profile towards her friend's face, her gaze directed at her. A bulky black fluffy fur coat is on her shoulders, also lowered from her shoulders and exposing her shoulders and collarbones. Under the coat, a short black outfit is visible. One leg is bent and raised forward between the girls, wearing a high black leather knee-high boot. Preserve this pose and leg position as accurately as possible.\n\nThe background is a light gray monochrome, a minimalist professional photo studio. Soft frontal studio light, light natural shadows, high detail of fur, skin, and hair. Elegant glamorous fashion aesthetics, natural skin texture, realistic anatomy and proportions.\n\nMaximally accurately reproduce the mutual arrangement of the girls, the rotation of their bodies, the direction of their gazes, the position of their hands and raised leg, the coats lowered from their shoulders, the frame size, and the studio lighting of the reference. The appearance of each girl should remain maximally recognizable and correspond to her uploaded photo.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 14%"
   }
 ];
