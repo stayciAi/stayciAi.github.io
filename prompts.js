@@ -3097,5 +3097,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "305",
+    "title": "Sunlit Detour",
+    "image": "prompt-305.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 9:16 casual luxury car portrait of an adult woman, approximately 23–27 years old, photographed sitting in the front passenger seat of a modern car in soft natural daylight.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, facial expression, outfit and composition: she reclines casually in the seat with her torso slightly angled toward the camera, one arm raised with the hand resting against the side of her head while the opposite arm extends naturally downward along the seat. She looks directly toward the camera with a calm, confident expression and softly parted lips.\n\nShe has narrow feminine shoulders, delicate shoulder width, elegant upper-body proportions and a soft natural shoulder line — shoulders must not appear broad, square, muscular or oversized.\n\nShe wears a coordinated black-and-white striped crochet set: a cropped long-sleeve bolero-style top tied at the center of the chest over a thin-strapped top, paired with a matching high-waisted fitted crochet skirt. Keep the knit texture highly realistic with visible individual loops and natural fabric folds.\n\nHair is worn long, loose and softly styled, preserving the exact hair characteristics from the identity image.\n\nBackground: realistic dark car interior with black seats and door panels, while green trees and woodland are visible naturally through the side window.\n\nSoft daylight through the windows, realistic skin texture, subtle warm highlights, premium smartphone lifestyle photography, natural depth of field, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, wrong eye color, wrong hair color, broad shoulders, wide shoulders, square shoulders, masculine shoulders, muscular shoulders, bulky upper body, oversized torso, different pose, standing pose, both hands near face, wrong outfit, missing striped crochet set, wrong pattern, jacket, jeans, malformed hands, extra fingers, fused fingers, distorted anatomy, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
