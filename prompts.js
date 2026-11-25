@@ -3108,5 +3108,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "306",
+    "title": "Velvet Vigil",
+    "image": "prompt-306.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic square 1:1 BLACK-AND-WHITE gothic luxury fashion portrait of an adult woman, approximately 23–27 years old, seated on the floor in a dark minimalist studio surrounded by many glowing white pillar candles.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, hairstyle, outfit and composition: she sits low with both knees bent and spread asymmetrically, one knee raised higher while one arm rests casually across it. Her other hand rests lower beside her body. Head slightly lowered, eyes looking downward, expression calm, mysterious and powerful.\n\nHair is styled in a sleek high bun with two loose face-framing strands. She wears a fitted black strapless corset, a dramatic oversized black satin robe slipping from the shoulders, layered gothic necklaces with a cross pendant, statement earrings and black strappy high heels.\n\nPlace numerous white pillar candles of different heights across the foreground, their flames creating soft highlights on her legs, face and satin fabric.\n\nDeep black studio background, dramatic low-key monochrome lighting, rich shadows, candlelit glow, subtle film grain, realistic skin texture, detailed satin and corset fabric, 8K photorealistic editorial quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, wrong pose, standing pose, legs together, missing candles, unlit candles, colored image, missing corset, wrong robe, casual clothing, messy bun, extra arms, extra legs, malformed hands, extra fingers, distorted candles, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
