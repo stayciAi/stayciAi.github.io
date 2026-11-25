@@ -3559,5 +3559,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "347",
+    "title": "Dark Luxury Portrait",
+    "image": "prompt-347.jpg",
+    "positive": "\n\n## POSITIVE PROMPT\n\nUltra-realistic vertical 9:16 cinematic luxury fashion portrait of an adult woman, approximately 23–27 years old, photographed inside a dark underground parking garage beside a glossy black luxury SUV with the rear passenger door open.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, facial expression, outfit and composition of this scene: she sits sideways in the open doorway of the SUV, torso facing slightly toward the camera, one leg extended down outside the car while the other knee is raised and bent inside the doorway. One hand rests naturally on the raised thigh while the other is lifted near her lips / chin. Her expression is calm, confident and slightly mysterious, gaze directed away from the camera.\n\nShe wears a fitted black long-sleeve mini dress with a deep neckline and dramatic black knee-high pointed-toe heeled boots.\n\nBackground: wet concrete parking garage with reflections across the floor, overhead fluorescent lights and a second dark luxury SUV positioned behind her with one headlight glowing brightly.\n\nMoody blue-gray cinematic lighting, glossy car reflections, realistic wet-floor reflections, deep shadows, premium automotive fashion photography, subtle film grain, sharp skin and fabric detail, 8K photorealistic quality.\n\n## NEGATIVE PROMPT\n\ndifferent identity, altered face, different pose, both legs outside car, standing pose, closed car door, missing SUV, wrong outfit, trousers, sneakers, flat boots, distorted car, duplicated vehicle parts, extra legs, extra arms, malformed hands, extra fingers, warped boots, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, daylight, bright cheerful lighting, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
