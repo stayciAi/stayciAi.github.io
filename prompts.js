@@ -4032,5 +4032,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 17%"
+  },
+  {
+    "id": "390",
+    "title": "Golden Sunset Glow",
+    "image": "prompt-390.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of her appearance. Strictly preserve the real facial features: head shape, face oval, eyes and their color, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, and original hair color. Preserve moles, tattoos, and other individual characteristics, if any. Do not idealize or replace the face - the girl should remain as recognizable as possible.\n\nCreate an ultra-realistic cinematic fashion photograph of the girl in a dark modern interior at sunset. Vertical format 9:16, full height almost entirely.\n\nThe girl is sitting on the edge of a low circular stone table. Her body is slightly tilted back, one hand is resting behind her on the table, and the other is raised above her head and lying on her hair. One leg is stretched down to the floor, and the other is highly bent at the knee and placed on the table with her foot. The pose is relaxed, feminine, and confident. Her head is slightly turned to the side, her gaze is directed past the camera, and her lips are slightly parted.\n\nThe girl is wearing a fitted milky-white tank top on thin straps with a small lace trim along the neckline and short blue-gray jeans shorts with a high waist. On her feet are elegant dark sandals with a thin high heel and straps around the ankle.\n\nHer hair is long, voluminous, slightly tousled, and styled in large natural waves; several strands are falling freely around her face. Do not change or copy the hair color from the reference - leave the girl's hair color from the uploaded photo. The makeup is expressive but natural: shaped eyebrows, long eyelashes, soft warm shadows, light contouring, glowing skin, and nude lips.\n\nThe main feature of the frame is a narrow golden beam of sunset sunlight penetrating through the window and diagonally illuminating the face, chest, arms, and bent leg. The skin in the beam acquires a warm golden-bronze glow, while the rest of the room remains almost completely in deep shadow. Behind the girl, there is a large high window with dark green tree foliage visible outside. On the right side of the table, there is a small neat stack of books.\n\nVery dark exposure, deep black shadows, strong light and shadow contrast, warm sunset glow, intimate evening atmosphere, realistic skin texture, natural body anatomy and proportions, cinematic photography, soft film processing, high detail, and maximum photorealism.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
