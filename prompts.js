@@ -3603,5 +3603,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "351",
+    "title": "Dark Fitness Muse",
+    "image": "prompt-351.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, skin tone, and age. Do not change the identity. Preserve the color, length, thickness, and structure of the hair exactly as in the uploaded appearance photo.\n\nA photorealistic, sexy, mirror fitness selfie of a young adult girl in a modern dark gym, maximally repeating the reference in pose, angle, composition, and clothing.\n\nThe girl is sitting on a black sports mat with her back to a large mirror, her legs spread wide in a longitudinal stretch to the sides. The body is turned approximately 3/4 to the mirror, the back is beautifully arched, and the waist is emphasized. The buttocks are large, rounded, elastic, and athletic, of a natural anatomical shape. With one hand, the girl holds a smartphone in front of the mirror and takes a selfie, her other hand is stretched back and resting on the floor. The head is turned to the phone, the lips are slightly gathered in a playful kiss.\n\nThe girl is wearing a light beige fitted sports suit: a short top with wide straps and an open back, and seamless textured leggings with a high waist, tightly emphasizing the waist, hips, and buttock shape. The figure is feminine and athletic: a thin waist, pronounced hips, a large breast of about size 4, a flat stomach, and a toned body.\n\nThe hair is gathered in a very long low ponytail, falling down the back almost to the buttocks; the original hair color is strictly preserved according to the appearance photo.\n\nBehind is a large mirror wall of the gym, creating several consecutive reflections of the girl and the phone, as in the reference. Dark gym equipment and interior elements are unobtrusively reflected in the mirrors. The atmosphere is that of an evening premium gym.\n\nSoft muted artificial lighting with a warm hue, light glare on the skin and fabric. Realistic skin with natural texture, pores, and tonal transitions, without plastic retouching. A small smartphone noise and light grain for naturalness.\n\nFormat 9:16. The camera is at the level of the sitting girl, the main focus is on the figure from the back and the mirror reflection of the face. Maximally accurately preserve the stretch of the legs, the position of the body, the arch of the back, the position of the hands, the perspective of the mirror, and the repeating reflections of the reference. Photorealistic gym mirror selfie, realistic anatomy, candid Instagram aesthetic, detailed fabric texture, natural skin, high detail.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 32%"
   }
 ];
