@@ -3460,5 +3460,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 23%"
+  },
+  {
+    "id": "338",
+    "title": "Autumn Empress",
+    "image": "prompt-338.jpg",
+    "positive": "Create an ultra-photorealistic vertical 9:16 cinematic autumn luxury fashion portrait of one adult woman sitting gracefully on the marble floor of an opulent European palace corridor with tall arched windows, ornate moldings, gilded details and dramatic high ceilings. Keep the elegant seated pose: one leg extended toward the camera, the other bent, one hand supporting her head while the other rests naturally beside her.\n\nShe wears a spectacular deep burgundy couture gown covered with delicate crystals and shimmering embroidery, with a fitted corset bodice and flowing translucent fabric, creating strong contrast with the golden autumn surroundings.\n\nTransform the entire scene into a magical late-autumn atmosphere: the marble floor is covered with hundreds of richly colored golden, amber, copper, burnt-orange and deep burgundy maple leaves, with several leaves floating naturally through the air and a few large blurred leaves close to the lens for cinematic depth. Through the enormous palace windows, show golden autumn trees glowing outside.\n\nWarm sunset light streams through the windows, creating long golden rays across the floor, sparkling through the crystals of the dress and illuminating the falling leaves. Add subtle atmospheric haze, soft dust particles, rich reflections on polished marble, dramatic shadows and glowing autumn bokeh. Luxurious romantic autumn fairytale, powerful WOW effect, cinematic editorial photography, realistic skin texture, rich warm colors, volumetric golden light, shallow depth of field, extremely detailed, photorealistic.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
