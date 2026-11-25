@@ -3372,5 +3372,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 48%"
+  },
+  {
+    "id": "330",
+    "title": "Wild Sophistication",
+    "image": "prompt-330.jpg",
+    "positive": "Ultra-realistic vertical luxury restaurant portrait of an adult woman sitting elegantly on a soft upholstered sofa, preserving the exact facial identity, facial features, natural eye color, hair color and hair length from the supplied identity reference. Do not change her recognizable appearance. Hair styled in large polished glamorous waves with a center part, keeping the original hair color from the identity reference.\n\nShe has a feminine hourglass figure, narrow shoulders, slim waist, pronounced hips and a large full bust. She wears a fitted black semi-sheer long-sleeve high-neck bodysuit/dress with an elegant velvet leopard pattern, paired with a high-waisted black leather pencil skirt. Sophisticated, sexy evening styling without changing her natural body proportions.\n\nRecreate the pose closely: she sits diagonally along a light gray-blue upholstered restaurant sofa, body turned slightly toward the camera. One elbow rests on the top of the sofa, with her hand casually touching the side/back of her hair near the neck. The other hand rests elegantly on her thigh. Legs extend diagonally toward the lower corner of the frame. She looks directly into the camera with a calm, confident expression.\n\nMakeup: glamorous evening makeup with sculpted brows, defined lashes, soft smoky neutral eyeshadow, subtle winged eyeliner, smooth warm complexion, delicate contour and glossy nude lips.\n\nModern upscale restaurant interior: dark charcoal wall behind her, heavy gray curtains, subtle green plants illuminated by warm light, and a nearby table covered with a crisp white tablecloth, plates, cutlery, folded napkin and a dark wine bottle. Intimate expensive dinner atmosphere.\n\nDirect on-camera flash creates bright crisp illumination on the woman with slightly darker ambient surroundings, realistic flash shadows and glossy highlights on the leather skirt. Medium-full seated framing, slightly elevated eye-level angle, smartphone/compact-camera aesthetic, sharp facial details, realistic skin texture and pores, detailed fabric and leather textures, subtle depth of field, high-end Instagram nightlife photography, photorealistic, no CGI, no plastic skin. Vertical 3:4 composition.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
