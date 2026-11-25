@@ -3580,7 +3580,7 @@ const prompts = [
     "categories": [
       "woman"
     ],
-    "imagePosition": "center 50%"
+    "imagePosition": "center 21%"
   },
   {
     "id": "349",
