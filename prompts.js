@@ -3361,5 +3361,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 6%"
+  },
+  {
+    "id": "329",
+    "title": "Sugar Gloss",
+    "image": "prompt-329.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, skin tone, and age. Do not change the face identity. Preserve the color, length, thickness, and structure of the hair exactly as in the appearance photo.\n\nA photorealistic vertical collage of four very large beauty selfies, arranged in a 2×2 grid. In all four frames, the same young adult girl is captured extremely close-up — predominantly face, neck, and a small part of the shoulders. Each frame is slightly different in facial expression and angle, but the appearance remains absolutely the same.\n\nTop left frame: the girl has turned her head to a slight three-quarter view, her gaze is directed sideways and upwards. She has a round pink lollipop on a white stick in her mouth, her lips are slightly parted around the candy.\n\nTop right frame: the face is almost straight on, the girl is looking into the camera, her mouth is slightly open, and the tip of her tongue is slightly visible. A smartphone with a soft pink case is located at the edge of the frame.\n\nBottom left frame: an extremely close-up portrait, the girl is playfully showing her tongue, her gaze is directed slightly sideways. The phone partially enters the edge of the composition.\n\nBottom right frame: her head is slightly tilted, her gaze is directed upwards and sideways, her lips are wrapped around a round pink lollipop on a white stick.\n\nThe makeup in all four frames is the same: glamorous soft makeup, expressive long separated eyelashes, a thin neat arrow, soft warm beige-peach shades, natural thick eyebrows, light bronzer, and gentle pink-peach blush. The lips are voluminous, covered with a very glossy semi-transparent pink gloss with a wet lips effect, a clear natural contour without excessive overdrawing.\n\nThe skin is expensive and maximally realistic: visible pores, soft peach fuzz, natural texture, small tonal differences, natural glow on the cheeks, nose, and lips, without a plastic effect and excessive smoothing.\n\nThe hair is partially pulled back, while a few thin strands freely frame the face. Do not copy the hair color of the girl from the compositional reference — use exclusively the color, length, and structure of the hair from the user's appearance photo.\n\nSoft bright daylight from the window, warm natural color correction, light neutral home background, small depth of field. The aesthetics of 2000s/Y2K beauty selfie, playful Instagram collage, realistic smartphone photography, without studio staging.\n\nThe format of the entire image is 3:4, with four frames of the same size 2×2, without borders and gaps between photos. Ultra-realistic smartphone photography, extreme beauty close-up, sharp eyes, realistic eyelashes, glossy lips, natural skin texture, individual hair strands, high detail.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 48%"
   }
 ];
