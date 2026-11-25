@@ -4043,5 +4043,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "391",
+    "title": "Luxury Bathroom Intimacy",
+    "image": "prompt-391.jpg",
+    "positive": "Use the uploaded photos of the man and woman as the only source of their appearance. Strictly preserve the real facial features of each: head shape, face oval, eyes and their color, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, original hair color and structure. For the man, preserve the real hairstyle, beard or stubble if present. Preserve tattoos, moles, and other individual features of both. Do not idealize the faces, do not mix their features - the man and woman should be maximally recognizable.\n\nCreate a colorful ultra-realistic cinematic photograph of the couple, maximally accurately repeating the composition, pose, angle, and atmosphere of the reference. Vertical format 9:16, frame approximately to the knees.\n\nThe action takes place in a luxurious modern bathroom with white-gray marble. The woman sits sideways on the edge of a wide white sink/countertop. The man stands close between her legs, his body turned to her and his head strongly inclined to her neck. He gently kisses the woman on the side of her neck just below the jaw. One of his hands tightly embraces her waist.\n\nThe woman slightly tilts her head back and to the side, exposing her neck, her eyes closed, her facial expression relaxed. With one hand, she embraces the man's neck, her fingers lying in his hair. With the other hand, she holds a thin leg of a champagne glass near her thigh. The position of the hands, bodies, and direction of the heads are maximally close to the reference.\n\nThe woman wears an elegant long satin bodysuit of milky white color, thin straps, soft draped décolletage, the fabric beautifully gathers in folds on the waist and hips. One leg is bent and is next to the man. The man wears a completely black outfit: a black shirt or jacket and dark pants, with massive watches on his wrist.\n\nThe woman's hair is long, loose, voluminous, styled in soft large waves and freely falls down her back and shoulders. The hair color must be preserved original from the uploaded photo of the woman - do not copy the hair color from the reference. The makeup is evening, feminine: expressive eyes, long eyelashes, neat eyebrows, soft contouring, natural skin glow, and nude lips.\n\nIn the background, there is a large mirror, marble walls, a reflection of the shower area, and metal plumbing. The light is muted, warm, and atmospheric, with soft shadows and highlights on the satin bodysuit, skin, and marble.\n\nThe photograph must be COLOR - no black and white, sepia, or monochrome. Warm muted color correction, deep shadows, natural skin tones, cinematic low-light photography, realistic skin texture, light film grain, natural anatomy, high detail, intimate evening atmosphere, maximum photorealism.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
