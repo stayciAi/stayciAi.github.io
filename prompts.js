@@ -3064,5 +3064,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 78%"
+  },
+  {
+    "id": "302",
+    "title": "Cue Temptation",
+    "image": "prompt-302.jpg",
+    "positive": "## POSITIVE PROMPT\n\nUltra-realistic vertical 3:4 nightlife lifestyle portrait of an adult woman, approximately 23–27 years old, photographed beside a billiard table inside a dark stylish pool bar.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance. Recreate the pose, facial expression, hairstyle, outfit and composition of this scene.\n\nShe stands at the edge of a green-felt pool table, leaning slightly toward the camera while holding a black billiard cue vertically in one hand. Her other hand rests casually near the table edge. She looks toward the camera with a playful rebellious expression, tongue slightly sticking out.\n\nShe wears a fitted red cropped T-shirt with simple white lettering and relaxed light-wash low-rise jeans. Hair is worn loose in soft voluminous waves.\n\nBackground: atmospheric dark billiard club with scattered pool balls on the table, a large glowing green billiard lamp overhead, another pool table and a few softly blurred people in the distance.\n\nStrong direct-camera flash mixed with dim green ambient lighting, realistic skin texture, natural shadows, authentic nightlife grain, premium smartphone photography, candid Y2K party aesthetic, 8K photorealistic quality.\n\n## NEGATIVE PROMPT\n\ndifferent identity, altered face, wrong eye color, wrong hair color, different pose, closed mouth, exaggerated tongue, missing billiard cue, missing pool table, wrong outfit, dress, jacket, dark jeans, bright daylight, studio background, malformed hands, extra fingers, fused fingers, distorted cue, duplicated pool balls, plastic skin, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
