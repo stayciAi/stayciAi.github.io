@@ -3988,5 +3988,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "386",
+    "title": "Forest Floor Fashion",
+    "image": "prompt-386.jpg",
+    "positive": "Use the uploaded photos of the two girls as the only sources of their appearance. For each girl separately, strictly preserve the real facial features, head shape, face oval, eyes and their color, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, body type, original hair color, length, and structure. Preserve all individual features of appearance, including any tattoos, piercings, moles, and other recognizable details. Do not mix the girls' appearances with each other, do not change or idealize the faces.\n\nCreate an ultra-realistic vertical photo 9:16, maximally accurately repeating the poses, composition, angle, and mood of the reference. Two adult girls stand very close to each other in nature among tall coniferous trees and are having fun posing for a joint photo. The camera is located close, approximately at face level, with a slight wide-angle perspective of a smartphone.\n\nThe girl on the left: slightly leans towards her friend, her shoulders are relaxed, she looks straight into the camera and playfully sticks out her tongue. She has a beige knitted hat on her head. She wears a short white fitted top on thin straps with a deep rounded neckline, light-colored pants with a high waist, and a bulky light blue puffy jacket, unzipped in front.\n\nThe girl on the right: is slightly closer to the camera, leans forward and towards her friend, tilts her head back a little, opens her mouth wide and sticks out her tongue, repeating the fun expression from the reference. She has a white knitted hat on her head. She wears a white fitted long-sleeved top with a deep unbuttoned neckline and a bulky cream-white puffy jacket, casually slipped off her shoulders. One hand is near her waist.\n\nIn the background, there are dense tall coniferous trees, a mountain forest atmosphere, and a light overcast sky. Soft diffused natural daylight without harsh shadows. Natural skin texture, realistic hair, and fabric of clothing, correct anatomy of hands and fingers.\n\nThe photo should look like a real fun snapshot of two friends taken with a smartphone, without any studio staging. Maximally accurately repeat the mutual arrangement of the girls, body and head tilts, facial expressions, stuck-out tongues, clothing, frame size, and atmosphere of the original reference. High photorealism, natural detail, without changing the individual appearance of both girls.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
