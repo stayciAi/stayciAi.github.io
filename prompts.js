@@ -3955,5 +3955,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "383",
+    "title": "Autumn Street Luxury",
+    "image": "prompt-383.jpg",
+    "positive": "Use the uploaded photo as the only source of the woman's appearance. Strictly preserve the real features of the face, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, age, skin tone, and real hair color from the original photo. Do not change the appearance and do not replace the face with another character.\n\nUltra-realistic vertical 9:16 autumn street-style fashion photograph. A young adult woman is sitting on her haunches near a street newspaper and magazine kiosk, filled with rows of magazines, newspapers, and books. The shot is taken from a high point from above, like in the reference, creating a natural dynamic Instagram-fashion frame.\n\nThe woman is sitting sideways close to the metal stand with the press, her body slightly turned towards the camera, her head raised upwards, her gaze directed straight into the lens. Her mouth is closed, with a calm confident expression on her face. In one hand, she is holding an open magazine, lying partially on her knees.\n\nShe is wearing a bulky luxurious cream-colored fluffy fur coat with a very wide soft collar and bulky fur cuffs. Under the coat, a white fitted top with a deep rounded neckline and dark pants are visible. On her face, she has narrow dark oval sunglasses. Her hair is long, with a color that strictly corresponds to the original photo; the upper part of her hair is styled using several large black curlers, while the rest of her hair falls freely over her shoulders and back.\n\nNext to the woman, on the wet stone pavement, lies a large soft burgundy-red leather bag with short handles and metal fittings. The asphalt and stone slabs are wet after an autumn rain, with realistic reflections and small puddles.\n\nTo the right of the woman, a high metal display case of the newspaper kiosk is tightly packed with multicolored fashion magazines, newspapers, and books, arranged in several rows; the bright covers create a city editorial background. The atmosphere is that of a cool rainy autumn day in a European city.\n\nOvercast rainy autumn daylight, wet pavement reflections, muted urban tones contrasted with colorful magazine covers and burgundy bag, candid luxury street style, 2000s fashion editorial mood, realistic fur texture, realistic leather, natural skin texture, subtle film grain, slightly desaturated cinematic grading, high-angle photography, 28–35mm lens look, photorealistic, ultra-detailed, authentic spontaneous fashion photography, natural anatomy, vertical 9:16 composition, no CGI, no plastic skin, no excessive retouching.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
