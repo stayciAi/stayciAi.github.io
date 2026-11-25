@@ -3394,5 +3394,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 27%"
+  },
+  {
+    "id": "332",
+    "title": "Vintage Muse",
+    "image": "prompt-332.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, skin tone, and age. Do not change the identity. The color, length, thickness, and structure of the hair should be strictly preserved as in the uploaded appearance photo.\n\nCreate a vertical photocollage from four different portraits of the same girl, arranged in a 2×2 grid, maximally repeating the reference in terms of composition, poses, emotions, and closeness. All four frames should feature the same girl with an unchanged appearance.\n\nTop left frame: the girl looks directly at the camera, her lips slightly parted. Both hands effectively frame her face: one palm above her forehead, the fingers of the other hand near her eye and temple.\n\nTop right frame: a direct, cheeky gaze into the lens, one hand raised above her head, the index finger of the other hand touching her lower lip. Her lips are slightly parted.\n\nBottom left frame: her face is turned about 3/4, her gaze directed slightly to the side. One hand lies on the upper part of her chest, her fingers relaxed.\n\nBottom right frame: her head is slightly tilted back, her gaze directly at the camera, her lips parted; the girl playfully touches her lips with the thin frame of black sunglasses, the glasses themselves are in her hand and not worn on her face.\n\nIn all frames, the girl wears the same unusual denim top-corset: a waist with a metal button, denim seams and pockets are horizontally arranged on her chest. Her shoulders and collarbones are exposed.\n\nThe makeup is expressive glam: long eyelashes, a clear, extended arrow, thick, neat eyebrows, soft contouring, expressive, glossy, voluminous lips. The manicure is long and dark, with several thin rings on her fingers.\n\nThe photograph is in black and white with a light, warm vintage sepia tone, soft, directed light, deep shadows, low contrast, slight blur, and a characteristic aesthetic of an old fashion magazine. On top of the entire collage, there is an expressed analog film texture: fine grain, thin horizontal scratches, wear, slight folds, and the effect of an old printed photo.\n\nThe format is 9:16. All four frames are the same size, without gaps between them, a precise 2×2 grid. Editorial vintage fashion contact sheet, intimate close-up portraits, 35mm film aesthetic, authentic film grain, aged print texture, realistic skin, individual hair strands, photorealistic, high detail.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 11%"
   }
 ];
