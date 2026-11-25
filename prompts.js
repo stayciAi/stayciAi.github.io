@@ -3119,5 +3119,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "307",
+    "title": "Lace & Ash",
+    "image": "prompt-307.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 3:4 BLACK-AND-WHITE luxury vintage beauty portrait of an adult woman, approximately 23–27 years old, photographed in an intimate close-up against a deep black studio background.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, styling and composition: her head faces the camera with a calm, mysterious expression and softly relaxed glossy lips. A delicate ivory lace blindfold is wrapped horizontally across her eyes, translucent enough to reveal only subtle shadow beneath the lace.\n\nHair is styled sleekly swept back with soft loose lengths behind the shoulders. She wears dramatic pearl chandelier earrings and an elaborate layered pearl-and-crystal statement choker necklace with hanging jeweled details.\n\nOne hand, covered by a long ivory satin opera glove, is raised elegantly beside her lips while holding a slim cigarette. A delicate ribbon of realistic smoke curls upward along one side of the frame.\n\nSoft directional studio lighting, luminous skin, rich monochrome / warm sepia tones, deep shadows, realistic lace, satin, pearls and smoke, subtle vintage film grain, 8K photorealistic luxury editorial quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, eyes fully visible, missing blindfold, opaque heavy mask, wrong lace color, missing glove, bare hand, malformed fingers, extra fingers, distorted cigarette, excessive smoke covering face, missing pearl jewelry, casual jewelry, messy hairstyle, colorful image, harsh modern lighting, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
