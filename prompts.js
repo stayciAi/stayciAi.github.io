@@ -3636,5 +3636,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "354",
+    "title": "Midnight Mirage Editorial",
+    "image": "prompt-354.jpg",
+    "positive": "Ultra-realistic luxury nighttime street-fashion photo of an adult woman crouching elegantly on a city sidewalk beside a glossy black luxury car. Preserve the exact facial identity, facial features, natural eye color, hair color and hair length from the supplied identity reference. Do not change her recognizable appearance.\n\nShe is posed in a deep feminine squat with both knees bent, body turned slightly sideways, leaning subtly toward the camera. One hand rests elegantly across her knee while the other reaches down toward a handbag placed beside her. Confident glamorous expression, head slightly tilted toward one shoulder.\n\nShe wears an oversized extremely voluminous warm brown faux-fur coat, with huge plush sleeves and rich dense realistic fur texture. The coat dominates the silhouette while leaving her bare legs visible. Underneath, only a minimal dark outfit is subtly visible. Feminine hourglass proportions, narrow delicate shoulders, pronounced bust, slim waist and curvy hips.\n\nAccessories: oversized black angular designer-style sunglasses, large gold statement hoop earrings and long dark burgundy manicure. On her feet are glossy bright-red pointed-toe stiletto pumps with very thin high heels. Beside her on the pavement is a structured dark burgundy crocodile-textured luxury clutch/handbag with small gold hardware.\n\nGlamorous evening makeup with sharply defined brows, sculpted cheekbones and bold glossy red lipstick. Preserve her original hair color and length; hair is sleek, smooth and naturally arranged around her face.\n\nBackground: narrow upscale city street at night, dark architectural facades, glossy black luxury vehicle beside her, subtle wall lights and deep black night sky.\n\nStrong direct paparazzi-style camera flash, crisp bright illumination on the woman, fur, legs and red heels against the very dark street, hard realistic shadows, glossy reflections on the car and shoes, slightly raw early-2000s celebrity nightlife aesthetic. Low camera angle approximately at knee height, medium-full composition, realistic skin texture and pores, individual fur fibers, detailed leather and crocodile texture, authentic flash exposure, photorealistic, no CGI, no illustration. Vertical 4:5 composition.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
