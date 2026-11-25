@@ -3922,5 +3922,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 43%"
+  },
+  {
+    "id": "380",
+    "title": "Cozy Autumn Reflections",
+    "image": "prompt-380.jpg",
+    "positive": "Use the uploaded photo as the only source of the woman's appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, age, skin tone, and real hair color from the original photo. Do not change the appearance and do not replace the face with another character.\n\nUltra-realistic vertical 9:16 cozy autumn countryside lifestyle photograph. A young adult woman sits sideways on an old wooden bench in a quiet autumn park outside the city. The camera is positioned from the side at a slight angle, the frame is approximately full-length along with the bench. The woman is turned in profile and calmly looks into the distance, creating a natural contemplative moment.\n\nThe pose is as close to the reference as possible: the back slightly leans against the back of the bench, one leg is bent and raised to the seat, the second is lowered down. One hand lies relaxed near the raised knee, with the other hand she slightly touches the collar of the jacket near the shoulder.\n\nShe wears a light milky-beige voluminous leather jacket oversize with wide sleeves, under which is a light cozy knitwear set with short creamy shorts. On her feet are high dark chocolate leather boots almost to the knee on a thick sole and light knitted golf socks, slightly visible from the top.\n\nOn her shoulder hangs a structured chocolate-brown leather bag of a rectangular shape on a long strap. The hair is long, the color, length, and structure strictly correspond to the uploaded photo. The upper part of the hair is gathered behind a small dark brown hairpin, the rest of the length freely falls down the back.\n\nOn the bench next to the woman stands a white paper coffee cup with a lid and a small cardboard tray, inside which lie sunglasses, wired white headphones, and a small snack — details of a cozy autumn walk.\n\nAround is a spacious green park in late autumn: huge old trees, partially yellowed foliage, a multitude of fallen golden and brown leaves on the grass, a winding narrow road in the background, open fields and rare trees in the distance. The sky is gray and slightly overcast, a cool calm autumn day.\n\nCozy countryside autumn aesthetic, quiet luxury, Pinterest fall photography, candid lifestyle moment, soft overcast daylight, muted beige, cream, chocolate, and olive-green palette, realistic weathered wood, realistic leather and knit textures, natural skin texture, individual hair strands, subtle film grain, atmospheric depth, photorealistic, ultra-detailed, natural body proportions, 9:16 vertical composition, no CGI, no plastic skin, no excessive retouching.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
