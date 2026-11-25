@@ -4021,5 +4021,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 11%"
+  },
+  {
+    "id": "389",
+    "title": "Fluffy Pink Glamour",
+    "image": "prompt-389.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of her appearance. Strictly preserve the real features of her face: the shape of her head, the oval of her face, her eyes and their color, her eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, and original hair color. Do not change or idealize her face. The girl should remain maximally recognizable.\n\nCreate an ultra-realistic vertical mirror selfie 9:16, maximally accurately repeating the composition of the reference. The girl stands in front of a large mirror in a dark modern bathroom or dressing room and holds a smartphone in front of her with one hand, photographing her reflection. Her gaze is directed at the phone screen, and her lips are slightly parted.\n\nThe girl wears a bulky soft pink fluffy robe made of soft terrycloth with a large hood with long hanging rabbit ears. The hood is worn on her head. The robe is loosely tied, but a deep V-shaped cut is left open in the front, down to the chest area, as in the reference. The robe has wide fluffy sleeves.\n\nHer long thick hair freely comes out from under the hood and falls in large soft waves down both sides of her chest. Preserve the hairstyle as in the reference, but do not copy the hair color - leave the original hair color of the girl from the uploaded photo.\n\nThe makeup is evening glam: expressive eyebrows, smoky brown-black shadows, extended arrows, thick long eyelashes, soft face contouring, and natural nude lips. Long light manicure.\n\nThe dark interior almost completely fades into deep black shades; in the background, there is minimalist furniture and weak cold lighting. The main soft light falls on the girl and the pink robe, creating an intimate atmosphere of an evening home selfie. Realistic reflection in the mirror, natural body proportions and hands, correct fingers, detailed fluffy texture of the robe, natural skin, slight grain of the photo, maximum photorealism.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 17%"
   }
 ];
