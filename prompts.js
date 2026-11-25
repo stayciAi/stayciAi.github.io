@@ -3889,5 +3889,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 28%"
+  },
+  {
+    "id": "377",
+    "title": "Intimate Night Portrait",
+    "image": "prompt-377.jpg",
+    "positive": "Ultra-realistic vertical 4:5 intimate lifestyle photo of an adult couple standing closely together indoors, photographed with a candid direct-flash aesthetic.\n\nIf identity photos are supplied, preserve only their exact recognizable identities, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose and composition: the woman stands on the left, slightly leaning back into the man, her head gently tilted downward and toward him. One hand rests softly on the side of his neck and jaw. The man stands closely behind and beside her on the right, leaning his face toward her cheek/neck in an affectionate intimate gesture. One of his hands rests naturally around her waist/hip while their bodies remain close together.\n\nKeep realistic height difference and natural body proportions. The woman has a slim feminine silhouette with narrow delicate shoulders and a defined waist. The man has a taller, naturally masculine build with broader shoulders and realistic proportions.\n\nBoth wear simple fitted white sleeveless tank tops. The woman wears fitted black pants; the man wears relaxed dark charcoal jeans with a black belt and a metallic wristwatch. Keep accessories minimal and natural. Tattoos only if present in the supplied identity references.\n\nBackground: simple warm-toned interior with a large matte-black wooden door behind them, cream walls and a beige textured curtain along one side.\n\nWarm indoor lighting combined with strong direct camera flash, slightly overexposed skin highlights, deep shadows, realistic skin texture, subtle snapshot grain, casual late-night atmosphere, authentic smartphone / compact-camera photography, imperfect candid framing, photorealistic.\n\nNEGATIVE PROMPT\n\ncartoon, illustration, CGI, plastic skin, excessive retouching, beauty filter, distorted anatomy, incorrect body proportions, oversized head, broad female shoulders, unnatural height difference, extra fingers, missing fingers, fused hands, malformed hands, duplicated limbs, floating arms, awkward pose, disconnected bodies, unnatural embrace, distorted faces, asymmetrical eyes, fake tattoos, random tattoos, excessive muscles, exaggerated curves, unrealistic clothing, incorrect hand placement, studio backdrop, professional fashion lighting, heavy bokeh, text, watermark, logo",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
