@@ -3537,5 +3537,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "345",
+    "title": "Dark Emerald Nights",
+    "image": "prompt-345.jpg",
+    "positive": "\n\nPOSITIVE PROMPT\n\nUltra-realistic vertical 2:3 dark luxury fashion portrait of an adult woman, approximately 23–27 years old, photographed in a moody upscale nightlife interior with deep emerald-black tones.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, styling and composition: tight chest-up framing, body facing slightly toward the camera, intense direct gaze, lips softly parted. One hand is raised to the mouth with one fingertip lightly touching the lower lip, while the opposite arm remains relaxed outside the main focus.\n\nShe has narrow feminine shoulders, delicate shoulder width, a soft elegant shoulder line and balanced upper-body proportions — never broad, square, bulky or muscular shoulders.\n\nShe wears a dramatic black-and-white plush faux-fur coat draped around the shoulders over a fitted black lace corset-style top. Add layered chunky gold chain necklaces, sculptural gold pendants and several oversized textured gold rings.\n\nHair is worn long, loose, glossy and voluminous, with soft waves framing the face.\n\nBackground: dark sophisticated lounge with deep green walls, subtle metallic decor and softly blurred vintage-style signage. Strong direct-camera flash creates luminous skin, glossy lips, sparkling jewelry and rich contrast while preserving deep atmospheric shadows.\n\nPremium nightlife editorial photography, realistic skin pores, detailed fur fibers, lace and gold reflections, subtle grain, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered face, broad shoulders, wide shoulders, square shoulders, muscular shoulders, bulky torso, different pose, hand away from mouth, fingers covering face, wrong outfit, missing fur coat, missing lace top, silver jewelry, minimal jewelry, short hair, flat hair, malformed hands, extra fingers, fused fingers, distorted rings, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
