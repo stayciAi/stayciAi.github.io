@@ -3691,5 +3691,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "359",
+    "title": "Mountain Peak Elegance",
+    "image": "prompt-359.jpg",
+    "positive": "Use the uploaded photo as the only source of the woman's appearance. Strictly preserve the real features of her face, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, skin tone, and age. Do not alter her appearance, do not replace her face with another character. Preserve the natural color and length of her hair from the uploaded photo.\n\nUltra-realistic vertical 9:16 cinematic autumn mountain portrait. A young adult woman sits sideways on a massive rough wooden bench at the edge of a high-mountain observation deck. The camera is positioned slightly behind and to the side, with the figure shown in approximately full height in a seated pose. She sits with a straight back, her torso slightly turned towards the camera, with both hands resting palm-down on the wooden bench on either side of her body. Her legs are bent and directed to the side. Her head is turned in profile towards the majestic mountain landscape, with a calm and contemplative expression, her lips closed.\n\nShe wears a light beige/milky bucket hat with soft brims and thin ties. Her hair falls freely down her back, slightly tousled by the cool mountain wind.\n\nHer clothing is in a light monochromatic palette: a fitted milky-white top with long sleeves, accentuating her figure, with effective high figurative cutouts on the sides of her waist, and loose light beige cargo pants with a low rise, voluminous legs, and patch pockets. The image is minimalist, modern, and contrasts with the harsh autumn nature.\n\nIn the background, there are enormous mountains in late autumn, a deep valley with a dark coniferous forest, patches of muted golden, copper, and brown autumn vegetation. The mountain slopes partially disappear in thick low fog and layers of moving clouds. The peaks are barely visible through the haze. Around the bench, there are natural gray rocks with moss, wet stones, a bit of dry autumn grass. The atmosphere is cool, damp, and post-rain.\n\nThe dramatic overcast sky, cold soft diffused light, voluminous fog between the mountain ranges, incredible depth of the landscape. Add a light wind, slightly moving her hair and clothing. The palette includes cold gray-blue shades of fog and mountains, dark green forest, muted autumn golden-brown accents, and light clothing.\n\nCinematic moody autumn mountain atmosphere, quiet luxury outdoor editorial, breathtaking scale, atmospheric perspective, realistic fog, natural skin texture, individual hair strands, realistic fabric folds, detailed weathered wood and wet rocks, photorealistic, ultra-detailed, natural body proportions, subtle depth of field, vertical 9:16, no CGI, no plastic skin, no artificial beauty filter.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
