@@ -3526,5 +3526,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 49%"
+  },
+  {
+    "id": "344",
+    "title": "Dark Velvet Muse",
+    "image": "prompt-344.jpg",
+    "positive": "\n\nPOSITIVE PROMPT\nUltra-realistic vertical 4:5 dark luxury boudoir fashion portrait of an adult woman, approximately 23–27 years old, photographed reclining on an ornate vintage sofa surrounded by richly patterned cushions and a Persian-style rug.\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, natural eye color, natural hair color, skin tone and overall appearance.\nRecreate the pose, expression, outfit and composition: she lies diagonally across the sofa, upper body slightly raised by the cushions, both arms lifted above her head with relaxed crossed wrists, while her body extends toward the lower-left side of the frame. She looks calmly toward the camera with a soft, confident expression and relaxed lips.\nShe has narrow feminine shoulders, delicate shoulder width, a soft elegant shoulder line and balanced upper-body proportions — shoulders must never appear broad, square, bulky or muscular.\nShe wears a fitted black lace corset mini dress with a structured sweetheart bodice, sheer floral lace long sleeves and delicate sparkling details. Add a refined pearl necklace for a vintage glamorous accent.\nHair is worn long, loose and naturally styled, preserving the exact hair characteristics from the identity image.\nBackground and styling: luxurious burgundy, dusty-rose and dark velvet cushions with tassel trim, ornate woven patterns and a richly textured vintage rug. The framing should feel intimate, cinematic and slightly overhead.\nWarm low-key lighting, deep shadows, subtle highlights across the face and lace, realistic skin texture, detailed lace and velvet fibers, slight film grain, premium vintage-fashion editorial photography, 8K photorealistic quality.\nNEGATIVE PROMPT\ndifferent identity, altered face, broad shoulders, wide shoulders, square shoulders, muscular shoulders, bulky upper body, different pose, arms down, standing pose, sitting upright, wrong outfit, missing lace sleeves, plain dress, bright modern background, minimal furniture, malformed hands, extra fingers, fused fingers, extra arms, distorted wrists, exaggerated anatomy, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
