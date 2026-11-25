@@ -3812,5 +3812,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "370",
+    "title": "Urban Gentleman Portrait",
+    "image": "prompt-370.jpg",
+    "positive": "Use the uploaded photograph only as a reference for composition, pose, clothing, angle, lighting, and atmosphere. Take the man's appearance strictly from the separately uploaded photo of the person: preserve his exact facial features, head shape, eyes, eyebrows, nose, lips, jaw, natural asymmetry, hair color, and structure. Do not mix personalities and do not copy the man's face from the compositional reference.\n\nCreate an ultra-realistic color photograph of an adult man in a modern café in the evening. The man is sitting at a bright yellow table, slightly leaning his body forward. Both forearms are resting on the table. One hand is bent and raised near his face: between his fingers, he is holding an orange smartphone with a large camera block, his index and middle fingers forming a relaxed V-shape. The second hand is calmly lying on the table. The pose is maximally natural, relaxed.\n\nThe man is wearing a simple dark brown/graphite fitted long-sleeved shirt without logos or inscriptions. On his wrist, there are metallic silver watches. The skin is completely clean: no tattoos, drawings, or inscriptions on the arms, wrists, fingers, neck, or other visible parts of the body.\n\nThe man is looking directly into the camera lens, with a slight calm half-smile, a confident relaxed expression. The shoulders are of natural width, do not make them excessively wide or massive.\n\nThe interior of the modern café is in dark tones with bright yellow accents. Behind, there is a large panoramic window, beyond which a dark evening city is visible, street lights, and reflections of the interior in the glass. On the left in the window, the reflection of the man from the back is noticeable. In the background, there are tables and chairs, softly fading into blur.\n\nWarm evening artificial lighting with a golden yellow hue, soft highlights on the skin and metallic watches, natural shadows. A mixture of warm café light with cold blue-black tones of the night outside the window.\n\nVertical frame 3:4, portrait approximately to the waist, the camera is located opposite the man slightly above the table level. Natural smartphone/lifestyle photography, moderate depth of field, realistic skin with pores and natural texture, without plastic retouching, high detail, light digital grain, authentic candid Instagram aesthetic, photorealistic.\n\nNegative prompt: tattoos, body art, inscriptions on the skin, extra fingers, deformed wrists, incorrect V-shape, extra hands, wide body, excessively wide shoulders, different face, change in appearance, bald head if it's not on the identity reference, plastic skin, excessive retouching, CGI, illustration, cartoon, black and white, monochrome, face blur, incorrect anatomy, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
