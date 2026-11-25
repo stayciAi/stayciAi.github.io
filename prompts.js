@@ -3471,5 +3471,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "339",
+    "title": "Golden Autumn",
+    "image": "prompt-339.jpg",
+    "positive": "Create an ultra-photorealistic vertical 9:16 luxury autumn lifestyle fashion photograph of one adult woman relaxing on a large cream outdoor sofa on the terrace of a modern luxury villa. Preserve the exact relaxed composition and pose: she leans back against the sofa with one arm supporting her body, torso slightly turned toward the camera, one leg bent high and extended diagonally toward the foreground while the other rests naturally along the sofa.\n\nShe wears a short ivory off-the-shoulder corset mini dress with a structured fitted bodice, delicate sheer tulle, soft ruffled sleeves and a light flowing skirt. Replace the bright pink shoes with elegant chocolate-brown strappy high-heeled sandals.\n\nCreate a rich autumn atmosphere around the terrace: golden, amber, copper and burnt-orange trees visible outside, scattered dry maple leaves across the terrace and several leaves resting naturally on and around the sofa. A few softly blurred autumn leaves appear close to the lens for depth. Warm golden-hour sunlight enters from the side, creating beautiful highlights on her skin and dress, soft cinematic shadows and glowing reflections in the villa windows. Sophisticated quiet-luxury autumn mood, warm creamy and chocolate palette, natural skin texture, realistic fabric, editorial Instagram photography, subtle film grain, shallow depth of field, photorealistic, elegant and effortless.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 30%"
   }
 ];
