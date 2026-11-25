@@ -3801,5 +3801,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "369",
+    "title": "Forest Floor Majesty",
+    "image": "prompt-369.jpg",
+    "positive": "Use the uploaded photo of the man only as a reference for his appearance. Completely preserve the recognizable face, hair, skin tone, body type, and individual features without changes.\nCRITICALLY IMPORTANT: The man has no mustache. The area above the upper lip is absolutely clean, without hair or stubble.\nCreate an ultra-realistic vertical 9:16 photo of an adult man in the forest, maximally accurately repeating the reference in composition, pose, extremely low angle, and atmosphere.\nThe man is sitting high on a massive tree trunk, one leg strongly bent and raised to his chest, the second lowered to the side. One forearm is relaxedly lying on top of the raised knee, the wrist freely hanging, the other hand is near the shin. The head is slightly raised, the man is seriously and thoughtfully looking up and away.\nHe is wearing a dark fitted t-shirt with short sleeves, dark jeans, and massive brown hiking boots. Minimalist men's rings and watch.\nThe camera is located almost at ground level and is directed sharply from below upwards. The sole of the nearest boot is very close to the lens and looks significantly larger due to the perspective — preserve this expressive effect of the reference.\nThere are tall pines and dense branches around, through which the light sky is visible. Soft natural daylight, muted earthy tones, deep natural shadows, light film grain, and atmospheric rugged outdoor lifestyle aesthetics.\nMaximum photorealism: natural skin, correct anatomy, realistic fabrics, leather and boot sole, tree bark and needles. Without a sense of AI generation.\nFormat 9:16.\nNegative prompt: mustache, thin mustache, stubble or hair above the upper lip, change in appearance, different face, incorrect angle, camera at eye level, small boot in the foreground, incorrect leg pose, extra limbs, deformed arms and fingers, plastic skin, CGI, 3D, drawing, excessive retouching, text, logos, watermarks.",
+    "negative": "",
+    "categories": [
+      "man"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
