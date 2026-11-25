@@ -3053,5 +3053,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 37%"
+  },
+  {
+    "id": "301",
+    "title": "Ground Floor Glam",
+    "image": "prompt-301.jpg",
+    "positive": "## POSITIVE PROMPT\n\nUltra-realistic vertical 3:4 edgy luxury fashion portrait of an adult woman, approximately 23–27 years old, photographed inside a modern stainless-steel elevator from a dramatic very low camera angle.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, outfit and composition: she sits / crouches low against the elevator wall with both knees bent and spread apart, one leg extending strongly toward the camera so the boot dominates the foreground. Her other knee remains raised closer to her body. One hand rests casually on the raised knee while the other hangs lower beside the opposite leg. She looks slightly downward toward the camera with a calm, confident, rebellious expression and softly parted lips.\n\nShe wears an oversized black-and-brown varsity jacket with leather sleeves and embroidered patches, a fitted white cropped tank top, black fitted leggings and dramatic black knee-high pointed-toe stiletto boots.\n\nBackground: polished stainless-steel elevator walls and doors with realistic metallic reflections, ceiling spotlights and subtle distorted reflections of the subject.\n\nMoody warm elevator lighting, cinematic shadows, reflective metal highlights, realistic leather and fabric textures, premium smartphone street-fashion photography, subtle grain, 8K photorealistic quality.\n\n## NEGATIVE PROMPT\n\ndifferent identity, altered face, wrong pose, standing pose, legs together, both feet flat, missing foreground boot, flat shoes, sneakers, missing varsity jacket, wrong outfit, distorted elevator, extra legs, extra arms, malformed hands, extra fingers, warped boots, exaggerated anatomy, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 78%"
   }
 ];
