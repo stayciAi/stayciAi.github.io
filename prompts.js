@@ -3075,5 +3075,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "303",
+    "title": "Strawberry Silk",
+    "image": "prompt-303.jpg",
+    "positive": "POSITIVE PROMPT\n\nUltra-realistic vertical 9:16 feminine luxury vintage-bedroom editorial portrait of an adult woman, approximately 23–27 years old, seated casually on the edge of a dark wooden vanity / dresser beside a large antique mirror.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance. Recreate the pose, facial expression, hairstyle, styling and overall composition of this scene.\n\nShe sits naturally with both legs lowered in front of her, torso slightly angled toward the camera, head gently tilted downward while looking toward her lap, with a calm, dreamy expression.\n\nHer hair is styled in a soft messy elegant updo with loose face-framing strands. Add large elegant gold hoop earrings.\n\nShe wears a romantic pale blush-pink satin pajama set: loose lightweight trousers and an oversized matching button-up shirt, styled casually with a delicate pale-pink lace-trim camisole underneath. The styling is feminine, sophisticated and editorial, with comfortable natural coverage.\n\nOne hand holds a small silver tray filled with fresh strawberries. The large vintage mirror beside her clearly shows a natural side-profile reflection. Makeup brushes, powder compacts, perfume bottles and small beauty items are scattered organically across the dark wooden vanity.\n\nBackground: cozy vintage bedroom with muted yellow floral wallpaper, antique dark-wood furniture and a nostalgic feminine atmosphere.\n\nWarm natural window light, soft golden illumination, realistic skin texture, individual hair strands, detailed satin and lace textures, subtle shadows, slightly cinematic film warmth, shallow depth of field, premium luxury lifestyle editorial photography, natural anatomy, 8K photorealistic quality.\n\nNEGATIVE PROMPT\n\ndifferent identity, altered facial features, wrong eye color, wrong hair color, standing pose, looking directly at camera, missing mirror reflection, missing strawberries, missing silver tray, black outfit, dark lingerie, bra, underwear-only styling, transparent clothing, excessive cleavage, jeans, dress, distorted hands, extra fingers, fused fingers, malformed reflection, duplicated person, duplicated limbs, incorrect anatomy, plastic skin, excessive skin smoothing, CGI, anime, cartoon, blurry face, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 14%"
   }
 ];
