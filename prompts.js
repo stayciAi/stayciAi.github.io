@@ -3768,5 +3768,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "366",
+    "title": "Luxury Autumn Nights",
+    "image": "prompt-366.jpg",
+    "positive": "\n\nCreate an ultra-photorealistic vertical 9:16 luxury autumn fashion photograph of one adult woman sitting in the spacious black-leather back seat of a premium luxury SUV with a large panoramic glass roof. Preserve the composition and pose from the reference: she sits sideways with her legs elegantly crossed, wearing sheer black tights, while holding a large bouquet of deep burgundy tulips directly in front of the lower half of her face, partially hiding her features.\n\nShe wears a luxurious long black faux-fur coat, elegant black leather gloves and dark chocolate-brown pointed-toe stiletto pumps. Her hair falls in polished soft waves over her shoulders.\n\nThe bouquet is large, dense and realistic, wrapped in matte black paper, with rich burgundy-red tulips and fresh green stems. She holds it with both gloved hands close to her face.\n\nCreate a cozy rainy late-autumn atmosphere outside the car: visible rain droplets and thin streams of water on the windows and panoramic roof, blurred elegant European architecture outside, wet streets and subtle reflections. A few golden autumn trees are softly visible through the rain-covered windows. The interior remains dark, sophisticated and luxurious, illuminated by soft natural gray daylight mixed with warm ambient cabin lighting. Moody black, burgundy and chocolate palette, cinematic shadows, realistic leather and fur textures, shallow depth of field, subtle film grain, quiet-luxury aesthetic, photorealistic, highly detailed. Strict vertical 9:16 composition.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
