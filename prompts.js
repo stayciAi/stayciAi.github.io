@@ -3416,5 +3416,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "334",
+    "title": "Diamond Affair",
+    "image": "prompt-334.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, skin tone, and age. Do not change the identity. Preserve the color, length, density, and structure of the hair exactly as in the reference photo.\n\nA photorealistic, sensual fashion selfie of a young adult girl, maximally repeating the reference in pose, angle, framing, clothing, and lighting. A very large vertical frame from below, approximately from the middle of the chest to the top of the head. The camera is located slightly below face level and is directed upwards, creating the effect of a close-up phone selfie.\n\nThe girl has slightly tilted her head back. One hand is raised in front of her face: the open palm is facing the camera, fingers are spread wide horizontally and cover the eyes and the top part of the face exactly as in the reference. The nose and voluminous glossy lips remain visible between the hair and the hand. The fingers have a long, almond-shaped manicure of a deep wine-burgundy color. On the ring finger, there are several large, sparkling silver rings with transparent stones.\n\nThe girl is wearing a gray, fitted knit top with a deep, extreme V-shaped neckline, wide ribbed straps, and a metal oval decorative buckle in the center under the breast. The large bust is approximately size 4, full, rounded, and naturally gathered by the deep neckline of the top; realistic anatomy and natural fabric fit.\n\nThe hair is long, straight, smooth, and silky, freely falling over the shoulders and partially falling on the face — take the original color and length only from the uploaded reference photo.\n\nThe photo is taken in a modern, minimalist interior with dark gray textured walls. Harsh, directed sunlight falls from the side, forming expressive strips of light and shadow on the chest, collarbones, face, hand, and hair. A warm, tanned skin tone, pronounced natural highlights. Realistic, expensive-looking skin: visible pores, peach fuzz, natural texture, and tonal transitions, without plastic retouching.\n\nThe format is 3:4. Maximize the preservation of the reference composition: low angle, face partially hidden by the hand, finger position, large scale of the figure, deep neckline of the top, and dramatic sunlight. Photorealistic, sensual luxury Instagram fashion photography, smartphone camera aesthetic, realistic skin texture, individual hair strands, glossy lips, natural anatomy, high detail, subtle grain.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
