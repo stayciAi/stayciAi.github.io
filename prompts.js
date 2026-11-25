@@ -3834,5 +3834,16 @@ const prompts = [
       "man"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "372",
+    "title": "Parisian Autumn Chic",
+    "image": "prompt-372.jpg",
+    "positive": "Create an ultra-photorealistic vertical 9:16 luxury autumn Paris fashion photograph of one adult woman posing on an elegant stone balustrade terrace with the Eiffel Tower clearly visible in the background, surrounded by classic Haussmann architecture and dense autumn trees in muted golden-brown, copper and rust tones.\n\nPreserve the composition and pose from the reference: the woman is perched elegantly on the stone balustrade in a side-profile three-quarter pose, one leg bent and raised while the other extends downward. Her torso is slightly leaning forward and she turns her head to the side, looking toward the Eiffel Tower rather than at the camera. One hand rests naturally near her ankle. Closed lips, calm sophisticated expression.\n\nShe wears a fitted, structured deep chocolate-brown blazer-style mini dress with long sleeves, a sculpted waist and a deep elegant V-neckline, paired with sheer nude tights and pointed black high-heeled pumps. She holds a structured dark burgundy leather handbag and a slim dark-covered book. Large sculptural gold earrings add a quiet-luxury Parisian accent.\n\nHer hair is arranged in an elegant voluminous messy French bun, with long soft face-framing strands naturally falling around her cheeks. Keep the natural hair color from the uploaded identity photo, without changing it. Refined soft-glam makeup, realistic skin texture.\n\nOn the stone ledge beside her sits a takeaway coffee cup and a fresh French croissant, creating an effortless Paris morning mood. Behind her, the Eiffel Tower rises prominently above a sea of rich autumn foliage, with an elegant cream Haussmann building beside it.\n\nCool soft overcast Paris daylight mixed with warm autumn tones, slightly moody October atmosphere, cinematic editorial color grading, realistic stone texture, detailed fabrics and hair, subtle depth of field while keeping the Eiffel Tower recognizable, sophisticated Parisian quiet-luxury aesthetic, candid high-fashion photography, natural proportions, strict vertical 9:16 composition, photorealistic, no CGI look.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
