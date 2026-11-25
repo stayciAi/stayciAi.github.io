@@ -3900,5 +3900,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "378",
+    "title": "Sophisticated Night Shade",
+    "image": "prompt-378.jpg",
+    "positive": "Ultra-realistic black-and-white cinematic studio portrait of an adult couple against a seamless deep black background.\n\nIf identity/reference photos are supplied, preserve the exact recognizable identity, facial features, hairstyle, hair color, skin tone and natural body proportions of each person. Do not copy the identities of the people from the composition reference.\n\nRecreate the pose and composition: the man sits in the foreground wearing an elegant black suit with a deep open neckline, head gently tilted backward. The woman stands closely behind and slightly beside him in a fitted satin slip dress with thin straps, leaning toward him. One hand softly covers his eyes while her other hand rests naturally against his torso.\n\nMaintain realistic anatomy, natural interaction and correct body proportions. Intimate sophisticated editorial mood, soft directional studio lighting, deep shadows, subtle highlights on skin and satin, rich monochrome tones, fine film grain, high contrast, luxury fashion photography, photorealistic skin texture, 85mm lens look.\n\nNEGATIVE PROMPT\n\nDo not alter either person’s identity, facial features, hairstyle, hair color or natural appearance. No face blending, swapped identities, duplicated faces or distorted facial features.\n\nNo incorrect anatomy, deformed bodies, oversized heads, unnatural shoulders, extra or missing limbs, fused arms, twisted wrists, extra fingers, missing fingers, malformed hands or duplicated hands. The woman’s hand must naturally cover the man’s eyes without deforming his face.\n\nNo exaggerated body proportions, plastic skin, excessive retouching, artificial muscles, cartoon or CGI appearance. No unwanted accessories, jewelry or clothing changes. No bright background, clutter, text, watermark, blur, low resolution or oversharpening.",
+    "negative": "",
+    "categories": [
+      "couple"
+    ],
+    "imagePosition": "center 12%"
   }
 ];
