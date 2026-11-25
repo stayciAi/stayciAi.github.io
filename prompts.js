@@ -3713,5 +3713,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "361",
+    "title": "Autumn Luxury Portrait",
+    "image": "prompt-361.jpg",
+    "positive": "\nCreate an ultra-photorealistic vertical 9:16 autumn lifestyle fashion photograph of one adult woman sitting directly on a quiet asphalt path covered with many dry golden, ochre and warm brown autumn leaves. Preserve the composition and pose from the reference: the camera looks down at her from a high overhead diagonal angle. She sits on the ground with both long legs extended diagonally to one side, knees slightly relaxed. One hand rests naturally on her thigh, while the other arm is raised and her hand lies across her forehead as if shielding her eyes from the bright autumn sun. She looks directly up toward the camera with a calm, feminine expression and closed lips.\n\nShe wears a fitted chocolate-brown tailored blazer over a crisp white collared shirt, short black bottoms mostly concealed beneath the blazer, sheer black tights and classic polished black leather loafers. Small elegant earrings and a delicate wristwatch. Beside her on the leaves is a structured black leather handbag, a takeaway coffee cup with a black lid and a small transparent pastry box, arranged naturally exactly like a spontaneous autumn picnic.\n\nHer hair is long, voluminous and softly wavy, falling naturally around her shoulders and onto the ground. Warm late-afternoon autumn sunlight creates beautiful golden highlights in the hair, strong elongated shadows across the asphalt and glowing edges around the scattered leaves. The path is surrounded by an abundant carpet of crisp fallen leaves, especially dense along the edges, creating a rich October atmosphere.\n\nEditorial street-style photography, cozy quiet-luxury aesthetic, warm caramel and chocolate color palette, natural sunlight, realistic skin texture, detailed fabric, leather and leaf textures, subtle cinematic contrast, authentic candid feeling, shallow natural depth of field, high-end fashion photography, photorealistic, strict vertical 9:16 composition.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
