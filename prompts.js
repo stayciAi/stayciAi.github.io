@@ -3878,5 +3878,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "376",
+    "title": "Tuscan Wine Estate",
+    "image": "prompt-376.jpg",
+    "positive": "Create an ultra-photorealistic vertical 9:16 luxury autumn fashion photograph of one adult woman standing inside an atmospheric old-world Tuscan-style wine cellar / vineyard estate, surrounded by warm stone arches, wooden wine barrels and glowing candlelight. Through the large open arched doorway behind her, a beautiful autumn vineyard at sunset is visible, with rows of vines and trees in golden, amber, copper and burnt-orange foliage.\n\nPreserve the pose and composition from the reference: the woman stands elegantly facing mostly forward, body straight and relaxed, while her head is gently turned to the side. She looks away from the camera with a calm, sophisticated expression and closed lips. One arm hangs naturally beside her while the other hand delicately holds a large elegant wine glass.\n\nShe wears a fitted structured dark chocolate-brown satin corset top with a softly squared neckline and visible refined corset seams, emphasizing an elegant feminine silhouette. A fitted camel-beige suede mini skirt sits high at the waist. She wears sheer dark-brown tights and knee-high cognac-brown leather boots. Draped loosely over her shoulders, without putting her arms through the sleeves, is a long luxurious warm ivory wool coat, falling almost to the floor.\n\nHer hair is styled in a sleek low elegant bun, with a clean center part and a few subtle natural strands. Keep the natural hair color from the uploaded identity photo. Refined glowing makeup, softly sculpted cheekbones, defined eyes, nude glossy lips and realistic luminous skin texture.\n\nBeside her is a rustic dark wooden table styled with deep burgundy grapes, fresh figs, autumn fruit and several tall burning candles. Additional candles glow softly inside lanterns around the stone cellar. Large wooden wine barrels disappear into the shadowy arches in the background. Warm pendant lanterns hang from the vaulted stone ceiling.\n\nCreate a strong late-autumn romantic atmosphere: outside the doorway, golden and copper leaves glow in the last rays of sunset, a few fallen leaves lie near the entrance, and warm golden light spills into the darker cellar. Rich chocolate, cognac, cream, burgundy and amber palette.\n\nCinematic warm candlelight mixed with soft sunset backlighting, luxurious Italian vineyard aesthetic, romantic quiet-luxury mood, subtle film grain, realistic skin pores, detailed satin, suede, wool and leather textures, natural shadows, atmospheric depth, premium editorial fashion photography, strict vertical 9:16 composition, photorealistic, no CGI look.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 28%"
   }
 ];
