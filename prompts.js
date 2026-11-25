@@ -3867,5 +3867,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "375",
+    "title": "Soft Focus Seduction",
+    "image": "prompt-375.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, skin tone, and age. Do not change the identity. The color, length, thickness, and structure of the hair should be strictly preserved as in the uploaded photo of the appearance.\n\nA photorealistic sensual bedroom selfie of a young adult girl, maximally accurately repeating the reference in terms of pose, angle, framing, clothing, hair arrangement, and lighting.\n\nThe girl is half-lying on the bed, resting her head and left shoulder on a large white pillow. The camera is very close and slightly above, the frame is shot at a pronounced diagonal angle. The frame includes the face, hair, shoulders, collarbones, décolletage, and the upper part of the chest. The head is slightly tilted towards the pillow. The gaze is directed slightly upwards and to the side, not directly into the lens, the expression is calm and seductive, the lips are relaxed and slightly ajar.\n\nThe girl is wearing a bright red lace bra with thin red straps, delicate semi-transparent lace texture, and a neat ruffled edge. The large breast is approximately size 4, lush and rounded, with natural anatomy and realistic lingerie fit.\n\nOn the forehead, temples, cheeks, chin, neck, collarbones, shoulders, and décolletage, there are many small decorative hearts of saturated red, burgundy, and soft pink colors. The hearts are of different sizes, some are matte, some are slightly shiny; they are arranged chaotically and naturally, exactly in the aesthetic of the reference, without covering the eyes, nose, and lips.\n\nThe hair is freely undone, lying on the white pillow and passing over the shoulders and chest. Individual thin strands naturally intersect the décolletage area. In the background, there is a high dark graphite soft headboard of the bed with wide vertical sections, around which are snow-white pillows and bedding.\n\nThe makeup is expressive soft glam: long thick separated eyelashes, extended black arrows, neatly shaped thick eyebrows, soft contouring, light blush, delicate highlighter, and voluminous glossy nude-pink lips.\n\nSoft natural light with a slight effect of frontal phone flash, clean highlights on the skin and lips, soft shadows near the hair and under the chin. Realistic expensive skin: visible pores, peach fuzz, natural texture, natural tonal transitions, without excessive smoothing and plastic retouching.\n\nFormat 9:16. Maximally accurately preserve the diagonal composition of the reference, the position of the head on the pillow, the direction of the gaze, the size of the face and décolletage, the red lace lingerie, the arrangement of the hearts, the white bedding, and the dark vertical headboard of the bed. Photorealistic intimate Instagram selfie, smartphone camera aesthetic, realistic skin texture, individual hair strands, subtle grain, high detail.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
