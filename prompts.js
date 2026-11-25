@@ -3845,5 +3845,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "373",
+    "title": "Stormy Aviation Muse",
+    "image": "prompt-373.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, skin tone, and age. Do not change the identity. The color, length, thickness, and structure of the hair should be strictly preserved as in the uploaded appearance photo.\n\nA photorealistic atmospheric cinematic travel fashion photograph of a young adult girl against the background of an abandoned, broken airplane, maximally repeating the reference in composition, pose, angle, clothing, and dramatic atmosphere.\n\nThe girl stands on black volcanic soil in front of a huge, ruined, silver-gray fuselage of an old airplane. Behind her, the torn metal edges, empty rectangular windows, holes, and signs of time on the hull are clearly visible. To the left lies a separate large part of the destroyed body and wing. In the distance, there is a deserted, dark volcanic landscape and low mountains.\n\nThe pose is exactly in the aesthetic of the reference: the girl stands with her body slightly turned, her legs slightly spread, and both hands in the pockets of her pants. Her shoulders are thrown back, her chest and body slightly pushed forward. Her head is strongly thrown back and slightly turned to the side, her chin raised, her eyes closed, and her facial expression calm and confident.\n\nThe girl wears a fitted, one-color, olive-khaki bodysuit with long sleeves, emphasizing her figure, and loose camouflage cargo pants with large side pockets. A bulky camouflage jacket is carelessly slung over her shoulders - it is open and hangs from her shoulders and forearms. The figure is feminine: a thin waist, pronounced hips, a large breast of about size 4, natural proportions, and realistic anatomy.\n\nHer hair is freely brushed back from her face and slightly blown by the cold wind; its original color and length should be taken exclusively from the appearance photo. Minimalistic ring earrings.\n\nAbove the scene, there is a heavy, gray-graphite stormy sky, dense low clouds, and a cold, misty distance. Soft, diffused daytime light without sun, muted, cold color correction with olive and gray hues. The metal of the airplane is matte, worn, scratched, and corroded; the black soil is wet and textured.\n\nVertical format 9:16, the frame is approximately from the middle of the hips to the space above the airplane. The camera is located slightly below the level of the chest, moderately wide-angle perspective, so that the airplane looks massive and dramatic. The girl remains the main sharp object, the ruined fuselage occupies most of the background. Photorealistic cinematic editorial photography, abandoned aircraft wreck, Icelandic volcanic landscape aesthetic, stormy atmosphere, realistic skin texture, detailed fabric and weathered metal, subtle film grain, high detail.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
