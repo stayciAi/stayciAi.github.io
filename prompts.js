@@ -3724,5 +3724,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "362",
+    "title": "Girl and horse",
+    "image": "prompt-362.jpg",
+    "positive": "Create an ultra-photorealistic vertical 9:16 autumn countryside fashion photograph of one adult woman posing beside a beautiful white Appaloosa horse with natural brown spots at a rustic wooden paddock fence. Preserve the composition and cozy autumn mood of the reference: the woman stands on the left side of the horse, leaning casually against the horizontal wooden fence, while the horse stands immediately beside her on the other side, its head close to her shoulder. She gently turns her head toward the horse and looks at it with a soft, calm expression and closed lips.\n\nShe wears an oversized chunky-knit dark chocolate-brown sweater with long relaxed sleeves, fitted cream ribbed cycling shorts, and a brown-and-cream plaid shirt casually tied around her waist. Cream knitted leg warmers and dark chocolate-brown knee-high rubber riding boots complete the cozy equestrian autumn outfit. Natural feminine proportions, elegant long legs.\n\nHer hair is styled in a relaxed high messy bun, with several soft loose strands framing her face and moving slightly in the cool autumn breeze. Natural polished makeup, softly defined eyes, warm nude lips, realistic skin texture.\n\nThe horse is large and elegant, predominantly creamy white with scattered natural brown spots across its face, neck and body, a long pale mane and attentive upright ears. A simple ceramic mug rests naturally on the top rail of the wooden fence beside the horse.\n\nIn the background is a peaceful countryside horse ranch with wooden paddocks, rustic dark stables and a few horses grazing farther away. Behind the ranch rises a large wooded hillside completely covered in dense autumn foliage in muted gold, ochre, olive green, caramel and warm brown tones. Add a few scattered fallen leaves around the paddock for a stronger October feeling.\n\nSoft overcast autumn daylight, slightly cool fresh air, muted earthy color grading, cozy countryside atmosphere, quiet-luxury equestrian aesthetic, highly detailed knitted fabric, wood grain, horse coat and mane, realistic hair strands and skin, natural shadows, subtle depth of field, premium editorial lifestyle photography, authentic candid feeling, strict vertical 9:16 composition, full-body framing, photorealistic, no artificial CGI look.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
