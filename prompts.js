@@ -3735,5 +3735,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "363",
+    "title": "Autumn Luxury Editorial",
+    "image": "prompt-363.jpg",
+    "positive": "\nCreate an ultra-photorealistic vertical 9:16 luxury autumn street-style fashion photograph of one adult woman standing on an elegant European-style city sidewalk in front of a sophisticated stone townhouse with tall dark doors, black wrought-iron railings and warm autumn vegetation. Preserve the composition and pose from the reference: she stands confidently facing the camera, body slightly turned, looking directly into the lens with a calm, seductive expression and closed lips. One hand hangs naturally beside her holding a structured handbag, while the other hand is raised delicately to the brim of her hat.\n\nShe wears a long oversized warm ivory-beige wool coat, open in the front, with broad structured lapels and relaxed sleeves. Underneath is a fitted dark chocolate-brown bandeau crop top and matching high-waisted fitted leggings, creating a sophisticated monochromatic contrast with the light coat. On her head is a wide-brimmed structured cream felt fedora hat. She carries a small structured dark chocolate-brown leather handbag with subtle gold hardware and a delicate gold chain. Minimal elegant gold necklace.\n\nHer hair is very long, thick and naturally flowing, worn loose and straight with subtle soft movement, falling well below the chest. Keep the woman’s natural hair color from the uploaded identity/reference photo — do not change her original hair color. Refined natural-glam makeup, softly sculpted eyes, defined lashes, nude lips, realistic skin texture.\n\nThe street has a rich but elegant autumn atmosphere: plenty of scattered golden, caramel and rusty-brown fallen leaves along the pavement, autumn branches and shrubs around the townhouse entrance, with warm amber foliage softly visible in the background. No summer greenery dominating the scene.\n\nSoft golden late-afternoon autumn light, subtle warm glow on the face and coat, cinematic shadows, rich chocolate, cream, caramel and amber palette, quiet-luxury aesthetic, editorial fashion photography, realistic wool and leather textures, individual hair strands, natural skin pores, shallow depth of field, sophisticated Instagram fashion editorial, full-body/three-quarter composition, strict vertical 9:16, photorealistic, no CGI look.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
