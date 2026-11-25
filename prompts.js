@@ -3911,5 +3911,16 @@ const prompts = [
       "couple"
     ],
     "imagePosition": "center 12%"
+  },
+  {
+    "id": "379",
+    "title": "Autumn Leaf Whispers",
+    "image": "prompt-379.jpg",
+    "positive": "Use the uploaded photo as the only source of the woman's appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, age, skin tone, and real hair color from the original photo. Do not alter the appearance and do not replace the face with another character.\n\nUltra-realistic vertical 9:16 romantic autumn lifestyle photograph. A young adult woman stands on a quiet road in an autumn park, surrounded by tall trees with dense golden-copper, burgundy, and orange foliage. The ground and roadside are completely covered with a large number of dry fallen leaves. Warm sunlight passes through the tree crowns, creating beautiful golden highlights and soft autumnal glow.\n\nThe frame is approximately from the middle of the hips to the head, the camera is slightly sideways. The woman stands in profile, her head turned to the side. With one hand, she brings a small brown paper coffee cup with a white lid to her lips and takes a sip. The second hand is relaxed and lowered next to a large woven basket.\n\nShe wears a short, voluminous, chocolate-burgundy leather oversize jacket with wide sleeves. Under the jacket, she has a fitted warm brown top. Below, she wears a short, chocolate-brown, pleated leather mini-skirt with a high waist. A long, milk-cream colored silk ribbon hangs freely from the front of her waist, creating a contrast with the dark leather.\n\nHer hair is very long, thick, and voluminous, with a color that strictly matches the original photo. It is styled in large, soft, natural waves and falls freely almost to her hips. The upper part of her hair is gathered back into a romantic half-tail and adorned with a very large, milk-white satin bow with long ribbons, well-visible from the side.\n\nNext to the woman is a large, vintage, woven basket, filled to the brim with beautiful autumn maple leaves in golden, copper, amber, orange, and burgundy hues. A few leaves seem to have just fallen around her, creating a light dynamic effect.\n\nThe background is a cozy, winding park road, disappearing into the distance between the trees, with a soft bokeh and shining autumn foliage. Golden-hour autumn sunlight, dreamy warm backlight, subtle lens flare, glowing hair edges, cozy romantic fall aesthetic, Pinterest autumn photography, cinematic candid moment, realistic leather texture, realistic woven basket, highly detailed autumn leaves, natural skin texture, soft film grain, warm golden color grading, photorealistic, ultra-detailed, natural proportions, 9:16 vertical composition, no CGI, no plastic skin, no excessive retouching.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 43%"
   }
 ];
