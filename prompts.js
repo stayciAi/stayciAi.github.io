@@ -3757,5 +3757,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "365",
+    "title": "Mountain Solitude Chic",
+    "image": "prompt-365.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, skin tone, and age. Do not change the identity. Preserve the color, length, thickness, and structure of the hair exactly as in the uploaded appearance photo.\n\nA photorealistic atmospheric outdoor fashion photograph of a young adult girl, maximally repeating the reference in pose, composition, angle, clothing, and surroundings. The girl sits sideways on a large uneven mountain stone high in the mountains. One leg is bent and raised higher, the second is lowered along the rock; the torso is slightly tilted forward. The hands are relaxed and placed between the legs. The head is turned in profile, the girl calmly looks into the distance.\n\nShe wears a fully black sporty outfit: a bulky black hoodie with a hood, the hood is worn over the head over a black baseball cap, tight black leggings, and massive white sports sneakers. No glasses or sunglasses - the face is fully open and well distinguishable. The hair naturally comes out from under the hood and freely falls along the face and chest.\n\nAround is a harsh high-mountain landscape: large textured gray rocks, distant barely visible mountain peaks, partially hidden by thick white-gray fog and low clouds. The enormous overcast sky occupies most of the upper half of the frame, creating a sense of height, freedom, and solitude.\n\nSoft diffused natural light of an overcast day, cold muted color correction, realistic wet texture of rocks, a light wind slightly moves individual strands of hair. Natural skin with visible texture, without plastic retouching.\n\nVertical format 9:16, full height. The girl is located closer to the right part of the composition, with a lot of free space and sky around. Maximize the preservation of the reference perspective and scale. Photorealistic cinematic mountain photography, moody cloudy atmosphere, natural diffused light, realistic skin and fabric texture, subtle film grain, high detail.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
