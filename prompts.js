@@ -3999,5 +3999,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "387",
+    "title": "Neon Nightlife Dreams",
+    "image": "prompt-387.jpg",
+    "positive": "Use the uploaded photos of the two girls as the only sources of their appearance. For each one separately, strictly preserve the real facial features, head shape, oval, eyes and their color, eyebrows, nose, lips, cheekbones, chin, skin tone, age, body type, original hair color, length and structure, as well as all individual details - tattoos, piercings, moles, and other features, if any. Do not mix the girls' appearance with each other, do not idealize and do not change faces.\n\nCreate an ultra-realistic vertical 9:16 photo of two adult girls in a nightclub, maximally accurately repeating the composition and poses of the reference. They stand close to each other and have fun posing in front of the camera. Flash photography, dark club interior, saturated red neon lighting in the background, a feeling of a live random shot from a party.\n\nThe girl on the left stands slightly forward, her body slightly turned, looking straight at the camera with a playful expression on her face. She is wearing a short fitted mini-dress with long black sleeves and a bright blue base under a black lace floral pattern. She sharply stretches one hand straight to the lens and shows a large V/peace sign with her fingers. The wrist and two spread fingers are very close to the camera and therefore look significantly larger than the face - preserve this perspective.\n\nThe girl on the right is leaning against her friend with her shoulder and body, slightly turning sideways to the camera, tilting her head back and smiling widely. She is wearing the same short fitted black and blue lace mini-dress with long sleeves. She also stretches one hand straight forward to the lens and shows a V sign with two fingers; the wrist occupies a large part of the foreground.\n\nIt is critically important: each girl has exactly two hands, five fingers on each wrist; on each outstretched hand, a clear natural V sign is made with the index and middle fingers, the other fingers are bent. Do not merge the girls' hands and do not create additional fingers or limbs.\n\nThe frame is approximately up to the middle of the hips. The girls are in sharp focus, the outstretched hands to the lens are slightly emphasized by the wide-angle perspective. A bright frontal flash illuminates the skin and faces, behind are deep shadows, red neon strips, and blurred details of the nightclub. Natural skin texture, realistic hair and fabric, a slight effect of a real club photo. Maximally accurately repeat the arrangement of the girls, body inclines, facial expressions, two V signs in front of the lens, clothing, angle, lighting, and atmosphere of the reference.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 37%"
   }
 ];
