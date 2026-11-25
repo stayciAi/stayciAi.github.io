@@ -3548,5 +3548,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "346",
+    "title": "Vintage Velvet Muse",
+    "image": "prompt-346.jpg",
+    "positive": "\n\n## POSITIVE PROMPT\n\nUltra-realistic vertical 5:6 cinematic vintage fashion portrait of an adult woman, approximately 23–27 years old, photographed indoors in a dark elegant classical interior.\n\nIf an identity photo is supplied, preserve only her exact recognizable identity, facial features, eye color, hair color, skin tone and natural appearance.\n\nRecreate the pose, expression, outfit and composition: she leans forward over an ornate stone pedestal, one hand resting on its edge while the other holds the receiver of an antique rotary telephone to her ear. The coiled cord hangs visibly toward the phone base. Her mouth is slightly open as if speaking, expression curious and dramatic, gaze directed slightly upward.\n\nShe wears a fitted black sleeveless mini dress with a deep V-neckline and subtle side ruching. Hair is worn loose with soft natural volume and movement.\n\nBackground: sophisticated vintage architecture with carved decorative wall panels, warm dark tones and antique detailing. Moody low-key natural light from the side, deep shadows, subtle warm highlights, cinematic grain, realistic skin and fabric texture, detailed antique metal telephone, 8K photorealistic editorial quality.\n\n## NEGATIVE PROMPT\n\ndifferent identity, altered face, wrong pose, standing upright, missing telephone, modern phone, cellphone, distorted receiver, broken cord, wrong outfit, long dress, bright colorful background, extra arms, extra fingers, fused fingers, malformed hands, distorted pedestal, plastic skin, excessive smoothing, CGI, anime, cartoon, blurry, low resolution, watermark, text, logo, AI artifacts.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
