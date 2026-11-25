@@ -3702,5 +3702,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "360",
+    "title": "Midnight Leather Seduction",
+    "image": "prompt-360.jpg",
+    "positive": "Use the uploaded photo of the girl as the only source of appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, skin tone, and age. Do not change the identity. The color, length, thickness, and structure of the hair should be strictly preserved as in the uploaded appearance photo.\n\nA photorealistic luxury nightlife fashion photograph of a young adult girl sitting on the back seat of an expensive car at night. The girl is relaxed, leaning back in a large white leather seat, her body slightly turned towards the camera, her legs diagonally positioned at the bottom of the frame. Her head is slightly lowered, her gaze directed downwards, her facial expression calm, confident, and seductive. Both hands are neatly placed on her waist and the top of her skirt.\n\nThe girl is wearing a fitted black turtleneck with long sleeves and a high black mini-skirt. On her hips, the upper edges of black lace stockings with wide lace bands are visible, as in the reference. Her large bust is naturally accentuated by the fitted fabric of the turtleneck. Her manicure is long, neat, and of a rich red shade. On her finger, there is an impressive ring with a large stone, and around her neck, a thin chain with a small shining pendant.\n\nHer hair is long, perfectly smooth and straight, with a central parting, freely falling over her shoulders and chest; the hair color is strictly as in the appearance photo, do not copy the hair color of the girl from the reference composition.\n\nExpressive evening glam makeup: thick eyelashes, a clear black arrow, smoky eyes in brown-graphite shades, neatly shaped eyebrows, soft contouring, warm bronzer, smooth shiny skin, and nude-pink glossy lips.\n\nThe car's interior is luxurious: white perforated leather, light door panel, black glossy details, and a thin red-orange ambient backlight along the door. Outside the window, there is a nighttime city with softly blurred lights and buildings.\n\nThe photo is taken with a smartphone flash, brightly and clearly illuminating the girl against the background of a darker night interior. Realistic highlights on the skin and hair, a light aesthetic of an expensive Instagram photo.\n\nThe format is 9:16, the frame is approximately from the head to the middle of the hips, slightly high camera angle, smartphone flash photography, sharp focus on the woman, realistic skin texture, visible pores, natural body proportions, high detail, ultra-photorealistic, luxury night car aesthetic.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
