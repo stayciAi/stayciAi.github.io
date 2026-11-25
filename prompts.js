@@ -3933,5 +3933,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "381",
+    "title": "Autumn Gray Elegance",
+    "image": "prompt-381.jpg",
+    "positive": "Use the uploaded photo as the only source of the woman's appearance. Strictly preserve the real facial features, head shape, eyes, eyebrows, nose, lips, face oval, natural asymmetry, age, skin tone, and real hair color from the original photo. Do not change the appearance and do not replace the face with another character.\n\nUltra-realistic vertical 9:16 elegant autumn park fashion photograph. A young adult woman sits on a dark wooden bench in a large autumn park. Around her are high old trees with dark trunks, the ground is literally covered with a huge number of yellow, golden, and brown fallen leaves. To the right, a narrow asphalt park path passes. The sky is gray, overcast, with a cool late autumn atmosphere.\n\nThe pose accurately repeats the reference: the woman sits relaxed, slightly leaning back on the back of the bench, her legs elegantly crossed one over the other. One hand is raised towards her hair - with her fingers, she slightly holds a long strand, and in the other hand, she holds a paper coffee cup with a lid. Her head is slightly tilted to the side, her gaze is directed at the camera, her expression is calm and confident.\n\nShe wears a long elegant coat of a warm gray-beige taupe shade, unbuttoned in front. The main accent is a very long, voluminous, and fluffy dark chocolate scarf, freely lying around her neck and descending almost to her knees. Under the coat, she has a dark minimalist top and short bottom, revealing her legs.\n\nOn her feet are high gray-brown boots up to the knee with an expressive texture resembling crocodile skin, a narrow elongated toe, and a thin heel. Next to her on the bench stands a large soft brown suede bag with short handles.\n\nHer hair is loose, its color, length, and structure strictly correspond to the original photo, naturally falling on her shoulders and back. On her face are large elongated dark cat-eye sunglasses. Minimalist earrings and rings.\n\nThe composition is slightly wide-angle, the camera is located slightly below the face level, so that the frame includes the woman, the bench, the boots, and the deep perspective of the autumn park. Many fallen leaves are on the ground and around the bench, several leaves lie directly on the path.\n\nSoft diffused light of an overcast day, deep chocolate, taupe, gray, and golden-yellow shades. Quiet luxury autumn aesthetic, chic European fall style, Pinterest fashion photography, cinematic late-autumn mood, realistic fallen leaves, realistic wool and suede textures, natural skin texture, subtle film grain, slightly moody color grading, photorealistic, ultra-detailed, natural body proportions, 9:16 vertical composition, no CGI, no plastic skin, no excessive retouching.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
