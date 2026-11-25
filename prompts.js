@@ -3966,5 +3966,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "384",
+    "title": "Cozy Parisian Mornings",
+    "image": "prompt-384.jpg",
+    "positive": "Use the uploaded photos of the two girls as the only sources of their appearance. For each girl, strictly preserve the real facial features, head shape, face oval, eyes and their color, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, body type, original hair color, length, and structure. Preserve tattoos, piercings, moles, and other individual features if they exist. Do not mix the girls' appearances with each other, do not change or idealize the faces.\n\nCreate an ultra-realistic vertical photo 9:16, maximally accurately repeating the composition, poses, clothing, and atmosphere of the reference. Two adult girls sit next to each other at a small round table on the open terrace of a cozy Parisian café.\n\nThe girl on the left: sits relaxed, her body slightly tilted to the side. She wears a bulky cream-beige knitted sweater with a large geometric pattern and a white wide headband. Her hair is loose with natural soft waves. With her right hand, she holds a small white coffee cup directly to her lips, as if taking a sip. Her eyes playfully look towards the girl on the right.\n\nThe girl on the right: sits closely next to her, wearing a white long-sleeved turtleneck and a loose black leather jacket. Her hair is loose with long soft waves. She also brings a small white cup to her lips and, without turning her head fully, looks expressively at her friend with her eyes. The girls seem to be drinking coffee and exchanging glances at the same time.\n\nOn the table in front of them, there are several white plates, tea spoons, a cup with tea or coffee, a folded light napkin, and a large golden French croissant on a white plate. Preserve the natural arrangement of objects as in the reference.\n\nBehind the girls, there is a large glass window of the café with reflections of the street, old European buildings, trees, and passersby; above, a light street umbrella and warm round lamps of the café are reflected. The atmosphere is that of a cozy Parisian morning.\n\nSoft natural daylight, slightly cool autumn color correction, natural skin texture, realistic hair, fabric, leather jacket, porcelain, and pastry. The photo should look like a real spontaneous snapshot of two friends having coffee, without any studio staging. Maximally accurately repeat the seating of the girls, the position of the cups at their lips, the direction of their gazes at each other, clothing, table, croissant, angle, and background of the reference.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 38%"
   }
 ];
