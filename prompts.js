@@ -3592,5 +3592,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "350",
+    "title": "Velvet Rose Noir",
+    "image": "prompt-350.jpg",
+    "positive": "\n\nUltra-realistic vertical flash portrait of an adult woman posing indoors at night. Preserve the exact facial identity, facial features, eye color, hair color and hair length from the supplied reference photo; do not change her recognizable appearance.\n\nShe stands in front of sheer white curtains, body turned slightly sideways, head turned to the side with her gaze directed away from the camera. Elegant confident expression. Long hair falls naturally over her shoulders and down her back.\n\nShe wears a very fitted black long-sleeve high-neck bodysuit, minimalist and sleek, with a high-cut leg line emphasizing a feminine hourglass silhouette, narrow delicate shoulders, pronounced bust, slim waist and natural curvy hips.\n\nShe holds a luxurious bouquet of large deep-red roses directly in front of her body, with several roses dominating the foreground. One hand delicately holds the stem of a single rose; long manicured nails and a delicate silver ring.\n\nGlamorous evening makeup: sharply defined brows, dramatic elongated black winged eyeliner, long lashes, softly sculpted cheekbones, luminous skin and bold matte deep-red lipstick.\n\nDirect on-camera flash photography, strong crisp illumination on the woman and roses, slightly darker background, subtle flash shadows against the curtains, realistic skin highlights, authentic casual Instagram-photo aesthetic. Detailed natural skin texture, realistic hair strands, fabric texture and highly detailed rose petals and leaves, photorealistic, no CGI, no illustration. Vertical 4:5 composition.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
