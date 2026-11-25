@@ -3779,5 +3779,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 50%"
+  },
+  {
+    "id": "367",
+    "title": "City Lights Seduction",
+    "image": "prompt-367.jpg",
+    "positive": "Use the two uploaded photos of the girls as the only sources of their appearance. For each one separately, strictly preserve the real facial features, head shape, oval, eyes, eye color, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, and original hair color. Do not mix their appearance, do not idealize, and do not replace faces. Do not add tattoos.\n\nCreate an ultra-realistic vertical lifestyle fashion photograph 9:16, maximally accurately repeating the reference: two adult girls on a large white bed in an expensive hotel room on a high floor.\n\nThe girl on the left is sitting closer to the camera. One leg is bent on the bed, the second is stretched diagonally to the bottom edge of the frame. One palm rests on the mattress, the second hand is raised above the head and touches the hair. The head is turned to the side, the gaze is beyond the frame. She is wearing a short tight black mini-dress on thin straps with a deep rounded neckline, barefoot. The hair is gathered in a careless bun.\n\nThe girl on the right is slightly behind: standing on the bed on her knees, leaning forward and resting both palms on the mattress, her back naturally arched. The head is slightly turned over the shoulder towards the camera. She is wearing narrow black sunglasses and a short tight black dress on thin straps with a long thick fringe along the bottom. The hair is gathered in a high careless ponytail/bun, the legs are barefoot.\n\nIn the background, there are huge panoramic windows, light gray curtains, and a beautiful view from a height of the city, river, and bridge in soft evening light. The white bedding is slightly rumpled.\n\nThe shot looks like a real spontaneous Instagram photo, not a studio shot: soft light from the windows + a slight direct flash of the camera, natural skin and proportions, realistic fabric, hair, and bed folds, slight digital grain. Exactly preserve the arrangement of the girls, poses, and perspective of the reference.\n\nUltra-realistic candid hotel-room photo, two adult women on a white bed, black mini dresses, first woman seated with one hand raised to her hair, second woman kneeling behind her with both hands on the mattress, black fringed dress and narrow sunglasses, panoramic city and river view at dusk, subtle direct flash, authentic Instagram aesthetic, realistic anatomy and skin texture, vertical 9:16, no tattoos, no text, no watermark.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
