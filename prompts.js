@@ -3977,5 +3977,16 @@ const prompts = [
       "woman"
     ],
     "imagePosition": "center 38%"
+  },
+  {
+    "id": "385",
+    "title": "Softly Blushing Brides",
+    "image": "prompt-385.jpg",
+    "positive": "Use the uploaded photos of the two girls as the only sources of their appearance. For each girl separately, strictly preserve the real facial features, head shape, face oval, eyes and their color, eyebrows, nose, lips, cheekbones, chin, natural asymmetry, age, skin tone, body type, original hair color, length, and structure. Preserve all individual characteristics, including tattoos, piercings, moles, and other recognizable details, if present. Do not mix the girls' appearance with each other, do not change or idealize the faces. There are no glasses on the girls - eyes and eyebrows are fully open and clearly visible.\n\nCreate an ultra-realistic vertical photo 9:16, maximally accurately repeating the composition, poses, and atmosphere of the reference. Two adult girls sit very close to each other on an outdoor terrace and take a joint selfie. Both look directly at the camera and simultaneously pucker their lips for an air kiss, exactly as in the reference.\n\nThe girl on the left: is slightly closer to the camera, takes a selfie with one hand, and holds a small light paper coffee cup with a black lid in front of her with the other. She wears a bulky suede jacket of a warm light brown shade, and a long beige knit cuff is visible from the sleeve.\n\nThe girl on the right: sits closely to the first, slightly tilting her head towards her. She holds an identical light paper cup with a black lid directly in front of her chest with one hand. She wears a bulky dark brown jacket, under which a long free light gray-beige knit sleeve is visible.\n\nIn the background, there is a cozy open terrace: a dark brown soft sofa, a light brick fence, green trees, and a large old house with high windows. Clear daytime light, soft natural shadows, warm autumn atmosphere.\n\nA close-up selfie frame approximately to the waist, a slight wide-angle perspective of a smartphone. Natural skin with a lively texture, realistic hair, hands, and fingers, natural proportions. Maximally accurately repeat the mutual arrangement of the girls, the position of the cups, clothing, lip expression, angle, background, and lighting of the reference. The only change relative to the reference is to completely remove the sunglasses from both girls.",
+    "negative": "",
+    "categories": [
+      "woman"
+    ],
+    "imagePosition": "center 50%"
   }
 ];
